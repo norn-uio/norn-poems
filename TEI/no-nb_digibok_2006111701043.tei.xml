@@ -1,0 +1,936 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Noreg: nationale digte</title>
+        <author>Sivle, Per</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">9</measure>
+        <measure unit="lines">840</measure>
+        <measure unit="tokens">2803</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2006111701043">
+          <author>Sivle, Per</author>
+          <title>Noreg: nationale digte</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1894</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2006111701043"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p2470">
+        <head>Noreg</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og Noreg vart funne,</l>
+          <l n="v2">og Noreg vart bygt.</l>
+          <l n="v3">Og Noreg vart samla,</l>
+          <l n="v4">og Noreg vart tryggt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Og Noreg vart svike</l>
+          <l n="v6">og Noreg vart strypt.</l>
+          <l n="v7">Og Noreg vart rive,</l>
+          <l n="v8">og Noreg vart klyppt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og Noreg tok Spenne-Ták,</l>
+          <l n="v10">kom seg paa Fot.</l>
+          <l n="v11">Og Noreg det auka</l>
+          <l n="v12">i Evle og Mot.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Dei flidde det Krykkja,</l>
+          <l n="v14">dei flidde det Stav.</l>
+          <l n="v15">Men Noreg, det vil inkje</l>
+          <l n="v16">vita derav.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Paa sjølveigen Grunn</l>
+          <l n="v18">og med Fana si rein</l>
+          <l n="v19">det fritt orkar standa</l>
+          <l n="v20">paa sjølveigne Bein.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Og slik skal det standa,</l>
+          <l n="v22">som dugande Kar</l>
+          <l n="v23">‒ sosannt inkje Normenn</l>
+          <l n="v24">“slær Krok” fyr sin Far.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Um Noreg paany</l>
+          <l n="v26">vert basta i Band,</l>
+          <l n="v27">so fell det fyr svikefull</l>
+          <l n="v28">Normanna-Hand.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Men stuper det atter</l>
+          <l n="v30">vaart Noreg, fyr svik,</l>
+          <l n="v31">lyt Svikaren trø</l>
+          <l n="v32">yver Normanna-Lik.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Gjev Handi di, Bror min,</l>
+          <l n="v34">‒ me lovar og kved:</l>
+          <l n="v35">Skal Noreg gaa under,</l>
+          <l n="v36">so vil me gaa med!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2471">
+        <head>Fenrir</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Natten har sænket sig</l>
+          <l n="v2">sort som en Grav.</l>
+          <l n="v3">Høststormen pisker</l>
+          <l n="v4">Skum over Hav,</l>
+          <l n="v5">knækker Master</l>
+          <l n="v6">og splintrer Rær.</l>
+          <l n="v7">Da tuter en Ulv</l>
+          <l n="v8">paa det yderste Skjær.</l>
+          <l n="v9">‒ Det er Fenrir, som hyler</l>
+          <l n="v10">mod Ragnarok.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v11">Det er Fenrir, som hyler</l>
+          <l n="v12">mod Gude-Død,</l>
+          <l n="v13">mod Gude-Blod</l>
+          <l n="v14">og mod Gude-Kjød.</l>
+          <l n="v15">Han mindes nok Smagen</l>
+          <l n="v16">alt fra den Stunden,</l>
+          <l n="v17">han med den usynlige</l>
+          <l n="v18">Lænke blev bunden,</l>
+          <l n="v19">‒ Lænken, som brister</l>
+          <l n="v20">ved Ragnarok.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v21">Og Senerne røynes</l>
+          <l n="v22">i faafengd Harm,</l>
+          <l n="v23">mens Sulten sliter</l>
+          <l n="v24">hans tomme Tarm.</l>
+          <l n="v25">‒ Men ryker der op</l>
+          <l n="v26">et Dommedags-Vær,</l>
+          <l n="v27">saa tror han, at nu</l>
+          <l n="v28">er Løsningen nær.</l>
+          <l n="v29">‒ Da er det, han hyler</l>
+          <l n="v30">mod Ragnarok.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v31">Vogt jer, Odin</l>
+          <l n="v32">Og Freya og Thor!</l>
+          <l n="v33">I er ei saa vældige,</l>
+          <l n="v34">I, som I tror!</l>
+          <l n="v35">Vogt jer, naar engang</l>
+          <l n="v36">Helvedes-Hanen</l>
+          <l n="v37">galer til Kamp</l>
+          <l n="v38">under Helvedes-Fanen,</l>
+          <l n="v39">naar engang det lider</l>
+          <l n="v40">til Ragnarok!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v41">Naar Fenrir sliter</l>
+          <l n="v42">Tusendaars Band,</l>
+          <l n="v43">naar Midgarsormen</l>
+          <l n="v44">vælter iland,</l>
+          <l n="v45">naar Naglfar løsner,</l>
+          <l n="v46">og Rimthursers Trop</l>
+          <l n="v47">møder med Surt</l>
+          <l n="v48">og hans Flamme-Haær op,</l>
+          <l n="v49">‒ vogt jer, for da</l>
+          <l n="v50">er det Ragnarok!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v51">Og Fenrisulven</l>
+          <l n="v52">paa Skjærets Knat</l>
+          <l n="v53">stirrer ud</l>
+          <l n="v54">i den sorte Nat.</l>
+          <l n="v55">Og Vinden hujer,</l>
+          <l n="v56">og Havet spyler,</l>
+          <l n="v57">Og Fenrisulven</l>
+          <l n="v58">med Fraad-Gab hyler:</l>
+          <l n="v59">“Lider det ei snart</l>
+          <l n="v60">til Ragnarok!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2472">
+        <head>Harald Haarfagre</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Dei segjer der vest</l>
+          <l n="v2">paa Karmsund-Leid,</l>
+          <l n="v3">der Haarfagre søv i sin Haug</l>
+          <l n="v4">at bryt seg i Storm</l>
+          <l n="v5">Have mot Land</l>
+          <l n="v6">med Dunder og ylande Draug,</l>
+          <l n="v7">daa vaknar Gamlingen,</l>
+          <l n="v8">røyser seg upp</l>
+          <l n="v9">og skodar kringum seg vidt;</l>
+          <l n="v10">og Auga logar</l>
+          <l n="v11">lik kvasse Eld,</l>
+          <l n="v12">som der han stend</l>
+          <l n="v13">i den myrke Kveld</l>
+          <l n="v14">og ser yver Lande sitt.</l>
+          <l n="v15">Og daa det er,</l>
+          <l n="v16">at møtest der tvo,</l>
+          <l n="v17">so spør den eine</l>
+          <l n="v18">den andre som so:</l>
+          <l n="v19">»Heve du set han Harald blunka?”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v20">Naar Baara velt seg</l>
+          <l n="v21">fraa framand Straand</l>
+          <l n="v22">med Tore-Dyn</l>
+          <l n="v23">imot Noregs Raand</l>
+          <l n="v24">og brøyter Skum-Veg</l>
+          <l n="v25">til Sund og Vik</l>
+          <l n="v26">og strøyr yver Strænder</l>
+          <l n="v27">Vrak og Lik,</l>
+          <l n="v28">‒ daa stig han,</l>
+          <l n="v29">Normanna-Storegut,</l>
+          <l n="v30">i Brynje-Bunad</l>
+          <l n="v31">or Haagen ut</l>
+          <l n="v32">og skodar yver</l>
+          <l n="v33">si Heimsens Bygd,</l>
+          <l n="v34">um Kollarne stend</l>
+          <l n="v35">med si gamla Trygd,</l>
+          <l n="v36">og ser seg ikring,</l>
+          <l n="v37">um det inkje er so,</l>
+          <l n="v38">at enno ligg Noreg</l>
+          <l n="v39">frit yver Sjo,</l>
+          <l n="v40">og røyner etter,</l>
+          <l n="v41">um Landsens Menn</l>
+          <l n="v42">stend burtmed Varde</l>
+          <l n="v43">paa Vakthald enn;</l>
+          <l n="v44">‒ daa er det, dei ser han Harald blunka.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v45">Men kjem der ei Tid</l>
+          <l n="v46">daa Noregs Folk</l>
+          <l n="v47">kysser paa Hand</l>
+          <l n="v48">og takkar for Svolk,</l>
+          <l n="v49">og gløymer det,</l>
+          <l n="v50">som det eigong var</l>
+          <l n="v51">og hugsar kje paa,</l>
+          <l n="v52">det var skapt til Kar,</l>
+          <l n="v53">og let seg nøra</l>
+          <l n="v54">med Vanvyrd og Svik,</l>
+          <l n="v55">og beer til Sjaund</l>
+          <l n="v56">fyr sit eige Lik,</l>
+          <l n="v57">‒ daa ser dei kje meir han Harald blunka.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v58">Og du, som er</l>
+          <l n="v59">av vort eige Lag,</l>
+          <l n="v60">du, som liver</l>
+          <l n="v61">i Noreg idag:</l>
+          <l n="v62">heve du set han Harald blunka?</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2473">
+        <head>Erling Skjalgson</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der sêg en Skude</l>
+          <l n="v2">mod Sole ind</l>
+          <l n="v3">for slappe Seil</l>
+          <l n="v4">i en laber Vind.</l>
+          <l n="v5">Det var Erling Skjalgson,</l>
+          <l n="v6">som stævned mod Strande.</l>
+          <l n="v7">Men denne Gang kom han</l>
+          <l n="v8">med kløvet Pande.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det fløi som lld</l>
+          <l n="v10">over Jæder-Land,</l>
+          <l n="v11">at myrdet var Rogalands</l>
+          <l n="v12">gjæveste Mand.</l>
+          <l n="v13">Og Mængden øged'</l>
+          <l n="v14">som Flom om Vaaren,</l>
+          <l n="v15">der “Ryge-Kongen”</l>
+          <l n="v16">laa stiv paa Baaren.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Somme jamred'</l>
+          <l n="v18">og somme svor,</l>
+          <l n="v19">somme stod blege</l>
+          <l n="v20">uden et Ord.</l>
+          <l n="v21">Da steg der en Røst,</l>
+          <l n="v22">som tog med sig alle:</l>
+          <l n="v23">“Hevn og Død</l>
+          <l n="v24">over Fitjaskalle!”</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Der staar en Skare</l>
+          <l n="v26">furede Mænd</l>
+          <l n="v27">her ifra Soles</l>
+          <l n="v28">nærmeste Grænd,</l>
+          <l n="v29">‒ engang bundne</l>
+          <l n="v30">til Trælleyrke,</l>
+          <l n="v31">mens nu de eier</l>
+          <l n="v32">sin egen Styrke.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Trælle, sanket</l>
+          <l n="v34">fra øst og fra vest,</l>
+          <l n="v35">kjøbte og solgte</l>
+          <l n="v36">som Okse og Hest.</l>
+          <l n="v37">“Friskt Mod!” sagde Erling,</l>
+          <l n="v38">‒ “jeg vil dig ei værre</l>
+          <l n="v39">end: selv du kan blive</l>
+          <l n="v40">din egen Herre.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Først maa hos mig</l>
+          <l n="v42">du tjene dig fri;</l>
+          <l n="v43">og fortere gaar det,</l>
+          <l n="v44">jo mer du tar i.</l>
+          <l n="v45">Siden du rydder dig</l>
+          <l n="v46">Lyng af Tue,</l>
+          <l n="v47">dyrker dig Jord</l>
+          <l n="v48">og bygger dig Stue.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Og dermed har du,</l>
+          <l n="v50">fra selvsamme Stund</l>
+          <l n="v51">dit eget Hjem</l>
+          <l n="v52">paa selvryddet Grund.</l>
+          <l n="v53">Og glem nu ikke,</l>
+          <l n="v54">at Stykke for Stykke</l>
+          <l n="v55">du selv har at smede</l>
+          <l n="v56">din egen Lykke.”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v57">Og Havren vokste,</l>
+          <l n="v58">der Lyngen vêg;</l>
+          <l n="v59">og Frimands-Flokken</l>
+          <l n="v60">kring Sole steg,</l>
+          <l n="v61">‒ blev fast ved Grunden</l>
+          <l n="v62">i bedste Tydning.</l>
+          <l n="v63">Thi Manden elsker</l>
+          <l n="v64">sin egen Rydning.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v65">Og intet Under,</l>
+          <l n="v66">der løftes op</l>
+          <l n="v67">Snese af barkede</l>
+          <l n="v68">Næver i Trop,</l>
+          <l n="v69">da Raabet høres</l>
+          <l n="v70">kring Baaren gjalle:</l>
+          <l n="v71">“Hevn og Død</l>
+          <l n="v72">over Fitjaskalle!”</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v73">Og Erling Skjalgson</l>
+          <l n="v74">skal leve, han,</l>
+          <l n="v75">i Smaafolks Minde</l>
+          <l n="v76">rundt Norges Land.</l>
+          <l n="v77">Til seneste Slegter</l>
+          <l n="v78">vil Saga fortælle:</l>
+          <l n="v79">Han skabte Mænd</l>
+          <l n="v80">og Nordmænd af Trælle.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2474">
+        <head>Svolder</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der laag attum Svolder</l>
+          <l n="v2">Øy paa Lur</l>
+          <l n="v3">ein Skog av Master,</l>
+          <l n="v4">av Skrog ein Mur;</l>
+          <l n="v5">Svia-Konungen,</l>
+          <l n="v6">Dana-Drotten,</l>
+          <l n="v7">og Eirik Jarl</l>
+          <l n="v8">var au i Dotten.</l>
+          <l n="v9">‒ For stødt der Normenn</l>
+          <l n="v10">lyt vera med,</l>
+          <l n="v11">naar Noregs Merke</l>
+          <l n="v12">skal hoggast ned.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v13">Og Tryggvason visste kje</l>
+          <l n="v14">Ord taa deim.</l>
+          <l n="v15">Han kom ifraa Vendland</l>
+          <l n="v16">og siglde heim,</l>
+          <l n="v17">paa grepa Skutor,</l>
+          <l n="v18">men færre enn mange.</l>
+          <l n="v19">‒ Og Olav sjølv</l>
+          <l n="v20">styrde “Ormen lange”.</l>
+          <l n="v21">Og raustare Menn,</l>
+          <l n="v22">enn han hadde no,</l>
+          <l n="v23">hev Norig aldri</l>
+          <l n="v24">sendt ut paa Sjo.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v25">Dei seig um Odden.</l>
+          <l n="v26">Og daa dei saag</l>
+          <l n="v27">den Skog og: Mur,</l>
+          <l n="v28">som bak Svolder laag,</l>
+          <l n="v29">daa ropte han Olav:</l>
+          <l n="v30">“Lat Sigli falla!</l>
+          <l n="v31">Rædde, det skal dei os</l>
+          <l n="v32">aldri kalla!</l>
+          <l n="v33">Og er dei Tylvti</l>
+          <l n="v34">mot ein ‒ ‒  so visst</l>
+          <l n="v35">me treng des minder</l>
+          <l n="v36">aa skjota i mist!”</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v37">So bar det laust</l>
+          <l n="v38">med det Svolder-Slag,</l>
+          <l n="v39">som dyn i vor Soga</l>
+          <l n="v40">den Dag idag.</l>
+          <l n="v41">Og Danar og Sviar</l>
+          <l n="v42">hamlad tilbaka,</l>
+          <l n="v43">sosnart dei fekk “Ormens”</l>
+          <l n="v44">Tenner aa smaka</l>
+          <l n="v45">‒ Men daa so og Jarlen</l>
+          <l n="v46">kom til med si Hær,</l>
+          <l n="v47">vart Brodde-Bylgja</l>
+          <l n="v48">“Ormen” for svær.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v49">Og Tryggvason høgt</l>
+          <l n="v50">i si Lyfting stod;</l>
+          <l n="v51">og ned under Brynja hans</l>
+          <l n="v52">draup der Blod.</l>
+          <l n="v53">Daa sa han: “Til Dauden</l>
+          <l n="v54">er kvar Mann saka.</l>
+          <l n="v55">Og livande skal dei</l>
+          <l n="v56">meg aldri taka”.</l>
+          <l n="v57">‒ So bykste han med</l>
+          <l n="v58">sine Menn uti Hav.</l>
+          <l n="v59">Og fri, som han livde,</l>
+          <l n="v60">han sokk i si Grav.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2475">
+        <head>Thord Foleson</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Dei stod paa Stiklestad,</l>
+          <l n="v2">fylka til Strid,</l>
+          <l n="v3">den gamla og so</l>
+          <l n="v4">den nya Tid,</l>
+          <l n="v5">det, som hadde vore,</l>
+          <l n="v6">mot det, som skulde vetta,</l>
+          <l n="v7">det, som skulde stiga,</l>
+          <l n="v8">mot det, som skulde detta.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">So drog dei Sverdi</l>
+          <l n="v10">i sama Stund,</l>
+          <l n="v11">den bjarte Kong Olav</l>
+          <l n="v12">og den graa Thore Hund.</l>
+          <l n="v13">Og Hærrope dunde,</l>
+          <l n="v14">so Jordi ho dirrad,</l>
+          <l n="v15">og Spjoti dei suste,</l>
+          <l n="v16">og Pilarne svirrad.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Men so er det sagt,</l>
+          <l n="v18">at ein gasta Kar,</l>
+          <l n="v19">Thord Foleson, Merket</l>
+          <l n="v20">hans Olav bar.</l>
+          <l n="v21">Og denne Thord Merkesmann</l>
+          <l n="v22">skulja me minnast,</l>
+          <l n="v23">solengje i Noreg</l>
+          <l n="v24">Merkesmenn finnast.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Daa Thord han kjende,</l>
+          <l n="v26">han Banasaar fekk,</l>
+          <l n="v27">der fram i Striden</l>
+          <l n="v28">med Merket han gjekk,</l>
+          <l n="v29">daa støyrde han Stongi,</l>
+          <l n="v30">so hardt han kunde,</l>
+          <l n="v31">i Bakken ned,</l>
+          <l n="v32">før han seig innunde.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Og gamla Soga,</l>
+          <l n="v34">ho segjer so,</l>
+          <l n="v35">at Thord han stupte,</l>
+          <l n="v36">men Merket det stod.</l>
+          <l n="v37">Og soleis maa enno</l>
+          <l n="v38">den kunna gjera,</l>
+          <l n="v39">som Framgongs-Merke</l>
+          <l n="v40">i Noreg skal bera.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Mannen kan siga,</l>
+          <l n="v42">men Merket det maa</l>
+          <l n="v43">i Noreg si Jord,</l>
+          <l n="v44">som paa Stiklestad, staa.</l>
+          <l n="v45">Og det er det stora,</l>
+          <l n="v46">og det er det glupa,</l>
+          <l n="v47">at Merket kan standa,</l>
+          <l n="v48">um Mannen maa stupa.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2476">
+        <head>Erling skakke og Sverre konung</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I.</l>
+          <l n="v2">Erling skakke, den forslagne,</l>
+          <l n="v3">magtkjære Mand,</l>
+          <l n="v4">det lysted ham at raade</l>
+          <l n="v5">i Norriges Land.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Erling skakke han takled</l>
+          <l n="v7">og heised Seil.</l>
+          <l n="v8">Saa kløved hans Drage</l>
+          <l n="v9">det vuggende Speil.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v10">Erling skakke for Valdemar</l>
+          <l n="v11">Dane-Konung trên.</l>
+          <l n="v12">Da tog han ‒ i Randaros ‒</l>
+          <l n="v13">Viken som Lehn.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v14">Saa kyssed han paa Haanden</l>
+          <l n="v15">den fremmede Drot,</l>
+          <l n="v16">og stevned mod den Klippestrand,</l>
+          <l n="v17">han havde forraadt.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v18">Vel knurred den derhjemme</l>
+          <l n="v19">Konung Barfods Løve;</l>
+          <l n="v20">men nu den skulde kues</l>
+          <l n="v21">‒ det fik gjælde en Prøve.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v22">II.</l>
+          <l n="v23">I Nidaros, paa Kristkirkens</l>
+          <l n="v24">Høialter-Sten,</l>
+          <l n="v25">Stod Skrinet med Olaf</l>
+          <l n="v26">den helliges Ben.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v27">Og Erkebisp Eistein</l>
+          <l n="v28">aarvaagen holdt Vagt</l>
+          <l n="v29">ved den hellige Kiste</l>
+          <l n="v30">‒ for Præsteskabets Magt.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v31">Og det var Erling skakke,</l>
+          <l n="v32">for Bisp Eistein han trên;</l>
+          <l n="v33">‒ saa tog han af Kirlken</l>
+          <l n="v34">Riget som Lehn.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v35">Og det var Bisp Eistein,</l>
+          <l n="v36">han slutted den Pagt</l>
+          <l n="v37">mod Fædrelandets Ære</l>
+          <l n="v38">for Præstskabets Magt.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v39">Han salved og kroned</l>
+          <l n="v40">‒ Loven til Spot ‒</l>
+          <l n="v41">En Søn af Erling skakke</l>
+          <l n="v42">som Norriges Drot</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v43">Saa skifted de to,</l>
+          <l n="v44">til sit Magtbegjærs Tarv,</l>
+          <l n="v45">den urgamle norske</l>
+          <l n="v46">Selvstændigheds-Arv.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v47">‒ Da skjønte Erling skakke,</l>
+          <l n="v48">det gjaldt at bli kvit,</l>
+          <l n="v49">hvad der minded om et Norge,</l>
+          <l n="v50">som var frygtet og frit.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v51">Og siden blev hans Sværd</l>
+          <l n="v52">og hans Bøddeløks ei mæt</l>
+          <l n="v53">af Blod af Konung Harald</l>
+          <l n="v54">den haarfagres Æt.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v55">Men Præsterne, de messed</l>
+          <l n="v56">sit Ja og sit Amen</l>
+          <l n="v57">og strødde sin Velsignelses</l>
+          <l n="v58">Sand paa altsammen.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v59">III.</l>
+          <l n="v60">Saa trodde man omsider,</l>
+          <l n="v61">der var ingen igjen</l>
+          <l n="v62">af Haarfagre-ttens</l>
+          <l n="v63">hugprude Mænd.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v64">Alt bøiede Norrøna</l>
+          <l n="v65">Stolhedens Ryg</l>
+          <l n="v66">‒ alt mente Fornedreren</l>
+          <l n="v67">at føle sig tryg.</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v68">Og Folket, det forraadte,</l>
+          <l n="v69">begyndte saa smaat</l>
+          <l n="v70">at trøste sig med dette:</l>
+          <l n="v71">“Men vi har det dog saa godt!”</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v72">‒ Da var det, vor Ære</l>
+          <l n="v73">som Folk og som Land</l>
+          <l n="v74">blev reddet just af en</l>
+          <l n="v75">kronraget Mand.</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v76">Da var det, at fjernt</l>
+          <l n="v77">paa Færøya-Kyst</l>
+          <l n="v78">Sverre Prest følte Kaldets</l>
+          <l n="v79">Krav i sit Bryst.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v80">Det lod ham ikke Rist,</l>
+          <l n="v81">ikke Ro, fra den Stund,</l>
+          <l n="v82">han vidste sig Søn af</l>
+          <l n="v83">Konung Sigurd Mund.</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v84">Han kjendte sig mægtig</l>
+          <l n="v85">til Fædrene-Id</l>
+          <l n="v86">for sin Fædrene-Arv</l>
+          <l n="v87">i en Forfaldets Tid.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v88">Sløvhedens Søvn</l>
+          <l n="v89">i Norrig han brød,</l>
+          <l n="v90">da “Andvakes” vækkende</l>
+          <l n="v91">Lurtoner lød.</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v92">Det ildned de slagne</l>
+          <l n="v93">Birkebeiners Mod,</l>
+          <l n="v94">‒ og atter de spændte sig</l>
+          <l n="v95">Næver om Fod.</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v96">Saa gik deres Tog</l>
+          <l n="v97">over Hav, over Hei,</l>
+          <l n="v98">med Sverre i Spidsen,</l>
+          <l n="v99">‒ han viste dem Vei.</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v100">De frøs, og de sulted,</l>
+          <l n="v101">Der fremad de drog;</l>
+          <l n="v102">‒ men saa er det sagt,</l>
+          <l n="v103">at de seirede dog.</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v104">‒ Og det var Sverre Sigurdson,</l>
+          <l n="v105">opad han gik,</l>
+          <l n="v106">hvor Kaldet vinked</l>
+          <l n="v107">hans dristige Blik.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v108">Men ingensteds siges</l>
+          <l n="v109">i Sagaens Bog,</l>
+          <l n="v110">at han blegned eller vakled</l>
+          <l n="v111">paa det farlige Tog.</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v112">Forgjæves Bugtrællen</l>
+          <l n="v113">klynked og bad</l>
+          <l n="v114">for den kjære Fred</l>
+          <l n="v115">og den kjære Mad.</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v116">Omsosnt var Forbandelsernes</l>
+          <l n="v117">Præste-Attest;</l>
+          <l n="v118">‒ han stod lige rank,</l>
+          <l n="v119">den slemme Sverre Præst.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v120">Omsider kom den</l>
+          <l n="v121">hin Opgjørets Dag,</l>
+          <l n="v122">da paa “Kalvskindet” Lurene</l>
+          <l n="v123">kaldte til Slag.</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v124">Der faldt Erling skakke;</l>
+          <l n="v125">og sammen med ham</l>
+          <l n="v126">fældtes hans System</l>
+          <l n="v127">og faldt hans Program.</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v128">Saa raaded Sverre Konung</l>
+          <l n="v129">Norriges Land,</l>
+          <l n="v130">bygged det med Lov,</l>
+          <l n="v131">værged det som Mand.</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v132">Og snart fik det gamle</l>
+          <l n="v133">Klippeland Ry</l>
+          <l n="v134">som frit, selvstændigt</l>
+          <l n="v135">og frygtet paany.</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v136">‒ Men ingen er nævnt</l>
+          <l n="v137">Sverre Sigurdsons Lige</l>
+          <l n="v138">af alle de Konger</l>
+          <l n="v139">i Norriges Rige.</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v140">IV.</l>
+          <l n="v141">Slig kjæmped de fordum,</l>
+          <l n="v142">de Fædre i Nord.</l>
+          <l n="v143">‒ Saa lagdes de til Hvile</l>
+          <l n="v144">i den hjemlige Jord.</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v145">Dog møder de atter,</l>
+          <l n="v146">de gamle, til Strid</l>
+          <l n="v147">i de kjæmpende Slægter</l>
+          <l n="v148">af en nyere Tid.</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v149">Og endnu idag</l>
+          <l n="v150">gaar i Norriges Mænd</l>
+          <l n="v151">Erling skakke og Sverre</l>
+          <l n="v152">Konung igjen.</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v153">Forraadt paany,</l>
+          <l n="v154">i Skjændselens Kaar</l>
+          <l n="v155">laa Norrig i tire</l>
+          <l n="v156">hundrede Aar.</l>
+        </lg>
+        <lg n="s39" type="stanza">
+          <l n="v157">‒ Da lød over Landet</l>
+          <l n="v158">endnu en Gang</l>
+          <l n="v159">Andvake-Lurens</l>
+          <l n="v160">vækkende Klang.</l>
+        </lg>
+        <lg n="s40" type="stanza">
+          <l n="v161">Da mødte ‒ paa Eidsvold ‒</l>
+          <l n="v162">der atter op</l>
+          <l n="v163">en hugstærk, daadskraftig</l>
+          <l n="v164">Birkebein-Trop.</l>
+        </lg>
+        <lg n="s41" type="stanza">
+          <l n="v165">Og der, i de gjæve,</l>
+          <l n="v166">selvstændige Mænd</l>
+          <l n="v167">Konung Sverre Sigurdsons</l>
+          <l n="v168">Aand gik igjen.</l>
+        </lg>
+        <lg n="s42" type="stanza">
+          <l n="v169">Atter den kaldte</l>
+          <l n="v170">for Norriges Sag</l>
+          <l n="v171">rundt Landets Strænder</l>
+          <l n="v172">og Dale til Slag.</l>
+        </lg>
+        <lg n="s43" type="stanza">
+          <l n="v173">Thi ogsaa Erling skakke</l>
+          <l n="v174">gik i Norrig igjen;</l>
+          <l n="v175"> det gjorde han dengang,</l>
+          <l n="v176">det gjør han end.</l>
+        </lg>
+        <lg n="s44" type="stanza">
+          <l n="v177">Han søgte ‒ og søger ‒</l>
+          <l n="v178">for egen Magt</l>
+          <l n="v179">mod Fædrelandet</l>
+          <l n="v180">med fremmede Pagt.</l>
+        </lg>
+        <lg n="s45" type="stanza">
+          <l n="v181">End ulmer hans Had,</l>
+          <l n="v182">end lyder hans Raab</l>
+          <l n="v183">mod gamle Norriges</l>
+          <l n="v184">dyreste Haab.</l>
+        </lg>
+        <lg n="s46" type="stanza">
+          <l n="v185">Atter bag Præstekjolen</l>
+          <l n="v186">søger han Ly;</l>
+          <l n="v187">og de messer ham, de Gudsmænd,</l>
+          <l n="v188">sit Amen paany.</l>
+        </lg>
+        <lg n="s47" type="stanza">
+          <l n="v189">Atter, saa salvelses</l>
+          <l n="v190">fuldt de det kan,</l>
+          <l n="v191">tordner de mod Norskhedens</l>
+          <l n="v192">Tanke sit Ban.</l>
+        </lg>
+        <lg n="s48" type="stanza">
+          <l n="v193">Mens Bugtrællen beder,</l>
+          <l n="v194">saa vakkert han ved,</l>
+          <l n="v195">igjen for sin Mad</l>
+          <l n="v196">og sin kjære Fred.</l>
+        </lg>
+        <lg n="s49" type="stanza">
+          <l n="v197">‒ Slig strides der atter</l>
+          <l n="v198">om Magten i Nord:</l>
+          <l n="v199">om de Nordmænd skal raade</l>
+          <l n="v200">sin Fædrene-Jord.</l>
+        </lg>
+        <lg n="s50" type="stanza">
+          <l n="v201">Saa gjælder det da,</l>
+          <l n="v202">om Nutidens Blod</l>
+          <l n="v203">eier Birkebein-Troskab</l>
+          <l n="v204">og Birkebein-Mod.</l>
+        </lg>
+        <lg n="s51" type="stanza">
+          <l n="v205">Thi kjæmper vi Kampen</l>
+          <l n="v206">med Fædrene-Hu,</l>
+          <l n="v207">tør Fornedrelsen finde</l>
+          <l n="v208">sit “Kalvskind” endnu.</l>
+        </lg>
+        <lg n="s52" type="stanza">
+          <l n="v209">‒ Men dersom vi svigter,</l>
+          <l n="v210">da vrager vi Sverre</l>
+          <l n="v211">og vælger Erling skakke</l>
+          <l n="v212">til Norriges Herre.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2477">
+        <head>Varulv</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han fødtes et Skudaar</l>
+          <l n="v2">‒ en Vinternat-Stund</l>
+          <l n="v3">med ligsvøbte Bakker</l>
+          <l n="v4">og lukkede Sund,</l>
+          <l n="v5">mens Snedrevet pisked</l>
+          <l n="v6">mod Væg og Rude,</l>
+          <l n="v7">og Ulven hylte</l>
+          <l n="v8">ved Grinden derude</l>
+          <l n="v9">‒ Varulvl</l>
+          <l n="v10">Varulv!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v11">Og da han var svøbt,</l>
+          <l n="v12">‒ hans Moder har sagt,</l>
+          <l n="v13">hun saa, at ved Vuggen</l>
+          <l n="v14">en Ulv sad paa Vagt.</l>
+          <l n="v15">Hun stirred paa Gutten,</l>
+          <l n="v16">og grøssed ved Synet:</l>
+          <l n="v17">hun skimted det skyggende</l>
+          <l n="v18">Maærke i Brynet.</l>
+          <l n="v19">‒ Varulv!</l>
+          <l n="v20">Varulv!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v21">Hvor siden i Livet</l>
+          <l n="v22">han vanked og for,</l>
+          <l n="v23">Ulven fulgte ham</l>
+          <l n="v24">tæt i hans Spor,</l>
+          <l n="v25">han hørte dens Trin,</l>
+          <l n="v26">han følte dens Aande.</l>
+          <l n="v27">Det fyldte hans Sjel</l>
+          <l n="v28">med Rædselens Vaande.</l>
+          <l n="v29">‒ Varulv!</l>
+          <l n="v30">Varulv!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v31">Men led det til Midnat,</l>
+          <l n="v32">da stak han paa Dør</l>
+          <l n="v33">i Varulve-Ham</l>
+          <l n="v34">og paa Varulve-Klør.</l>
+          <l n="v35">Han veired med Lyst</l>
+          <l n="v36">sin Varulve-Føde,</l>
+          <l n="v37">hvor Gravbakkens Grus</l>
+          <l n="v38">hused de Døde.</l>
+          <l n="v39">‒ Varulvl</l>
+          <l n="v40">Varulv!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v41">Naar atter af Dag</l>
+          <l n="v42">det begyndte at gry,</l>
+          <l n="v43">blev Varulve-Hammen</l>
+          <l n="v44">skiftet paany,</l>
+          <l n="v45">og Natten ham syntes</l>
+          <l n="v46">en Drøm kun igrunden.</l>
+          <l n="v47"> Blot kjendte han noget</l>
+          <l n="v48">som Ligsmag i Munden.</l>
+          <l n="v49">‒ Varulvl</l>
+          <l n="v50">Varulv!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2478">
+        <head>Varde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der høyrdest ved Nott</l>
+          <l n="v2">eit Dunder paa Dør.</l>
+          <l n="v3">Og Husbonden vaknar,</l>
+          <l n="v4">spring fram og spør:</l>
+          <l n="v5">“Kva er det, som bilar?”</l>
+          <l n="v6">“Jau, no maa de ut!</l>
+          <l n="v7">for Varden lyser</l>
+          <l n="v8">paa Høgenut!”</l>
+          <l n="v9">Og kvar Mann visste</l>
+          <l n="v10">i same Ande,</l>
+          <l n="v11">at no var der kome</l>
+          <l n="v12">Ufred til Lande.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v13">Og Mennerne Hærklæder</l>
+          <l n="v14">paa seg tok,</l>
+          <l n="v15">og Skjold og Øks</l>
+          <l n="v16">dei lyfte fraa Krok,</l>
+          <l n="v17">dei hekta i Belte</l>
+          <l n="v18">sit goda Sværd,</l>
+          <l n="v19">treiv Spjut og Boge</l>
+          <l n="v20">og skundad til Ferd.</l>
+          <l n="v21">For kom der deim,</l>
+          <l n="v22">vilde Noreg herja</l>
+          <l n="v23">so fannst der og deim,</l>
+          <l n="v24">som vilde det vergja.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v25">Og alt som Varde</l>
+          <l n="v26">fraa Varde vart tend,</l>
+          <l n="v27">dei sankad seg saman</l>
+          <l n="v28">fraa Grend til Grend.</l>
+          <l n="v29">Og Fylkingen bygdest,</l>
+          <l n="v30">og Veg han fann,</l>
+          <l n="v31">der fyre gjekk Høvding</l>
+          <l n="v32">og Merkesmann.</l>
+          <l n="v33">Og Ufreds-Karen</l>
+          <l n="v34">fekk jamnan smaka,</l>
+          <l n="v35">Kva det hev paa seg,</l>
+          <l n="v36">at Varder vaka.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v37">Og gjev det aldri</l>
+          <l n="v38">maa verta sagt,</l>
+          <l n="v39">at Lande ligg</l>
+          <l n="v40">utan Varde-Vakt.</l>
+          <l n="v41">Og logar kje Varden</l>
+          <l n="v42">paa Tind og Nut,</l>
+          <l n="v43">han logar i Hjarta</l>
+          <l n="v44">hjaa Noregs Gut.</l>
+          <l n="v45">Ja, brenn, du Varde,</l>
+          <l n="v46">du signade, klare,</l>
+          <l n="v47">bjartare, høgre</l>
+          <l n="v48">fyr kvart eit Aare!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

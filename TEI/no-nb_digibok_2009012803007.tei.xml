@@ -1,0 +1,3238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Digte af Per Gynt ved Theodor Caspari: med Titelvignet og 5 andre Billeder af Th. Kittelsen</title>
+        <author>Caspari, Theodor</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">36</measure>
+        <measure unit="lines">2986</measure>
+        <measure unit="tokens">15730</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2009012803007">
+          <author>Caspari, Theodor</author>
+          <title>Digte af Per Gynt ved Theodor Caspari: med Titelvignet og 5 andre Billeder af Th. Kittelsen</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1891</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2009012803007"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p424">
+        <head>Indledningsdikt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Javel, jeg var en fattig Svend</l>
+          <l n="v2">paa Tro og Hjertelag;</l>
+          <l n="v3">men fandtes der i Dybet end</l>
+          <l n="v4">en Rest af Kjærlighed igjen,</l>
+          <l n="v5">mit Fædreland, du eier den</l>
+          <l n="v6">og dine Dales Drag.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Og naar fra Ret og Pligt jeg jog</l>
+          <l n="v8">min egen vilde Vei,</l>
+          <l n="v9">en Solveig lønlig med mig drog,</l>
+          <l n="v10">og det var dig, du stille Skog,</l>
+          <l n="v11">for dig mit fulde Hjerte slog,</l>
+          <l n="v12">og aldrig sveg jeg dig.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Ja, fandtes der et solvarmt Held</l>
+          <l n="v14">i al min Armodsdom,</l>
+          <l n="v15">da laa det vist indunder Fjeld,</l>
+          <l n="v16">af Moser dækket varmt og vel,</l>
+          <l n="v17">med Birkesus og Rækkesprel</l>
+          <l n="v18">og fattig Ener om.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Og samled jeg mig dog engang</l>
+          <l n="v20">og fandt tilsidst mit Kald,</l>
+          <l n="v21">det var «de visne Blades» Hang</l>
+          <l n="v22">og “Duggens Graad” om Sætervang,</l>
+          <l n="v23">det var den høie Høstvinds Sang,</l>
+          <l n="v24">som vied mig til Skald.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Saa tag dem da med Tak igjen</l>
+          <l n="v26">de ringe Digterord.</l>
+          <l n="v27">Javel, jeg var en fattig Svend,</l>
+          <l n="v28">men hvad min Armod evner end,</l>
+          <l n="v29">det gir jeg glad og villig hen</l>
+          <l n="v30">til dig, min Fædrejord.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p425">
+        <head>Sjugur</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Har du set'n, gamle Sjugur,</l>
+          <l n="v2">Bamsen med den svære Pande,</l>
+          <l n="v3">der han ligger traust og rugger</l>
+          <l n="v4">i sit Hi ved Leirungsvandet?</l>
+          <l n="v5">Lang og luten, sammenfalden,</l>
+          <l n="v6">var og spar paa Ord og grætten,</l>
+          <l n="v7">gløgge Øine gjemt i Skallen,</l>
+          <l n="v8">gamle Sjugur, har du set'n? –</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Dagstøt ligger han paa Vandet,</l>
+          <l n="v10">trækker Fisk, hvor det skal være,</l>
+          <l n="v11">gløtter stundom paa sin Grande,</l>
+          <l n="v12">Besshø, hvad han tror om Veiret,</l>
+          <l n="v13">gjeter Fæ for Fut og Klokker,</l>
+          <l n="v14">stikker ned med Ren i Dalen,</l>
+          <l n="v15">tar sin Mynt og gir dem Pokker,</l>
+          <l n="v16">stabber taus mod Viddesalen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">For der eier Gammelkaren</l>
+          <l n="v18">vel et Rige uden Ende;</l>
+          <l n="v19">Boden hans er Odelsgaren,</l>
+          <l n="v20">Flyen er hans Agerlænde,</l>
+          <l n="v21">Skogene er Vidjekjæret,</l>
+          <l n="v22">Engene de vilde Moser,</l>
+          <l n="v23">der de skinner, fjernt og nære,</l>
+          <l n="v24">farvelagt af tusind Roser.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Men en Nat, naar Somrens Drømme</l>
+          <l n="v26">flyr for Vintrens Morgenrøde,</l>
+          <l n="v27">ser han braat sit Kongedømme</l>
+          <l n="v28">hart og harmeligt lagt øde.</l>
+          <l n="v29">Hvor er Skogen, Mosehaven?</l>
+          <l n="v30">Hvid i Døden ligger Flyen,</l>
+          <l n="v31">og som Kjæmpekors paa Graven</l>
+          <l n="v32">stikker Tinden op af Skyen.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Tro, hvad gjør saa gamle Sjugur? –</l>
+          <l n="v34">Gir han Riget op og reiser?</l>
+          <l n="v35">Nei, han smiler lunt og rugger:</l>
+          <l n="v36">Reise nu, som han blev Keiser!</l>
+          <l n="v37">Nu, som han i Diamanter</l>
+          <l n="v38">fik sin Skog betalt af Sneen,</l>
+          <l n="v39">fik for Fæet alle Kanter</l>
+          <l n="v40">Rensdyr beitende paa Kveen? –</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Reise nu, som Millioner</l>
+          <l n="v42">Stjernelys ham Natten tænder,</l>
+          <l n="v43">alle Hvælvets Lysekroner</l>
+          <l n="v44">festlig over Borgen brænder! –</l>
+          <l n="v45">der han sidder, Majestæten,</l>
+          <l n="v46">paa sin Kubbestol og grunder</l>
+          <l n="v47">Kvelden lang paa Evigheden,</l>
+          <l n="v48">Livsens Maal og Himlens Under.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Slig jeg traf ham alle Kvelde,</l>
+          <l n="v50">naar paa Rensjagt jeg var ude,</l>
+          <l n="v51">skimted glad derop' paa Fjeldet</l>
+          <l n="v52">Blinket fra den vesle Rude,</l>
+          <l n="v53">lod det staa, saa Vinden plistred,</l>
+          <l n="v54">lige ned fra høgste Høen,</l>
+          <l n="v55">Sneen røg og føg og gnistred,</l>
+          <l n="v56">Nordlys viste Vei til Sjøen.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v57">Stansed saa tilsidst og sparked</l>
+          <l n="v58">Sneen af for Hyttedøren,</l>
+          <l n="v59">hørte alt, hvor Gamlen harked,</l>
+          <l n="v60">“Glup” for op og spidsed Øren.</l>
+          <l n="v61">Jo, det var det gamle Stellet,</l>
+          <l n="v62">Gubben traust paa samme Pletten :</l>
+          <l n="v63">“Se velkommen, Per, til Fjeldet!</l>
+          <l n="v64">Nu, hvor lever Menskeætten?”</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v65">Naar jeg saa med Fynd lod Harmen</l>
+          <l n="v66">flømme over Bygdeslænget,</l>
+          <l n="v67">sad han studs og saa i Varmen,</l>
+          <l n="v68">lo iblandt og sa om længe:</l>
+          <l n="v69">“sa, hvad vil du dem og deres,</l>
+          <l n="v70">lad dem, du, beholde Marken,</l>
+          <l n="v71">ta tilægte og formeres,</l>
+          <l n="v72">hyt dig, Per, husk Noæ Arken !</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v73">Kom ihu, hvor Stormens Vælde</l>
+          <l n="v74">drev den hen paa Dybets Vande.</l>
+          <l n="v75">Mon til Bygden? nei, til Fjeldet</l>
+          <l n="v76">Ararat i Asialande.</l>
+          <l n="v77">Ja, hvad vil du dem og deres?</l>
+          <l n="v78">Fjeldet, Per, er Helseboden;</l>
+          <l n="v79">stig tilfjelds! lad dem formeres,</l>
+          <l n="v80">kri og stri i Bygdefloden!”</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v81">Trut det gamle Slagur rumled,</l>
+          <l n="v82">som hans Ord det vilde sande,</l>
+          <l n="v83">tog dem op og for og mumled:</l>
+          <l n="v84">A-ra-rat i A-sia-lan-de.</l>
+          <l n="v85">Spiken spraked, sprat og brændte,</l>
+          <l n="v86">i sin Krog laa Glup i Dvale,</l>
+          <l n="v87">Gubben tyst sin Pibe tændte</l>
+          <l n="v88">og tog atter til at tale:</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v89">“End hvor har det sig med Troen,</l>
+          <l n="v90">mener du, derned i Grænden? –</l>
+          <l n="v91">Presten, Per, er Bjeldekoen,</l>
+          <l n="v92">Bygden, Bølingen i Enden.</l>
+          <l n="v93">Hart med Dom han hoter Driften,</l>
+          <l n="v94">Id og Orm i Evigheden,</l>
+          <l n="v95">tro, han mindes, hvad i Skriften</l>
+          <l n="v96">staar om Elias, Profeten?</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v97">Elias, saa staar der skrevet,</l>
+          <l n="v98">sad i Hulen, Per, i Klemme,</l>
+          <l n="v99">did af Jesabel fordrevet,</l>
+          <l n="v100">se, da lød Jehovas Stemme:</l>
+          <l n="v101">“Elias, stig op i Høiden!</l>
+          <l n="v102">staa paa Fjeldet!” saa lød Talen;</l>
+          <l n="v103">husk det! – ikke ned i Bygden</l>
+          <l n="v104">staar der, Per, ei ned i Dalen.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v105">Og Jehova for forbi'n,</l>
+          <l n="v106">Per, i Storm paa høgste Fjeldet.</l>
+          <l n="v107">Tro, hvad havde han at si'n? –</l>
+          <l n="v108">Ei det Slag i Stormens Vælde,</l>
+          <l n="v109">ei det Slag i Jordskjælvsbraget,</l>
+          <l n="v110">som kom efter Uveirsrien,</l>
+          <l n="v111">ei det Slag i Lynildsspraket;</l>
+          <l n="v112">høi og taus gik han forbi'n.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v113">Men da strøg en spak og stille</l>
+          <l n="v114">Luftning over Fjeldets Tinde,</l>
+          <l n="v115">og i den Jehovas milde,</l>
+          <l n="v116">sagte Stemme var at finde.</l>
+          <l n="v117">Ser du vel, Per Gynt, slig er det,</l>
+          <l n="v118">ned i Bygden tuder Stormen,</l>
+          <l n="v119">præker Presten – saa i Veiret,</l>
+          <l n="v120">saa i Ilden og i Ormen.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v121">Æns ham ei, hvor hart han skræmmer,</l>
+          <l n="v122">og hvor tryg og traust han lader,</l>
+          <l n="v123">ei Jehova du fornemmer,</l>
+          <l n="v124">bare Presten, Per, som prater.</l>
+          <l n="v125">Nei, stig op paa Høifjeldsstien,</l>
+          <l n="v126">stig og stig, til ei dit Øre</l>
+          <l n="v127">mer fornemmer Uveirsrien,</l>
+          <l n="v128">da, Per Gynt, da skal du høre.</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v129">I hvert myge Pust, som flømmer</l>
+          <l n="v130">over Flyen, er han nær dig,</l>
+          <l n="v131">i hver lyslet Drøm, du drømmer,</l>
+          <l n="v132">stille han imøde trærr dig.</l>
+          <l n="v133">Dagen lang paa Vidden med ham</l>
+          <l n="v134">tør du vandre, tør du svæve,</l>
+          <l n="v135">i hvert Blad og Blomster se ham,</l>
+          <l n="v136">se Jehova, Per, og – leve!” –</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v137">Slig vel Gammelkaren talte,</l>
+          <l n="v138">alt som llden sank i Gruen.</l>
+          <l n="v139">Høitid over Hugen dalte,</l>
+          <l n="v140">Maanen legte sig i Stuen.</l>
+          <l n="v141">Lang og luten, sammenfalden</l>
+          <l n="v142">i det klare Skin han rugger,</l>
+          <l n="v143">gløgge Øine gjemt i Skallen,</l>
+          <l n="v144">gamle Leirungsbamsen Sjugur.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p426">
+        <head>Dronningen af Saba</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Rautende Bøling og klingende Klokker,</l>
+          <l n="v2">skinnende Skaut efter Fjeldstiens Drag,</l>
+          <l n="v3">jagende Hunde og Jenter, som lokker,</l>
+          <l n="v4">Latter og Leg i den høstklare Dag.</l>
+          <l n="v5">Piskedød, saa Studen kror sig,</l>
+          <l n="v6">Barbro skjelder, Burmann gjør!</l>
+          <l n="v7">Retsan ja, der Stien snor sig</l>
+          <l n="v8">ind i Lierne mod Sør;</l>
+          <l n="v9">ned mod Bygden hærden svinger,</l>
+          <l n="v10">sidste svage Tone klinger</l>
+          <l n="v11">op mod Vidderne og dør.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v12">Gneldrende Bikjer og flirende Jenter,</l>
+          <l n="v13">Lykke paa Reisen, hvert gaulende Naut!</l>
+          <l n="v14">Tænker I kanske, jeg ligger og venter,</l>
+          <l n="v15">stunder mod Sør efter Stakker og Skaut?</l>
+          <l n="v16">“Det blir ødsligt for'n, Stakker!” –</l>
+          <l n="v17">“Arme Per! det blir saa, ja!” –</l>
+          <l n="v18">Ødsligt, Jenter! hvor I snakker !</l>
+          <l n="v19">Lyksom Reise skal I ha!</l>
+          <l n="v20">Se paa Vidden der i Veæster!</l>
+          <l n="v21">Retnu faar Per Gynt nok Gjæster,</l>
+          <l n="v22">gjæve Gjæster, langveisfra.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v23">Ser du det gnistrende, blanke Band,</l>
+          <l n="v24">som synker og stiger mod Skyen,</l>
+          <l n="v25">bugter sig frem som en Slange ibrand,</l>
+          <l n="v26">skydende Ryg over Flyen? –</l>
+          <l n="v27">Fremover bær det!</l>
+          <l n="v28">sig mig, hvem er det? –</l>
+          <l n="v29">Dronningen af Saba,</l>
+          <l n="v30">Sjung fi hei, sjung hopsasan!</l>
+          <l n="v31">Dronningen af Saba,</l>
+          <l n="v32">syn nu din Forstand!</l>
+          <l n="v33">Se, med tusind Aseninder,</l>
+          <l n="v34">gjæve Mænd og fagre Kvinder</l>
+          <l n="v35">stevner hun fra Østerland.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v36">Vesle Moser, som Vidderne klæ'r,</l>
+          <l n="v37">vakkert jeg be'r,</l>
+          <l n="v38">krusede Gulskjæg og Saltmose skjær,</l>
+          <l n="v39">Graaskjæg og blodrøde Fjeldmelbær,</l>
+          <l n="v40">Renmose, fin</l>
+          <l n="v41">som sølvstukket Lin,</l>
+          <l n="v42">og Gjederams, dunkel</l>
+          <l n="v43">som Alterkalksvin,</l>
+          <l n="v44">alle Moser, som Vidderne klærr,</l>
+          <l n="v45">Eder jeg ber:</l>
+          <l n="v46">Et høvligt Fløilsklæde,</l>
+          <l n="v47">et høstligt Fyrsteskrud</l>
+          <l n="v48">det væve I og brede</l>
+          <l n="v49">for Sabas Dronning ud.</l>
+          <l n="v50">I er de fagre, rige,</l>
+          <l n="v51">den fattige er Per;</l>
+          <l n="v52">ei vil hans Haab I svige,</l>
+          <l n="v53">saa vakkert som han berr.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v54">Hei! kan du høre den stolte Slaat</l>
+          <l n="v55">for Fløiter og lokkende Lurer?</l>
+          <l n="v56">Hør, hvor det slaar som i Brænding og Braat</l>
+          <l n="v57">op mod de evige Urer!</l>
+          <l n="v58">Høit fra Kameler</l>
+          <l n="v59">synges til Feler:</l>
+          <l n="v60">“Dronningen af Saba,</l>
+          <l n="v61">Sjung fi hei, sjung høit i Kor!</l>
+          <l n="v62">Dronningen af Saba,</l>
+          <l n="v63">agt nu dine Ord!”</l>
+          <l n="v64">Ret som David foran Arken</l>
+          <l n="v65">danser Blaamænd over Marken</l>
+          <l n="v66">foran Sabas Dronning stor.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v67">Fagre Skog under Uren, den blaa,</l>
+          <l n="v68">kalder jeg paa;</l>
+          <l n="v69">mørkegrøn Ener i lunende Lag,</l>
+          <l n="v70">Vidjer i gule og sølvgraa Drag,</l>
+          <l n="v71">Bjerken saa fuld</l>
+          <l n="v72">af glitrende Guld</l>
+          <l n="v73">og Fyrren saa skjægget</l>
+          <l n="v74">og smusket som Muld,</l>
+          <l n="v75"> hver en Busk under Uren, den blaa,</l>
+          <l n="v76">kalder jeg paa:</l>
+          <l n="v77">Vær snar, min Skog, og klæd dig</l>
+          <l n="v78">alt i din bedste Staat,</l>
+          <l n="v79">til Høitid vil jeg be' dig,</l>
+          <l n="v80">til Dans og Bryllupslaat.</l>
+          <l n="v81">Min Hird, den skal du være,</l>
+          <l n="v82">paa Vagt omkring mig staa;</l>
+          <l n="v83">min fagre Skog, min kjære,</l>
+          <l n="v84">tag Bryllupsklædning paa!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v85">Skinnende Faner i Solen slaar</l>
+          <l n="v86">som Vinger, og Lurene larme;</l>
+          <l n="v87">Dronningen løftes af Sadlen og gaar</l>
+          <l n="v88">frem mellem snehvide Barme.</l>
+          <l n="v89">Tonerne tier,</l>
+          <l n="v90">medens hun si'er:</l>
+          <l n="v91">“Dronningen af Saba,</l>
+          <l n="v92">Sjung fi hei! – du for dig ser;</l>
+          <l n="v93">Dronningen af Saba</l>
+          <l n="v94">høvelig dig be'r:</l>
+          <l n="v95">Dit er Riget, din er Æren; –</l>
+          <l n="v96">fli dig nu til Bryllupsfærden,</l>
+          <l n="v97">vakre, vise Keiser Per!”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v98">Alle Tinder i Øst og i Vest,</l>
+          <l n="v99">Bisp eller Prest,</l>
+          <l n="v100">Semmeltind smekker og Besshø i Blaat,</l>
+          <l n="v101">Glittertind, Biskop i hvid Kalot,</l>
+          <l n="v102">Nautgaren stø,</l>
+          <l n="v103">i Aftensol rød,</l>
+          <l n="v104">og Falken den fagre</l>
+          <l n="v105">og Heilstuguhø,</l>
+          <l n="v106">alle Tinder i Øst og i Vest,</l>
+          <l n="v107">Bisp eller Prest:</l>
+          <l n="v108">Ved Kirken du mig møde,</l>
+          <l n="v109">mit Presteskab med Fred,</l>
+          <l n="v110">se alle Skyer gløde,</l>
+          <l n="v111">nu synker Solen ned.</l>
+          <l n="v112">De tusind Sjøer skinne,</l>
+          <l n="v113">hør Viddens Orgelbrus !</l>
+          <l n="v114">Nu sammen du os binde</l>
+          <l n="v115">i Kirkens høie Hus.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p427">
+        <head>Vaarnat</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sjoa drømmer stilt bag Grene,</l>
+          <l n="v2">Maanen strør sit blanke Sølv over Kve;</l>
+          <l n="v3">reis dig, Ragnhild! Vaagn, du vene!</l>
+          <l n="v4">Gjækkende</l>
+          <l n="v5">i Knækkene</l>
+          <l n="v6">gaar Bækkene afsted.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Reis dig, Ragnhild! Stille bare!</l>
+          <l n="v8">væk ikke med Laasen Orren til Spil!</l>
+          <l n="v9">Skræm ei væk den vesle Hare,</l>
+          <l n="v10">sætter sig</l>
+          <l n="v11">og retter sig</l>
+          <l n="v12">og undres, hvad jeg vil.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Hvad jeg vil? – Vil i dit brune,</l>
+          <l n="v14">viddefriske Øie sænke min Harm,</l>
+          <l n="v15">vil i Vaarens Stund, den lune,</l>
+          <l n="v16">tage dig</l>
+          <l n="v17">og drage dig,</l>
+          <l n="v18">du fagre, til min Barm.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Hvad jeg vil – men hvor du skjælver.</l>
+          <l n="v20">Ræddes du for Nattens legende Vind.</l>
+          <l n="v21">Høit sig Himlens Kirke hvælver,</l>
+          <l n="v22">vinkende</l>
+          <l n="v23">staar blinkende</l>
+          <l n="v24">for Altret Nautgardstind.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Hvad jeg vil? – Vil Bruden hente.</l>
+          <l n="v26">Længtende jeg lytter efter dit “Ja”.</l>
+          <l n="v27">Altrets Stjerneblus er tændte.</l>
+          <l n="v28">Veneste</l>
+          <l n="v29">og eneste,</l>
+          <l n="v30">saa hviske du det da.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p428">
+        <head>Aprilsnar</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og Rensbukken laa</l>
+          <l n="v2">saa mosegrod og graa</l>
+          <l n="v3">og solte sig og sov bort paa Bræen,</l>
+          <l n="v4">og Fjeldbækken sprang</l>
+          <l n="v5">saa fanteful og sang</l>
+          <l n="v6">og klukkede og kniste under Sneen:</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">“Hei! Rensbuk, vaagn op,</l>
+          <l n="v8">du magelige Krop!</l>
+          <l n="v9">skal svinte mig, og du er i Veien.</l>
+          <l n="v10">Fint Vaarveir vi har;</l>
+          <l n="v11">hei! var dig nu, god Karl!</l>
+          <l n="v12">der ræker just Per Skytter over Heien.”</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Ja, Gamlingen op</l>
+          <l n="v14">med løierlige Hop</l>
+          <l n="v15">og borte som en Pil ind' i Fjeldet;</l>
+          <l n="v16">men Fjeldbækken ud</l>
+          <l n="v17">med Spret og Sprel og Sprut,</l>
+          <l n="v18">med Gapestreg og Gjøn nedover Heldet.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Og Rypa saa fin</l>
+          <l n="v20">i vinterspundet Lin</l>
+          <l n="v21">i Vidjekjæret blyg just hun blunder,</l>
+          <l n="v22">som Fjeldbækken spræk</l>
+          <l n="v23">med Latter og med Leg</l>
+          <l n="v24">for føitende og sprøitende indunder:</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">“Hei, Rype! Staar til? –</l>
+          <l n="v26">Saa langt udi April</l>
+          <l n="v27">og endda i den fjorsydde Serken!</l>
+          <l n="v28">Men jøs, hvor det klæ’r!</l>
+          <l n="v29">spørg bare, du, han Per,</l>
+          <l n="v30">der staar'n just og sigter bagom Bjerken.”</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">Og Rypa, hun vak</l>
+          <l n="v32">og reiste paa sin Stak,</l>
+          <l n="v33">saa Fjærene de gjøv i det vi'e,</l>
+          <l n="v34">og undaf med Skrat,</l>
+          <l n="v35">saa Meiseflokken skvat,</l>
+          <l n="v36">og Bamsen satte Hodet ud af Hiet.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v37">“Nei, se paa han Far!</l>
+          <l n="v38">nu vil'n være Kar</l>
+          <l n="v39">og syne sig, som Sneskuren leger.</l>
+          <l n="v40">Tænk! femtende Mars!</l>
+          <l n="v41">Nei, Bedstefar, tilbars!</l>
+          <l n="v42">og kom att, du, om tre og fire Veker!”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v43">Men Bamsen saa vild:</l>
+          <l n="v44">“Du narre mig April,</l>
+          <l n="v45">din Susekop, slig Soløiet varmer!</l>
+          <l n="v46">Nei dertil, din Tull!</l>
+          <l n="v47">er Bjerken da for fuld,</l>
+          <l n="v48">for tomme mine uselige Tarmer.”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p429">
+        <head>"Moser, I vakre, vilde"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Moser, I vakre, vilde,</l>
+          <l n="v2">aa, kunde jeg dø som I,</l>
+          <l n="v3">fortæres i Farvespillet</l>
+          <l n="v4">og tvætte min Sjæl deri,</l>
+          <l n="v5">forklares i Lys og Lue,</l>
+          <l n="v6">i Perler, i Blod, i Guld –</l>
+          <l n="v7">og lægge mig trygt til Tue</l>
+          <l n="v8">og drømme mig ned i Muld!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Blomster, var Dødens Gysen</l>
+          <l n="v10">og Krampe som Eders let,</l>
+          <l n="v11">en flakkende, fager Lysen</l>
+          <l n="v12">i Bladenes fine Net!</l>
+          <l n="v13">l Vidjer, I Fjeldets Tusend,</l>
+          <l n="v14">var Vidden min Sørgesal,</l>
+          <l n="v15">de vaagsomme Vindes Susen</l>
+          <l n="v16">den dæmpede Dødskoral!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Kunde saa lyst jeg smile</l>
+          <l n="v18">som Løvskogen, gul og varm,</l>
+          <l n="v19">saa silde den gaar tilhvile</l>
+          <l n="v20">ved Fjeldenes dybblaa Barm,</l>
+          <l n="v21">og fange de hvide Fnokker</l>
+          <l n="v22">saa villig og uden Nag</l>
+          <l n="v23">til Afskedens Aftenklokker</l>
+          <l n="v24">som den en Septemberdag!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p430">
+        <head>"Firkanten"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">“Firkant” ho og Firkant hei!</l>
+          <l n="v2">“Kanten”, kjender du'n ei? –</l>
+          <l n="v3">Ligger du tilfjelds og grunder,</l>
+          <l n="v4">enslig, paa saa store Verk,</l>
+          <l n="v5">Hugen løfter sig og stunder</l>
+          <l n="v6">ud i Dagen, stolt og sterk,</l>
+          <l n="v7">og du hører plent med et 'n</l>
+          <l n="v8">Røst fra Himmerig deroppe:</l>
+          <l n="v9">“Har vel ikke spurgt og set 'n</l>
+          <l n="v10">borket liden Skarvehoppe?” –</l>
+          <l n="v11">Samson, vaagne! Samson, hei!</l>
+          <l n="v12">Da er “Kanten” over dig.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v13">Firkant hei og Firkant ho!</l>
+          <l n="v14">kjender du 'n vel, skal tro? –</l>
+          <l n="v15">Staar du enslig op' i Lien,</l>
+          <l n="v16">Bøssen ligger fast til Kind,</l>
+          <l n="v17">Haren danser efter Stien,</l>
+          <l n="v18">et Sekund – og den er din;</l>
+          <l n="v19">og du hører nogen skrige</l>
+          <l n="v20">hjælpsomt til dig over Garden</l>
+          <l n="v21">med et Brøl fra Himmerige:</l>
+          <l n="v22">“Var dig! sjaa, der kommer Haren!” –</l>
+          <l n="v23">Mensket spaar; men Kanten raar; –</l>
+          <l n="v24">sig mig saa, hvor Haren gaar?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v25">Firkant ho og Firkant hei!</l>
+          <l n="v26">kjender du'n saa? aa nei!</l>
+          <l n="v27">Sidder du ved Sætervarmen,</l>
+          <l n="v28">træt af Gangen, støl og stiv,</l>
+          <l n="v29">og vil kjælent lægge Armen</l>
+          <l n="v30">om din unge Jentes Liv,</l>
+          <l n="v31">og det tusler tyst derinde,</l>
+          <l n="v32">Katten, tror du, bare Katten,</l>
+          <l n="v33">og saa Katten til at spinde:</l>
+          <l n="v34">“Er her Hus at faa for Natten?”</l>
+          <l n="v35">Ja, saa Katten klore mig!</l>
+          <l n="v36">da er “Kanten” over dig.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v37">“Kanten” hist og “Kanten” her,</l>
+          <l n="v38">“Kanten” allesteds og fær. –</l>
+          <l n="v39">Lige brei som lang at kalde,</l>
+          <l n="v40">liden, larvet, lys og lat,</l>
+          <l n="v41">Øine, Kar, som blaasur Valle,</l>
+          <l n="v42">lige kjær i Mat og Prat,</l>
+          <l n="v43">god som Guld, men ta dig vare!</l>
+          <l n="v44">vil du faa'n gal i Toppen,</l>
+          <l n="v45">raab saa: “Kanten!” til 'n bare,</l>
+          <l n="v46">jo, da skal du se'n, Kroppen!</l>
+          <l n="v47">“Kanten” her og “Kanten” hist,</l>
+          <l n="v48">jo, nu kjender du ‘n vist.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p431">
+        <head>Gladiatorkampe</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Op over Myrenes brunlige Flader</l>
+          <l n="v2">reiser sig Aasene, Lag over Lag,</l>
+          <l n="v3">løfter mod Himmelens Tag</l>
+          <l n="v4">dristig sit Amfitheater.</l>
+          <l n="v5">Solen er dalet, Scenen er tom,</l>
+          <l n="v6">dybt i Parterret kun Froskene kvækker,</l>
+          <l n="v7">kjæftes, saa Folketribunen, Hr. Lom,</l>
+          <l n="v8">tyssende over dem trækker.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Trostene rundt ifra Lierne føiter</l>
+          <l n="v10">ned i Orchesteret en efter en,</l>
+          <l n="v11">stemmer fra Snar og fra Gren</l>
+          <l n="v12">let sine Feler og Fløiter.</l>
+          <l n="v13">Tiskende Meiser flokker sig tæt</l>
+          <l n="v14">sammen i Damernes slanke Tribuner,</l>
+          <l n="v15">alt mens i Riddernes Loge koket</l>
+          <l n="v16">Haren sig høvelig syner.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Fra Galleriet gir Spover og Spetter</l>
+          <l n="v18">høist utaalmodige Pibekoncert,</l>
+          <l n="v19">klarere blinker for hvert</l>
+          <l n="v20">Hvælvingens Krans af Lampetter.</l>
+          <l n="v21">Cæsar, blot Cæsar, tøver endnu;</l>
+          <l n="v22">mon hvad for høie Depecher han læser? –</l>
+          <l n="v23">Hørl! hen i Tykningen, ilter i Hu,</l>
+          <l n="v24">Gladiatoren alt fræser.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Stille! se op! der er Rugden i Heien,</l>
+          <l n="v26">Herskerens listende lette Kurer,</l>
+          <l n="v27">varslende hver, som han ser:</l>
+          <l n="v28">Keiseren kommer! afveien! –</l>
+          <l n="v29">Og i den lune, skumrende Kveld</l>
+          <l n="v30">tungt over Top i en aandeløs Pause</l>
+          <l n="v31">basker han ned, Imperatoren selv,</l>
+          <l n="v32">Dominus Tiur den Tause.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Tyst i den høieste Furu han sidder;</l>
+          <l n="v34">mon hvad for Tanker der fylder hans Sjæl,</l>
+          <l n="v35">Skovenes Drot, Mark Aurel,</l>
+          <l n="v36">Nestor iblandt Eremiter? –</l>
+          <l n="v37">Let fra sin Loge gir han et Tegn,</l>
+          <l n="v38">og imod Aasene slaar Ouverturen,</l>
+          <l n="v39">susende fyger fra Tykningens Hegn</l>
+          <l n="v40">Orrerne ind over Myren.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Der sætter Spilfuglen ned ifra Heldet.</l>
+          <l n="v42">Se, hvor han brisker sig, diger og bred!</l>
+          <l n="v43">Nu blir der Liv, skal du se,</l>
+          <l n="v44">Gamlingen leder Kapellet.</l>
+          <l n="v45">Hør, hvor han prøver og prøver sig frem,</l>
+          <l n="v46">om der er holdbare Toner i Tuben!</l>
+          <l n="v47">Nu er han færdig og sender med Klem</l>
+          <l n="v48">“Høisangen” ud gjennem Struben.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Saa gaar det løs over Tuer og Knauser.</l>
+          <l n="v50">Hei, for et fræsende, buldrende Gny!</l>
+          <l n="v51">Svalerne strør ifra Sky;</l>
+          <l n="v52">Salver af yre Applauser.</l>
+          <l n="v53">Vindene sender, Sus efter Sus,</l>
+          <l n="v54">tyssende Bud, som ei agtes og ændses.</l>
+          <l n="v55">Jublende feires for overfyldt Hus</l>
+          <l n="v56">Sommerens sidste “Circenses”.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p432">
+        <head>Midtsommernat</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Farverne blegner og dør efter lidt,</l>
+          <l n="v2">Vinden er langt afgaarde,</l>
+          <l n="v3">Natten den tause paa smygende Skridt</l>
+          <l n="v4">trækker saa blidt</l>
+          <l n="v5">Sommergardinerne fore.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Endnu et Sus over Sjøer og Snar,</l>
+          <l n="v7">dæmpet en sidste Trille,</l>
+          <l n="v8">Gjenboen, stakkar, fortumlet og klar,</l>
+          <l n="v9">prøver paa Svar,</l>
+          <l n="v10">faar ikke til, som han vilde.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Saa blir det tyst ifra Kjelder til Kvist</l>
+          <l n="v12">rundt i de lune Stuer.</l>
+          <l n="v13">Surrende seiler en gammel Torbist,</l>
+          <l n="v14">god og forspist,</l>
+          <l n="v15">hen over Stubber og Tuer.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Myggene spre'r om de tusinde Tun</l>
+          <l n="v17">tykt sine yre Kjeder,</l>
+          <l n="v18">Aftenen aander saa myg og saa lun</l>
+          <l n="v19">Granbar og Dun</l>
+          <l n="v20">ud fra de lønligste Steder.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">Ungbækken ene er vaagen endda,</l>
+          <l n="v22">føler sig frem efter Faret,</l>
+          <l n="v23">ser ikke længer, hvad Vei den skal ta,</l>
+          <l n="v24">dubber saa af,</l>
+          <l n="v25">lægger sig for ind' i Snaret.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Nu er det Midtsommernat over Nord,</l>
+          <l n="v27">alle de Smaa i Armen</l>
+          <l n="v28">blunder hun, Skogen, den kjærlige Mor,</l>
+          <l n="v29">Dæmringens Flor</l>
+          <l n="v30">kruser sig blødt over Barmen.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p433">
+        <head>Stille Messe</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar alle Flyens Moser til Høstens Helg sig flir,</l>
+          <l n="v2">naar Tyttebæret svaler som Druen,</l>
+          <l n="v3">naar Haren snygt i Snaret sin Munkekutte smi'r</l>
+          <l n="v4">og sidder i Hvidt der bagom Tuen,</l>
+          <l n="v5">naar Viddens Vind,</l>
+          <l n="v6">saa lun, saa lind,</l>
+          <l n="v7">til Messen dig ber, den stille, –</l>
+          <l n="v8">da reis dig, Ven,</l>
+          <l n="v9">kom ei med “men;” –</l>
+          <l n="v10">det høver sig saa vist bare ilde.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v11">Nei, skynd dig kun paa Veien, før Festen er forbi.</l>
+          <l n="v12">Du kjender dem, de lyslette Stier;</l>
+          <l n="v13">snart staar du der, en Prakker, i Kirkens Sakristi,</l>
+          <l n="v14">og det er de gyldengule Lier.</l>
+          <l n="v15">Hvert brysomt Plag</l>
+          <l n="v16">af Nid og Nag,</l>
+          <l n="v17">hei, kyl det kun hen i Uren!</l>
+          <l n="v18">Det blir for hedt,</l>
+          <l n="v19">kan sagtens let</l>
+          <l n="v20">jo finde det igjen paa Returen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v21">Derinde, dulgt i Krattet, gaar Elven tyst sin Gang,</l>
+          <l n="v22">saa saare den har vandret og kjæmpet, –</l>
+          <l n="v23">nu stunder den mod Helgen, og derfor slaar dens Sang</l>
+          <l n="v24">imod dig, saa vemodsfuldt, saa dæmpet.</l>
+          <l n="v25">Din Pande sænk,</l>
+          <l n="v26">og tag dens Stænk,</l>
+          <l n="v27">du strævende Søn af Dalen!</l>
+          <l n="v28">og tag dens Fred,</l>
+          <l n="v29">dens Vigsel med,</l>
+          <l n="v30">nu aabner den sig blaanende Salen.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v31">Og om jeg turde træde paa Fløil og Mosaik,</l>
+          <l n="v32">i Palmelundens Lys turde svælge,</l>
+          <l n="v33">hvad heller Viddens Lænde til Kongehal jeg fik,</l>
+          <l n="v34">jeg vidste vel, hvad jeg vilde vælge.</l>
+          <l n="v35">Ei Fløilen varm,</l>
+          <l n="v36">men Flyen arm</l>
+          <l n="v37">den vilde jeg vist forlange</l>
+          <l n="v38">og Viddens Rund</l>
+          <l n="v39">i Høstens Stund</l>
+          <l n="v40">for Palmelunden tusinde Gange.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v41">Nei, aldrig er vel Fjelddomens Søilehal saa blaa,</l>
+          <l n="v42">og aldrig slig en Høihed derinde,</l>
+          <l n="v43">og slig som det har klædt sig det armodslige Straa,</l>
+          <l n="v44">og kan dog ei væve eller spinde.</l>
+          <l n="v45">Slig Dagen lang</l>
+          <l n="v46">til Sol og Sang,</l>
+          <l n="v47">til blinkende Dug i Græsset</l>
+          <l n="v48">forretter tyst</l>
+          <l n="v49">i stille Lyst</l>
+          <l n="v50">Naturen dig sin dødsstille Messe.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p434">
+        <head>Fastelavnsløier</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De lysned ad Morgen, og Kulden var besk.</l>
+          <l n="v2">I Pels og i Pesk</l>
+          <l n="v3">stod Skogen til Halsen begraven;</l>
+          <l n="v4">ja, Smaabusken stakkar, han kunde saa nær</l>
+          <l n="v5">ei trække sit Veir</l>
+          <l n="v6">den haardbare Helg, Fastelavn.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Betænkt fra sin Stue, paa listende Lab</l>
+          <l n="v8">sprang “Pus” over Rab;</l>
+          <l n="v9">han kjendte slig Murring i Maven.</l>
+          <l n="v10">Ja, hvordan han saa skulde bære sig ad,</l>
+          <l n="v11">han maatte ha Mad,</l>
+          <l n="v12">sligt Slag, om det var Fastelavn.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men midt under Farten han sat' sig og vak:</l>
+          <l n="v14">“Hvad var det, som knak? –</l>
+          <l n="v15">Holdt Mikkel ei heller paa Fasten? –</l>
+          <l n="v16">Aa kjære mit Ekorn, hvor skræmte du mig!</l>
+          <l n="v17">Det er bare dig;</l>
+          <l n="v18">hei! har du en Kongle, saa kast'n!”</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Men Ekorn han fræste med Maden i Mund:</l>
+          <l n="v20">“Der er ikke Bund,</l>
+          <l n="v21">god Pus, i din Pung eller Kiste.</l>
+          <l n="v22">Hvordan skal det ende, min Hr. Kavaler? –</l>
+          <l n="v23">Men siden du ber</l>
+          <l n="v24">saa vakkert, saa faar jeg vel friste.”</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Saa kom der en Spette og hilste Goddag</l>
+          <l n="v26">og slog sig ilag.</l>
+          <l n="v27">Hun var baade sulten og gnaven</l>
+          <l n="v28">og for efter Stammen med Skvalder og Præk</l>
+          <l n="v29">og hakked og skreg</l>
+          <l n="v30">som arrigste “Kjærring med Staven”.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">“De ved Frøken Skjære, som huser tæt ved? –</l>
+          <l n="v32">Hvem ante vel det,</l>
+          <l n="v33">at hun skulde la sig forføre!</l>
+          <l n="v34">Men tænk! midt i Fasten saa skal hun ha Smaa!</l>
+          <l n="v35">Ja, slig kan det gaa,</l>
+          <l n="v36">naar Ungdommen ikke vil høre.”</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v37">Men bedst som de knased og gramsed med Lyst,</l>
+          <l n="v38">sneg Solstraalen tyst</l>
+          <l n="v39">sig ind mellem Busker og Grene;</l>
+          <l n="v40">den smat gjennem Snaret og strøde med Kys</l>
+          <l n="v41">og slængte et Drys</l>
+          <l n="v42">omkring af de dyreste Stene.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v43">Da vaagned de gamle, ærværdige Trær,</l>
+          <l n="v44">saa her og saa der,</l>
+          <l n="v45">og rysted de stivnede Lemmer,</l>
+          <l n="v46">og Meiserne, stakkar, som leide hos dem,</l>
+          <l n="v47">de pusled sig frem</l>
+          <l n="v48">og prøvde saa smaat sine Stemmer.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v49">Men Ekorn og Spetten og Haren, den Spret,</l>
+          <l n="v50">saa god og saa mæt,</l>
+          <l n="v51">de slog sig riv-ruskende gale.</l>
+          <l n="v52">Mor Spette, hun trommed, og Haren, hei hop!</l>
+          <l n="v53">han dansed Galop,</l>
+          <l n="v54">mens Ekorn slog Saltomortale.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v55">Men dybt under Sneen laa Bamsen i Kot</l>
+          <l n="v56">og vaagned saa smaat:</l>
+          <l n="v57">“Nei, hær, hvor de faster derude!</l>
+          <l n="v58">Ak, den, som sig havde en aarsgammel Buk!” –</l>
+          <l n="v59">saa drog han et Suk</l>
+          <l n="v60">og snude sig om paa sin Snude.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p435">
+        <head>Sir John Tottenbroom</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">By paa Peisen, Rum paa Bordet,</l>
+          <l n="v2">vidt om Stølen Sne og Blæst.</l>
+          <l n="v3">Sju naa, Firkant! Jeg har Ordet:</l>
+          <l n="v4">“Høgfornemme Englands Gjæst!</l>
+          <l n="v5">Daarligt kan os vel forstaa dig,</l>
+          <l n="v6">Sir John Tottenbroom, din Tull!</l>
+          <l n="v7">men God damn! det ser os paa dig,</l>
+          <l n="v8">du er jevngod med dit Guld.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Fra din Faders Herresale,</l>
+          <l n="v10">ud fra Ætten, stiv og stram,</l>
+          <l n="v11">over Fjeld og djupe Dale</l>
+          <l n="v12">drog du ud som Abraham.</l>
+          <l n="v13">Ikke tog du med dig Niste,</l>
+          <l n="v14">var det ligt sig, fromme Mand!</l>
+          <l n="v15">bare fyldt med Rum en Kiste,</l>
+          <l n="v16">om der skulde fattes Vand.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Saaleds kom du, høie Herre,</l>
+          <l n="v18">med din Bæsse, Telt og Hund</l>
+          <l n="v19">agende i Stolekjærre</l>
+          <l n="v20">op til os i Mamre Lund,</l>
+          <l n="v21">ofred straks, din Gud til Ære,</l>
+          <l n="v22">Sjugur, ja, kor var det, Gut? –</l>
+          <l n="v23">tro, det ikke var en Skjære,</l>
+          <l n="v24">han fik Livet af tilslut</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Opad bar det saa langs Sjoa,</l>
+          <l n="v26">gjennem Liens lyse Løv,</l>
+          <l n="v27">foran, traust som Gubben Noah,</l>
+          <l n="v28">Sjur med Rummen i sin Kløv.</l>
+          <l n="v29">Tungt ihop med Hunden pæser</l>
+          <l n="v30">“Kanten” bag, den late Sjæl,</l>
+          <l n="v31">langt om længe Eliezer</l>
+          <l n="v32">med sin britiske Kamel.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Sidste Knækken op vi stræved;</l>
+          <l n="v34">stygt du svor ved Belsebul;</l>
+          <l n="v35">men med et du Hodet hæved,</l>
+          <l n="v36">satte i et: Beautiful!</l>
+          <l n="v37">for dernede, lig en Slange,</l>
+          <l n="v38">smidig, smal og klippeklemt,</l>
+          <l n="v39">solblank Tange fra til Tange,</l>
+          <l n="v40">grøn og gran, laa Gjende gjemt.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Nysnesprængt laa alle Fjelde,</l>
+          <l n="v42">Guld og Glød om hver en Plet.</l>
+          <l n="v43">Heil da svor du plent at sælge</l>
+          <l n="v44">al din Førstefødselsret,</l>
+          <l n="v45">Arv og Odel, Sal og Svende,</l>
+          <l n="v46">ja, din gamle Bedstemor</l>
+          <l n="v47">for – en mosgrod Plet ved Gjende</l>
+          <l n="v48">og en Dram, – det var dit Ord.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Bredfuld skjænkte vi dig Drammen,</l>
+          <l n="v50">svor igjen en hellig Ed</l>
+          <l n="v51">trut at staa, vi tre tilsammen,</l>
+          <l n="v52">dig i Bedstemoders Sted,</l>
+          <l n="v53">værge dig for Synd og Skade,</l>
+          <l n="v54">dele med dig, hvad der faldt,</l>
+          <l n="v55">Spekemad og Marmelade,</l>
+          <l n="v56">men din gamle Rum for alt.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v57">Hei, Sir John, nu faar du si det:</l>
+          <l n="v58">Holdt vi ikke, hvad vi svor? –</l>
+          <l n="v59">Kolde Bad ved Vintertide</l>
+          <l n="v60">fik du Lov til det af Mor?</l>
+          <l n="v61">Likte hun den Sovesækken</l>
+          <l n="v62">eller Sløset dit med Krudt?</l>
+          <l n="v63">vasked hun dig ei i Bækken,</l>
+          <l n="v64">naar du var paa Kant, min Gut?</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v65">Men hvad hjalp det! Auren trak du</l>
+          <l n="v66">Dagen lang i Vand tilknæs.</l>
+          <l n="v67">Lange Kvelden sad og drak du</l>
+          <l n="v68">Rum i hele Hestelæs,</l>
+          <l n="v69">tog dit Bad og krabbed naken,</l>
+          <l n="v70">kjed af Livet i din Sæk,</l>
+          <l n="v71">bandt forsvarlig til om Hagen,</l>
+          <l n="v72">sa “Good night”! og snorked væk.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v73">Skaal, Sir John! men Pokker være</l>
+          <l n="v74">Bedstemor for dig, god Kar!</l>
+          <l n="v75">Nei, sjaa ud! nu klarner Veiret,</l>
+          <l n="v76">Maanen skotter over Skar,</l>
+          <l n="v77">det blir Søndagsveir paa Fjeldet.</l>
+          <l n="v78">Kryb i Sækken! dyredød!</l>
+          <l n="v79">husk, – imorgen skal du fælde</l>
+          <l n="v80">Ren, Sir John, paa Gjendeshø!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p436">
+        <head>Elvens Aand</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den slog sig paa om Kvelden;</l>
+          <l n="v2">God damn, om jeg forstaarl</l>
+          <l n="v3">nu har den gaat med Snellen</l>
+          <l n="v4">i femogtredve Aar! –</l>
+          <l n="v5">Men nu, saasandt ieg lever,</l>
+          <l n="v6">min gode, gamle Laks, –</l>
+          <l n="v7">hei, Kelner! en Genever! –</l>
+          <l n="v8">nu skal jeg ta dig straks.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Naar Vintrens Tungsind letter</l>
+          <l n="v10">fra Fjeldets Pandehvælv,</l>
+          <l n="v11">og Stryg i Stryg den sætter</l>
+          <l n="v12">paa Sprang den frie Elv,</l>
+          <l n="v13">naar Svalen staar paa Stølen</l>
+          <l n="v14">og murer sit Palads,</l>
+          <l n="v15">da ser den ud af Hølen</l>
+          <l n="v16">bag grønne Vindusglas.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Et sagte Slag med Halen,</l>
+          <l n="v18">et Lyn fra lyse Skjæl,</l>
+          <l n="v19">et vældigt Plask, saa Svalen</l>
+          <l n="v20">gaar mest ifra sig selv,</l>
+          <l n="v21">saa staar den ud fra Rheden,</l>
+          <l n="v22">den pantsrede Pirat,</l>
+          <l n="v23">og Fredens Tid er leden,</l>
+          <l n="v24">min gamle Kamerat;</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Og opad Elven staar det</l>
+          <l n="v26">i Sol og Regn og Rusk,</l>
+          <l n="v27">i Fosseskavl og Baare</l>
+          <l n="v28">og over Rerg og Busk,</l>
+          <l n="v29">mens Trosteparret spotter</l>
+          <l n="v30">vor Færd fra høien Ur,</l>
+          <l n="v31">og Sneppernes Fagotter</l>
+          <l n="v32">slaar ind i Fossens Dur.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Men i de stille Kulper,</l>
+          <l n="v34">hvor Elven paa sin Reis</l>
+          <l n="v35">i trætte Tanker skvulper</l>
+          <l n="v36">imod den sorte Gneis,</l>
+          <l n="v37">hvor tause, grønne Bregner</l>
+          <l n="v38">staar Vagt om Fjeldets Ro,</l>
+          <l n="v39">der, gamle Ven, der tegner</l>
+          <l n="v40">vi Vaabenhvil, vi to.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">I Grottens Hal dybtnede</l>
+          <l n="v42">der tør du ta din Blund;</l>
+          <l n="v43">jeg vil mit Fristed rede</l>
+          <l n="v44">i Bregneskovens Grund,</l>
+          <l n="v45">hvor høit i Bergets Rifter</l>
+          <l n="v46">saa sære Urter staa,</l>
+          <l n="v47">og Birken sagte vifter</l>
+          <l n="v48">mig Kjøling fra det Blaa.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Der vil jeg Hodet gjemme</l>
+          <l n="v50">ved Fjeldets Barm et Bil</l>
+          <l n="v51">og prøve paa at glemme,</l>
+          <l n="v52">jeg nogen Tid var til,</l>
+          <l n="v53">mens Middagssolen svipper</l>
+          <l n="v54">igjennem her og der,</l>
+          <l n="v55">og Erlen gaar og vipper</l>
+          <l n="v56">og bader sine Fjær.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v57">Men straks et Gufs af Kvelden</l>
+          <l n="v58">til Juvets Gryde naar,</l>
+          <l n="v59">hu, hei! da klirrer Snellen,</l>
+          <l n="v60">og ud igjen det staar</l>
+          <l n="v61">i Stryg og Strøm og Viger</l>
+          <l n="v62">og over Myr og Kjær,</l>
+          <l n="v63">saa Lom og Lemaæn skriger</l>
+          <l n="v64">og fræser ad vor Færd.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v65">Saa kommer Høstens Alder</l>
+          <l n="v66">og spakner Elvens Gang;</l>
+          <l n="v67">til sagte Nynnen falder</l>
+          <l n="v68">den ungdomsdjærve Sang,</l>
+          <l n="v69">hvad før i Hvirvler vilde</l>
+          <l n="v70">for frem med Tant og Tøv,</l>
+          <l n="v71">det kruser sig nu stille</l>
+          <l n="v72">langs Liens gule Løv.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v73">Da – i de klare Nætter,</l>
+          <l n="v74">naar rundt med Suk og Hvisk</l>
+          <l n="v75">de svale Vinde smetter</l>
+          <l n="v76">omkring blandt Lyng og Brisk,</l>
+          <l n="v77">naar tusind Blomstersjæle</l>
+          <l n="v78">drar tyst sit sidste Veir,</l>
+          <l n="v79">og uden Liv og Mæle</l>
+          <l n="v80">al Vidden ligger der, –</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v81">Da aabner Dybets Kammer</l>
+          <l n="v82">sig blødt, som af sig selv,</l>
+          <l n="v83">og Maanestraalen flammer</l>
+          <l n="v84">paa blanke Sølverskjæl,</l>
+          <l n="v85">to Øine, dybe, sære,</l>
+          <l n="v86">ser tungsindt paa mig hen;</l>
+          <l n="v87">hvad vil du mig, du kjære,</l>
+          <l n="v88">du underlige Ven? –</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v89">Og op fra Dybet strømmer</l>
+          <l n="v90">det hviskende mod Strand:</l>
+          <l n="v91">“Hvad gaar du der og drømmer,</l>
+          <l n="v92">du stakkars gamle Mand?</l>
+          <l n="v93">Som Luften fri, der svæver</l>
+          <l n="v94">henover Fly og Fon,</l>
+          <l n="v95">saa sorgløs fri jeg lever;</l>
+          <l n="v96">thi jeg er Elvens Aand.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v97">Du tror med frydfuld Skjælven,</l>
+          <l n="v98">at du har fanget mig, –</l>
+          <l n="v99">saa vid da: det er Elven,</l>
+          <l n="v100">som fast har lænket dig;</l>
+          <l n="v101">der har du gaat med Snellen</l>
+          <l n="v102">de mange, lange Aar,</l>
+          <l n="v103">nu er den kommen Kvelden,</l>
+          <l n="v104">da den sit Bytte naar.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v105">Mod Syden seiler Svalen,</l>
+          <l n="v106">og Viddesolen flyr,</l>
+          <l n="v107">dernede pranger Salen</l>
+          <l n="v108">med Vægge af Porfyr,</l>
+          <l n="v109">med kjølige Karnapper</l>
+          <l n="v110">og dunkle Vindusglas,</l>
+          <l n="v111">med Hvælvinger og Trapper</l>
+          <l n="v112">og mangen lønlig Plads.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v113">Kast alle bitre Minder</l>
+          <l n="v114">i Dybets tause Væld!</l>
+          <l n="v115">jeg gir dig brede Finner,</l>
+          <l n="v116">jeg gir dig Sølverskjæl,</l>
+          <l n="v117">jeg gir dig Grottens Brisker</l>
+          <l n="v118">til stille Sovested,</l>
+          <l n="v119">kom, gamle, trætte Fisker,</l>
+          <l n="v120">jeg gir dig Elvens Fred!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p437">
+        <head>Hvad Stæren fortalte</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Stæren (dalende i fuld Fart).</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v2">Fremme!</l>
+          <l n="v3">Her har jeg hjemme.</l>
+          <l n="v4">Førstemand! Førstemand! ser du, hvem vandt?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v5">Sydvesten (susende efter).</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v6">Stille</l>
+          <l n="v7">Tsju da, du Lille!</l>
+          <l n="v8">Mist ikke Pusten, min vesle Gesandt!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v9">Stæren.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v10">Ja, her er det. Ser du Kvernen?</l>
+          <l n="v11">Birken flagger fra dens Tag.</l>
+          <l n="v12">Enslig tindrer Morgenstjernen</l>
+          <l n="v13">over Skogens skymre Drag.</l>
+          <l n="v14">Hørl! i Stalden stamper Blakken,</l>
+          <l n="v15">og i Bakken</l>
+          <l n="v16">læser Hanen alt til Prest.</l>
+          <l n="v17">Is i Elven, Sne bag Gjerdet,</l>
+          <l n="v18">ja, her'er det.</l>
+          <l n="v19">Tak for Følget da, Sydvest!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v20">Sydvesten.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v21">Vesle Stakkar, du er træt.</l>
+          <l n="v22">Mørkt og surt, og ingen oppe;</l>
+          <l n="v23">men giv Agt! de Dovenkroppe!</l>
+          <l n="v24">vi skal gi dem en Duet.</l>
+          <l n="v25">Scherzo, sempre con pedale,</l>
+          <l n="v26">fire Kryds,</l>
+          <l n="v27">Hane, hys!</l>
+          <l n="v28">Slut saa med din Pastorale!</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v29">Duet.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v30">Fjernt fra Orienten kommen han er</l>
+          <l n="v31">Pascha Stær, tititi!</l>
+          <l n="v32">Vigtige Depecher under sine Fjær</l>
+          <l n="v33">vel han bær, tireli!</l>
+          <l n="v34">Af Ordner har han mange,</l>
+          <l n="v35">vaagn op, vaagn op og se!</l>
+          <l n="v36">Af Stilling er han første Attachè</l>
+          <l n="v37">i Udenrigsdepartementet.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v38">Hanen.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v39">Menskebarn i saa staar der skreven . . .</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v40">Kraaken (halvt i Søvne).</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v41">Gjødsel! kom med Gjødsel, Even!</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v42">Spurvene.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v43">Tal! hvad staar der skrevet, Far?</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v44">Hanen.</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v45">Menskebarn! . . . . .</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v46">Stæren.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v47">Titi!</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v48">Lommen</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v49">Se Stæren!</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v50">Tutti.</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v51">Stæren! Stæren! ja, der er 'n</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v52">Kraaken.</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v53">Amen! Prest, saa snar du var.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v54">Duet.</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v55">Op fra Orienten svang han sig brat</l>
+          <l n="v56">over Nat, tititi!</l>
+          <l n="v57">Den statelige Vildgaas var, naar han blev mat,</l>
+          <l n="v58">hans Fregat, tireli.</l>
+          <l n="v59">Den bar ham i det Fjerne</l>
+          <l n="v60">den Luftens Orlogsmand,</l>
+          <l n="v61">den bar ham over Land og over Vand</l>
+          <l n="v62">alt under den tindrende Stjerne.</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v63">Hanen.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v64">Verdensbarn! som Prest paa Stedet  – – –</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v65">Kraaken (afbrydende).</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v66">Ser jeg dig igjen med Glæde.</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v67">Spurvene.</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v68">Æventyr! fortæl! fortæl!</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v69">Hanen.</l>
+          <l n="v70">Sognebarn! . . .</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v71">Meiserne.</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v72">Fortæl!</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v73">Hanen.</l>
+        </lg>
+        <lg n="s39" type="stanza">
+          <l n="v74">Forbandet! . . .</l>
+        </lg>
+        <lg n="s40" type="stanza">
+          <l n="v75">Tutti.</l>
+        </lg>
+        <lg n="s41" type="stanza">
+          <l n="v76">Æventyr fra Østerlandet!</l>
+        </lg>
+        <lg n="s42" type="stanza">
+          <l n="v77">Sydvesten (susende videre).</l>
+        </lg>
+        <lg n="s43" type="stanza">
+          <l n="v78">Lille Stær, farvel, farvel!</l>
+        </lg>
+        <lg n="s44" type="stanza">
+          <l n="v79">Stæren,</l>
+        </lg>
+        <lg n="s45" type="stanza">
+          <l n="v80">Hvor Sykomoren bæver</l>
+          <l n="v81">i Nattens yre, yppige Drøm,</l>
+          <l n="v82">et Seil langs Templet svæver</l>
+          <l n="v83">paa Nilens blanke, blaanende Strøm,</l>
+          <l n="v84">her, fra Denderas Søilegang</l>
+          <l n="v85">slaar der mod dig en sælsom Sang,</l>
+          <l n="v86">over Gravene,  Vandrer stans! –</l>
+          <l n="v87">gaar Ghavaziens Dans.</l>
+        </lg>
+        <lg n="s46" type="stanza">
+          <l n="v88">En pjaltet Neger smiler,</l>
+          <l n="v89">paa Muren sidder Fellaen varm,</l>
+          <l n="v90">den slanke Nubier hviler</l>
+          <l n="v91">ved Blomsterpigens bølgende Barm.</l>
+          <l n="v92">Svøbt i Silke, behængt med Guld</l>
+          <l n="v93">over Faraoslegtens Muld</l>
+          <l n="v94">hen hun hvirvler sig, – Vandrer se! –</l>
+          <l n="v95">vildt paa dirrende Knæ.</l>
+        </lg>
+        <lg n="s47" type="stanza">
+          <l n="v96">Det sorte Øie glitrer</l>
+          <l n="v97">i vild, bakkantisk, luende Lyst,</l>
+          <l n="v98">de gyldne Smykker sitrer</l>
+          <l n="v99">omkring det unge, blottede Bryst.</l>
+          <l n="v100">Hodet vugger til Rythmens Drag,</l>
+          <l n="v101">Foden skifter i Lynets Jag,</l>
+          <l n="v102">Armen bøier sig blød og rund</l>
+          <l n="v103">med den lokkende Mund.</l>
+        </lg>
+        <lg n="s48" type="stanza">
+          <l n="v104">Mod Templets høie Tinde</l>
+          <l n="v105">slaar Jublen op med Vindenes Vift;</l>
+          <l n="v106">der lyser Maaneskinnet</l>
+          <l n="v107">paa svundne Tiders manende Skrift.</l>
+          <l n="v108">Men hun ændser, hun ser den ei,</l>
+          <l n="v109">stedse vildere gaar det, hei!</l>
+          <l n="v110">hver en Muskel er vellyst-spændt,</l>
+          <l n="v111">alt til Natten endt</l>
+        </lg>
+        <lg n="s49" type="stanza">
+          <l n="v112">Men da, naar Mørket viger,</l>
+          <l n="v113">og Eos farver Denderas Jord,</l>
+          <l n="v114">naar Memnons Klage stiger</l>
+          <l n="v115">imod den fagre, flygtige Mor,</l>
+          <l n="v116">da, naar Sjælen er vellyst-træt,</l>
+          <l n="v117">Nattens jublende Sværm er spredt,</l>
+          <l n="v118">da slaar Glæden til Anger om,</l>
+          <l n="v119">Sanserusen til Dom.</l>
+        </lg>
+        <lg n="s50" type="stanza">
+          <l n="v120">Forstenet, bleg som Døden</l>
+          <l n="v121">ved Søilens Fod hun knæler i Bøn,</l>
+          <l n="v122">og op mod Morgenrøden</l>
+          <l n="v123">gaar Sjælens sagte, jamrende Støn.</l>
+          <l n="v124">Ikke Perler, ei Ædelsten,</l>
+          <l n="v125">Fuglesang ifra grønne Gren,</l>
+          <l n="v126">Palmesus i den unge Dag</l>
+          <l n="v127">lindrer Tankernes Nag.</l>
+        </lg>
+        <lg n="s51" type="stanza">
+          <l n="v128">Og da jeg Vingen spændte</l>
+          <l n="v129">til Flugt imod den hjemlige Jord,</l>
+          <l n="v130">da saa hun op og sendte</l>
+          <l n="v131">en Hilsen med i klagende Ord:</l>
+          <l n="v132">«Stær, aa, kunde jeg flyve med,</l>
+          <l n="v133">to mig ren i den hvide Sne! –</l>
+          <l n="v134">har ei Vinger, naar aldrig frem</l>
+          <l n="v135">til dit blaanende Hjem.”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p438">
+        <head>Per Spillemand</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Per Spillemand han laa bortmed Gjende med Gjed,</l>
+          <l n="v2">og Gigten den brød i hans Bringe.</l>
+          <l n="v3">Af Aasyn var han dyster som Moses, den Profet,</l>
+          <l n="v4">og Fela den vilde ei klinge :</l>
+          <l n="v5">“Tram, tram, teram!” – en Dram</l>
+          <l n="v6">var Helsebod for ham;</l>
+          <l n="v7">men hvor skulde Drammen han tinge?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Per Spillemand han slog nok som Moses paa Fjeld;</l>
+          <l n="v9">for Drammen den kom som en Gaade.</l>
+          <l n="v10">Da løsned han for Bringen, da lysnede han vel,</l>
+          <l n="v11">og Fela den tog til at laate.</l>
+          <l n="v12">“Du Dram”, teram, tram, tro! –</l>
+          <l n="v13">“du styrker gammelt Blod,</l>
+          <l n="v14">at si, naar en tar dig tilmaade”.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Per Spillemand han drak vel for en og for to;</l>
+          <l n="v16">han mindtes sin Kjærring, hu Karen.</l>
+          <l n="v17">Saa for han over Fela, det ljomed og det lo,</l>
+          <l n="v18">der gik hu og stulled paa Garden.</l>
+          <l n="v19">Tram, tram, teram, tram, tra! –</l>
+          <l n="v20">“Hvor jeg tog Drammen fra? . . . . .</l>
+          <l n="v21">du skulde vel vidst det, du Karen!”</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v22">Per Spillemand, den gamle, den gjæve Profet,</l>
+          <l n="v23">han drak sig den tredje tilmaade.</l>
+          <l n="v24">Da randt den ham isinde den dunkle Evighed,</l>
+          <l n="v25">og Fela den tog til at graate.</l>
+          <l n="v26">Tram, tram, teram, tram, traa! –</l>
+          <l n="v27">“aa, Evighed, du blaa,</l>
+          <l n="v28">du er mig saa dunkel en Gaade!”</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v29">Per Spillemand han laa bortmed Gjende og sov;</l>
+          <l n="v30">men om ham saa stangtes hans Gjeder.</l>
+          <l n="v31">Han drømte, at han gik sig i Paradisets Skov;</l>
+          <l n="v32">der mødte han selve St. Peter.</l>
+          <l n="v33">St. Peter, lys som Sne,</l>
+          <l n="v34">han mælte: “Bæ-æ-æ! –</l>
+          <l n="v35">men Per, er det saaleds, du gjeter!” –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p439">
+        <head>Heiloen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar Blaaklokken ringer til Aftensang,</l>
+          <l n="v2">og Dagen gaar tyst bag Tinde,</l>
+          <l n="v3">naar Myruld vidt over Hei og Vang</l>
+          <l n="v4">hun vugger for Viddens Vinde,</l>
+          <l n="v5">da vækkes hans Trang,</l>
+          <l n="v6">da synger han tung isinde</l>
+          <l n="v7">sin Svanesang.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Han holder sig aldrig til Granegren,</l>
+          <l n="v9">men heller til Viddens Vænge,</l>
+          <l n="v10">af Toner eier han bare en,</l>
+          <l n="v11">men en, som vil mindes længe,</l>
+          <l n="v12">en fløitende ren,</l>
+          <l n="v13">som dirrer for fulde Strenge</l>
+          <l n="v14">i Kvelden sen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Thi Heiloens fattige Melodi</l>
+          <l n="v16">den løser de tusind Munde;</l>
+          <l n="v17">det tause Tjern og hver Bæk er fri,</l>
+          <l n="v18">hver Blomst i de spare Lunde,</l>
+          <l n="v19">ja, Lyng over Li</l>
+          <l n="v20">de blander saa mangelunde</l>
+          <l n="v21">sin Røst deri.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v22">Saa tør han da kalde sig Viddens Skald,</l>
+          <l n="v23">og ingen hans Ros skal tage;</l>
+          <l n="v24">tilfulde tar han dens Tonefald</l>
+          <l n="v25">og tolker dens Tungsinds Klage</l>
+          <l n="v26">og hæver dens Kald</l>
+          <l n="v27">de signede Høifjeldsdage,</l>
+          <l n="v28">den ædle Skald.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p440">
+        <head>Kongemausolæ</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvor høit over Vidder og Vande</l>
+          <l n="v2">den velter, den skinnende Memurubræ</l>
+          <l n="v3">mod Tinder og styrtende Strande,</l>
+          <l n="v4">der ligger et kongeligt Mausolæ.</l>
+          <l n="v5">Her sover saa tyst i sin Grav</l>
+          <l n="v6">en Drot over blaanende Lande,</l>
+          <l n="v7">og ingen ved noget deraf.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Dybt ind under Bræhavets Baarer</l>
+          <l n="v9">der hæver sig dristig den vældige Hal,</l>
+          <l n="v10">der blinker i blaagrønne Aarer</l>
+          <l n="v11">i Hvælvet det kjølige Iskrystal,</l>
+          <l n="v12">der glitrer med Perler og Lin,</l>
+          <l n="v13">med Søiler af stivnede Taarer</l>
+          <l n="v14">den sælsomme Gravbaldakin.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Dernede paa sølvskjære Puder</l>
+          <l n="v16">der hviler i Døden den Konge saa ven,</l>
+          <l n="v17">den Herre til Bræer og Nuter,</l>
+          <l n="v18">den vilde, den vældige Høifjeldsren.</l>
+          <l n="v19">Saa lunt mod den graabrune Pels</l>
+          <l n="v20">det kronede Hode han luder;</l>
+          <l n="v21">for nu er det Aften tilfjelds.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v22">Men engang var der Dag om Tind,</l>
+          <l n="v23">Ungdomsglød i Gammelkaren,</l>
+          <l n="v24">engang skar'n</l>
+          <l n="v25">gjennem Fjeldet</l>
+          <l n="v26">rappere end Viddens Vind,</l>
+          <l n="v27">engang var'n</l>
+          <l n="v28">Høvding over Høifjeldsvalen –</l>
+          <l n="v29">Heimdalshø til Uladalen,</l>
+          <l n="v30">Falken fra til Glittertind.</l>
+          <l n="v31">I sin Yndlingsgrænd paa Isen</l>
+          <l n="v32">i det svarte Blaatjernshullet</l>
+          <l n="v33">under Nautgardtindens Slot</l>
+          <l n="v34">laa den sterke, tankefulde</l>
+          <l n="v35">unge Drot</l>
+          <l n="v36">drømmende i Sommerdisen.</l>
+          <l n="v37">Op til hans straalende Høisæde stiger,</l>
+          <l n="v38">dæmpet og blødt,</l>
+          <l n="v39">Lyd som af Harper og Giger.</l>
+          <l n="v40">Er det Blaaklokkeklang</l>
+          <l n="v41">eller Solsikke-Sang</l>
+          <l n="v42">eller Vindenes Nyn ifra Heldet?</l>
+          <l n="v43">Er det Bækkenes Spret</l>
+          <l n="v44">eller Tittingens fløitende Flageolet? –</l>
+          <l n="v45">Alt alt under et, –</l>
+          <l n="v46">det er “Alfernes Dans,” af Kapellet.</l>
+          <l n="v47">Men ildfuldt og let</l>
+          <l n="v48">om det kronede Hode</l>
+          <l n="v49">leger hans Æt,</l>
+          <l n="v50">fjeldbaarne Prinser af Blodet.</l>
+          <l n="v51">Hei, det var Spret!</l>
+          <l n="v52">for en Fyg og en Fart, hvor de hopper og himler,</l>
+          <l n="v53">hvirvler med et</l>
+          <l n="v54">Snespruten midt i den lynsnare Vending</l>
+          <l n="v55">høi som en Brænding</l>
+          <l n="v56">op om de sovende Simler.</l>
+          <l n="v57">Uforstyrret tryg og bred,</l>
+          <l n="v58">Hodet halvveis vendt fra Vinden,</l>
+          <l n="v59">stirrer han imens mod Tinden,</l>
+          <l n="v60">Nautgardtindens Høipalæ,</l>
+          <l n="v61">drømmer sagtens om de mange</l>
+          <l n="v62">overstaa'te aarelange</l>
+          <l n="v63">Feidetog i Ny og Næ,</l>
+          <l n="v64">til han blev</l>
+          <l n="v65">Høvding over Høifjeldsvalen,</l>
+          <l n="v66">Heimdalshø til Uladalen,</l>
+          <l n="v67">Falken fra til Tjernhulsbræ.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v68">Tiderne gik, og den hugstore Herre</l>
+          <l n="v69">tog efter hvert til at drage paa Aarene;</l>
+          <l n="v70">mørke blev Haarene,</l>
+          <l n="v71">skrukket hans Bug,</l>
+          <l n="v72">Hornenes Tagger, hundred i Tallet,</l>
+          <l n="v73">steg som en Skog fra den hærdede Skalle,</l>
+          <l n="v74">spaknet var ene</l>
+          <l n="v75">Elskovens Hug.</l>
+          <l n="v76">Da blev det vene,</l>
+          <l n="v77">vældige Graadyr,</l>
+          <l n="v78">værdig af Alder</l>
+          <l n="v79">kaaret til Flokkenes “Halder”.</l>
+          <l n="v80">Høsten var omme;</l>
+          <l n="v81">alle de fromme, blaanende, røde</l>
+          <l n="v82">Barn af det fattige Fjeld var døde,</l>
+          <l n="v83">angstfulde somme,</l>
+          <l n="v84">andre med glødende Tro</l>
+          <l n="v85">havde som Gjederams ofret sit Blod,</l>
+          <l n="v86">Gulskjæg og Graaskjæg, Side om Side,</l>
+          <l n="v87">havde de krøbet sig stille tilro,</l>
+          <l n="v88">Tyttebær, Tryter og hundrede flere</l>
+          <l n="v89">var ikke mere.</l>
+          <l n="v90">Tiden var kommen;</l>
+          <l n="v91">over de livløse Vande skreg Lommen;</l>
+          <l n="v92">hylende, jamrende</l>
+          <l n="v93">hivde sig Vindene frem bagom Hamrene,</l>
+          <l n="v94">smøg sig med pibende Mund</l>
+          <l n="v95">ifra Botnernes Bund,</l>
+          <l n="v96">rusked de hvidklædte Tinder i Tottene,</l>
+          <l n="v97">styrted sig spottende</l>
+          <l n="v98">atter til Dalenes dybeste Grund. –</l>
+          <l n="v99">Det var Elskovens Stund.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v100">Frem ifra Botnerne, Bergene, Skarene,</l>
+          <l n="v101">Færd efter Færd,</l>
+          <l n="v102">styrted de, stimed de, Stormen i Farene</l>
+          <l n="v103">Høifjeldets Hær,</l>
+          <l n="v104">Horn efter grenede Horn uden Ende,</l>
+          <l n="v105">“Skogen fra Dunsinan” drog imod Gjende.</l>
+          <l n="v106">Pakkende tæt i det knausede Lænde</l>
+          <l n="v107">flokked sig Simlerne sammen til Tusinde.</l>
+          <l n="v108">Frem for han susende</l>
+          <l n="v109">foran sin Iront.</l>
+          <l n="v110">Hornenes Tagger, hundred i Tallet,</l>
+          <l n="v111">steg som en Skog fra den hærdede Skalle,</l>
+          <l n="v112">Flokkenes Halder</l>
+          <l n="v113">røgted sin Dont.</l>
+          <l n="v114">Nidkjær om Retten</l>
+          <l n="v115">holdt han de flygtige Simler paa Pletten,</l>
+          <l n="v116">basked med Bukkene,</l>
+          <l n="v117">slængte de mukkende,</l>
+          <l n="v118">sindig og sterk,</l>
+          <l n="v119">ud efter Sletten,</l>
+          <l n="v120">indtil sin Ende, den vældige Halder,</l>
+          <l n="v121">tro i sit Verk.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v122">Til sin Ende;</l>
+          <l n="v123">thi alt lenge havde Døden</l>
+          <l n="v124">stillet paa sit Kongebytte;</l>
+          <l n="v125">lumsk og lur</l>
+          <l n="v126">laa “Jo Gjende”,</l>
+          <l n="v127">Jotunheimens Kongeskytte,</l>
+          <l n="v128">krybende i Myr og Ur,</l>
+          <l n="v129">uden Nytte</l>
+          <l n="v130">dagstøt efter Gammelkaren.</l>
+          <l n="v131">Agtsom paa det mindste Drag,</l>
+          <l n="v132">merked han bestandig Faren,</l>
+          <l n="v133">sprat i Veiret, varsled Skaren</l>
+          <l n="v134">”og forsvandt i Lynets Jag,</l>
+          <l n="v135">alt mens Skytten, harm i Sindet,</l>
+          <l n="v136">slængte Bøssen op til Kindet,</l>
+          <l n="v137">skjød i Mist,</l>
+          <l n="v138">bandte, saa det lynte om 'n:</l>
+          <l n="v139">“Næste Gang var Stunden kommen”;</l>
+          <l n="v140">og saa kom den da tilsidst.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v141">Uforstyrret, tryg og bred,</l>
+          <l n="v142">gik han der i Aftenvinden,</l>
+          <l n="v143">just som Solen sank bag Tinden,</l>
+          <l n="v144">Nautgardtindens Høipalæ.</l>
+          <l n="v145">Høstens gyldne Farvestrømme</l>
+          <l n="v146">bar hans Drømme</l>
+          <l n="v147">vidt udover til de mange</l>
+          <l n="v148">ungdomsfriske, aarelange</l>
+          <l n="v149">Feidetog i Ur og Bræ.</l>
+          <l n="v150">Da – faldt Skuddet brat – og se!</l>
+          <l n="v151">Herren over Høifjeldsvalen,</l>
+          <l n="v152">Heimdalshø til Uladalen,</l>
+          <l n="v153">vakled, seg og sank iknæ.</l>
+          <l n="v154">Kraften brudt og Modet knækket</l>
+          <l n="v155">laa han magtløs i sin Ve;</l>
+          <l n="v156">da – med et</l>
+          <l n="v157">sprat han op fra Mosedækket –</l>
+          <l n="v158">nei, han vilde dø i Fred,</l>
+          <l n="v159">Livet kunde de ta fra ham,</l>
+          <l n="v160">aldrig naa ham, aldrig ta ham,</l>
+          <l n="v161">Øiet hvast og Hodet hæret,</l>
+          <l n="v162">utæmt, som han havde levet,</l>
+          <l n="v163">for i Døden han afsted</l>
+          <l n="v164">Opad Heien, gjennem Skaret,</l>
+          <l n="v165">langs med Stup og Styrtning bar det</l>
+          <l n="v166">op mod Bræen, der den laa</l>
+          <l n="v167">høi og solbelyst og banet,</l>
+          <l n="v168">dyb og ren som Oceanet</l>
+          <l n="v169">ind mod Hvælvets dunkle Blaa.</l>
+          <l n="v170">Det var den, han stunded efter,</l>
+          <l n="v171">den, der saa hans Barndoms Leg,</l>
+          <l n="v172">den, han med de sidste Kræfter</l>
+          <l n="v173">naadde, vaklende og vek.</l>
+          <l n="v174">Foden gled, men han var fremme,</l>
+          <l n="v175">atter paa sit Ungdoms Hav,</l>
+          <l n="v176">Hodet sank, men han var hjemme,</l>
+          <l n="v177">øined alt den aabne Grav.</l>
+          <l n="v178">Endnu engang saa han vide</l>
+          <l n="v179">ud ifra sin Kongestol</l>
+          <l n="v180">over Fjeld og fjerne Vande,</l>
+          <l n="v181">end et Streif af Høstens Sol</l>
+          <l n="v182">paa den hæderkronte Pande,</l>
+          <l n="v183">og saa sank han, seg han, laa han,</l>
+          <l n="v184">sov han i sin Kongevælde</l>
+          <l n="v185">Dødens Søvn i Brækapellet. –</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v186">Naar Solen om Sommeren stiger</l>
+          <l n="v187">høit opover Hvælvet med flammende Skin,</l>
+          <l n="v188">dybt ned gjennem Aabningen kiger</l>
+          <l n="v189">nysgjerrig en glitrende Straale ind.</l>
+          <l n="v190">Den kysser den graabrune Pels</l>
+          <l n="v191">og hilser fra Dagenes Riger,</l>
+          <l n="v192">at nu er det Morgen tilfjelds.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v193">Om Kvelden, naar Stjernerne tænder</l>
+          <l n="v194">vidt henover Bræen sin gnistrende Ild,</l>
+          <l n="v195">da stundom og stadig det hænder,</l>
+          <l n="v196">at Ræven og Fjeldfrasen lusker til</l>
+          <l n="v197">og svinser paa smygende Fjed</l>
+          <l n="v198">og viser de glisende Tænder</l>
+          <l n="v199">og kan ikke komme derned.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v200">Men naar over Vidder og Vande</l>
+          <l n="v201">den vældige Vinter svinger sin Stav,</l>
+          <l n="v202">da lægger den skinnende Fanne</l>
+          <l n="v203">sig høit over Hallen og stænger den af.</l>
+          <l n="v204">Der sover han tyst i sin Grav</l>
+          <l n="v205">den Herre til blaanende Lande,</l>
+          <l n="v206">og ingen ved noget deraf.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p441">
+        <head>Nils Vadsenden og Sjøormen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">O gamle Nils Vadsenden, modig og let,</l>
+          <l n="v2">han ro'de sig hjem ifra Gilde:</l>
+          <l n="v3">“Hei hop! du mi Anne, nu hold dig beredt;</l>
+          <l n="v4">det var da forsæt,</l>
+          <l n="v5">saa Lommen, han bærer sig ilde!”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Saa kom der en Blaaster og svalte hans Blod</l>
+          <l n="v7">og la sig imod som en Time:</l>
+          <l n="v8">“Aa, nei”, tænkte Nils, “en for ta det med Ro,</l>
+          <l n="v9">og tænk, om jeg slog a i Svime!</l>
+          <l n="v10">Den Skyen, ho, ho!</l>
+          <l n="v11">nei, slig som den ligner en Lime!”</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v12">Og gamle Nils Vadsenden, furet og graa,</l>
+          <l n="v13">han sad der og kvilte paa Aaren'</l>
+          <l n="v14">“Gud give nu bare, hun sov, der hun laa,</l>
+          <l n="v15">saa langt som det lider paa Morgen!</l>
+          <l n="v16">Og nifst er det aa</l>
+          <l n="v17">at komme saa enslig til Gaarden!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v18">Men ret som nu Gamlingen gav sig ivei,</l>
+          <l n="v19">saa vak han: “Aa fri og bevare!”</l>
+          <l n="v20">for mod ham kom Sjøormen, diger og brei,</l>
+          <l n="v21">med Øine saa gloende klare:</l>
+          <l n="v22">“Aa nei, er det dig!</l>
+          <l n="v23">er slige Folk ude at fare?”</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v24">“Jonok”, nikked Ormen, det var da han selv,</l>
+          <l n="v25">det nytted vel lidet at dølge;</l>
+          <l n="v26">men Vadsenden mente, det var da et Held,</l>
+          <l n="v27">saa kunde de sagtens slaa Følge;</l>
+          <l n="v28">han agted sig vel</l>
+          <l n="v29">at sætte for farlig en Bølge.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v30">“Jovist”, brummed Ormen og gjorde et Spret,</l>
+          <l n="v31">saa Nils lo sig lemster i Vommen:</l>
+          <l n="v32">“Hei hop, du mi Anne, nu hold dig beredt</l>
+          <l n="v33">at by os af Hjertet velkommen!</l>
+          <l n="v34">Det var da forsæt,</l>
+          <l n="v35">han vil ikke tie, den Lommen.”</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v36">Men bedst som det var, gjorde Ormen en Stans:</l>
+          <l n="v37">“Du Nils, aa fortæl, du som kan det;</l>
+          <l n="v38">jeg ser saa urimelig kleint overvands,</l>
+          <l n="v39">hvad er det, som kreker paa Vandet –</l>
+          <l n="v40">bent ud for min Svans –</l>
+          <l n="v41">der bortunder Nordre Landet?”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v42">“Aa nei da!” skreg Nils, “for en Skjændsel og Skam!”</l>
+          <l n="v43">og gjorde et Klask med sin Aare,</l>
+          <l n="v44">“der har du et Øie saa stort som en Dam,</l>
+          <l n="v45">og endda, hvormeget forslaar det!</l>
+          <l n="v46">Det er jo en Pram,</l>
+          <l n="v47">som seger sig sagte afgaarde.”</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v48">Men som de kom Prammen paa nærmere Hold,</l>
+          <l n="v49">skjød Ormen sig ende i Veiret</l>
+          <l n="v50">og hvæste, saa diger og høi som en Toll:</l>
+          <l n="v51">“Du Nils, men fortæl mig, hvad er det</l>
+          <l n="v52">for fælande Trold,</l>
+          <l n="v53">som sidder i Prammen da, kjære?” –</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v54">Og det var Nils Vadsenden, liden og bred,</l>
+          <l n="v55">han sad der og tørked sin Pande:</l>
+          <l n="v56">“Det der borti Prammen,  nu ja lad mig se;</l>
+          <l n="v57">for jeg er jo Karen, som kan det; –</l>
+          <l n="v58">nei nu maa jeg le!</l>
+          <l n="v59">Det er jo mi Kjærring, hu Anne!”</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v60">“Aa nei dal” sa Ormen, “ja nu faar vi skill's;</l>
+          <l n="v61">for Sola, hun vil til at renne,</l>
+          <l n="v62">og Iøølge det faar du jo fremover, Nils,</l>
+          <l n="v63">det bedste, du ved, tør det hænde;</l>
+          <l n="v64">ja, værsegod hils</l>
+          <l n="v65">som bedst, naar du kjem dig at"-ende.”</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v66">Og det var Nils Vadsenden, lækkert han for</l>
+          <l n="v67">og hilste, saa fagert han vidste:</l>
+          <l n="v68">“Bad Sjøormen pent at se indom, jeg, Mor;</l>
+          <l n="v69">men tror du, han vel lod sig friste!</l>
+          <l n="v70">Aa, neiom du tror,</l>
+          <l n="v71">saa blyg han er blit paa det Sidste!” –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p442">
+        <head>Skogenes Sjæl</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du er som en Fugl dybtinde</l>
+          <l n="v2">i Skogenes lune Grund,</l>
+          <l n="v3">saa var og saa vrang at binde</l>
+          <l n="v4">som Suset fra Granemund,</l>
+          <l n="v5">et Knæk i de tørre Kviste,</l>
+          <l n="v6">en Vending, et Ord, som faldt,</l>
+          <l n="v7">og – var det ei det, jeg vidste, –</l>
+          <l n="v8">der løfted du Vingen alt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Ja, var jeg en snedig Jæger,</l>
+          <l n="v10">jeg fatted saavist din Angst;</l>
+          <l n="v11">men nu, da et Blomsterbæger,</l>
+          <l n="v12">et Straa er min hele Fangst,</l>
+          <l n="v13">mit Maal er det Blaa, som hvælver</l>
+          <l n="v14">sig høit over Skog og Hei,</l>
+          <l n="v15">ja, nu – da for dig jeg skjælver</l>
+          <l n="v16">langt mere end du for mig! . . . .</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Men hør nu, min vilde Due!</l>
+          <l n="v18">for nu vil jeg snakke fra:</l>
+          <l n="v19">du tror vel, din trygge Tue</l>
+          <l n="v20">ved ingen i Verden af;</l>
+          <l n="v21">men lad du kun Hodet hænge,</l>
+          <l n="v22">og giv dig, saa sky du er:</l>
+          <l n="v23">jeg saa dig en Dag, saalænge,</l>
+          <l n="v24">saa nøie, saa deilig nær.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Jeg vandred paa Sommerstien.</l>
+          <l n="v26">alene, ved Solefald;</l>
+          <l n="v27">der hørtes ei Liv i Lien,</l>
+          <l n="v28">ei Lyd over Skogen al;</l>
+          <l n="v29">selv Trosten forholdt sin Trille</l>
+          <l n="v30">og Bækken sin skjulte Vei,</l>
+          <l n="v31">da – midt i det dybe Stille –</l>
+          <l n="v32">da fanged mit Øie dig.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Der sad du saa solomskyllet</l>
+          <l n="v34">dybtinde i Granetun,</l>
+          <l n="v35">af duftende Lyng omhyllet,</l>
+          <l n="v36">i Fløil af Fjær og Dun.</l>
+          <l n="v37">Jeg fanged dit Blik, det blanke,</l>
+          <l n="v38">og Heienes tunge Sind</l>
+          <l n="v39">og Skogenes sære Tanke,</l>
+          <l n="v40">de gled mig i Sjælen ind.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Og nu – er det altid stille,</l>
+          <l n="v42">der ene jeg tar min Vei,</l>
+          <l n="v43">og nu – om jeg aldrig vilde,</l>
+          <l n="v44">saa ser jeg dog altid dig.</l>
+          <l n="v45">Du er som en Fugl dybtinde,</l>
+          <l n="v46">saa var og saa varm og hel,</l>
+          <l n="v47">du yndige unge Kvinde,</l>
+          <l n="v48">du. Skogenes skye Sjæl.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p443">
+        <head>Troldtinderne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De var i Asatidens Afmagtsalder;</l>
+          <l n="v2">tungt velted Skodden over Fjeld og Fjord.</l>
+          <l n="v3">I Hel sad magtesløs den milde Balder,</l>
+          <l n="v4">og uden Hammer vandred Asathor</l>
+          <l n="v5">igjennem Thrudvangs øde Bjelkehaller</l>
+          <l n="v6">i dystre Tanker over Nornens Ord.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Men om paa Fjeldene drev Trold og Vætter</l>
+          <l n="v8">en Ufærd, endeløs og uden Maal;</l>
+          <l n="v9">lydt larmed Luren i de lange Nætter,</l>
+          <l n="v10">det skreg i Heiene, der klirred Staal,</l>
+          <l n="v11">og tyst smøg Jutuler og lodne Jetter</l>
+          <l n="v12">som dunkle Skygger om de røde Baal.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men nedad i Dalenes Gap</l>
+          <l n="v14">drønnende, susende</l>
+          <l n="v15">hivde de hujende, bent efter Husene</l>
+          <l n="v16">Rap efter Rap.</l>
+          <l n="v17">Kamper, som hang over Tinder og Knart,</l>
+          <l n="v18">kipped og kanted og kom sig i Fart,</l>
+          <l n="v19">føg gjennem Luften fra Hammer til Hammer,</l>
+          <l n="v20">splintrende, knusende</l>
+          <l n="v21">Koller og Nabber og knudrede Stammer,</l>
+          <l n="v22">fured sig, dybt ind' i Liernes Krat,</l>
+          <l n="v23">frem under Birkenes Sukken og Skjælven,</l>
+          <l n="v24">gjorde et Byks ifra Bredden og skvat</l>
+          <l n="v25">dundrende midt udi Elven.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v26">Men ud af sin Seng,</l>
+          <l n="v27">af søvntunge Drømme</l>
+          <l n="v28">for Elven forstyrret</l>
+          <l n="v29">og skjød sine Strømme</l>
+          <l n="v30">i hvirvlende Vover</l>
+          <l n="v31">udover</l>
+          <l n="v32">mod Ager og Eng</l>
+          <l n="v33">og velted mod Tunet i Dagningen bleg</l>
+          <l n="v34">og styrted mod Stalden,</l>
+          <l n="v35">hvor Hestene stamped,</l>
+          <l n="v36">og fossed i Fjøset,</l>
+          <l n="v37">hvor Dyrene tramped</l>
+          <l n="v38">og gnugged sig sammen</l>
+          <l n="v39">med Brøl og med Bræg,</l>
+          <l n="v40">og voksed og steg</l>
+          <l n="v41">og naadde til Huset og skvalped om Trammen</l>
+          <l n="v42">i listende Leg.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v43">Stod han der, den slidne Bonde,</l>
+          <l n="v44">bleg og sansesløs i Svalen,</l>
+          <l n="v45">lofte lønlig sine Guder</l>
+          <l n="v46">dyre Juleblot og Gaver,</l>
+          <l n="v47">bød dem, Asathor og Odin,</l>
+          <l n="v48">største Studen, bedste Bukken,</l>
+          <l n="v49">gjævest Hest, som Stalden aatte,</l>
+          <l n="v50">for sit Hus og for sin Hejm.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v51">Ei et Glimt af Haab at øine,</l>
+          <l n="v52">ei et Ord fra høie Guder,</l>
+          <l n="v53">bare Vandene, som vasker</l>
+          <l n="v54">tungt og trægt mod Tømmervæggen,</l>
+          <l n="v55">bare Drøn af Ras, som ramler,</l>
+          <l n="v56">Støn af Dyr, som strir med Døden,</l>
+          <l n="v57">og en vildsom Kraakes hæse</l>
+          <l n="v58">Skrig imod den dystre Dag.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v59">Fygende Skyer for Storm fra Nord,</l>
+          <l n="v60">Sol gjennem blaanende Sprækker,</l>
+          <l n="v61">flaksende Maager i sjøsalt Spor,</l>
+          <l n="v62">Drev over flyvende Snekker, –</l>
+          <l n="v63">slig staar de gryende Tiders Thor</l>
+          <l n="v64">indover Romsdalsfjord.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v65">Forrest i Løftingen, seiersglad,</l>
+          <l n="v66">kranset af hærdede Helte,</l>
+          <l n="v67">Ild i sit Øie, fra Jehova</l>
+          <l n="v68">Hammer og Styrkebelte, –</l>
+          <l n="v69">slig staar han indover, langveisfra,</l>
+          <l n="v70">han, som skal Styret ta.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v71">Skummende skyder for sikker Haand</l>
+          <l n="v72">Flaaden om inderste Odde.</l>
+          <l n="v73">Se, hvor den reiser sig, Hornets Aand,</l>
+          <l n="v74">mørk i den rygende Skodde!</l>
+          <l n="v75">Vaarsolen lister sig let over Fon;</l>
+          <l n="v76">kommen er Trygvason.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v77">Det sortner, det stønner, der styrter fra Øster</l>
+          <l n="v78">en Vrimmel af Vætter, et Uveir af Røster.</l>
+          <l n="v79">Det velter og hviner</l>
+          <l n="v80">fra Tinder og Knatter</l>
+          <l n="v81">i svære Laviner</l>
+          <l n="v82">af Sten og af Latter,</l>
+          <l n="v83">det tuder og skralder,</l>
+          <l n="v84">det gyver af Stakker</l>
+          <l n="v85">og yrer af Skaller</l>
+          <l n="v86">og trodsige Nakker,</l>
+          <l n="v87">det skyder fra Øster i Solefaldsskjær;</l>
+          <l n="v88">thi Tiden er omme og Ragnarok nær.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v89">Heisan! ser du ham, som skræver</l>
+          <l n="v90">der i Spidsen</l>
+          <l n="v91">over Kollen,</l>
+          <l n="v92">Drikkebollen</l>
+          <l n="v93">i de kjæmpestore Næver,</l>
+          <l n="v94">og med Skoddehat om Issen? –</l>
+          <l n="v95">Hugleik er det, Raumakongen,</l>
+          <l n="v96">Is om Hagen,</l>
+          <l n="v97">og der bag 'n,</l>
+          <l n="v98">Søljestænk om sorte Bringer,</l>
+          <l n="v99">hoftebred,</l>
+          <l n="v100">svinger Dætrene afsted,</l>
+          <l n="v101">Aslaug, Hildegun og Aasa,</l>
+          <l n="v102">i en styrløs Jutul-Springer.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v103">Brynjeklædte, med Brask og Pral</l>
+          <l n="v104">stimer de, let paafode,</l>
+          <l n="v105">Jøtnernes Fyrster fra Hallingdal,</l>
+          <l n="v106">Ylfing og Asser Tote.</l>
+          <l n="v107">Efter dem slingrer paa Styrtningens Rand,</l>
+          <l n="v108">fuld som en And,</l>
+          <l n="v109">Visbur den gamle fra Haalogaland,</l>
+          <l n="v110">Stav i den vældige Pote.</l>
+          <l n="v111">For et Staak og for et Styr!</l>
+          <l n="v112">hvor det kryr, og hvor det runger</l>
+          <l n="v113">om den Gamle!</l>
+          <l n="v114">Tusind arge Jutulunger,</l>
+          <l n="v115">bæljende af fulde Lunger,</l>
+          <l n="v116">hiver Sten og rækker Tunger</l>
+          <l n="v117">ad det lodne Kjæmpedyr.</l>
+          <l n="v118">Rolig stabber han i Flokken,</l>
+          <l n="v119">stanser stundom sint og yr,</l>
+          <l n="v120">vender sig og løfter Stokken.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v121">Det sortner, det suser, og Stormveiret dækker</l>
+          <l n="v122">med Mulm og med Mørke de myldrende Rækker.</l>
+          <l n="v123">De kommer, de kommer!</l>
+          <l n="v124">mens Lynene slynger</l>
+          <l n="v125">sit sprakende Lys paa de sortnende Klynger,</l>
+          <l n="v126">mens Tordenen ruller fra Fjeld og til Fjeld.</l>
+          <l n="v127">De kommer, de kommer de Vaældige selv,</l>
+          <l n="v128">Ottar og Domar og Kjøtve og Kjell,</l>
+          <l n="v129">Alrek og Rollaug og Jørund fra Fjordene,</l>
+          <l n="v130">Thursernes Drotter fra Trøndelagen,</l>
+          <l n="v131">hyllet i Skodde og svøbt i Skarlagen</l>
+          <l n="v132">rykker de frem i den skumrende Kveld.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v133">Men i Dalen styrter Bonden</l>
+          <l n="v134">næsegrus for Thor og Odin.</l>
+          <l n="v135">Stormen hviner, Væggen vakler,</l>
+          <l n="v136">flakkende igjennem Ljaaren</l>
+          <l n="v137">blusser Lynets gule Fakler</l>
+          <l n="v138">paa de gamle, stive Guder</l>
+          <l n="v139">og paa Gubben, der han ligger</l>
+          <l n="v140">mimrende med graableg Mund.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v141">Ei et Glimt af Haab at øine,</l>
+          <l n="v142">ei et Træstens Ord fraoven.</l>
+          <l n="v143">Da – da vaagner som et Minde,</l>
+          <l n="v144">halvglemt, dæmrende derinde</l>
+          <l n="v145">i hans Sjæl et dunkelt Frasagn,</l>
+          <l n="v146">og i Dødens Angst han stæønner:</l>
+          <l n="v147">“Asa-Odin har forladt mig,</l>
+          <l n="v148">staa mig bi, du “hvide Krist!”</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v149">Op efter Daldybet svinger</l>
+          <l n="v150">Skarer af væbnede Mænd.</l>
+          <l n="v151">Tungt imod Stormen sig tvinger</l>
+          <l n="v152">Toner paa flaksende Vinger,</l>
+          <l n="v153">stiger og synker igjen.</l>
+          <l n="v154">Men det slider sig frem, og det styrter sig ud:</l>
+          <l n="v155">“Med os er Zebaoth,</l>
+          <l n="v156">vor Høihed er Jakobs Gud!” –</l>
+          <l n="v157">Foran med svulmende Faner,</l>
+          <l n="v158">Kutter og flagrende Skrud</l>
+          <l n="v159">Prester og Munke sig baner</l>
+          <l n="v160">Vei under svaiende Graner,</l>
+          <l n="v161">brusende bæres det ud:</l>
+          <l n="v162">“Og om Bjergene vakler, er Herren vor Drot;</l>
+          <l n="v163">aarle, naar Dagen gryr,</l>
+          <l n="v164">da frelser os Zebaoth.” –</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v165">Kranset af Venner og Frænder</l>
+          <l n="v166">nærmer sig Høvdingen selv.</l>
+          <l n="v167">Sværdet i Haandet ham brænder,</l>
+          <l n="v168">Blikket i Harme han sender</l>
+          <l n="v169">op mod det sortnende Fjeld;</l>
+          <l n="v170">og han nynner det for sig, den mægtige Drot:</l>
+          <l n="v171">“Aarle, naar Dagen gryr,</l>
+          <l n="v172">han knuser dem, Zebaoth.” –</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v173">Dagningen blegner og svinder;</l>
+          <l n="v174">Stormen tar drønnende til.</l>
+          <l n="v175">Granerne knækkes som Pinder,</l>
+          <l n="v176">vidt over Takker og Tinder</l>
+          <l n="v177">spraker den luende lld.</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v178">Og de svinger om Pynten i Torden og Lyn</l>
+          <l n="v179">og stanser i samme Nu</l>
+          <l n="v180">med Angst for det vilde Syn.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v181">Det buldrer og brøler, fra Østen de farer</l>
+          <l n="v182">i Mulm og i Mørke de myldrende Skarer.</l>
+          <l n="v183">Det velter og hviner</l>
+          <l n="v184">fra Tinder og Knatter</l>
+          <l n="v185">i svære Laviner</l>
+          <l n="v186">af Sten og af Latter.</l>
+          <l n="v187">Men nede i Dalen</l>
+          <l n="v188">gaar Toget fra Vester,</l>
+          <l n="v189">der toner Koralen</l>
+          <l n="v190">om Munke og Prester,</l>
+          <l n="v191">der bruser det Amen</l>
+          <l n="v192">til Zebaoths re,</l>
+          <l n="v193">saa støder de sammen</l>
+          <l n="v194">de bølgende Hære.</l>
+          <l n="v195">Høit hæves en Haand mod den huiende Flok.</l>
+          <l n="v196">Da runger det: “Stat der i Sten og i Stok!” –</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v197">En Helvedes Hylen, en Bragen, en Raven,</l>
+          <l n="v198">og saa – blir det blikkende stille som Graven. –</l>
+          <l n="v199">Ad Skyernes Gløtter</l>
+          <l n="v200">en Solstraale glider: –</l>
+          <l n="v201">Der staar de som Støtter</l>
+          <l n="v202">langs Fjeldenes Sider,</l>
+          <l n="v203">den vældige Tote</l>
+          <l n="v204">og Ottar og Alrek</l>
+          <l n="v205">og Visbur den gamle</l>
+          <l n="v206">med Stav i sin Pote,</l>
+          <l n="v207">der staar de som Nuter,</l>
+          <l n="v208">de trodsige Trolde</l>
+          <l n="v209">og kneiser og luter</l>
+          <l n="v210">forstenede, kolde.</l>
+          <l n="v211">Dem glæder ei Dagens</l>
+          <l n="v212">det signede Komme,</l>
+          <l n="v213">dem varmer ei Solen,</l>
+          <l n="v214">naar Natten er omme,</l>
+          <l n="v215">dem vækker ei Vaaren,</l>
+          <l n="v216">den fagre, tillive,</l>
+          <l n="v217">i Evighed staar de</l>
+          <l n="v218">forvitrede, stive.</l>
+          <l n="v219">De hæved mod Himmelens Herre sin Arm</l>
+          <l n="v220">og stivned til Sten for den Eviges Harm.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v221">Sekler gik, og nye Slegter</l>
+          <l n="v222">kom og svandt i lange Rader;</l>
+          <l n="v223">men i Dalen leger Rauma,</l>
+          <l n="v224">lige ung og lige fager,</l>
+          <l n="v225">og i Liens lyse Haller</l>
+          <l n="v226">lunt og let i Aftensolen</l>
+          <l n="v227">ruller stille Kariolen</l>
+          <l n="v228">med en fremmed Færdesmand.</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v229">Som fortabt hans Øie hænger</l>
+          <l n="v230">ved de vilde Klippeformer;</l>
+          <l n="v231">Hugen vokser, Sindet løftes,</l>
+          <l n="v232">og han lover lydt den Herre,</l>
+          <l n="v233">som har vendt de svundne Nætters</l>
+          <l n="v234">lange Gru til lyse Drømme,</l>
+          <l n="v235">som har formet onde Vætters</l>
+          <l n="v236">vilde Færd til Billedpragt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p444">
+        <head>Morild</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg hjem ifra Ballet dig fulgte;</l>
+          <l n="v2">hvor var du deg deilig den Nat!</l>
+          <l n="v3">Som Dønningen svømmende glat</l>
+          <l n="v4">dit Øie i mine sig dulgte.</l>
+          <l n="v5">Mens Farverne skifted, og Morildens Drys</l>
+          <l n="v6">slog Sindet med brændende Feber,</l>
+          <l n="v7">drog Dragsuget blødt, som et listende Kys,</l>
+          <l n="v8">imod dine lokkende Læber.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Med et, før jeg ret vidste af det,</l>
+          <l n="v10">du løsned din Arm ifra min,</l>
+          <l n="v11">forsvunden var Morildens Skin,</l>
+          <l n="v12">og dyster laa Dønningens Flade.</l>
+          <l n="v13">Et snertende Ord, rent et Indfald jeg fik,</l>
+          <l n="v14">hvorledes? – ja, hvor kan jeg vide? –</l>
+          <l n="v15">og taus og mismodig i Natten du gik</l>
+          <l n="v16">med sænkede Blik ved min Side.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Du deilige Barn, mon du tænkte,</l>
+          <l n="v18">at koldt jeg tilbedste dig holdt? –</l>
+          <l n="v19">mon derfor du saaret og stolt</l>
+          <l n="v20">dit freidige Hode vel sænkte? –</l>
+          <l n="v21">Aa, kunde du læst i mit Øie den Gang,</l>
+          <l n="v22">aa, havde du løftet dit Hode</l>
+          <l n="v23">og set, hvor mit glødende Blik ved dig hang, –</l>
+          <l n="v24">gad vidst, om du end kunde tro det!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Alt under den natlige Stjerne</l>
+          <l n="v26">fra Ballet jeg fulgte dig tyst</l>
+          <l n="v27">og grunded med længtende Lyst:</l>
+          <l n="v28">Hvor skulde dit Mismod jeg fjerne?</l>
+          <l n="v29">Hvor skulde jeg vække det glitrende Drys</l>
+          <l n="v30">og Dønningens Glans kunde tænde?</l>
+          <l n="v31">Aa, turde jeg vove et listende Kys,</l>
+          <l n="v32">før Afskedens Stund var tilende! –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p445">
+        <head>Sang uden Ord</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som en sælsom, betagende Sang</l>
+          <l n="v2">du glødende varmt mig berørte;</l>
+          <l n="v3">men ak! før dit Indhold jeg hørte,</l>
+          <l n="v4">din Tekst jeg erfor,</l>
+          <l n="v5">gled du bort som en “Sang uden Ord.”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Ret som fjetret jeg sidder igjen,</l>
+          <l n="v7">af Længsel forunderlig greben,</l>
+          <l n="v8">og nynner og har dig paa Læben</l>
+          <l n="v9">al Dagen saa lang,</l>
+          <l n="v10">du min kjække, min sælsomme Sang</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Til de eneste Strofer, jeg kan:</l>
+          <l n="v12">Et Mod, som ad Sedvanen steiler,</l>
+          <l n="v13">et Øie, som skiftende speiler</l>
+          <l n="v14">alt Fagert paa Jord,</l>
+          <l n="v15">har jeg sat nogle fattige Ord.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Aa, men ser jeg dig engang igjen,</l>
+          <l n="v17">hvor snart eller silde det vorder,</l>
+          <l n="v18">skal selv til de rige Akkorder</l>
+          <l n="v19">al Dagen saa lang</l>
+          <l n="v20">du gi Ord til din deilige Sang.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p446">
+        <head>Bestikkelse</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Havde du Hjerte, som du har Øine,</l>
+          <l n="v2">kjække Forfløine!</l>
+          <l n="v3">havde du Gløden, som Glansen du har; –</l>
+          <l n="v4">Vist, om saa var,</l>
+          <l n="v5">du var den kjæreste,</l>
+          <l n="v6">stolteste, skjæreste,</l>
+          <l n="v7">du var det deiligste, Jorden vel bar.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Giv mig til Svar de varmeste Blikke.</l>
+          <l n="v9">Tror dig dog ikke.</l>
+          <l n="v10">Hjerte du mangler; men ængste dig ei!</l>
+          <l n="v11">Nøisom er jeg.</l>
+          <l n="v12">Blir dog den kjæreste,</l>
+          <l n="v13">stolteste, skjæreste,</l>
+          <l n="v14">lar mig saa gjerne bestikke af dig.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p447">
+        <head>Med "Den flyvende Hollænder"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vi laa en Vinteraften i det stille Ocean;</l>
+          <l n="v2">i Flammer sænkte Solen sig histude;</l>
+          <l n="v3">sort velted det fra Øster og vokste til Orkan,</l>
+          <l n="v4">al Helvede drog an imod vor Skude.</l>
+          <l n="v5">Det brølte og det hven,</l>
+          <l n="v6">og frem af Natten trækkende</l>
+          <l n="v7">brød Brækkene</l>
+          <l n="v8">som Fjelde, en for en,</l>
+          <l n="v9">mens Lynene de sken</l>
+          <l n="v10">i Svovlglans fra Øster og til Vester.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v11">I Nattens Mulm og Mørke afsted det lystig bar</l>
+          <l n="v12">af Braattene som bedst det var begravet;</l>
+          <l n="v13">da – pludselig fra Bougen det hvinende sig skar:</l>
+          <l n="v14">“En Seiler ret til Styrbord!” – gjennem Kavet.</l>
+          <l n="v15">Og – for et Satans Spil!</l>
+          <l n="v16">mod Skyerne sig hævende,</l>
+          <l n="v17">som svævende</l>
+          <l n="v18">paa Bølgedrev og lld,</l>
+          <l n="v19">med hver en Klud sat til</l>
+          <l n="v20">skjød skummende en Skonnert os imøde.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v21">Ret paa os holdt den hastig igjennem Braat og Brand,</l>
+          <l n="v22">den veg ikke fra Kursen som en Tomme;</l>
+          <l n="v23">forgjæves alt vi brølte og bæljed alle Mand,</l>
+          <l n="v24">den nærmed sig, forsent!l det maatte komme. –</l>
+          <l n="v25">Et Brag som af et Skred,</l>
+          <l n="v26">et Skrig, et gjennemtrængende,</l>
+          <l n="v27">og krængende</l>
+          <l n="v28">sank Skuden ned i Læ;</l>
+          <l n="v29">men jeg – sad frelst og red</l>
+          <l n="v30">paa Rækken af – “den flyvende Hollænder”.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v31">Saa vide jeg har faret, saa meget jeg har set,</l>
+          <l n="v32">har aldrig dog i Angsten foldet Hænder;</l>
+          <l n="v33">men gives der en Rædsel, saa er det en “Gebet”</l>
+          <l n="v34">ombord i “den flyvende Hollænder”,</l>
+          <l n="v35">og findes der en Kval,</l>
+          <l n="v36">saa er det vel, naar skurrende</l>
+          <l n="v37">og knurrende</l>
+          <l n="v38">paa Helvedes Befal</l>
+          <l n="v39">der brøles “en Koral”</l>
+          <l n="v40">paa Dækket af den gudfordømte Seiler.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v41">Naar Himlens Harme blusser i Lynets Alterild,</l>
+          <l n="v42">naar Stormen rører Orgelverkets Taster,</l>
+          <l n="v43">da henter vel Kapteinen den gulnede Postil</l>
+          <l n="v44">og purrer sine gudsforgaane Gaster.</l>
+          <l n="v45">Da blir der Liv ombord;</l>
+          <l n="v46">fra Rig og Luger tumlende</l>
+          <l n="v47">og mumlende</l>
+          <l n="v48">fordømmelige Ord</l>
+          <l n="v49">de flokker sig i Chor</l>
+          <l n="v50">med Latter om sin Satan af en Skipper.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v51">Tyst bøier han sit Hode som til en ydmyg Bøn,</l>
+          <l n="v52">men knytter saa i Vanvid sine Hænder</l>
+          <l n="v53">og bander vildt Gud Fader og haaner frækt Gud Søn,</l>
+          <l n="v54">og messer som besat og skjærer Tænder;</l>
+          <l n="v55">og som i Raseri,</l>
+          <l n="v56">omkaps med Stormen hvinende</l>
+          <l n="v57">og grinende,</l>
+          <l n="v58">de stemmer alle i</l>
+          <l n="v59">et rædsomt Litani,</l>
+          <l n="v60">hvor Tordnen brøler: “Kyrie Eleison!”</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v61">Slig flyr den skumle Seiler i Mulm fra Hav til Hav,</l>
+          <l n="v62">og Messesangen stanser ei og mattes,</l>
+          <l n="v63">før Stormens Orgel tier, før Himlen feies af,</l>
+          <l n="v64">og Bølgekavet lægger sig og glattes.</l>
+          <l n="v65">Da slappes alle Drag,</l>
+          <l n="v66">og ud i Rummet stirrende</l>
+          <l n="v67">og dirrende</l>
+          <l n="v68">i Angstens bitre Nag</l>
+          <l n="v69">imod den unge Dag</l>
+          <l n="v70">de vender sig forstenede og stønner.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v71">Og se, naar Oceanet, i Søvn fra Gry til Gry,</l>
+          <l n="v72">i lange, døde Dønninger sig velter,</l>
+          <l n="v73">naar Solen er som Flammer, og Himlen uden Sky,</l>
+          <l n="v74">og Tjærelaget skrukker sig og smelter,</l>
+          <l n="v75">og naar, tungsindig tyst,</l>
+          <l n="v76">det dybe Hav slaar strømmende</l>
+          <l n="v77">og drømmende</l>
+          <l n="v78">i Stjernenattens Lyst</l>
+          <l n="v79">mod Skudens gamle Bryst,</l>
+          <l n="v80">mens Seilene koldsindig dasker Takten, –</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v81">Da skrumper jævnt og stille de vilde Gaster ind,</l>
+          <l n="v82">og Øinene blir stirrende og hule;</l>
+          <l n="v83">i tusind Folder fures det uveirshaarde Skind,</l>
+          <l n="v84">og Hænderne blir knoglede og gule;</l>
+          <l n="v85">og stivnede de staar</l>
+          <l n="v86">mod Mast og Ræk sig støende</l>
+          <l n="v87">som døende,</l>
+          <l n="v88">mens Dag paa Dag forgaar,</l>
+          <l n="v89">og Oceanet slaar</l>
+          <l n="v90">mod Plankerne og messer: “De profundis.”</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v91">Jeg for med Dødningskuden for mange, mange Aar;</l>
+          <l n="v92">men endda, helst naar Vinterstormen stønner,</l>
+          <l n="v93">det smyger frem i Natten, det skurrende mig naar</l>
+          <l n="v94">som Messesang og gudsforgaane Bønner;</l>
+          <l n="v95">og mangen Kveld endnu,</l>
+          <l n="v96">naar Havet nynner strømmende</l>
+          <l n="v97">og drømmende</l>
+          <l n="v98">derinde i min Hu,</l>
+          <l n="v99">da staar jeg der med Gru</l>
+          <l n="v100">blandt Døde i “den flyvende Hollænder.”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p448">
+        <head>"Tælle Stjerner"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Aa de høist forslagne Hjerner!</l>
+          <l n="v2">Hørte De? der faldt vor Dom.</l>
+          <l n="v3">Signorina, Himlens Stjerner,</l>
+          <l n="v4">vi skal tælle dem, saa kom!</l>
+          <l n="v5">Om Paladsets Ballustrade</l>
+          <l n="v6">hvisker Nattevinden sval,</l>
+          <l n="v7">der, bag Laurbærtræets Blade,</l>
+          <l n="v8">vil vi mønstre Himlens Sal.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Dæmpet lyder ud fra Slottet</l>
+          <l n="v10">Valsens lette Tonedrag,</l>
+          <l n="v11">hist et blødt: Felice notte!</l>
+          <l n="v12">her et sagte Aareslag.</l>
+          <l n="v13">Hvorfor stanser De forskrækket? –</l>
+          <l n="v14">Støt Dem, kjære, mod mit Bryst. –</l>
+          <l n="v15">Kun en stakkars Fugl, som vækket</l>
+          <l n="v16">søgte mod Giudeccas Kyst.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Glimt i Glimt fra Hvælvets Bue.</l>
+          <l n="v18">Det er Tid at heise Seil.</l>
+          <l n="v19">Er De rede?: “Uno; due” . . . .</l>
+          <l n="v20">Søde, nei, vi styrer feil.</l>
+          <l n="v21">Hvorfor krydse i det Fjerne,</l>
+          <l n="v22">op mod Himlens kolde Hær,</l>
+          <l n="v23">naar du staar, du Jordens Stjerne,</l>
+          <l n="v24">for mit Blik saa varm, saa nær?</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Hvorfor stave sig med Møie</l>
+          <l n="v26">til det døde Stjernesprog?</l>
+          <l n="v27">Aabent i dit dunkle Øie</l>
+          <l n="v28">ligger Livets lyse Bog.</l>
+          <l n="v29">Hvorfor stunde, hvorfor bæres</l>
+          <l n="v30">op mod Hvælvets Harmoni?</l>
+          <l n="v31">Skjønnere end tusind Sfærers</l>
+          <l n="v32">er din Stemmes Melodi.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Søde, du! saa lad dem seile</l>
+          <l n="v34">i sin Renheds kolde Glans!</l>
+          <l n="v35">Du kan føle, du kan feile,</l>
+          <l n="v36">du har Jordens varme Sans.</l>
+          <l n="v37">Derfor lar jeg Seilet falde;</l>
+          <l n="v38">du, du gir mig Ankergrund,</l>
+          <l n="v39">Stjerne, skjønnere end alle,</l>
+          <l n="v40">ved din Barm og ved din Mund.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p449">
+        <head>"Fata Morgana"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar Luften er lummer og Tanken i Brand,</l>
+          <l n="v2">og Livet lig vandløse Vidder,</l>
+          <l n="v3">hvor Mismodet stabber afsted gjennem Sand,</l>
+          <l n="v4">saalænge det kan eller gidder,</l>
+          <l n="v5">sel da kan hun staa der med et</l>
+          <l n="v6">paa de svævende Trin,</l>
+          <l n="v7">saa lyslevende let</l>
+          <l n="v8">i det luftige Lin,</l>
+          <l n="v9">med den liflige Vin</l>
+          <l n="v10">fra Brylluppet hisset i Kana,</l>
+          <l n="v11">den straalende “Fata Morgana”.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v12">Hun bøier sig ned i det flagrende Flor,</l>
+          <l n="v13">af susende Zefyr jeg røres;</l>
+          <l n="v14">hun smiler og hvisker saa sælsomme Ord,</l>
+          <l n="v15">som sildrende Bække det høres.</l>
+          <l n="v16">I Øiet hun ser mig og ler,</l>
+          <l n="v17">og det glitrende Drys</l>
+          <l n="v18">af en Indsø jeg ser,</l>
+          <l n="v19">og hun aander, o hys!</l>
+          <l n="v20">paa min Pande et Kys,</l>
+          <l n="v21">og svaiende Palmer sig reiser,</l>
+          <l n="v22">og da  er jeg Asiens Keiser. –</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v23">Fra Ørkenens glødende, bleggule Jord</l>
+          <l n="v24">mod Ammons Oase jeg rider;</l>
+          <l n="v25">i blinkende Strøm gjennem Passet sig snor</l>
+          <l n="v26">de solbrændte Argyraspider.</l>
+          <l n="v27">Men foran for Rækkerne, se! –</l>
+          <l n="v28">i den spettede Hud</l>
+          <l n="v29">smyger Slanger afsted,</l>
+          <l n="v30">som paa Guddommens Bud</l>
+          <l n="v31">viser Veien derud,</l>
+          <l n="v32">i Spidsen, som Leder og Liktor,</l>
+          <l n="v33">en glubende Boa Konstrictor.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v34">Saa underlig suser i Aftenens Vind</l>
+          <l n="v35">om Templet de høie Plataner,</l>
+          <l n="v36">hvor Presterne tause fra Tærskelens Trin</l>
+          <l n="v37">ser ud i de hvide Kaftaner</l>
+          <l n="v38">og aner af Ørkenens Tog,</l>
+          <l n="v39">som det bugter sig der,</l>
+          <l n="v40">at hvad ældgamle Sprog</l>
+          <l n="v41">har dem varslet, er nær,</l>
+          <l n="v42">at i Kveldsolens Skjær</l>
+          <l n="v43">Gud Ammon fra Jorderigs Ender</l>
+          <l n="v44">sin Søn dem, den vældige, sender.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v45">Men ud ifra Teltene hastig hun gaar,</l>
+          <l n="v46">Prinsessen, med tindrende Øie;</l>
+          <l n="v47">som Vaarflommen skyller det blaasorte Haar</l>
+          <l n="v48">mod Brysternes gulhvide Høie;</l>
+          <l n="v49">og yndig, med rødmende Kind,</l>
+          <l n="v50">paa den lette Sandal</l>
+          <l n="v51">som en svævende Hind</l>
+          <l n="v52">hæver smidig og smal</l>
+          <l n="v53">hun den gyldne Pokal</l>
+          <l n="v54">imod mig med Vin ifra Kana,</l>
+          <l n="v55">min Dronning, min Fata Morgana.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v56">Jeg løfter min Arm mod den perlende Drik,</l>
+          <l n="v57">min Sjæl imod Perlen af Kvinder;</l>
+          <l n="v58">da – ser hun paa mig med et vemodigt Blik,</l>
+          <l n="v59">glir ud og fordunkles og svinder.</l>
+          <l n="v60">Og Sjødybets glitrende Grund</l>
+          <l n="v61">er et luftigt Bedrag,</l>
+          <l n="v62">og den svaiende Lund</l>
+          <l n="v63">blir et skyfuret Drag</l>
+          <l n="v64">og Orakelet bag</l>
+          <l n="v65">til Kalkblokkens graanede Sider,</l>
+          <l n="v66">til Dunst mine Argyraspider.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v67">Og Lyset er slukket, og Legen forbi,</l>
+          <l n="v68">og Livet lig vandløse Vidder;</l>
+          <l n="v69">men Blikket – hvad var det hun vel vilde si? –</l>
+          <l n="v70">det ved jeg saa vel, der jeg sidder.</l>
+          <l n="v71">Jeg skulde vel sagtens tilpers,</l>
+          <l n="v72">som et stadigt Metier</l>
+          <l n="v73">gjøre klingende Vers</l>
+          <l n="v74">med Daktyl og Trochæ,</l>
+          <l n="v75">af hvad pent jeg fik se,</l>
+          <l n="v76">men aldrig, bevares, fik røre!</l>
+          <l n="v77">God Per! se, det skulde du gjøre!</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v78">Men neiom jeg gidder med Per og med Paul</l>
+          <l n="v79">i Smug som en Rimsmed at taste,</l>
+          <l n="v80">for saa, om det lykkes, med “Versenes” Staal</l>
+          <l n="v81">en Dag over Lykken at saste!</l>
+          <l n="v82">Nei, evner jeg aldrig i Hast</l>
+          <l n="v83">ved et Ord eller Navn</l>
+          <l n="v84">at faa holde dig fast,</l>
+          <l n="v85">saa jeg slukker mit Savn</l>
+          <l n="v86">ved din Barm, i din Favn –</l>
+          <l n="v87">mig skal du saavist ei bestikke;</l>
+          <l n="v88">din Hoftroubadour blir jeg ikke.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p450">
+        <head>"Ligkaravanen"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ser du dens Kolonner velte</l>
+          <l n="v2">op med Eufrats Herreleie,</l>
+          <l n="v3">Bugt i Bugt, de gulgraa Veie</l>
+          <l n="v4">i det øde Ørkenbelte? –</l>
+          <l n="v5">“Hossein, frels! o Hossein, fri!”</l>
+          <l n="v6">er det dystre Litani.</l>
+          <l n="v7">Fremad seiler Valfartsfanen</l>
+          <l n="v8">under Bønner af Koranen.</l>
+          <l n="v9">Berg dig! Ligfærdskaravanen</l>
+          <l n="v10">til Kerbela drar forbi.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v11">Stablet op paa Muldyrrygge</l>
+          <l n="v12">bæres lrans gyldne Grøde,</l>
+          <l n="v13">Aarets modne Avl af Døde</l>
+          <l n="v14">frem til Paradisets Hygge.</l>
+          <l n="v15">Hil dig, Hossein! Hossein, se,</l>
+          <l n="v16">hvor de skikkes ømt afsted!</l>
+          <l n="v17">her fra Ispahans Paladser,</l>
+          <l n="v18">hist fra Teherans Terrasser,</l>
+          <l n="v19">saa i Filt og saa i Kasser,</l>
+          <l n="v20">langveis til dit Mausolæ.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v21">Ørkensolens Straaler skinner</l>
+          <l n="v22">ned paa halvfortærte Skaller,</l>
+          <l n="v23">guldforgylder, hvor de falder,</l>
+          <l n="v24">blege Ben og gustne Kinder.</l>
+          <l n="v25">Hossein, gudestore Mand!</l>
+          <l n="v26">Vidt udover Eufrats Land</l>
+          <l n="v27">Pestens kvalme Aande flømmer;</l>
+          <l n="v28">gjennem Ørkenøden rømmer</l>
+          <l n="v29">rasende, med slakke Tømmer,</l>
+          <l n="v30">Beduinen for dens Ban,</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v31">Men den runkne Dervisch traver</l>
+          <l n="v32">henrykt frem i Aftenrøden;</l>
+          <l n="v33">thi mod ham slaar liflig Døden</l>
+          <l n="v34">som en Duft fra Schiras' Haver,</l>
+          <l n="v35">og han stirrer andagtsfuld</l>
+          <l n="v36">op i Aftenskyens Guld:</l>
+          <l n="v37">“Pesten, Pesten, lad den komme!</l>
+          <l n="v38">faar jeg blot min Sæd af Fromme</l>
+          <l n="v39">karret, bare som en Tomme,</l>
+          <l n="v40">ned i Mausolæets Muld. –</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v41">Hossein, Hossein! lad saa Pesten</l>
+          <l n="v42">vidt udover Verden flømme!</l>
+          <l n="v43">døde Slegtens usle Drømme,</l>
+          <l n="v44">alt det falske Flor i Vesten,</l>
+          <l n="v45">som de kalder for Kultur,</l>
+          <l n="v46">Pest, fortær det paa din Tur!</l>
+          <l n="v47">gjør det til en Ørkenøde! –</l>
+          <l n="v48">faar kun jeg mit Flor af Døde</l>
+          <l n="v49">karret ned, min fagre Grøde</l>
+          <l n="v50">frelst bag Mausolæets Mur.” –</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v51">Ser du dens Kolonner rave</l>
+          <l n="v52">fremad under Suk og Klager,</l>
+          <l n="v53">hvor den engang, ung og fager,</l>
+          <l n="v54">laa der Edens lyse Have?</l>
+          <l n="v55">“Edens Have! – Tvi og tvi!”</l>
+          <l n="v56">Flagellanten drar forbi,</l>
+          <l n="v57">vildt Fakiren svinger Fanen,</l>
+          <l n="v58">Dervischen og Puritanen. –</l>
+          <l n="v59">Berg dig! Ligfærdskaravanen</l>
+          <l n="v60">til Kerbela drar forbi.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p451">
+        <head>Over Melkeveien</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg har redet paa Rensdyrbukken;</l>
+          <l n="v2">paa Ære, det var bare flaut.</l>
+          <l n="v3">De har kjørt mig; men da var jeg drukken,</l>
+          <l n="v4">langs Ganges som Jaggernaut.</l>
+          <l n="v5">Jeg har fløiet med Asgaardsreien;</l>
+          <l n="v6">men Barneverk var det endda</l>
+          <l n="v7">mod Farten paa Melkeveien,</l>
+          <l n="v8">og den skal De piskedød! ha:</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Tænk Dem – en stille, blaanende Kveld –</l>
+          <l n="v10">slængt som en Prik i Rummet,</l>
+          <l n="v11">paa lynsnar Flugt i et blaasort Væld,</l>
+          <l n="v12">hver sagteste Lyd forstummet,</l>
+          <l n="v13">paa Krydstogt gjennem et Sværmerdrys,</l>
+          <l n="v14">i Bugt og Baut som en Slanges</l>
+          <l n="v15">for Meteorer paa tvers og kryds,</l>
+          <l n="v16">men under Tellus i Taagelys</l>
+          <l n="v17">fra Galdhøpiggen til Ganges.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v18">Slig gjennem Rummets Vidder jeg skjød</l>
+          <l n="v19">Stjerne til næste Stjerne,</l>
+          <l n="v20">saa Verdner dæmre i Ungdomsglød</l>
+          <l n="v21">og tabe sig i det Fjerne,</l>
+          <l n="v22">saa Kloder drive forbi som Vrag</l>
+          <l n="v23">i Mulmet, isnende kolde;</l>
+          <l n="v24">de havde levet sin sidste Dag,</l>
+          <l n="v25">forlængst udaandet sit sidste Drag,</l>
+          <l n="v26">for Sekler spillet sin Rolle.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v27">Sol efter Sol, i voksende Hær,</l>
+          <l n="v28">krydsed som Lyn i Leden</l>
+          <l n="v29">med Bud og Hilsen, at Land var nær,</l>
+          <l n="v30">med Vift ifra Evigheden,</l>
+          <l n="v31">og for mig laa, som et Hav af Sne,</l>
+          <l n="v32">et Archipel af Planeter,</l>
+          <l n="v33">og endeløs, majestætisk bred</l>
+          <l n="v34">løb midt i Havet en lys Chaussé</l>
+          <l n="v35">af sagte bævende Æther.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v36">Hen over Melkeveien jeg skjød,</l>
+          <l n="v37">dysset i sæle Dræmmæe;</l>
+          <l n="v38">omkring mig Sfærernes Røster flød</l>
+          <l n="v39">som rislende Tonestrømme.</l>
+          <l n="v40">Det sank og steg uden Ord og Spor,</l>
+          <l n="v41">fra tusind Kloder det bares</l>
+          <l n="v42">i Vekselsang af et Verdenskor;</l>
+          <l n="v43">men lys laa Veien som Perlemor</l>
+          <l n="v44">og Ædelsten fra Benares</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v45">Da, i et Nu, da styrted der sig,</l>
+          <l n="v46">sitrende fjernt og nære,</l>
+          <l n="v47">et Skin, et Chok, ja, hvad ved vel jeg! –</l>
+          <l n="v48">en Storm gjennem Rummets Sfære.</l>
+          <l n="v49">Det gjøs, det frøs i mit usle Kjød,</l>
+          <l n="v50">det brandt som IId i mit Øie;</l>
+          <l n="v51">thi ud af Evigheds dunkle Skjød</l>
+          <l n="v52">ad Melkeveien i Vælde brød</l>
+          <l n="v53">den uransagelig Høie.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v54">Heste som lld i fnysende Jag,</l>
+          <l n="v55">Døn som af Tordentuber,</l>
+          <l n="v56">og Moses mørk og Elias bag</l>
+          <l n="v57">og Himlenes Høikeruber –</l>
+          <l n="v58">ad Veiens glitrende Perlemor,</l>
+          <l n="v59">i Skyer flammende gule,</l>
+          <l n="v60">forbi, lig luende Lyn, de for</l>
+          <l n="v61">til Dom ensteds for en ældet Jord</l>
+          <l n="v62">i Altets “Ultima Thule.”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v63">Rungende for det dumpe “Mené!”</l>
+          <l n="v64">hen over Myriader;</l>
+          <l n="v65">men lys laa Melkeveien som Sne</l>
+          <l n="v66">i Tonernes Fredsroulader.</l>
+          <l n="v67">Her sank og steg, uden Ord og Spor,</l>
+          <l n="v68">en Jubelhymne til Livet;</l>
+          <l n="v69">men hisset lød de Fordømtes Kor;</l>
+          <l n="v70">der brændte lystig den gamle Jord</l>
+          <l n="v71">tli “Vinding for Perspektivet.”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p452">
+        <head>Havblik</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De samme gagnløse Tusl af Tanker</l>
+          <l n="v2">igjennem Sindet fra Aar til Aar,</l>
+          <l n="v3">det samme Skvappel mod gisne Planker</l>
+          <l n="v4">i Havbliksdisen ved Høst og Vaar,</l>
+          <l n="v5">det samme blafrende Ryk af Viljen</l>
+          <l n="v6">til to-tre margløse Tag fra Tiljen.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Lad gaa! hvad nytter det vel at kjæmpe,</l>
+          <l n="v8">der Hugen døser saa viljevek !</l>
+          <l n="v9">“Den store Bøigen gaar frem med Lempe”</l>
+          <l n="v10">til Morildglitter og Nise-Leg,</l>
+          <l n="v11">og Tanken drømmer, og Stjernen skinner,</l>
+          <l n="v12">imens han smyger sig frem og vinder.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Jeg traf engang paa en gammel Skipper,</l>
+          <l n="v14">som svor og bandte, paa det han sa:</l>
+          <l n="v15">at naar man Olje i Sjøen slipper,</l>
+          <l n="v16">saa skulde Braattene brydes ak,</l>
+          <l n="v17">saa skulde Skuden saa stolt som Svanen</l>
+          <l n="v18">i Stormen vugge sig freidig – sa'n.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Hvad pas det hjælper, faar andre sande,</l>
+          <l n="v20">jeg tror nu mest, det var Skipperprat;</l>
+          <l n="v21">paa en Ting tør jeg dog trøstig bande:</l>
+          <l n="v22">paa Livsenshavet er det probat.</l>
+          <l n="v23">Der glattes Bølgen, der brydes Braattet</l>
+          <l n="v24">af Oljeflommen fra Hjerneskottet.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Hvad Sjælestorme saa Skjæbnen skikker,</l>
+          <l n="v26">hiv ud din flømmende Fantasil</l>
+          <l n="v27">lad den kun sive, og vær du sikker,</l>
+          <l n="v28">den stilner Stormen og gaar forbi.</l>
+          <l n="v29">Dens Magt er brudt, og dens Vælde knækket;</l>
+          <l n="v30">kan trøstig brygge dit Glas paa Dækket.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">Hvor tidt jeg salved mig ud af Faren,</l>
+          <l n="v32">fandt aldrig Bund i mit Oljekrus,</l>
+          <l n="v33">og nu – ja, nu er jeg “helbefaren”,</l>
+          <l n="v34">in salvo jeg og mit ganske Hus!</l>
+          <l n="v35">For, ser De, midt i det “stille Belte”</l>
+          <l n="v36">der blir det sandelig vrangt – at velte.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v37">Og endda, kan De mig det forklare? –</l>
+          <l n="v38">og endda frygter jeg stundom stygt.</l>
+          <l n="v39">For hvad? – Ja, det er jo just det rare,</l>
+          <l n="v40">fordi – jeg ikke ser Grund til Frygt.</l>
+          <l n="v41">Fordi jeg naadde det Maal, jeg vilde,</l>
+          <l n="v42">tilslut fik Sjøen forstokket – stille.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v43">Det seige Skvappel mod gisne Planker</l>
+          <l n="v44">det slaar imod mig som Haan og Spot,</l>
+          <l n="v45">det dvaske, gagnløse Tusl af Tanker</l>
+          <l n="v46">det gnager paa mig som Sjælesot.</l>
+          <l n="v47">Jeg vilde berge mig ud af Nøden,</l>
+          <l n="v48">jo Tak! jeg salved mig selv til – Døden.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v49">Til Døden! Skræmsel for gamle Koner!</l>
+          <l n="v50">Giv Tid, du, bare, saa skal du se!</l>
+          <l n="v51">Vorherre eier nok, han, Tyfoner,</l>
+          <l n="v52">han lar nok ingen faa dø i Fred,</l>
+          <l n="v53">han kan nok frelse fra Viljedøsen</l>
+          <l n="v54">og tømme selveste Oljepøsen!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v55">Hys, hør! hvad er det for Lyd? hvad ynker</l>
+          <l n="v56">sig slig om Skuden saa hæst og hult?</l>
+          <l n="v57">mens Barometret deilig synker,</l>
+          <l n="v58">og Himlen pranger i Rødt og Gult.</l>
+          <l n="v59">Nu kommer Stormen, nu faar du vise,</l>
+          <l n="v60">hvad Viljen evner, du gamle Rise.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v61">Aa nei, det nytter nok ei den Gangen,</l>
+          <l n="v62">slig Havet farer med Braat og Brand.</l>
+          <l n="v63">Jeg faar nok pilte mig ned i Tangen</l>
+          <l n="v64">og re' mit Leie, saa godt jeg kan.</l>
+          <l n="v65">Skal se, det er ikke værst dernede,</l>
+          <l n="v66">saasandt en træffer det rette Stedet.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v67">Der ligger altids en sunken Skude</l>
+          <l n="v68">ensteds og døser indunder Fjeld;</l>
+          <l n="v69">den faar jeg bruge til Hodepude</l>
+          <l n="v70">og nytte Taren til Sauefeld.</l>
+          <l n="v71">Men Væggen tækker jeg med Koraller,</l>
+          <l n="v72">det pynter op i de grønne Haller.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v73">Igjennem Mørket dernede kaster</l>
+          <l n="v74">Molluskens Lampe sin Fosforglans;</l>
+          <l n="v75">og Dybets sælsomme Verden haster</l>
+          <l n="v76">som Drømmesyner forbi min Sans.</l>
+          <l n="v77">Hei! er det det, som de kalder Døden –</l>
+          <l n="v78">da blæs i Livet og Morgenrøden</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p453">
+        <head>Sjælevandring</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I Vest for Karnaks Tempelregioner,</l>
+          <l n="v2">i Lybierkjedens skumle Galleri</l>
+          <l n="v3">der sidder aandsforladt paa Cedertronen</l>
+          <l n="v4">den mugne Mumie af Faraonen</l>
+          <l n="v5">Per Ramses Gynt af første Dynasti.</l>
+          <l n="v6">Men hans Sjæl har Osiris forvist imod Nord,</l>
+          <l n="v7">hans Sjæl er paa Vandring i Vindenes Spor,</l>
+          <l n="v8">i Solskin og Storm, mellem Tinder og Top,</l>
+          <l n="v9">hans Sjæl er paa Vandring i Rensbukkens Krop.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v10">Vel tusind Alen under Dagens Rige</l>
+          <l n="v11">han troner taus i dyster Majestæt,</l>
+          <l n="v12">mens om i Hoben af hans Undersaatter</l>
+          <l n="v13">Shakalen lister sig, og lystne Rotter</l>
+          <l n="v14">forsultne fraadser i hans Herlighed.</l>
+          <l n="v15">Men hans Sjæl er paa Vandring, forvildet og yr,</l>
+          <l n="v16">hans Sjæl over Vidden med Flokkene flyr,</l>
+          <l n="v17">de freidige Vinde, de duftende Drag</l>
+          <l n="v18">de vugger hans Vaande, de vysser hans Nag.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v19">Paa Hallens Væg i dunkle Hieroglyfer</l>
+          <l n="v20">har Verdens Dommer ham sin Vilje sat.</l>
+          <l n="v21">Det døde Blik ved deres Billed hefter;</l>
+          <l n="v22">forgjæves! Aanden eier ingen Kræfter,</l>
+          <l n="v23">og tifold skummel ruger Dødens Nat.</l>
+          <l n="v24">Men saalænge der jager en Rensbuk paa Fon,</l>
+          <l n="v25">med den maa den færdes hans fredløse Aand,</l>
+          <l n="v26">paa Vidder og Vand, over Nabber og Nut,</l>
+          <l n="v27">i Storm og i Stille, den kan ikke ud</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p454">
+        <head>Gjensyn</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sir John Tottenbroom fra Brighton!</l>
+          <l n="v2">Sir Tottenbroom, my dear,</l>
+          <l n="v3">hei, gamle “Reindeerskuder!”</l>
+          <l n="v4">du her, paa det Revier? –</l>
+          <l n="v5">God damn! hvor dybsindig han glaner og speider,</l>
+          <l n="v6">præcis som han saa efter “Reindeer” paa Fon,</l>
+          <l n="v7">og kors, hvor hans vesle Stump Hjerne arbeider!</l>
+          <l n="v8">Per Gynt! Har du glemt 'n, Sir John? –</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">I Vaage Gjæld, ved Gjende, ved Gjende, ved Gjende!</l>
+          <l n="v10">der drev vi om, tør hænde,</l>
+          <l n="v11">for fyrretyve Aar.</l>
+          <l n="v12">Der skjød vi, og der flød vi vel i Whisky, det er vist.</l>
+          <l n="v13">Sir Tottenbroom, my darling,</l>
+          <l n="v14">jeg siger Tak for sidst!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Sir John Tottenbroom fra Brighton,</l>
+          <l n="v16">du Banquos blege Geist,</l>
+          <l n="v17">hei, gamle “Reindeerskuder”!</l>
+          <l n="v18">jo, du har vel nok reist.</l>
+          <l n="v19">Vour mother, høisalig, hun holdt jo af Sherry?</l>
+          <l n="v20">“No, no! af Genever”. Genever, excuse!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v21">Far Gynt inklinerte for Banko fra Sverig,</l>
+          <l n="v22">Sir John, ja vi er da vel Dus? –</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v23">Ved Gjendevand. i Osen, i Osen, i Osen</l>
+          <l n="v24">der laa vort vesle Gosen</l>
+          <l n="v25">med Fisk og Fugl og Ren,</l>
+          <l n="v26">dem slagted vi, og fragted vi med Skrig og vilde Hvin</l>
+          <l n="v27">og slugte bitre Drammer</l>
+          <l n="v28">for din fordømte Spleen.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v29">Sir John Tottenbroom fra Brighton,</l>
+          <l n="v30">din Kløvhest, Sir, jeg var;</l>
+          <l n="v31">men nu er jeg din Keiser,</l>
+          <l n="v32">og du min Dromedar.</l>
+          <l n="v33">God damn! hvor det falder mig pinligt at si det:</l>
+          <l n="v34">My darling Sir John, vi er ei længer Dus. –</l>
+          <l n="v35">Stat stil, Dromedar! ja, for nu vil jeg ride.</l>
+          <l n="v36">No, no! Intet Sludder! excuse!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v37">I Høstens Mulm og Skodde, i Skodde, i Skodde</l>
+          <l n="v38">i Stim mod Ur og Odde</l>
+          <l n="v39">der velter sig et Vand;</l>
+          <l n="v40">men heisan! se, nu glider der et Solglimt over Skar,</l>
+          <l n="v41">og tusind Bække glitrer,</l>
+          <l n="v42">hei hop, min Dromedar!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p455">
+        <head>Rimblomster</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sol, stat stille i Gibeon!</l>
+          <l n="v2">i Syd eller Øst, hvor du vil!</l>
+          <l n="v3">Jeg faar mine Blomster af Kulden,</l>
+          <l n="v4">min Have den trænger ei Mulden,</l>
+          <l n="v5">saalidt som din braakende Ild.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Naar Livet er dækket af tommetyk Tæle</l>
+          <l n="v7">af Øde og Tomhed,</l>
+          <l n="v8">naar alle de aandelig Fattige sidder</l>
+          <l n="v9">og hyller i Fromhed</l>
+          <l n="v10">og Frygt sine Sjæle,</l>
+          <l n="v11">naar Flisen, som spretter,</l>
+          <l n="v12">er eneste Mæle</l>
+          <l n="v13">og muntre Gesel i de evige Nætter,</l>
+          <l n="v14">naar Indersten hyler, at Haabet er ude, –</l>
+          <l n="v15">da vaagner min Vaar,</l>
+          <l n="v16">da spretter det frodig og friskt paa min Rude.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Luna, la bianca, mira,</l>
+          <l n="v18">du kolde, tungsindige Bror!</l>
+          <l n="v19">Jeg elsker din ensomme Ælde,</l>
+          <l n="v20">stat op over Jorderigs Fjelde,</l>
+          <l n="v21">og lys paa mit deilige Flor!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v22">Ret saa Ven! over Aasen, beskeden,</l>
+          <l n="v23">løfter du sagte din lyse Kalot.</l>
+          <l n="v24">Kast nu et prøvende Blik paa mit Eden!</l>
+          <l n="v25">sig, om ei Alt er forunderlig godt!</l>
+          <l n="v26">Se paa de hugstore Graner, som staar</l>
+          <l n="v27">stolte i hløilet,</l>
+          <l n="v28">Søile ved Søile,</l>
+          <l n="v29">trodsig sig hævende</l>
+          <l n="v30">foran min Gaard!</l>
+          <l n="v31">Ser du dem, kjære? –</l>
+          <l n="v32">Det er mit levende,</l>
+          <l n="v33">lysende Gjerde,</l>
+          <l n="v34">Cherubim er det</l>
+          <l n="v35">rundt om min Vaar.</l>
+          <l n="v36">“Vagt i Gevær!” –</l>
+          <l n="v37">Tak, mine Vældige! Nu er vi der. –</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v38">Gjennem Portaler</l>
+          <l n="v39">af Liljekonvaler,</l>
+          <l n="v40">Kala, Jasminer</l>
+          <l n="v41">og hvide Seriner</l>
+          <l n="v42">ind i mit deilige Eden vi træ'r.</l>
+          <l n="v43">Ser du den. lyse Allè,</l>
+          <l n="v44">tækket med blaalige, blanke Krystaller ?</l>
+          <l n="v45">Myrt og Laurbær danner Spalier,</l>
+          <l n="v46">Hæg og Guldregn stander derved,</l>
+          <l n="v47">styrter sit Guld og drysser sin Sne</l>
+          <l n="v48">over den glødende Baard af Koraller.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v49">Her vil vi vandre;</l>
+          <l n="v50">lad dine tandre,</l>
+          <l n="v51">svævende Straaler,</l>
+          <l n="v52">Luna, la mira,</l>
+          <l n="v53">listende let paa de luftige Saaler</l>
+          <l n="v54">foran os fly;</l>
+          <l n="v55">lad dem, de blege,</l>
+          <l n="v56">flygtige Døtre</l>
+          <l n="v57">lyse og lege,</l>
+          <l n="v58">svæve og danse,</l>
+          <l n="v59">skjælvende sky</l>
+          <l n="v60">pludselig stanse</l>
+          <l n="v61">kun for at styrte i Dansen paany.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v62">Langsomt vil imens vi to</l>
+          <l n="v63">ind mod Havens Indre skride</l>
+          <l n="v64">med vor høie Stillings Ro.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v65">Hvorfor irrer dine Blikke</l>
+          <l n="v66">pludselig saa sælsomt om? –</l>
+          <l n="v67">Gamle Ven, det er da ikke</l>
+          <l n="v68">“Livsens Træ”, du barnefrom</l>
+          <l n="v69">pønser paa at efterlyse? –</l>
+          <l n="v70">Livsens Træ! – nei, ved du hvad,</l>
+          <l n="v71">vælg en anden Slags Gemyse!</l>
+          <l n="v72">Livsens Grønt er længe siden</l>
+          <l n="v73">visnet bort og falden af.</l>
+          <l n="v74">Sagtens tror du vel, du Brave,</l>
+          <l n="v75">at mit Eden – jeg maa le! –</l>
+          <l n="v76">er den gamle Dyrehave,</l>
+          <l n="v77">ikke sandt, min Ven, at se</l>
+          <l n="v78">mod en passelig Entré!</l>
+          <l n="v79">Skade, gamle Kjending, Skade!</l>
+          <l n="v80">mine Trær har bare Blade,</l>
+          <l n="v81">al min Skog er kun til Zir,</l>
+          <l n="v82">ingen Dyr paa mit Revier.</l>
+          <l n="v83">Nei, fi donc! vær ikke bange!</l>
+          <l n="v84">selv det værste Eksemplar,</l>
+          <l n="v85">den bekjendte “gamle Slange”</l>
+          <l n="v86">kun paa Spiritus jeg har.</l>
+          <l n="v87">Nei, det er nok, skal jeg mene,</l>
+          <l n="v88">godt, at Mensket er alene.</l>
+          <l n="v89">Derfor lod jeg ogsaa bygge,</l>
+          <l n="v90">her, hvor Livsens gamle Træ</l>
+          <l n="v91">engang kastede sin Skygge,</l>
+          <l n="v92">dette stille Mausolæ.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v93">Se, hvor det dukker i lysende Linier,</l>
+          <l n="v94">fredelig blidt,</l>
+          <l n="v95">frem bag de skyggende Pinjer!</l>
+          <l n="v96">Epheuen smyger med smidige Skridt</l>
+          <l n="v97">op over Muren og binder og tvinder</l>
+          <l n="v98">listig sit Net over Buer og Tinder,</l>
+          <l n="v99">Piller af Marmor og Malakit,</l>
+          <l n="v100">Sokler og Søiler og Alt, hvad den finder.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v101">Luna, la bianca, mira,</l>
+          <l n="v102">hvi ser du saa traurig i Sind</l>
+          <l n="v103">derind gjennem Glasmaleriet? –</l>
+          <l n="v104">Min Ven ja, du kan da vel tie! –</l>
+          <l n="v105">All-right, Sarkofagen er min.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v106">Endt er den korte Saga.</l>
+          <l n="v107">En Trøst er det dog for min Sjæl:</l>
+          <l n="v108">Jeg blir ikke snarlig til Aske,</l>
+          <l n="v109">den holder sig deilig min Maske;</l>
+          <l n="v110">for ser du, – jeg frøs jo ihjæl. –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p456">
+        <head>"Lyse Øieblikke"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og Arken den stødte i Ararats Grænd,</l>
+          <l n="v2">Sir John – i Asylet der stod 'n.</l>
+          <l n="v3">Af Jorderigs Broer staar ingen igjen;</l>
+          <l n="v4">men pyt! vi har Regnbuebroen</l>
+          <l n="v5">og rusler os frem efter den.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">De siger, den er bare Flitter og Stas</l>
+          <l n="v7">og slet ikke sikker for no'en;</l>
+          <l n="v8">men Snakl naar en ei har for meget Pargas</l>
+          <l n="v9">og ikke er svimmel i Troen,</l>
+          <l n="v10">saa gaar det saa glat som en Spas.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Lad gaa, den er smekker og lovelig skjør</l>
+          <l n="v12">og har ikke Spor af Gelænder;</l>
+          <l n="v13">slig høver den just for en skarve Jonglør,</l>
+          <l n="v14">som hverken har Vet eller Venner</l>
+          <l n="v15">og kan den i Hodet fra før.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Den hvælver sig høit over Sjøer og Fjeld</l>
+          <l n="v17">i Sorgernes regntunge Taage.</l>
+          <l n="v18">Hei! lette paa Foden, du gamle Gesel!</l>
+          <l n="v19">saa staar du paa Timen i Vaage</l>
+          <l n="v20">og fælder din Buk føre Kveld.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">Men fint faar du fare, og fort faar du fly,</l>
+          <l n="v22">før Vindene vaagner og suser,</l>
+          <l n="v23">før Broen blir sprængt af den stormende Sky,</l>
+          <l n="v24">og Afgrundens graadige Sluser</l>
+          <l n="v25">spyr Edder og Galde paany.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Hei! vaagne, Sir John, jeg har Kræfter for to,</l>
+          <l n="v27">og nu er det Tid til at himle.</l>
+          <l n="v28">Nu farer vi frem over Høienloftsbro,</l>
+          <l n="v29">jeg ved mig en Buk og en Simle,</l>
+          <l n="v30">og dem skal vi fælde, vi to.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p457">
+        <head>Mislykket Mission</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den sortbrune Stær vel jeg sendte</l>
+          <l n="v2">ved Vaar til den hjemlige Grænd;</l>
+          <l n="v3">den loved mig hellig at hente</l>
+          <l n="v4">en Kvist ifra Skogen, den kjendte;</l>
+          <l n="v5">men tro, om jeg saa den igjen.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Du vesle min vingede Skude,</l>
+          <l n="v7">du stakkars min ærlige Stær!</l>
+          <l n="v8">jeg ved det, mod Fyrtaarnets Rude</l>
+          <l n="v9">du seiled og segned derude</l>
+          <l n="v10">ensteds paa det sjøsatte Skjær.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Saa bød sig da Trosten med Kvidder</l>
+          <l n="v12">en Vaar til at gaa som Kurer.</l>
+          <l n="v13">En Blomst fra de solvarme Vidder</l>
+          <l n="v14">det svor mig saa sikkert min Ridder;</l>
+          <l n="v15">men aldrig saa saa jeg ham mer.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Du Stakkar! for tidlig paafærde</l>
+          <l n="v17">fuld Vinter; jeg saa dig saa grant.</l>
+          <l n="v18">Der sad du og frøs bag et Gjerde;</l>
+          <l n="v19">saa fandt dig den skamløse Skjære</l>
+          <l n="v20">og dræbte min vesle Gesandt.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">Igjen er det Vaar nord i Dale;</l>
+          <l n="v22">det slider saa saart i mit Sind;</l>
+          <l n="v23">men udenfor sidder en Svale,</l>
+          <l n="v24">som vilde den ha mig itale,</l>
+          <l n="v25">slig ser den saa underlig ind.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Aa kjære min Fugl, om du vilde; –</l>
+          <l n="v27">det fattigste Straa, kun et Frø! –</l>
+          <l n="v28">Aa nei, lad mig bare ti stille,</l>
+          <l n="v29">hvorfor vil jeg Dyret saa ilde?</l>
+          <l n="v30">Nei, Svale, du skal ikke dø!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p458">
+        <head>"Sju Skogfald"</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sju Skogfald gik med tunge Døn</l>
+          <l n="v2">vel over Land og Strande,</l>
+          <l n="v3">sju Skogfald svandt med sagte Støn;</l>
+          <l n="v4">men end staar Skogen lige grøn</l>
+          <l n="v5">og tæt om tause Vande.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Sju lange Skegfald sænkte sig</l>
+          <l n="v7">vel over mig i Vaande.</l>
+          <l n="v8">Du kjære Skog, jeg hilser dig,</l>
+          <l n="v9">der barneglad i Dal og Hei</l>
+          <l n="v10">du drar din friske Aande.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Min gjæve Furu, gamle Far,</l>
+          <l n="v12">ærværdig under Lavet,</l>
+          <l n="v13">paa Tanker tung, paa Tale spar,</l>
+          <l n="v14">hvert Ord fra dig straks Vinden bar</l>
+          <l n="v15">det til mig over Havet.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Om Livets Lod i Skogens Hegn</l>
+          <l n="v17">oplod du tidt din Stemme,</l>
+          <l n="v18">om Aarets Lov for Sol og Regn,</l>
+          <l n="v19">du tyded Tidens dunkle Tegn;</l>
+          <l n="v20">thi omframt er dit Nemme.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">Og du, min Gran, saa rig, saa varm</l>
+          <l n="v22">i Sommersolens Strømme, –</l>
+          <l n="v23">at hvile ud fra Livets Harm</l>
+          <l n="v24">ved din den fulde Moderbarm</l>
+          <l n="v25">var mine bedste Drømme.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Om Orrens Leg og Rævens List</l>
+          <l n="v27">fortalte du mig stille,</l>
+          <l n="v28">om Harens Gang og Rugdens Pist,</l>
+          <l n="v29">om Bygdens Skjæbne siden sidst,</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v30">Vi taltes ved saa mangen Nat.</l>
+          <l n="v31">Hvert Ord, hvor jeg forstod det!</l>
+          <l n="v32">Men hvisked du: Velkommen att! –</l>
+          <l n="v33">da saa jeg bort, da taug jeg brat</l>
+          <l n="v34">og bøide dybt mit Hode.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v35">Sju Skogfald svandt med Verk og Ve;</l>
+          <l n="v36">saa kom jeg vel at'ende.</l>
+          <l n="v37">Det seige gamle Vindfaldstræ</l>
+          <l n="v38">nu tigger det om Lægd og Læ</l>
+          <l n="v39">i Skogens lune Lænde.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v40">En fattig Plet, saa er du snil,</l>
+          <l n="v41">et simpelt Mosedække;</l>
+          <l n="v42">jeg skal saa gjerne hjælpe til</l>
+          <l n="v43">med Husets Stel, og hvad du vil,</l>
+          <l n="v44">saalangt som jeg kan række.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v45">Indunder mig, det gamle Træ,</l>
+          <l n="v46">kan Haren trøstig flytte,</l>
+          <l n="v47">og Røien tung og Rypa med</l>
+          <l n="v48">aa dyredæd! saa vi skal le</l>
+          <l n="v49">ad Ørn og Ræv og Skytte!</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v50">Og al den Barneflok, du har</l>
+          <l n="v51">af Blomster paa din Alder,</l>
+          <l n="v52">skal flokke sig om Bedstefar,</l>
+          <l n="v53">nysgjerrig, frisk og øieklar,</l>
+          <l n="v54">med Fjas og Barneskvalder.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v55">Min kjære Skog, jo, du skal se,</l>
+          <l n="v56">han kan fortælle, Kellen!</l>
+          <l n="v57">Og kommer Vintren saa med Sne,</l>
+          <l n="v58">saa slutter vi i Ro og Fred</l>
+          <l n="v59">og kryber under Felden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p459">
+        <head>Borte!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg fulgte Stien en høstklar Kveld,</l>
+          <l n="v2">jeg kunde vel gaat iblinde.</l>
+          <l n="v3">De gamle Merker, dem saa jeg vel;</l>
+          <l n="v4">men alt jeg søgte, nei, Stølen selv –</l>
+          <l n="v5">jeg kunde den ikke finde.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Men se! der steg jo i lette Lag</l>
+          <l n="v7">den blaanende Røg fra Heldet.</l>
+          <l n="v8">Og opad bar det. Det var Bedrag;</l>
+          <l n="v9">den lyse Stribe var – Aspens Drag,</l>
+          <l n="v10">som tegned sig graa mod Fjeldet.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Og Dagen skyndte sig træt tilro.</l>
+          <l n="v12">Da lød det som sagte Hvisken.</l>
+          <l n="v13">Men da jeg spændt der i Snaret stod, –</l>
+          <l n="v14">det var den pludrende Bæk, som lo</l>
+          <l n="v15">og legte sig lunt med Brisken.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Da tændtes brat over Li og Hei</l>
+          <l n="v17">et Blus i det dunkle Fjerne.</l>
+          <l n="v18">Vær hilset hjemlige Blink! – Aa nei,</l>
+          <l n="v19">jeg ser det nok, at det er kun dig,</l>
+          <l n="v20">du tindrende Aftenstjerne.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">Jeg ved det, vuggende Granesus,</l>
+          <l n="v22">som hvisker saa sært derinde,</l>
+          <l n="v23">jeg ved, du melder: det sank i Grus,</l>
+          <l n="v24">det er ei mere det gamle Hus,</l>
+          <l n="v25">som fordum jeg fandt iblinde.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Hvad nu? – slaar Lyset ei blankt fra Hvælv,</l>
+          <l n="v27">fra Aspen mig Røg imøde?</l>
+          <l n="v28">Tilgiv, du venlige lille Elv!</l>
+          <l n="v29">Der staar jeg midt op' i Livet selv</l>
+          <l n="v30">og spør' efter stakkars Døde!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

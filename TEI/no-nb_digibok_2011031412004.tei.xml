@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Digte og skrøner</title>
+        <author>Berg, Olaf [Martin Kvænnavika]</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">18</measure>
+        <measure unit="lines">1089</measure>
+        <measure unit="tokens">6912</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2011031412004">
+          <author>Berg, Olaf [Martin Kvænnavika]</author>
+          <title>Digte og skrøner</title>
+          <pubPlace>Trondhjem</pubPlace>
+          <date>1899</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2011031412004"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p39">
+        <head>Mudderpramma</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vi ankred paa Stenkjær Havn,</l>
+          <l n="v2">Det var just Fastelavn,</l>
+          <l n="v3">Men var i slet Humør,</l>
+          <l n="v4">For vi stansa paa i Ør.</l>
+          <l n="v5">Hei kingelingeling for Massa,</l>
+          <l n="v6">Drik ud af Kalebassa,</l>
+          <l n="v7">Aa kingelingeling aa ling,</l>
+          <l n="v8">Vi danse rundt i Ring.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Dem ha mudra i tre Aar,</l>
+          <l n="v10">Men likens just de' gaar,</l>
+          <l n="v11">Aa Elva hu e' tør</l>
+          <l n="v12">Akkurat nu som kør.</l>
+          <l n="v13">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v14">Da Pengan dem sa stop,</l>
+          <l n="v15">Saa maat dem la de' væra,</l>
+          <l n="v16">Aa Dampan dem gaar op</l>
+          <l n="v17">Paa Flo, men itj paa Fjæra.</l>
+          <l n="v18">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Aa Vængan flaug af Skruen,</l>
+          <l n="v20">De va den gamle Leksa,</l>
+          <l n="v21">For han Stormer og han Maller,</l>
+          <l n="v22">Aa likens for han Hegstad.</l>
+          <l n="v23">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v24">Dog Maller Skyld ei bar,</l>
+          <l n="v25">For Elvalods va' hyra;</l>
+          <l n="v26">De va' han Gammelfar,</l>
+          <l n="v27">Han Jakob sjøl, som styra.</l>
+          <l n="v28">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v29">Vor Havneingenør,</l>
+          <l n="v30">Hans Navn er Aron Meier,</l>
+          <l n="v31">Han mangen Bommert gjør,</l>
+          <l n="v32">Han burde ha vær't Feier.</l>
+          <l n="v33">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v34">En Dag den gode Mand</l>
+          <l n="v35">Faldt ud paa 5 Fod Vatten,</l>
+          <l n="v36">Men han spaserte flot iland,</l>
+          <l n="v37">For han er 5 Fod 18.</l>
+          <l n="v38">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v39">Dog han er vist ei saa sort,</l>
+          <l n="v40">Som man har ham villet mals.</l>
+          <l n="v41">Thi det bestemtes fort,</l>
+          <l n="v42">Han skulde ha Gratiale.</l>
+          <l n="v43">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v44">Vor lille lune Havn</l>
+          <l n="v45">Den har den slemme Vane,</l>
+          <l n="v46">At straks det blir lidt koldt,</l>
+          <l n="v47">Saa blir den Skøitebane.</l>
+          <l n="v48">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v49">Vi har et Fyr udfor vor Havn,</l>
+          <l n="v50">Saa man kan Veien finde;</l>
+          <l n="v51">Og vil du vide Fyrets Navn,</l>
+          <l n="v52">Saa er det Jakobs Minde.</l>
+          <l n="v53">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v54">Tænk, engang brændte det,</l>
+          <l n="v55">Og det gik rent i Vasken.</l>
+          <l n="v56">Men som Fugl Føniks let</l>
+          <l n="v57">Det reiste sig af Asken.</l>
+          <l n="v58">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v59">Og godt det kommer med,</l>
+          <l n="v60">Thi mange did har hasta</l>
+          <l n="v61">Af Passagererne,</l>
+          <l n="v62">Naar'n Oxur var for lasta.</l>
+          <l n="v63">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v64">Nu har hu da sagt stop,</l>
+          <l n="v65">Nu har a reist den stygga,</l>
+          <l n="v66">Hu kom itj længer op</l>
+          <l n="v67">End just til Kliiverbrygga.</l>
+          <l n="v68">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v69">Han Stenkjær han ble lei,</l>
+          <l n="v70">“Kom længer op me gamla;”</l>
+          <l n="v71">Men Commissionen den sa nei,</l>
+          <l n="v72">For da ha Brua ramla.</l>
+          <l n="v73">Hei kingelingeling o. s. v.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v74">Et tredobbelt Hurra</l>
+          <l n="v75">For Mudderpramma da,</l>
+          <l n="v76">For hele dens Mission</l>
+          <l n="v77">Og vor Havnekommission.</l>
+          <l n="v78">Hei kingelingeling for Massa,</l>
+          <l n="v79">Dem kjem paa Fattikassa,</l>
+          <l n="v80">Aa kingelingeling aa ling,</l>
+          <l n="v81">Vi danse rundt i Ring.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p40">
+        <head>Telefonvise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">For Damerne og Herrerne jeg nu beskrive vil,</l>
+          <l n="v2">Hvordan denne hersens Telefon blev til:</l>
+          <l n="v3">Det var ei et Spil af Skjæbnen, men hør nu til og mærk,</l>
+          <l n="v4">Saa skal I faa erfare, det var Naturens Værk.</l>
+          <l n="v5">Det var en Dag i Høst, at det Rygte gik fort,</l>
+          <l n="v6">Paa Stenkjær der drukner man nu udi Lort,</l>
+          <l n="v7">Og nogle vare vantro og vilde bare le,</l>
+          <l n="v8">Men det medførte Sandhed, som I straks skal se.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det var en Dag det regnede, saa Regnmaaleren sprak,</l>
+          <l n="v10">Saa skulde Berg til Thorsen for at kjøbe lidt Tobak.</l>
+          <l n="v11">Han tog sin Paraply aa la ivei i største Hast,</l>
+          <l n="v12">Men da 'n kom midt i Gata, sat han i Lorten fast:</l>
+          <l n="v13">Aa mer aa mer han sak, det var et frygteligt Syn,</l>
+          <l n="v14">Saa sæt han i et Skrik, som hørtes heile By'n.</l>
+          <l n="v15">Og Folk og Onga strømma til, de! var en svare Sjau,</l>
+          <l n="v16">Men ingen kun' kom halvnær'n, for da sak dem au.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Og Veimester'n kom springenes saa fort at han dat,</l>
+          <l n="v18">Og 'n Raffel Sundnæsse i Storstøvlan, saa Lorten den skvat.</l>
+          <l n="v19">“Faa i 'n Mortinus Kjørar, saa vi faar Fyren op.”</l>
+          <l n="v20">Og 'n Mortinus og Hesten dem kom nv. i Galop;</l>
+          <l n="v21">Men enda tok de Ti' ja, aa du store Mas,</l>
+          <l n="v22">Dem fik ‘n nok it op, førind'n ha kjørt en 60 Las,</l>
+          <l n="v23">Aa'n Raffel han fik Sennatræk, aa Veimestern fik Sting,</l>
+          <l n="v24">Men saa begyndte Folket aa tænke paa den Ting.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Aa Byens vise Fædre la nu Hode sit i Vand;</l>
+          <l n="v26">Vi maa nok se at faa en Komunikasjon i Stand,</l>
+          <l n="v27">Saa vi slæp aa gaa paa Gata, for Resikon e' stor,</l>
+          <l n="v28">Vi kommer nu alt for tidligt ned i den sorte Jord.</l>
+          <l n="v29">Saa fik vi Telefon ja, aa den som er gjild,</l>
+          <l n="v30">Nu sit vi indi Stua aa snakke de' vi vil;</l>
+          <l n="v31">Aa la de bare regne, de sjenerer inte os,</l>
+          <l n="v32">Nu slæp vi jo aa gaa ut, nu byr vi Lorten Trods.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p41">
+        <head>Fakkeltogvise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvad er det for et :,: vældigt Gny, :,:</l>
+          <l n="v2">I vor ellers nok saa :,: stille By, :,:</l>
+          <l n="v3">Med Ski paa Nakken :,: gaar hver Gut: :,:</l>
+          <l n="v4">Saa hurtigt, som han gik med Krudt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Der er en Rammel :,: og en Støi, :,:</l>
+          <l n="v6">Og Spændingen er :,: rigtig høi, :,:</l>
+          <l n="v7">Et Rygte hvisked :,:i hver Krog, :</l>
+          <l n="v8">Imorgen bli'r her Fakkeltog.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Skiløberne nu :,: Ordre faar :,:</l>
+          <l n="v10">At marschere op til :,: Egge Gaard, :,:</l>
+          <l n="v11">Saa glad i Sind af:,:sted de drog, :,:</l>
+          <l n="v12">De skulde jo paa Fakkeltog.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Paa Egge deltes :,: Fakler u, :,:</l>
+          <l n="v14">Man tænkte, at de :,: brandt som Krudt, :,:</l>
+          <l n="v15">Men det gik vistnok :,: ei saa glat, :,:</l>
+          <l n="v16">Det blev et dunkelt Resultat.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Ved Antændelsen de :,: var lidt lei, :,:</l>
+          <l n="v18">Men omsider bar det :,: dog ivei. :,:</l>
+          <l n="v19">Med Flack i Spidsen :,: nok saa kry, :,:</l>
+          <l n="v20">Og efter ham kom Gustav By.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Et Par af Skader: ;,: ne man saa ::,</l>
+          <l n="v22">De havde Sanskinds :,:huer paa, :,:</l>
+          <l n="v23">Det var- for koldt til :,: deres Hud :,:</l>
+          <l n="v24">Og deres Fakler ogsaa først gik ud.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">En sveden Lugt man :,: kjende fik, :,:</l>
+          <l n="v26">I Røhmes Bakser :,: Ild der gik, :,:</l>
+          <l n="v27">Og Bach fik brændt sin :,: ene Vaat, :,:</l>
+          <l n="v28">Men Faklerne de brandt kun smaat.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Thi hvordan det nu :,: end var fat, :,:</l>
+          <l n="v30">En efter en de :,: slukned brat, :,:</l>
+          <l n="v31">Og da man kom til :,: Byen hen, :,:</l>
+          <l n="v32">Se da var bare en igjen.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">I Byen Folket :,: stod parat :,:</l>
+          <l n="v34">Og var saa fryde :,: fuld og glad, :,:</l>
+          <l n="v35">Men bittert skauffet :,: blev de dog, :,:</l>
+          <l n="v36">De saa ei noget Fakkeltog.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Men Gaaden er nok :,: siden løst, :,:</l>
+          <l n="v38">Det var saa koldt, at :,: Ilden frøs, :,:</l>
+          <l n="v39">Det var saa koldt, at :,: Stikka sprat, :,:</l>
+          <l n="v40">Og derfor brændte de saa mat.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v41">Det gik som da Grûner:,:løkka brandt, :;:</l>
+          <l n="v42">Man Fakkeltog, men ingen :,: Fakler fandt, :,:</l>
+          <l n="v43">Og den Dag i Dag er man ei :,: rigtig klog :,:</l>
+          <l n="v44">Paa Sammenhængen med det Fakkeltog.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p42">
+        <head>Bazarvise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Kom Karen, Maren-Anna,</l>
+          <l n="v2">Kristine og Susanna,</l>
+          <l n="v3">Kom Ola, Paal og Per,</l>
+          <l n="v4">Og enda mange fler.</l>
+          <l n="v5">For dem, som eier ingen</l>
+          <l n="v6">Potet og Korn i Bingen,</l>
+          <l n="v7">Vi har Bazar min Ven</l>
+          <l n="v8">Og spør: “Er du med paa den?”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Først kom der en Idé,</l>
+          <l n="v10">Saa blev der Comité,</l>
+          <l n="v11">Og Frugten af den var</l>
+          <l n="v12">En Sædekornsbazar,</l>
+          <l n="v13">Og hvis du vil den støtte,</l>
+          <l n="v14">Maa du lidt paa Pungen gløtte</l>
+          <l n="v15">Og ikke være trædsk,</l>
+          <l n="v16">For Poteten koster Flæsk.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Her er nok af Sædejord</l>
+          <l n="v18">Omkring vor vakre Fjord,</l>
+          <l n="v19">Men ak af Sommersol</l>
+          <l n="v20">Blev altfor lidt ifjol’,</l>
+          <l n="v21">Og bare Kjærligheten</l>
+          <l n="v22">Kan ei drive frem Poteten,</l>
+          <l n="v23">Og om man forsøgte paa,</l>
+          <l n="v24">Er jeg ræd den blev for smaa.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Kom Ogndal, Sparbo, Skei,</l>
+          <l n="v26">Og vær ei længer lei,</l>
+          <l n="v27">Kom Beistad, Egge, Sto,</l>
+          <l n="v28">Thi snart skal Sæden gro,</l>
+          <l n="v29">Kom kuns og se paa Stasen,</l>
+          <l n="v30">Hjælp til at fylde Kassen,</l>
+          <l n="v31">Thi hvad I giver hen</l>
+          <l n="v32">Faar I tusindfold igjen.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Og tænk et sligt Program,</l>
+          <l n="v34">Det tør vi uden Skam,</l>
+          <l n="v35">Med baade Fynd og Klem,</l>
+          <l n="v36">Til alle byde frem;</l>
+          <l n="v37">Thi derfor tør vi borge,</l>
+          <l n="v38">At aldrig her i Norge,</l>
+          <l n="v39">Ei nor og ikke sør,</l>
+          <l n="v40">Er der seet saadant før.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Det er nu vist og sandt</l>
+          <l n="v42">At Barnums Elefant,</l>
+          <l n="v43">Og Løven Tippu-Tip</l>
+          <l n="v44">Er begge komne hid,</l>
+          <l n="v45">Og Flodhesten “Mustascha”,</l>
+          <l n="v46">Og Giraffen “Emin Pascha”,</l>
+          <l n="v47">Og Ormen “Uhlabrand”</l>
+          <l n="v48">Fra det store Suldalsvand.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Et storartet Tableau</l>
+          <l n="v50">Med ditto flere smaa,</l>
+          <l n="v51">Og saa en svensk Konsul</l>
+          <l n="v52">Som kjører paa et Hjul,</l>
+          <l n="v53">Og Ibsens store Drama,</l>
+          <l n="v54">Solnoss forklædt som Lama,</l>
+          <l n="v55">Og Bjørnson med et Flag</l>
+          <l n="v56">Gjør Grimaser bag hans Bag</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v57">Et tredobbelt Hurra</l>
+          <l n="v58">Skal alle disse ha,</l>
+          <l n="v59">Som støtte vil vor Sag</l>
+          <l n="v60">Og komme hid hver Dag.</l>
+          <l n="v61">Men hvis de noget vove,</l>
+          <l n="v62">Kan vi til Gjengjæld love</l>
+          <l n="v63">At Poteter næste Aar</l>
+          <l n="v64">For ingenting de faar.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p43">
+        <head>Vandværksvise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Nei husker I de gode gamle Dage,</l>
+          <l n="v2">Da vi vort Vand fra Vandkummer maatte tage,</l>
+          <l n="v3">Det sprudled klart, men vi skjønte ei paa Gaven.</l>
+          <l n="v4">Tales: Thi dengang var Svartkjønbacillen endnu</l>
+          <l n="v5">ikke opdaget, og om man tog sig en Slurk,</l>
+          <l n="v6">saa resikerte man ikke at faa saadan en</l>
+          <l n="v7">Femti tusen ned i Maven.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Men Trykket var for svagt, saa syntes somme,</l>
+          <l n="v9">Kun 24 Gram pr. Kubiktomme;</l>
+          <l n="v10">Undertiden og en FErø for Hullet lukked,</l>
+          <l n="v11">Tales: Men derfor blev man sletikke opraad, man</l>
+          <l n="v12">tog blot sin Korketrækker op af Lommen ‒</l>
+          <l n="v13">gjorde et Par Omdreininger og ‒</l>
+          <l n="v14">Straks var Sorgen slukked.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Men Kravet steg, og Vandet sank i Brønden,</l>
+          <l n="v16">Da kom der fluks en Ingeniør fra Sønden;</l>
+          <l n="v17">Han stræved med et Kart og dividerte,</l>
+          <l n="v18">Tales: Og saa havde han et Instrument, som stod</l>
+          <l n="v19">paa tre Bein, som han stod og sigta igjænnem;</l>
+          <l n="v20">og Folk, som forstod de', sa at</l>
+          <l n="v21">Han stod og nivellerte.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v22">Bæint opgjennem Vammen laa Kanalen,</l>
+          <l n="v23">Men Komunen stod og saag paa og var galen,</l>
+          <l n="v24">Thi Vandet, som kom fra de høie Zoner,</l>
+          <l n="v25">Tales: Det havde vistnok et stærkere Tryk end det</l>
+          <l n="v26">gamle, men ak og ve, det kostede</l>
+          <l n="v27">Seksti tusen Kroner.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v28">David hed vor første Vandværksmester,</l>
+          <l n="v29">Man paastod, at han fuskede med Gjæster;</l>
+          <l n="v30">Thi Vandet, det var baade brunt og sølet,</l>
+          <l n="v31">Tales: Og hver Gang at han var oppe ved Vand</l>
+          <l n="v32">dammene, saa paastod man, at han puttede</l>
+          <l n="v33">Gjæster nedi, og at det var derfra</l>
+          <l n="v34">At David hented Ølet.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v35">Af Myrjord og Baciller er det loddent,</l>
+          <l n="v36">Ja, En paastaar sogar, at det er raaddent;</l>
+          <l n="v37">Hver Gang en Borgermand faar ondt i Maven,</l>
+          <l n="v38">Tales: Og Doktor Schnitler blir hentet, saa gjør han</l>
+          <l n="v39">en mystisk Bevægelse med Tommelfingeren</l>
+          <l n="v40">i Retning af Svartkjønna og hvisker ganske</l>
+          <l n="v41">sagte Patienten i Øret:</l>
+          <l n="v42">Da liegt der Hund begraben.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v43">I Statistiken staar vort Vandværk som det andet,</l>
+          <l n="v44">Vi har kun et til værre her i Landet,</l>
+          <l n="v45">Og faar man lidt i Maven slaar den Volter;</l>
+          <l n="v46">Tales: Men den, som tjener Penge paa det, er</l>
+          <l n="v47">Brændevinsbolaget, thi vi blir jo alle nødt</l>
+          <l n="v48">at gaa did for at</l>
+          <l n="v49">Drikke baiersk Øl og Pjolter.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v50">Vi Teknikere river os i Haaret,</l>
+          <l n="v51">Thi vi faar Vandet stængt 2 Gang' om Aaret,</l>
+          <l n="v52">Vi springe, til vi er færdige at segne,</l>
+          <l n="v53">Tales: Vi springe fra Herodes til Pilatus, fra Magi</l>
+          <l n="v54">strat til Stadsingeniør, og alle trække paa</l>
+          <l n="v55">Skuldrene og sige:</l>
+          <l n="v56">Ja bare det vil regne.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v57">Det er bestemt af visse høie Magter,</l>
+          <l n="v58">At næste Aar saa skal vi sikkert atter</l>
+          <l n="v59">Gjense vor Mudderpram, den gamle Ronna,</l>
+          <l n="v60">Tales: Thi i sidste Formandskabsmøde blev det med</l>
+          <l n="v61">2 mod 3 Stemmer bestemt, at den skal op</l>
+          <l n="v62">paa Byafjelle</l>
+          <l n="v63">For at mudre i Svartkjønna.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p44">
+        <head>Da Oscar sak ved Hylla</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ja Hylla er nu blet berømt, og de’ paa mangen Vis</l>
+          <l n="v2">Dog helst i kolde Vintere, naar Fjor'n er fuld af Is,</l>
+          <l n="v3">Da gaar nu al Trafikken did, der maa man gaa iland,</l>
+          <l n="v4">Da ønsked man at Jernbanen var godt og vel istand.</l>
+          <l n="v5">Man klandrer hele Stellet, og den Dampskibs-Direktion</l>
+          <l n="v6">Faar vistnok ogsaa ofte sin Portion.</l>
+          <l n="v7">Ja, bare at nu Jernbanen var færdig i en Fei,</l>
+          <l n="v8">Men hvilket Aar at dette sker,  se det, det ved man -ei,</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Men aldrig har vel Hylla havt saa god Tilkrækningskraft</l>
+          <l n="v10">Som her forleden Sommertid, da baade Høit og Lavt</l>
+          <l n="v11">Kom reisende til Hylla hen baade ved Nat og Dag</l>
+          <l n="v12">For med egne Øine at se det store Vrag.</l>
+          <l n="v13">Kong Oscar den var sunket ned, og Agterenden sto'</l>
+          <l n="v14">Kun to Fod overvands, naar det var Flo,</l>
+          <l n="v15">Ja, Skruen havde faat en Feil, saa det bar galt ivei,</l>
+          <l n="v16">Men om F havde en Skrue løs, ‒ se det, det ved man ei.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Saa kom Stærkodder sættendes med Dykkere en mas,</l>
+          <l n="v18">Og tog op heile Mjøllasten, og det var mange Las.</l>
+          <l n="v19">De Dykkere de dykked ned, og alting gik saa pent,</l>
+          <l n="v20">Men mange syntes ogsaa, at det gik dygtig sent.</l>
+          <l n="v21">Og tænk Dem, at en Stormnat saa gaar Kong Oscar hen</l>
+          <l n="v22">Og søk som en Stein tilbunds igjen.</l>
+          <l n="v23">Nu stak den atter altfor dybt, var rigtig paa Galei,</l>
+          <l n="v24">Men hvor dybt den Dykkerkaptein stak, ‒ se det, det ved man ei.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Saa tænkte man, Farvel min Skat, jeg ser dig aldrig mer,</l>
+          <l n="v26">Dog kom den atter op igjen, men den var fuld af Ler,</l>
+          <l n="v27">Den var vel stygt mishandlet, den havde faaet nok,</l>
+          <l n="v28">Og det blev straks besluttet, at den skulde gaa i Dok.</l>
+          <l n="v29">Nu er den splinterny igjen og helt igjennem fjong,</l>
+          <l n="v30">Har udvidet og elegant Salong.</l>
+          <l n="v31">Nu gaar den atter saasom før, og den er vistnok grei,</l>
+          <l n="v32">Men hvad den Afæren kostet har,  se det, det ved man ei.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Mod Jernbanen stemte 17 dog, men 29 var paa Post.</l>
+          <l n="v34">Vi siger som hin kjendte Mand, han som sa: “Vel blaast”.</l>
+          <l n="v35">Conkurransen blir nok livlig da, om hvem som mest kan snap,</l>
+          <l n="v36">Naar “Indtrøndern!” og Jernbanen ska begynd aa gaa omkap,</l>
+          <l n="v37">Jeg synes at se Fremtiden omtrent som i et Syn,</l>
+          <l n="v38">Tænk hvilket Liv og Rørelse i By'n;</l>
+          <l n="v39">Ja, Jernbanen den kommer hid, men ad hvilken Vei</l>
+          <l n="v40">Om Haakaora eller om 'n Riis, ‒ se det, det ved man ei.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p45">
+        <head>Torpedovise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Torpedovise.</l>
+          <l n="v2">Sunget ved samme Anledning som: Da Oscar sak ved Hylla</l>
+          <l n="v3">Egen Melodi.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v4">Vor Tidsalder er paa Opfindelser rig,</l>
+          <l n="v5">Og aldrig har Verden nu artet sig slig.</l>
+          <l n="v6">Man skyder med røgsvagt, og maaske om lidt</l>
+          <l n="v7">Er dette for svagt, og man tar Dynamit.</l>
+          <l n="v8">Og er der noget</l>
+          <l n="v9">Man ikke liker,</l>
+          <l n="v10">Det være sig paa Land eller Vand,</l>
+          <l n="v11">So hängt man ein Torpedo an.</l>
+          <l n="v12">Es gibt ein Knall, es gibt ein Puff,</l>
+          <l n="v13">Og Gjenstanden fliegt geschwindt in die Luft.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v14">I Rusland der gjør man nu tidt som man vil,</l>
+          <l n="v15">Der de Nihilister jo driver sit Spil;</l>
+          <l n="v16">Den Kaiser, den Kaiser de ikke vil ha.</l>
+          <l n="v17">Nei væk maa han, bort skal han, da blir det bra.</l>
+          <l n="v18">Man spekauliren,</l>
+          <l n="v19">Und grasiren.</l>
+          <l n="v20">Und wenn er kam durch Newsky Strand</l>
+          <l n="v21">So hångt man ein Torpedo an:</l>
+          <l n="v22">Es gibt ein Knall, es gibt ein Pufk,</l>
+          <l n="v23">Und der russische Kaiser fliegt in die Luft.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v24">Ja dette til Nytte man drage sig bør,</l>
+          <l n="v25">Man ser jo, hvad udmærket Nytte det gjør.</l>
+          <l n="v26">Hvis Storsvensken bare tør vove sig hid,</l>
+          <l n="v27">Han faar varme Vafler, og saa ‒ Dynamit.</l>
+          <l n="v28">Og som ved Kringen,</l>
+          <l n="v29">Der undslipper ingen;</l>
+          <l n="v30">Thi naar alle kommer paa engang,</l>
+          <l n="v31">So hangt man ein Torpedo an,</l>
+          <l n="v32">Es gibt ein Knall, es gibt ein Pufk,</l>
+          <l n="v33">Og Storsvensken fliegt nun geschwindt in die Luft.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v34">I det praktiske Liv er det ofte ret godt,</l>
+          <l n="v35">At ha lidt af denne, naar alting gaar smaat.</l>
+          <l n="v36">Med saadant man visselig ret uden Krus</l>
+          <l n="v37">Baade hastig og lystig kan flytte et Hus.</l>
+          <l n="v38">Lynild og Torden,</l>
+          <l n="v39">Naar Beitstadfjorden</l>
+          <l n="v40">Er fuld af Is istedetfor Vand,</l>
+          <l n="v41">So hingt man ein Torpedo an,</l>
+          <l n="v42">Es gibt ein Knall, es gibt ein Putk,</l>
+          <l n="v43">Og Isen fliegt nun geschwindt in die Luft.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v44">Og undervands er den ogsaa ret god,</l>
+          <l n="v45">Der fins ei den Skude, som kan staa imod.</l>
+          <l n="v46">Med denne helt under er det ingen Sag,</l>
+          <l n="v47">At hæve og løfte det tungeste Vrag,</l>
+          <l n="v48">Da kom det villig,</l>
+          <l n="v49">Og let og billig,</l>
+          <l n="v50">Ja hvis at jeg var Weidemann,</l>
+          <l n="v51">So hångt ich ein Torpedo an,</l>
+          <l n="v52">Es gibt ein Knall, es gibt ein Pauff,</l>
+          <l n="v53">Og Kong Oscar fliegt nun geschwindt in die Luft.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p46">
+        <head>Prolog</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Har du seet Tryllelandet</l>
+          <l n="v2">Fra Udsigten paa Vaattabakken,</l>
+          <l n="v3">Eller kjender du det bare</l>
+          <l n="v4">Rygtevis fra Folkesnakken?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Har du seet Beitstadfjorden</l>
+          <l n="v6">Fra Udsigten paa Eggevammen,</l>
+          <l n="v7">Og Stenkjær By og Nordsileire?</l>
+          <l n="v8">I har vist set det allesammen ?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Har du staat paa Nordsihaugen</l>
+          <l n="v10">Med Blikket vendt udover Fjorden,</l>
+          <l n="v11">Set Dampbaaden gaa op Kanalen,</l>
+          <l n="v12">Den skjønneste, som fins i Norden.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Har du seet Solnedgangen</l>
+          <l n="v14">Fra Firkanten her nedpaa Mælen,</l>
+          <l n="v15">Medens Møen ved din Side</l>
+          <l n="v16">Støttet sig til dig helt kjælen.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Har du staat paa Stenkjærbakken</l>
+          <l n="v18">Med Sofie og Malera,</l>
+          <l n="v19">I taus Beundring af Naturen,</l>
+          <l n="v20">Indtil du blev træt i Bena?</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Har du betragtet Stenkjærsannan,</l>
+          <l n="v22">Naar Officererne fortjener Gagen,</l>
+          <l n="v23">Og Soldaten lærer mores,</l>
+          <l n="v24">Og Tøitnanten, som snor Mustachen?</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Har du betragtet Jakobs Minde</l>
+          <l n="v26">Fra Noathun, hvor stolt det kneiser,</l>
+          <l n="v27">Og Mudderprammen ved dets Side,</l>
+          <l n="v28">Som Masser Ler i Veiret heiser?</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Paa disse Steder mange Gange</l>
+          <l n="v30">Har du staaet, kan jeg tænke,</l>
+          <l n="v31">Men siddet har du dog vist ikke,</l>
+          <l n="v32">Fordi der findes ingen Bænke.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Naar du gaar en Tur en Kveldsstund</l>
+          <l n="v34">Og har naaet op paa Bakken,</l>
+          <l n="v35">Du er lidt træt og vil dig hvile,</l>
+          <l n="v36">Men speider forgjæves efter Krakken.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Tidens Tand og Vandalismen</l>
+          <l n="v38">Har omstyrtet disse Sæder,</l>
+          <l n="v39">Saa staaende du maa betragte</l>
+          <l n="v40">Alt dette, som dit Øie glæder.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v41">Saa det var vor sikre Mening,</l>
+          <l n="v42">At Godtfolk vilde støtte Sagen,</l>
+          <l n="v43">Og Indherreds Tauristforening</l>
+          <l n="v44">Har derfor bragt den frem i Dagen.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v45">Og Indtægten i Kvæld vi gjemmer</l>
+          <l n="v46">Til Sommeren og kjøber Bænke,</l>
+          <l n="v47">Paa dem I kan jer ned da sænke</l>
+          <l n="v48">Og hvile Eders trætte Iemmer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p47">
+        <head>Markedsvise</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Velkommen te Sta'n ja</l>
+          <l n="v2">Aa teløk nu me Martnan,</l>
+          <l n="v3">De 's rart kor ein heftes,</l>
+          <l n="v4">De va arti vi træftes;</l>
+          <l n="v5">Men for at itj Tia ska bli lang,</l>
+          <l n="v6">Vi tar en Tur paa Torve</l>
+          <l n="v7">Aa gaar en liten Martnasgang;</l>
+          <l n="v8">For de 'e Martna bære ein Gang om Aaro.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Her e' fuldt op taa Blækty,</l>
+          <l n="v10">Baade Ausa aa Spanna.</l>
+          <l n="v11">Her e' Salmbøker aa Væska</l>
+          <l n="v12">Te aa bæra i Handa.</l>
+          <l n="v13">Treskjeie aa Kniva,</l>
+          <l n="v14">Skjindhuva aa Kamma,</l>
+          <l n="v15">Sirts, Knappa aa Riva,</l>
+          <l n="v16">Aa Speil i forgyldte Ramma.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Her e' fuldt op taa Æpla</l>
+          <l n="v18">Aa Pæra, har som en Stein;</l>
+          <l n="v19">Alt gaar i Smaaguten,</l>
+          <l n="v20">Han eø' vel ikke sein.</l>
+          <l n="v21">Mondorgel aa slik Musik,</l>
+          <l n="v22">Han kan nok rette Maaten</l>
+          <l n="v23">Naar han denher Pipa fik</l>
+          <l n="v24">Du kjennes vel me Laaten.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Kom bli me indi Telte,</l>
+          <l n="v26">Der ska vi drik aa spis</l>
+          <l n="v27">Mommelæg aa Skjellingskak,</l>
+          <l n="v28">Aa Kaffe i Bøttevis.</l>
+          <l n="v29">Ja den som kunde have</l>
+          <l n="v30">Saadan en Mave</l>
+          <l n="v31">Af Størrelse aa slik Fasong</l>
+          <l n="v32">Som André's Luftballong.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Aa Byens vise Fædre,</l>
+          <l n="v34">Som vi alle burde hædre,</l>
+          <l n="v35">De har forbudt alt Maskepi</l>
+          <l n="v36">Med Karussel aa Gjøgleri.</l>
+          <l n="v37">Men la nu de Stykke staa;</l>
+          <l n="v38">Vi lar dog Ballongen gaa.</l>
+          <l n="v39">Og lidt Morro dog du har</l>
+          <l n="v40">Naar du besøger vor Bazar.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p48">
+        <head>Ianledning Stenkjær Arbeidersamfunds 20-Aarsfest</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ja denne stolte Bygning, en Pryd er for vor By,</l>
+          <l n="v2">Og vi kan nok ha Grund til af den at være kry,</l>
+          <l n="v3">Men de som skal ha' Prisen, det er de staute Mænd,</l>
+          <l n="v4">Som fra at tænke paa Sagen, gik over til Handlingen.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">I kjender vistnok alle, at nu til næste Vaar,</l>
+          <l n="v6">Har vort Arbeidersamfund bestaa't i 20 Aar,</l>
+          <l n="v7">Og den som gik først i Spidsen  ja Ære være ham ‒</l>
+          <l n="v8">Og blev dets første Formand, var gamle Klokker Kvam.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Saa tog Hr. Martens Ledelsen, og det er ganske vist,</l>
+          <l n="v10">En saadan dygtig Formand, ei hænger paa hver Kvist,</l>
+          <l n="v11">I mangt et Aar han virked, og alt gik saare godt,</l>
+          <l n="v12">Han havde dets Vel for Øie, baade i stort og smaat.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Nu har vi da han Elstad, er heller ei aflægs,</l>
+          <l n="v14">Det er administrator, ja en som siger seks,</l>
+          <l n="v15">Det er rigtig Gutten i Røiken, og hvis han var for Salg,</l>
+          <l n="v16">Vi kjøbte ham sikkert til Formand, saa slap vi Formandsvalg.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Og gamle Kjærnetropper af allerbedste Slag,</l>
+          <l n="v18">Som støttet har vort Samfund ifra den første Dag.</l>
+          <l n="v19">De allesammen hærer til Byens bedste Mænd,</l>
+          <l n="v20">Han Mathisen og 'n Melhus og 'n Thorsen og han Salmager Eilertsen.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">En duelig Vagtmester er ikke god at faa,</l>
+          <l n="v22">Men Lorntz han greier Biffen, ham kan man lide paa.</l>
+          <l n="v23">Og naar der saa skal festes, hvor vender man sig hen?</l>
+          <l n="v24">Til Rosinen i Enden af Pølsen, til Kristian Taraldsen.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p49">
+        <head>Fut og Knald</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Man siger at vi norske</l>
+          <l n="v2">Er en meget træg Nation,</l>
+          <l n="v3">Men vi kan nok være morske,</l>
+          <l n="v4">Naar vi blot faar en Passion,</l>
+          <l n="v5">Thi vistnok saa ere vi kjælen,</l>
+          <l n="v6">Men er det saa, vi skal,</l>
+          <l n="v7">Og blir vi rigtig gælen,</l>
+          <l n="v8">Saa er det ‒ Fut og Knald.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Med vor store Halvblodsfrændo</l>
+          <l n="v10">Vil vi allerhelst ha Fred,</l>
+          <l n="v11">Thi det kunde ellers hænde,</l>
+          <l n="v12">At vi kom galt afsted,</l>
+          <l n="v13">Men at sprænge den Barikaden</l>
+          <l n="v14">Kunde let bli Mandefald,</l>
+          <l n="v15">Og Enden paa “Promenaden”</l>
+          <l n="v16">Det blev nok ‒ Fut og Knald.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Da André han drog mod Polen</l>
+          <l n="v18">Udi sin Luftballon,</l>
+          <l n="v19">Og svævede mod Solen,</l>
+          <l n="v20">Da var han vistnok fjong,</l>
+          <l n="v21">Men han tog paa sig mer end han evna,</l>
+          <l n="v22">Saa det blev bare Ball,</l>
+          <l n="v23">Og naar Ballonen revna,</l>
+          <l n="v24">Saa blev der ‒ Fut og Knald,.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Dernede langt mod Syden,</l>
+          <l n="v26">Der ligger den fæle Ø,</l>
+          <l n="v27">Det er den sorte Gryden,</l>
+          <l n="v28">Hvor Dreyfus skal leve og dø;</l>
+          <l n="v29">Ei mere han her ned paa Jora</l>
+          <l n="v30">Skal røgte sit Krigerkald,</l>
+          <l n="v31">Men saa kom denne hersens Zola,</l>
+          <l n="v32">Og saa blev der ‒ Fut og Knald.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">I den Tid man er forlovet,</l>
+          <l n="v34">Da er nok Pigen sød,</l>
+          <l n="v35">Hun gjætter hvad man ønsker,</l>
+          <l n="v36">Og er føielig og blød,</l>
+          <l n="v37">Men snart er det slut med at plystre,</l>
+          <l n="v38">Naar man først er gift og Kall,</l>
+          <l n="v39">Da maa man hurtig lystre,</l>
+          <l n="v40">Ellers blir der ‒ Fut og Knald.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Fra Verdens fire Hjørner</l>
+          <l n="v42">Vi er kommet til Bazar,</l>
+          <l n="v43">Og vi, vi kom saa gjerne,</l>
+          <l n="v44">Thi vi her vort Hjem jo har,</l>
+          <l n="v45">For Bøger til Pigen og Gutten,</l>
+          <l n="v46">Vi virker i vort Kald,</l>
+          <l n="v47">Aa hele Kvartetten Tuten</l>
+          <l n="v48">Er bare ‒ Fut og Knald.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p50">
+        <head>Bolagets Svanesang eller Afholdsfolkets Seiershymne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hurra! nu gaar det godt san,</l>
+          <l n="v2">Nu har vi Vished faat san.</l>
+          <l n="v3">Fuldstændig Sikkerhed for at</l>
+          <l n="v4">Hvis at vi nu tar rigtig fat,</l>
+          <l n="v5">Saa gjør vi nok Bolaget mat</l>
+          <l n="v6">I næste store Træk.</l>
+          <l n="v7">Hurra, Hurra, Hurra, Hurra, vi vil intet Bolag ha,</l>
+          <l n="v8">Hurra, Hurra, Hurra, Hurra, da blir det rigtig bra.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Vi vil det ei fordølge,</l>
+          <l n="v10">Vi gaar i Flok og Følge,</l>
+          <l n="v11">Voterer hele Stasen væk.</l>
+          <l n="v12">Til god Advarsel og til Skræk</l>
+          <l n="v13">For hver letsindig Pimpesæk,</l>
+          <l n="v14">Som lusker om i By'n.</l>
+          <l n="v15">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v16">Og saadanne Subjekter,</l>
+          <l n="v17">Som han Saugestad helst hekter,</l>
+          <l n="v18">De ikke er at spase med,</l>
+          <l n="v19">Dem slipper han at mase med,</l>
+          <l n="v20">Nu drager de vel helst afsted</l>
+          <l n="v21">Hen til en Bolagsby.</l>
+          <l n="v22">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v23">Hver Hustru her i Hallen,</l>
+          <l n="v24">Som har lidt Vet i Skallen,</l>
+          <l n="v25">Gaar med paa sligt et sundt Program,</l>
+          <l n="v26">For Hjem, for Børn og saa for ham,</l>
+          <l n="v27">Selv om til Maade han tog Dram,</l>
+          <l n="v28">Saa maa hun stemme i:</l>
+          <l n="v29">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v30">Og nu I vakre Jenter,</l>
+          <l n="v31">Som snart en Brudgom henter,</l>
+          <l n="v32">I vil jo ha en fin galant,</l>
+          <l n="v33">Og ikke nogen Ranglefant,</l>
+          <l n="v34">Saa blir i med, ja ikke sandt?</l>
+          <l n="v35">Og synger ligesaa:</l>
+          <l n="v36">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v37">Saa kan det dog nok hænde,</l>
+          <l n="v38">At mange vil indvende,</l>
+          <l n="v39">Ak Baudgettet stiger saa,</l>
+          <l n="v40">Hvorfra skal vi Penge faa,</l>
+          <l n="v41">Naar ei Bolaget hjælper paa?</l>
+          <l n="v42">Men enda siger vi:</l>
+          <l n="v43">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v44">Det høres noksaa logisk,</l>
+          <l n="v45">Men er dog meget komisk,</l>
+          <l n="v46">Det er lite Uld og meget Braøl,</l>
+          <l n="v47">Og det forstaar du godt nok sjøl,</l>
+          <l n="v48">Spar du din Akevit og Øl,</l>
+          <l n="v49">Og betal dermed din Skat.</l>
+          <l n="v50">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v51">Det skal gaa med Fryd og Gammen</l>
+          <l n="v52">Naar vi alle slaar os sammen,</l>
+          <l n="v53">Skomaker, Fargar, Snedker, Smeq,</l>
+          <l n="v54">Vi alle ville være med,</l>
+          <l n="v55">Da stemmer vi Bolaget ned,</l>
+          <l n="v56">Og synge saa i Kor:</l>
+          <l n="v57">Hurra, Hurra o. s. v.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v58">Her staar jeg paa Tribunen,</l>
+          <l n="v59">Et Medlem af Kommunen,</l>
+          <l n="v60">Og skjønt jeg ei er Afholdsmand,</l>
+          <l n="v61">Saa vil jeg gjøre hvad jeg kan,</l>
+          <l n="v62">Og hjælpe denne gode Stand,</l>
+          <l n="v63">Og derfor synger jeg:</l>
+          <l n="v64">Hurra, Hurra, Hurra, Hurra, vi vil intet Bolag ha,</l>
+          <l n="v65">Hurra, Hurra, Hurra, Hurra, da blir det rigtig bra</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p51">
+        <head>Stenkjær-Revy</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg synger en Vise med mit bedste Lune,</l>
+          <l n="v2">Om hvad som har hændt udi vores Kommune,</l>
+          <l n="v3">Thi i mangt og meget, saa er den vist grei,</l>
+          <l n="v4">Men meget er ogsaa ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Først er vi ret grundig blet taget ved Næsen</l>
+          <l n="v6">Med vores ulykkelige Havnevæsen,</l>
+          <l n="v7">For naar de” e' Flo, saa e' Elva vist brei,</l>
+          <l n="v8">Men naar de' e' Fjæra ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Aa naar vi ska ro ut i Vestavindskuling,</l>
+          <l n="v10">Da e' vi saa ræd, som at vi skul ha Juling,</l>
+          <l n="v11">Men spør man om Forbedring, saa svarer dem, Nei!</l>
+          <l n="v12">Det er dog vel meget ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Mudderpramma vi har, den gjør ei stor Nøtta,</l>
+          <l n="v14">Ka skul vi nu me' dender gammeldags Bøtta,</l>
+          <l n="v15">Dem si nu, at den har en feilagtig Skjei,</l>
+          <l n="v16">Saa at de nu blir bare ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Saa har vi et Vand med Kulør som paa Toddy,</l>
+          <l n="v18">Ja Svartkjønbacillen, den er ikke naadig,</l>
+          <l n="v19">Om Kolera Morbus har angrebet dig,</l>
+          <l n="v20">Saa kommer den derfra ‒ Singdudolidei.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Der var nok engang et Springvand pan Torve,</l>
+          <l n="v22">Hvor Vandet sprang klart en Brøkdel af Aare.</l>
+          <l n="v23">Men Ræren' dem sprak; og de kom bort i on Fei,</l>
+          <l n="v24">Fem Tusen de' kosta ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Den ny Vei til Bogen, se den er nok Bason.</l>
+          <l n="v26">Men Inkjørsla ved Bryggan fordærvo heile Stasen,</l>
+          <l n="v27">Og Forbygningen ved Storevja duer nok ei,</l>
+          <l n="v28">Saa der er ogsaa noget ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Det er, hvad som var, men end det som kommer,</l>
+          <l n="v30">Naar Bolagsafstemningen blir næste Sommer,</l>
+          <l n="v31">At I. O. G. T. dog skal ta slig paa Vei,</l>
+          <l n="v32">Bare for en liten ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Naar Barna i Hode, de har svage Punkter,</l>
+          <l n="v34">Det hjælper, naar man blot faar tvende Adjunkter,</l>
+          <l n="v35">Saa Professorer blir alle, den Sagen er grei.</l>
+          <l n="v36">Men Baudgettet det stiger ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Og enda et Spørgsmaal i al Tugt og Ære,</l>
+          <l n="v38">Er der nogen som ved, hvor Stationen skal være,</l>
+          <l n="v39">Ja, mon hvor nu Jernbanen finder sin Vei,</l>
+          <l n="v40">Blir det hele bare ikke ‒ Singdudelidei.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v41">Se nu var det Slut paa denne Rævyen;</l>
+          <l n="v42">Men tiltrods for alt dette florerer dog Byen,</l>
+          <l n="v43">Saa Farvel vil jeg sige og takke for mig,</l>
+          <l n="v44">Nu har I vel faat nok af ‒ Singdudelidei.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p52">
+        <head>Laddevin</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det nittende Aarhundrede er rigt paa Resultater,</l>
+          <l n="v2">Vi har jo Damp og Telefon omkring i alle Stater,</l>
+          <l n="v3">Men mange siger, at nu er opfundet noget større,</l>
+          <l n="v4">Hvad i Alverden er vel det? Jo, nu skal I bare høre:</l>
+          <l n="v5">Det er: Lidde, Ludde, Laddevin, og Laddevin, og Laddevin,</l>
+          <l n="v6">Ja Lidde, Ludde, Laddevin, og den er rigtig fin.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Thi Brændevinen er saa dyr, vi den ei mer kan drikke,</l>
+          <l n="v8">Men vi har noget andet faat, saa opraad er vi ikke,</l>
+          <l n="v9">Af Finkel og af Tobakssaft et Substitut nu laves;</l>
+          <l n="v10">Man kan med rette spørge om der noget bedre haves</l>
+          <l n="v11">End Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v12">Desuden er der Kreaturvask, og Arsenik, og Nafta,</l>
+          <l n="v13">Og Slomper udaf Øl og Sprit rørt ud i denne Safta,</l>
+          <l n="v14">Om Sengen danser Hopsavals, og dit Hode det er sprukket,</l>
+          <l n="v15">Da kan jeg være sikker paa, at du om Kvel'n har drukketet</l>
+          <l n="v16">Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v17">Nu gjør det ikke nogenting, om Fortjenesta er lita,</l>
+          <l n="v18">Det koster heller ikke stort at kunne bli paa Krita;</l>
+          <l n="v19">At ikke gji for meget ud, det bør man dog ei gjøre,</l>
+          <l n="v20">Naar man kan faa en dygtig Rus for fem og tyve Øre</l>
+          <l n="v21">Af Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v22">Paa Namsosramled Bolaget, og mangesang “Te Deum”,</l>
+          <l n="v23">Og Virkningen var følelig for Byens Athenæum,</l>
+          <l n="v24">Og Savnet det var lige stort blandt Herremænd og Bønder,</l>
+          <l n="v25">Men vips var en Grosserer frem, og bestilte 15 Tønder</l>
+          <l n="v26">Af Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v27">Paa Levanger gik det ligedan, ret ikke længe efter,</l>
+          <l n="v28">Skjønt Manden med det lange Skjæg, holdt igjen af alle Kræfter;</l>
+          <l n="v29">Men efterpaa den søde Klø kom ogsaa bitre Mandler.</l>
+          <l n="v30">For nu skal der jo findes fem, som allesammen handler</l>
+          <l n="v31">Med Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v32">Nu maa vi derfor alle her paa Stenkjær være flittig,</l>
+          <l n="v33">Thi det er ei godt at forudse, hvor det gaar i ni og nitti;</l>
+          <l n="v34">Men om Samlaget gaar til Bloks, saa ingen sure Miner,</l>
+          <l n="v35">Vi har jo Nektar mer end nok, den ædleste af Viner,</l>
+          <l n="v36">Det er Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v37">Men Namsos og Levanger ere begge gaat i Vasken,</l>
+          <l n="v38">De havde Vatten mer end nok, men ikke no'ot paa Flasken;</l>
+          <l n="v39">thi Bolaget de stemte ned, og derfor maa de sukke,</l>
+          <l n="v40">For det er no'et som Hvermand ved, at det gaar ei an at slukke</l>
+          <l n="v41">Med Lidde, Ludde, Laddevin osv.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p53">
+        <head>Da Bolage' rausa</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og Bolage' gik nu til Bloksberg i en Hast.</l>
+          <l n="v2">Med 94 Stemmer, ja de' va Liv i Lærvan,</l>
+          <l n="v3">En Mærkedag for Byen, og ingen sad nu hjem,</l>
+          <l n="v4">Om dem va stiv i Lean, saa hjalp nu O. G. T-an,</l>
+          <l n="v5">At ta dem under Arman, saa dem kom rigtig frem.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Og Sagen var drøftet i Tale og i Skrift.</l>
+          <l n="v7">Og Frøken Edland talte og Tilstanden udmalte,</l>
+          <l n="v8">Hvor godt det vilde bli, naar man ei fik nogen Dram,</l>
+          <l n="v9">Indflydelse hun haver med sine Talegaver,</l>
+          <l n="v10">At stemme ja, det syntes nu de fleste var en Skam.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Og derpaa saa kom der en mægtig Matador.</l>
+          <l n="v12">Med Skildringer saa kvikke, Folk lo til dem fik Hikke.</l>
+          <l n="v13">Med Humor og Varme han talte for sin Sag,</l>
+          <l n="v14">Og Hr. Peder Svendsen gik aldrig over Grændsen,</l>
+          <l n="v15">Men greit belyste Sagen, saa klart som en Dag.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v16">Og Modparten brøled, men ingenting det hjalp.</l>
+          <l n="v17">Og en Mand gik og mased, og stundom rent han rased.</l>
+          <l n="v18">Og slo i Bore til dem, saa det hopped høit,</l>
+          <l n="v19">Dem sa me' 'n Kaffefjæring han fik omvendt en Kjærring,</l>
+          <l n="v20">Men paa de fleste virked det slet ikke en Døit.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v21">I vore Aviser dem slos saa Haare rauk.</l>
+          <l n="v22">Og begge Redaktøran ha' fuldt opover Øran,</l>
+          <l n="v23">Den ene vilde ha det, den anden raabte: “væk”,</l>
+          <l n="v24">Den ene fægtet tappert, men den anden skrev saa vakkert,</l>
+          <l n="v25">At Bolage for ham var en Pestilens og Skræk.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v26">Paa Afstemningsdagen, da var der stor Hallo.</l>
+          <l n="v27">Saa klar og blaa var Skyen, som Stemningen i Byen</l>
+          <l n="v28">Og om man gik paa Gata, da saa man my's rart,</l>
+          <l n="v29">Og gamle halte Mainna, og hu Skindfæld-Ynberanna,</l>
+          <l n="v30">Dem sat fornemt og kjørte som paa en Kanefart.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v31">Ja tænk Dem, nu faar vi slet intet Bolag mer.</l>
+          <l n="v32">Maaske det var det bedste, for os og for vor Næste</l>
+          <l n="v33">Om 5 Aar kan vi jo atter ta den gamle Skik,</l>
+          <l n="v34">Og mange hare Hausa, ha' godt af at det rausa,</l>
+          <l n="v35">Jeg si'r med Terje Viken: “Bedst det gik som det gik.”</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v36">Der siges at Afstemningen maa gjøres om igjen.</l>
+          <l n="v37">Lidt Krangel let forvoldes, naar alt skal hem'ligholdes,</l>
+          <l n="v38">At krænke Lovens Bogstav, det tillades ei.</l>
+          <l n="v39">Det gik nu ikke bedre, end at to af Byens Fædre,</l>
+          <l n="v40">Dem va' me Kjærringan i Kammerse, og hørt at dem sa' Nei.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p54">
+        <head>Ved Sangernes Afreise fra Stenkjær til Sangerfesten i Kristiania 1896</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Saa ruller vi en solblank Time</l>
+          <l n="v2">Derned med Jubelkor,</l>
+          <l n="v3">Og samles saa i store Stimo</l>
+          <l n="v4">Baade fra Syd og Nord.</l>
+          <l n="v5">Thi nu er Trætten sluttet,</l>
+          <l n="v6">Tvedragten endt,</l>
+          <l n="v7">Og Trønderne nu faar upruttet</l>
+          <l n="v8">Sit Antal sendt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det kneb nok stygt med den Affære,</l>
+          <l n="v10">Før der blev sluttet Fred.</l>
+          <l n="v11">Men Kristianenserne maa lære</l>
+          <l n="v12">At Trønderne ei spøges med.</l>
+          <l n="v13">Ole Olsen tyded Runen</l>
+          <l n="v14">Og fik det stelt,</l>
+          <l n="v15">Saa blev der Plads nok paa Tribunen</l>
+          <l n="v16">For Griffenfeldt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Nu intet mere kan os hemmo</l>
+          <l n="v18">Paa denne glade Færd,</l>
+          <l n="v19">Men vore Sisikker blir hjemme,</l>
+          <l n="v20">De er det ikke værd;</l>
+          <l n="v21">De tripper paa Stenkjærs Gader,</l>
+          <l n="v22">Tænker paa sin Mand,</l>
+          <l n="v23">Som nok saa lystig gaar og sprader</l>
+          <l n="v24">Paa Karl Johan.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Fra Sexa og til Bal vi render</l>
+          <l n="v26">Alt for den gode Sag,</l>
+          <l n="v27">Og derifra man saa os sender</l>
+          <l n="v28">Til prægtig Festmiddag.</l>
+          <l n="v29">Tilsidst vi Veien finder</l>
+          <l n="v30">Vel hjem igjen,</l>
+          <l n="v31">Med Hodet fuldt af glade Minder</l>
+          <l n="v32">Og Tømmermænd.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p55">
+        <head>Velkomstsang til Otto Sverdrup</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Forleden fra Skjervø et Budskab kom,</l>
+          <l n="v2">Det fløi nu saa vidt over Verden,</l>
+          <l n="v3">Det sagde, at vor Otto Sverdrup var</l>
+          <l n="v4">Hjemkommen fra Nordpolsfærden;</l>
+          <l n="v5">Vi tviled alle baade fjernt og nær,</l>
+          <l n="v6">Men nu vi tror det, for han er her.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Velkommen fra Ishavets Mørke igjen,</l>
+          <l n="v8">Til Venner og Slægtninger kjære.</l>
+          <l n="v9">Vi hilser jo alle med Jubel den,</l>
+          <l n="v10">Der gjorde vort Fædreland re.</l>
+          <l n="v11">Og derfor ere vi alle kry</l>
+          <l n="v12">At eie saadan en Mand i vor By.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Thi Malm er i Karen og ikke Sop,</l>
+          <l n="v14">Af Modgang han ei lar sig bøie.</l>
+          <l n="v15">Og derfor ei Isbjørnen aad ham op,</l>
+          <l n="v16">Han var dog for tung at fordøie.</l>
+          <l n="v17">Naar Ishavet brøler: “Hvem trodser mig?”</l>
+          <l n="v18">Saa svarer Sverdrup: “Jo, det gjør jeg!”</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Det er kjøligt deroppe ved Vintertid,</l>
+          <l n="v20">Vel femti Grader i Skyggen;</l>
+          <l n="v21">For Sverdrup det var som en Sommer blid</l>
+          <l n="v22">Og Gigt har kan ikke i Ryggen.</l>
+          <l n="v23">Med Vilje af Jern og med Nerver af Staal,</l>
+          <l n="v24">Trods tusinde Farer han naar sit Maal.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Af Isbjørnbif er han frygtelig kjed,</l>
+          <l n="v26">Af Hvalrosspæk ikke mindre.</l>
+          <l n="v27">Om Nansen dog vinker, saa blir han med,</l>
+          <l n="v28">Thi Farer ham ikke kan hindre.</l>
+          <l n="v29">Det ønsker alle, Kvinde og Mand,</l>
+          <l n="v30">At Norge maa fostre Sønner som han.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">Saalænge som Nordlyset glimrer ved Pol</l>
+          <l n="v32">Og Nordstjernen blinker foroven,</l>
+          <l n="v33">Saalænge vort Land eier Midnatssol</l>
+          <l n="v34">Og Gutter, som er saa forvoven,</l>
+          <l n="v35">Saalænge der flyder en Skude i Havn,</l>
+          <l n="v36">Saalænge vil mindes vor Sverdrups Navn.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p56">
+        <head>I Anledning Valget paa Stenkjær</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den 13de November da stimled Folk sammen,</l>
+          <l n="v2">Somme var glatte og somme havde Skjæg,</l>
+          <l n="v3">Under megen Lystighed og Gammen,</l>
+          <l n="v4">Thi alle havde ruget paa et frygteligt Æg,</l>
+          <l n="v5">Og ud af Ægget krøb 20 Unger,</l>
+          <l n="v6">Og just om disse er det jeg sjunger</l>
+          <l n="v7">Sjung fadiradirallala, sjung fadiradirallala, sjung</l>
+          <l n="v8">fadiradirallala trallalala.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det var et Valg, som nok var lidt broget,</l>
+          <l n="v10">Og Enden blev ikke, som mange havde tænkt,</l>
+          <l n="v11">Thi man kumulerte, til man næsten stod kroget,</l>
+          <l n="v12">Saa Venstres Liste blev aldeles sprængt,</l>
+          <l n="v13">Det høres jo ogsaa noksaa ilde</l>
+          <l n="v14">At Civiliserte kom bagom de Vilde.</l>
+          <l n="v15">Sjung o. s. v.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v16">Han Oksvold og Elstad og Grindberg er Gutter,</l>
+          <l n="v17">Som alle har Næser, hvori der er Ben,</l>
+          <l n="v18">Om Kleven og Martens, de vil lave Rutter,</l>
+          <l n="v19">Saa kan de være sikre, at det staar ei i Sten;</l>
+          <l n="v20">Han Aalberg og Olsen, dem skal nok lære</l>
+          <l n="v21">Sørsibyggen, hvor Stationen skal være.</l>
+          <l n="v22">Sjung o. s. v</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v23">Han O. A. han er nok bekjendt som en Haring,</l>
+          <l n="v24">Men Sivertsen kan sprænge det haardeste Fjeld,</l>
+          <l n="v25">Og Ramstad han jevner med Kit og Maling,</l>
+          <l n="v26">Og Holtan smører med meget Held.</l>
+          <l n="v27">Doktor Schnitler han er stø og saglig,</l>
+          <l n="v28">Han gir dem en Spiseske tre Gange daglig.</l>
+          <l n="v29">Sjung o. s. v.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v30">Han John fra Amerika Fremskridtet hylder,</l>
+          <l n="v31">Og Vendelbo har det paa samme Vis,</l>
+          <l n="v32">De begge to Programmet nok fylder,</l>
+          <l n="v33">Og hvis dem gjør Vrøvl, saa faar dem af Riis.</l>
+          <l n="v34">Han Hammer han banker; og saa har vi Eggen,</l>
+          <l n="v35">Som hvis det trænges, saa gaar 'n paa med Slæggen</l>
+          <l n="v36">Sjung o. s. v.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v37">Saa er Skuden bemandet fra for og til agter</l>
+          <l n="v38">Med de bedste Mænd, som kan opdrives her,</l>
+          <l n="v39">Og Lodsen han Jakobsen sikkerlig magter</l>
+          <l n="v40">At føre den, saa den ei støder paa Skjær.</l>
+          <l n="v41">Men skulde den støde, saa har jeg den Tanke,y</l>
+          <l n="v42">At han Ovesen er Gut for at sæt ind en Planke</l>
+          <l n="v43">Sjung o. s. v.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v44">Men vi som blev afmønstret fra dette Styre,</l>
+          <l n="v45">Og ubønhørlig maatte afsted,</l>
+          <l n="v46">Der er ei en Plads, hvor vi kan faa Hyre,</l>
+          <l n="v47">Nu paa vore ILaurbær vi hviler i Fred.</l>
+          <l n="v48">Men han Berg er fri og glad udi Hågen,</l>
+          <l n="v49">Han forlod hele Stasen og reiste til Baagen.</l>
+          <l n="v50">Sjung fadiradirallala, sjung fadiradirallala, sjung</l>
+          <l n="v51">fadiradirallalla trallalalala.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

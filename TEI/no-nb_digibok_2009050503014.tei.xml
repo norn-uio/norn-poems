@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tidsruner</title>
+        <author>Randers, Kristofer</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">20</measure>
+        <measure unit="lines">439</measure>
+        <measure unit="tokens">2861</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2009050503014">
+          <author>Randers, Kristofer</author>
+          <title>Tidsruner</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1894</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2009050503014"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p2218">
+        <head>1</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De holder et Leven med Pen og Mund,</l>
+          <l n="v2">Som led det mod Verdens vderste Stund, ‒</l>
+          <l n="v3">De blæser Basuner med Kraft og Vælde,</l>
+          <l n="v4">Som Jerikos Mure det gjaldt at fælde,</l>
+          <l n="v5">Og sammen de sanker fra fjernt og nær</l>
+          <l n="v6">Rekrutter til “Fremskridtets” store Hær.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">En underlig Flok: af graanede Mænd,</l>
+          <l n="v8">Som Kjæphefte rider lig Børn igjen, ‒</l>
+          <l n="v9">Af Gutunger, vokste fra Skolen knapt,</l>
+          <l n="v10">Som tror sig til Folkets Lærere skabt, ‒</l>
+          <l n="v11">Af sindige Folk, som følger med Strømmen</l>
+          <l n="v12">Og lar de Forrykte faa føre Tømmen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Og foran ‒ lig hellige Apis’er ‒ gaar</l>
+          <l n="v14">En Skok af Poeter og Trommen slaar:</l>
+          <l n="v15">Vi er Genier, ‒ hvad vi forkynder,</l>
+          <l n="v16">Er Sandhedens Røst, som sit Værk begynder.</l>
+          <l n="v17">Kom, følg os, Unge,  os Seiren vinker</l>
+          <l n="v18">I Kamp mod det gamles forligne Sinker!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2219">
+        <head>2</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ja, det er sandt, det er rimeligt nok,</l>
+          <l n="v2">At Ungdommen følger det nyes Flok, ‒</l>
+          <l n="v3">De nye Kræfter, som Fald bebuder</l>
+          <l n="v4">For Tidens mørknede Gjenfærds-Guder, ‒</l>
+          <l n="v5">De nye Veie, de nye Maal,</l>
+          <l n="v6">Som tænder paa Fjeldene Bauners Baal.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Det er kun Ret, det er i sin Orden,</l>
+          <l n="v8">At Ungdommen hilser en Tid i Vorden, ‒</l>
+          <l n="v9">At spændt den lytter til Vølvens Sang</l>
+          <l n="v10">Om Verdensordeners Undergang, ‒</l>
+          <l n="v11">At den vil gaa sine egne Veie</l>
+          <l n="v12">Og kjækt tage Fremtidens Arv i Eie.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men derfor er det nu slet ikke sagt,</l>
+          <l n="v14">Den vælger de Veie, som her er lagt.</l>
+          <l n="v15">Thi der er Stier til nye Steder,</l>
+          <l n="v16">Som lumskelig kun til et Vildnis leder,</l>
+          <l n="v17">Og der er Maader,  om Tanken er god, ‒</l>
+          <l n="v18">Som byder Ungdommens Sind imod.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2220">
+        <head>3</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den er Idealernes gyldne Tid.</l>
+          <l n="v2">De Lys, som de udvalgte Aander tændte,</l>
+          <l n="v3">Dem vilde den gjerne fra Himlen hente</l>
+          <l n="v4">Cil Ledestjerner i Eivets Strid,</l>
+          <l n="v5">Og ei den spør efter Lov og Løn,</l>
+          <l n="v6">Naar Sagen synes den stor og skjøn.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Den eier Begeistringens Guddomsgnist.</l>
+          <l n="v8">Hvad ret den saa, og hvad godt den lærte,</l>
+          <l n="v9">Det slutter den ind til sit varme Hjerte</l>
+          <l n="v10">Og tror paa Sandhedens Seir tilsidst</l>
+          <l n="v11">Trods alt, hvad der truer af lavt og raat,</l>
+          <l n="v12">Trods alt, hvad der trives af stygt og smaat.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Og det er Frihedens hellige Navn,</l>
+          <l n="v14">Som Ungdommen vinker i Snekkens Stavn, ‒</l>
+          <l n="v15">De løsende Ord, de fribaarne Tanker,</l>
+          <l n="v16">Som knækker de stængende Samfundsskranker, ‒</l>
+          <l n="v17">Den hellige Ret til at være sig selv</l>
+          <l n="v18">Og ei de fordummende Vaners Træl.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2221">
+        <head>4</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Men hvor er af Gjerningens Alvor Spor</l>
+          <l n="v2">Hos dem, som nu fører det store Ord?</l>
+          <l n="v3">Hvad er det for Folk, som i Ching og Hjem</l>
+          <l n="v4">Gjør Krav paa at bære “Ideen” frem?</l>
+          <l n="v5">Hvad er det i “Sagernes” lange Række,</l>
+          <l n="v6">Som skulde en Ungdoms Begeistring vække?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Mon “Retfærds-Kravet” paa Stemmeret,</l>
+          <l n="v8">Som veies paa Valgenes Vippebræt?</l>
+          <l n="v9">Mon Løfter, som gaves i Knibetag</l>
+          <l n="v10">For letvindt at glemmes paa Forfaldsdag</l>
+          <l n="v11">Mon Skatten, vi fik af de Kjæpheftryttere,</l>
+          <l n="v12">Som kalder sig selv for “de smaas Beskyttere”?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Hvad eller mon den Slags “Selvstændighed”,</l>
+          <l n="v14">Som søger Strid, naar der bydes Fred, ‒</l>
+          <l n="v15">Som slaar i Bordet, skjønt alt de evned</l>
+          <l n="v16">De øded det Værn, vore Fædre levned,</l>
+          <l n="v17">Og bryr sig Pokker om, hvor vi havner,</l>
+          <l n="v18">Naar bare Taktikken Partiet gavner?</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2222">
+        <head>5</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og hvor er det “Frisind”, de lydt forfægter,</l>
+          <l n="v2">Men stadig i Praksis saa grovt fornægter?</l>
+          <l n="v3">Hvor gaves der frækkere Despoti,</l>
+          <l n="v4">End de “Liberale” har snørt os i, ‒</l>
+          <l n="v5">Hin Horde af store og smaa Tyranner,</l>
+          <l n="v6">Som “Majoritetens” Herolder danner?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">De laver “Programmer” med Opskrift til</l>
+          <l n="v8">Hvad “Folket” mener og “Folket” vil.</l>
+          <l n="v9">De lyver og logrer og lirker og lusker,</l>
+          <l n="v10">Og “Stemmer” de tigger og “Stemmer” de tusker,</l>
+          <l n="v11">Til de har faat flikket et “Flertal” for</l>
+          <l n="v12">Den “Overbevisning”, de vandt igaar.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Saa kaster de Masken, ‒ med Trusler og Vold</l>
+          <l n="v14">“Partiet” blir pisket til Sammenhold.</l>
+          <l n="v15">Hver frifødt Tanke, hver selvlært Mening</l>
+          <l n="v16">I Svime blir slaat i en Tvangsforening,</l>
+          <l n="v17">Og hver, som for Paven ei knæle kan,</l>
+          <l n="v18">Blir tordnende lyst i det store Ban.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2223">
+        <head>6</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det er et Frisind, som Mønstret stjal</l>
+          <l n="v2">Fra Revolutionstidens Tribunal.</l>
+          <l n="v3">Mens Gud de ler af og Konger spotter,</l>
+          <l n="v4">De Scepteret rækker til Sansculotter,</l>
+          <l n="v5">Og for den ene, vi længst slap fri,</l>
+          <l n="v6">De gir os tilbage Tyranner ti.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Det er en latterlig Karrikatur</l>
+          <l n="v8">Paa Folkefrihed ‒ i Slavebur:</l>
+          <l n="v9">Et Folk, som lar sig af Skraalet lede</l>
+          <l n="v10">Til alt, hvad det elsker, i Støv at træde</l>
+          <l n="v11">Og sluger det farligste Giftstof let,</l>
+          <l n="v12">Naar Flasken kun bærer en flot Vignet.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Og hvad er saa alt det forroste Kram,</l>
+          <l n="v14">Hvormed de slaar om sig med Brask og Bram?</l>
+          <l n="v15">Kun Slagord, skabte af Frasehelte,</l>
+          <l n="v16">Som engang for Sandhedens Guldkorn gjældte</l>
+          <l n="v17">Og nu som Spøgelser gaar igjen</l>
+          <l n="v18">Blandt seminaristiske “Fremskridtsmænd”.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2224">
+        <head>7</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">For dem er Historiens Lære spildt</l>
+          <l n="v2">Og fivet fladt som et Høkerskilt.</l>
+          <l n="v3">Af døende Dogmer og Theorier</l>
+          <l n="v4">De andagtsfulde sin Visdom dier,</l>
+          <l n="v5">Og kan blot “Principerne” frelst de faa,</l>
+          <l n="v6">far gjerne de Vettet i Vasken gaa.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">De sværmer begeistret for Republik, ‒</l>
+          <l n="v8">Og fra Brasilien Svar de fik.</l>
+          <l n="v9">De vil gebærde sig “parlamentarisk”, ‒</l>
+          <l n="v10">Og Serbien lærer dem exemplarisk,</l>
+          <l n="v11">Hvor daarligt Lordernes Dagligdragt</l>
+          <l n="v12">Ser ud, om Stoddernes Skuldre lagt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men lige dybsindig og lige dum</l>
+          <l n="v14">Den flyder, den skvaldrende Fraseflom,</l>
+          <l n="v15">Og lige ihærdigt med samt Drabanter</l>
+          <l n="v16">De sadler de hinkende Rosinanter, ‒</l>
+          <l n="v17">En Flok, fra de henfarne Tider gjemt,</l>
+          <l n="v18">Som intet har lært og ei heller glemt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2225">
+        <head>8</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De fingrer paa Staten å la Rousseau,</l>
+          <l n="v2">Men Mennesket tænker de neppe paa.</l>
+          <l n="v3">De smisker for hver en naiv Utopi,</l>
+          <l n="v4">Som Tiden forlængst er lunket forbi,</l>
+          <l n="v5">Og gamle Tanker, som engang var unge,</l>
+          <l n="v6">De bringer tiltorvs med gneldrende Tunge.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">De pudser op alt det forlorne Skrab</l>
+          <l n="v8">Om “Frihed, Lighed og Broderskab”.</l>
+          <l n="v9">De buldrer om “Menneskerettens” Ide,</l>
+          <l n="v10">Som Mændene gjorde i nitti-tre,</l>
+          <l n="v11">Og røres ved “Retfærdets” herlige Seier, –</l>
+          <l n="v12">Naar ingen en eneste Styver eier.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Det er en forceret engros-Import</l>
+          <l n="v14">Af fremmede Varer af alskens Sort.</l>
+          <l n="v15">Om os de passer, det gir de Pokker,</l>
+          <l n="v16">Naar kun med et klingende Navn de lokker,</l>
+          <l n="v17">Og først og fremst, naar de derved tror</l>
+          <l n="v18">At vinde en Plads i det store Kor.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2226">
+        <head>9</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En Gud de har kun og én Profet,</l>
+          <l n="v2">Det er den almægtige Talmajestæt.</l>
+          <l n="v3">Som Negrene først sig en Fetisch laver,</l>
+          <l n="v4">Som siden de kryber for paa sine Maver,</l>
+          <l n="v5">De først den skaber og tilbe'r saa</l>
+          <l n="v6">Som Afgudsbillede efterpaa.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">De spør ikke om, hvad den ved og vil,</l>
+          <l n="v8">Det er dem nok, at den blot er til.</l>
+          <l n="v9">Dens dummeste Indfald, dens løseste Cuner</l>
+          <l n="v10">Blir tolket og æret som Visdomsruner,</l>
+          <l n="v11">Og hvad den befaler, stal være Lov,</l>
+          <l n="v12">Om Vetløsheden er nok saa grov.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Her gjælds ei Bevis og Logik et Muk,</l>
+          <l n="v14">Her kræves kun Tro og servile Buk.</l>
+          <l n="v15">Mens selv de spanker omkring som Augurer,</l>
+          <l n="v16">Det argeste Juks de paa Godtfolk lurer,</l>
+          <l n="v17">Og Hokuspokus saa flinkt de gjør</l>
+          <l n="v18">Som nogen Professionist-Jonglør.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2227">
+        <head>10</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De fiffer sig flot med “Ideens” Dragt ‒</l>
+          <l n="v2">Og har kun for Øie sin egen Magt.</l>
+          <l n="v3">De “Folkets” Lykke paa Cæben bærer</l>
+          <l n="v4">Og “Folkets” Ønsker og Ordrer ærer, –</l>
+          <l n="v5">Og saa er det bare Partiets Krav,</l>
+          <l n="v6">De først og sidst lar sig lede af.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">For det blir Fandet en Kaftebol,</l>
+          <l n="v8">Hvis Fremtid ligger i Eunets Vold.</l>
+          <l n="v9">For det blir Sagen et blot Vehikel</l>
+          <l n="v10">Og Sandheden bare en Stasartikel,</l>
+          <l n="v11">Hvis Kurs bestemmes af Tid og Sted</l>
+          <l n="v12">Og af, hvad der glider i Godtfolk ned.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">For det blir selv Kunsten et Middel kun</l>
+          <l n="v14">Og Videnskaben en Lænkehund.</l>
+          <l n="v15">De skjønneste Maal, de ædleste Tanker</l>
+          <l n="v16">Blir klemte imellem Tendensens Skranker,</l>
+          <l n="v17">Og alt, hvad der stammer fra Liv og Aand,</l>
+          <l n="v18">Faar føle den visne og klamme Haand.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2228">
+        <head>11</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Son alt, hvad Kong Midas rørte, blev Guld,</l>
+          <l n="v2">Forvandler de alt til politisk Tull.</l>
+          <l n="v3">Som Ordene, Skriften til Frelse skjænkte,</l>
+          <l n="v4">Naar Fanden dem læste, blev plat forvrængte,</l>
+          <l n="v5">Hvad de faar ihænde, straks havner i</l>
+          <l n="v6">En Klasse, en Klike, et Koteri.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Lad Manden være saa skral, han vil, ‒</l>
+          <l n="v8">Er Farven den rette, blir straks han gjild.</l>
+          <l n="v9">Lad Bogen være til Gab og Latter</l>
+          <l n="v10">Og Billedet bare en Klud med Klatter, ‒</l>
+          <l n="v11">Er det en Partimand, som har det gjort,</l>
+          <l n="v12">Straks lyder det: Herligt! Talentfuldt! Stort!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men har ikke Tingen den rette Duft</l>
+          <l n="v14">Af “folkelig” Finkel og Snusfornuft, ‒</l>
+          <l n="v15">Hvis nogen bruger en anden Alen</l>
+          <l n="v16">End den, der justertes af Nyttemoralen, ‒</l>
+          <l n="v17">Da staar med Parolen de rede fluks:</l>
+          <l n="v18">Borneret Sludder! Elendigt Juks!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2229">
+        <head>12</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og for at faa Modparten sønder traadt</l>
+          <l n="v2">Er intet for simpelt og dumt og raat.</l>
+          <l n="v3">Paa Folkemøder, i Thing og Presse</l>
+          <l n="v4">De lirer sin lurvede Skræmsels-Messe,</l>
+          <l n="v5">Og kan de ei andet, tilgavns de kan</l>
+          <l n="v6">Den Kunst at forkjætre og hvirvle Sand.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">I Mulm og Mørke, med skulende Træk,</l>
+          <l n="v8">De rusler omkring med sin Rygte-Sæk ‒</l>
+          <l n="v9">Med Tryntyrk-Skrøner, som man med Slæggen</l>
+          <l n="v10">Kan gladelig slaa gjennem tykke Dæggen,</l>
+          <l n="v11">Og slaar man dem én Gang og slaar dem ti,</l>
+          <l n="v12">Der stadig igjen pustes Liv deri.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Det er som en raslende Asgaardsrei,</l>
+          <l n="v14">Der farer med Bulder og Brøl ivei.</l>
+          <l n="v15">Mens Svadaen flommer, af Ilskhed baaret,</l>
+          <l n="v16">Fornuften blir kneblet og slæbt ved Haaret,</l>
+          <l n="v17">Og Ret og Sandhed og Vet og Sans</l>
+          <l n="v18">Blir væk i den hvirvlende Heksedans.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2230">
+        <head>13</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg mindes maa Troldet, der lige fort</l>
+          <l n="v2">Fik Hoder igjen, som man skar dem bort.</l>
+          <l n="v3">Jeg mindes, hvad Eventyret fortalte</l>
+          <l n="v4">Om Kværnen, som altid det samme malte,</l>
+          <l n="v5">Og hvor fortvilet man raabte stop,</l>
+          <l n="v6">Saa holdt den Malingen aldrig op.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Jeg mindes maa Manden, som saade Vind</l>
+          <l n="v8">Og høstede Storm af sin Udsæd ind.</l>
+          <l n="v9">Jeg mindes maa Kadmos's Dragetænder,</l>
+          <l n="v10">Der vokste til Vildmænd med Slagsmaalshænder,</l>
+          <l n="v11">Som Vaabnene vendte hverandre mod</l>
+          <l n="v12">Og gjødede Jorden med Brødres Blod.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Jeg mindes maa Eddaens Gullveig-Heid,</l>
+          <l n="v14">Der Aserne lurte ved Hjælp af Seid.</l>
+          <l n="v15">Tre Gange de vog hendes gustne Krop,</l>
+          <l n="v16">Cre Gange de brandt den paa Baalet op,</l>
+          <l n="v17">Men hver Gang hun opstod i anden Klædsel</l>
+          <l n="v18">Og bredte ved Ragnarok Død og Rædsel.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2231">
+        <head>14</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Dg stunder vel ikke, vi haabe vil,</l>
+          <l n="v2">For os et Ragnaroks-Meørke til.</l>
+          <l n="v3">Men Kamp vil komme og Hærlur gjalde</l>
+          <l n="v4">Og feirede Kjæmper paa Valen falde.</l>
+          <l n="v5">Da gjælder det Fylking bag blanke Skjold</l>
+          <l n="v6">Og stærke Runer mod Seid fra Trold.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">De Løgnens Trolde, som Sjæle hverver</l>
+          <l n="v8">Ded hykkelske Cøfter og flabbet Spot.</l>
+          <l n="v9">De Cræskheds Trolde, som Synet kverver</l>
+          <l n="v10">sig Utgardeloke paa Mjølners Drot,</l>
+          <l n="v11">Saa Digt blir Sandhed, og hvidt blir sort,</l>
+          <l n="v12">Og stort blir lidet, og smaat blir stort.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Og værst af dem alle: de Hadets Trolde,</l>
+          <l n="v14">Som lusker omkring os ved Søgn og Fest</l>
+          <l n="v15">Og spiller Spionernes Stimandsrolle</l>
+          <l n="v16">Og udsaar Mistroens gustne Pest, ‒</l>
+          <l n="v17">Som reiser i Fiendskab Bror mod Bror</l>
+          <l n="v18">Og slynger ud Skjældsord, de selv ei tror.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2232">
+        <head>15</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De dryppet har gjennem lange Aar</l>
+          <l n="v2">Som ætsende Gift i et aabent Saar.</l>
+          <l n="v3">Som Folk vi staar ei, hvem fælles Minder</l>
+          <l n="v4">Og fælles Forhaabninger sammen binder,</l>
+          <l n="v5">Men kun som Partier i Leire to</l>
+          <l n="v6">Med splittet Mening og splittet Tro.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Det ruget har som en Mare tungt</l>
+          <l n="v8">Paa alt, hvad der fødtes af friskt og ungt.</l>
+          <l n="v9">Hvad Tiden af spirende Tanker eied,</l>
+          <l n="v10">Har Døgnpolitikken til Marken meiet,</l>
+          <l n="v11">Og Soningens Røster blev kvalt i Skraal</l>
+          <l n="v12">Fra dem, hvem Kjænlet er Eivets Maal.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men der vil komme en Opgjørsdag,</l>
+          <l n="v14">Naar Folk faar Syn for fin Velfærdssag, ‒</l>
+          <l n="v15">Naar først de mærker, at de, som smurte</l>
+          <l n="v16">Dem lifligst om Munden, dem lumpnest lurte,</l>
+          <l n="v17">Og op de vaagner af Febrens Rus</l>
+          <l n="v18">For Herrer at spille i eget Hus.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2233">
+        <head>16</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der gaar et Frasagn om Møkkurkalv,</l>
+          <l n="v2">Som Jøtnerne hugg, da for Thor de skalv.</l>
+          <l n="v3">Af Ler og af Sten de Kolossen reiste,</l>
+          <l n="v4">Saa ni Mil lang han iveiret kneiste,</l>
+          <l n="v5">Og for at belive det Skaberak</l>
+          <l n="v6">Et Hoppehjerte de i ham stak.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Og Risen stilledes staut og stor</l>
+          <l n="v8">Til Tvekamp op mod den stærke Thor.</l>
+          <l n="v9">Men da han sin Hammer i Haanden hæved,</l>
+          <l n="v10">Det Hoppehjerte i Barmen bæved,</l>
+          <l n="v11">Og ramt i Planeten faldt Møkkurkalv</l>
+          <l n="v12">Med Brag overende, saa Jorden skalv.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Thi det er nu ikke i “Massen” blot,</l>
+          <l n="v14">At Styrken ligger ved slig en Skrot.</l>
+          <l n="v15">Hvad kunstigt laves, trods al sin Brammen,</l>
+          <l n="v16">Naar Hjertet det mangler, maa synke sammen,</l>
+          <l n="v17">Og ofte et Puf blot nødvendigt var</l>
+          <l n="v18">For Pusten at tage fra slig en Kar.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2234">
+        <head>17</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det længe nok stod der saa bredt og gren</l>
+          <l n="v2">Det Kjæmpeskabilken paa skjøre Ben.</l>
+          <l n="v3">Det længe nok stod der og Folket skræmte</l>
+          <l n="v4">Ved bare at blunke saa smaat og kræmte</l>
+          <l n="v5">Og lade, som havde det al Forstand</l>
+          <l n="v6">Og Magt forpagtet i dette Land,</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Men nu er vi kjed af de fagre Ord,</l>
+          <l n="v8">Hvoraf der aldrig et Frøkorn gror.</l>
+          <l n="v9">Nu er vi kjed af de fede Fraser,</l>
+          <l n="v10">Hvormed de sin smaalige Magtbrunst staser</l>
+          <l n="v11">Og vrænger Frihedens Høihed om</l>
+          <l n="v12">Til Masseforgudelsens Usseldom.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Nu har vi lært, hvad Slags Stof det er</l>
+          <l n="v14">I Lerkolossen, saa morsk og svær.</l>
+          <l n="v15">Nu skal det snart sig i Gjerning vise,</l>
+          <l n="v16">Hvad jerte der sidder i slig en Rise,</l>
+          <l n="v17">Og nu skal det prøves engang for godt,</l>
+          <l n="v18">Hvad Styrke der findes i slig en Skrot.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2235">
+        <head>18</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Og det er eder, I unge, just,</l>
+          <l n="v2">Som Risen skal røve hans Aandepust.</l>
+          <l n="v3">Det eder er, som paa “Majoriteten”</l>
+          <l n="v4">Skal slynge Hammeren i Planeten</l>
+          <l n="v5">Og bygge over dens splintrede Krop</l>
+          <l n="v6">En Fremtidens Grundvold for Landet op.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Ei saa, at kun, hvad vi eier før,</l>
+          <l n="v8">I skal forsvare mod Rovdyrklør;</l>
+          <l n="v9">Ei saa, at blot I for Ro at vinde</l>
+          <l n="v10">Skal stænge bag Fortidens Hegn jer inde</l>
+          <l n="v11">Og rædde fly for hver Tro og Sæd,</l>
+          <l n="v12">Som ikke er arvet fra Fædre ned.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men saa, at der atter blir ærligt Spil,</l>
+          <l n="v14">Saa Folket ved, hvad det føres til, ‒</l>
+          <l n="v15">At raat det ei sluger alt Nyhedskram,</l>
+          <l n="v16">Som smøres ihob paa et Valgprogram,</l>
+          <l n="v17">Og at det blir Sagen, som Striden gjælder,</l>
+          <l n="v18">Ei blot, hvad der Stemmer i Urnen tæller.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2236">
+        <head>19</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der rører sig Strømme paa Verdens Hav</l>
+          <l n="v2">Af nye Tanker og nye Krav, ‒</l>
+          <l n="v3">Af Krav paa, at Hjerte og Fantasi</l>
+          <l n="v4">Skal bli' for Tendenfernes Dødvægt fri,</l>
+          <l n="v5">Og paa noget større i Politikken</l>
+          <l n="v6">End Træk og Modtræk med Schakspilbrikken.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Der staar og venter paa Røgt og Varme</l>
+          <l n="v8">En Rydningsmark for de unge Arme, ‒</l>
+          <l n="v9">Et Aandens Arbeid, som eier Rum</l>
+          <l n="v10">For stridende Meningers Samlingssum, ‒</l>
+          <l n="v11">Et Haab, som skimter i Folkefreden</l>
+          <l n="v12">En rigere Lykke for Menneskeheden.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men førft maa det knækkes det Tyranni,</l>
+          <l n="v14">Hvis knugende Arme vi kvæles i.</l>
+          <l n="v15">Før nyt kan reises, og rangt kan rettes,</l>
+          <l n="v16">Maa Hadets forbitrende Mærker slettes</l>
+          <l n="v17">Og sprænges det Forbund, som frækt Bedrag</l>
+          <l n="v18">Har skabt til Brug paa en Valgkupsdag.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2237">
+        <head>20</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Saa skal, naar Fortryllelsen løst er blit,</l>
+          <l n="v2">De gjærende Kræfter sig røre frit, ‒</l>
+          <l n="v3">Saa skal, som vakte af onde Drømme,</l>
+          <l n="v4">Di føle Befrielsens Luftning strømme,</l>
+          <l n="v5">Og saa skal der dages bag Nattens Rand</l>
+          <l n="v6">En lysere Fremtid for Folk og Land.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">En lysere Fremtid, da Frasen ei</l>
+          <l n="v8">Til Ros og Magt er den slagne Dei, ‒</l>
+          <l n="v9">Da de, som stemmer, er fri Personer,</l>
+          <l n="v10">Ei indexercerede Bataljoner,</l>
+          <l n="v11">Og atter der blir under Skraalets Stans</l>
+          <l n="v12">idt Ørenslyd for den sunde Sans.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">En Tid, da atter som Folk vi staar</l>
+          <l n="v14">Til Værn for den Jordbund, vi kalder vor, ‒</l>
+          <l n="v15">Da Faren samler de spredte Stemmer,</l>
+          <l n="v16">Saa hver sit Del for det heles glemmer,</l>
+          <l n="v17">Og Maalet, ‒ om Veiene skilles kan, ‒</l>
+          <l n="v18">Er Frihed og Fred for vort Fædreland!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

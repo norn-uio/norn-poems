@@ -1,0 +1,2925 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fra friminuterne</title>
+        <author>Nicolaysen, Emil</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">122</measure>
+        <measure unit="lines">2263</measure>
+        <measure unit="tokens">12155</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2009030403044">
+          <author>Nicolaysen, Emil</author>
+          <title>Fra friminuterne</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1893</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2009030403044"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p1664">
+        <head>Innledningsdikt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som viltre, frigjorte gutter,</l>
+          <l n="v2">Der slap fra timer og tvang,</l>
+          <l n="v3">Saa i mine friminuter</l>
+          <l n="v4">De brogede tanker sprang.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Men da det lev altfor roget,</l>
+          <l n="v6">Jæg lod dem springe i takt</l>
+          <l n="v7">Og lod dem tvinge af sproget</l>
+          <l n="v8"> versets hemmende dragt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Men pene og velanstændige</l>
+          <l n="v10">De bliver dog aldrig ret;</l>
+          <l n="v11">Dertil de var for ubændige,</l>
+          <l n="v12">De sparked, da de blæv klædt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1665">
+        <head>Telegrafstolper</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som stolperne for telegrafens traade</l>
+          <l n="v2">De gamle staar der stive, isolerede;</l>
+          <l n="v3">Hver lynsnar strømning bliver dem en gaade,</l>
+          <l n="v4">De aldrig føler sig elektriserede.</l>
+          <l n="v5">Dog ogsaa de maa tjene paa sin maade:</l>
+          <l n="v6">Hvis de var med, de strømningen spolerede,</l>
+          <l n="v7">Og tanken blev jordfæstet og ei naade</l>
+          <l n="v8">Frem til sit maal,  saa de reaktionære</l>
+          <l n="v9">Maa hjælpe til reformer frem at bære.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1666">
+        <head>Folkets typer</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De, som folkets typer vil være</l>
+          <l n="v2">Taale maa en smuls sværte;</l>
+          <l n="v3">Thi med helterollernes ære</l>
+          <l n="v4">Følger og martyriets smerte</l>
+          <l n="v5">Og naar folket altid skal bære</l>
+          <l n="v6">Deres aftryk i sit hjerte,</l>
+          <l n="v7">Maa de dog ei ansigter skjære,</l>
+          <l n="v8">Om man først maa typen sværte.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1667">
+        <head>Pak dig!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Har du sagt din replik,</l>
+          <l n="v2">Var det bedst, om du gik.</l>
+          <l n="v3">Dakapoer og bisser</l>
+          <l n="v4">Du venter nok at faa,</l>
+          <l n="v5">Mens bag alle kulisser</l>
+          <l n="v6">Debutanter sees staa</l>
+          <l n="v7">Og vente paa,</l>
+          <l n="v8">At du skal gaa.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1668">
+        <head>Kraftspilde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar fossen med tusinde hestekræfter</l>
+          <l n="v2">Kun maler mel til en husmands hytte,</l>
+          <l n="v3">Da er der nok dem, som regner efter,</l>
+          <l n="v4">Hvormeget der spildes til ingen nytte.</l>
+          <l n="v5">Men naar geniet som husmand træller</l>
+          <l n="v6">Og neppe har mel til sin vasne velling,</l>
+          <l n="v7">Det kraftspilde ei man i regnskabet tæller;</l>
+          <l n="v8">Det bør en rubrik faa ved næste tælling.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1669">
+        <head>Kanibalisme</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Man har en historie om menneskeædere,</l>
+          <l n="v2">Til kristendommen alt længst omvendte,</l>
+          <l n="v3">I aartier flittige læsere, bedere,</l>
+          <l n="v4">Hvis kristendom hel sørgelig endte</l>
+          <l n="v5">Med en agapé, en kjærlighedsfest,</l>
+          <l n="v6">Hvor hovedretten var klokker og prest.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">I verdenskulturens stormægtige lærere,</l>
+          <l n="v8">Hvis kristendom jo er længst antikveret,</l>
+          <l n="v9">Hvad gjør I med Eders profeter og lærere,</l>
+          <l n="v10">Som trofast blandt Eder har missioneret?</l>
+          <l n="v11">Tidt anfald af kanibalisme I faar</l>
+          <l n="v12">Og æder dem op med hud og med haar.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1670">
+        <head>Maalet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Alt det gode, som jeg vilde,</l>
+          <l n="v2">Alt det skjønne, som jeg saa,</l>
+          <l n="v3">Jager aarle mig og silde</l>
+          <l n="v4">Mod et maal, jeg ei kan naa.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Alt det gode, som jeg svigted,</l>
+          <l n="v6">Alt det skjønne, som jeg sveg</l>
+          <l n="v7">Jaged tidt mig, saa jeg digted</l>
+          <l n="v8">Alvorsmaalet om til leg.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og det maal, som sjælen vinked</l>
+          <l n="v10">Drev saa tidt med mig sit spil:</l>
+          <l n="v11">Snart som stjerne klart det blinked,</l>
+          <l n="v12">Snart det flammed som en ild.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Fast jeg tror dog, at det gode</l>
+          <l n="v14">Og det skjønne er en magt,</l>
+          <l n="v15">Som mig paa en anden klode</l>
+          <l n="v16">Skjænker maalet for min jagt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1671">
+        <head>Trøffelsvinet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De som kun har gode tryner</l>
+          <l n="v2">Til at rode med,</l>
+          <l n="v3">Lader haant om store syner,</l>
+          <l n="v4">Da de kun ser ned.</l>
+          <l n="v5">Deres trøfler, deres jordfund,</l>
+          <l n="v6">Deres tryners flid,</l>
+          <l n="v7">Paa et saadant syn de tror kun,</l>
+          <l n="v8">Grundigt og solid.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1672">
+        <head>Sovedrikken</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar op vil vaagne den dorske almue,</l>
+          <l n="v2">Giver vi den en dosis valmue,</l>
+          <l n="v3">Præstepræk om bestaaende myndighed</l>
+          <l n="v4">Og om den frigjorte tænknings syndighed.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1673">
+        <head>Raaken</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar man gaar paa is i taagen,</l>
+          <l n="v2">Helst naar man er taaget selv,</l>
+          <l n="v3">Let man plumpe kan i raaken,</l>
+          <l n="v4">I kulturens færdselselv.</l>
+          <l n="v5">Skal vi derfor ikke vække</l>
+          <l n="v6">Vei i frosne folkehav,</l>
+          <l n="v7">Om det blir en farlig sprække,</l>
+          <l n="v8">Svage taagehjerners grav.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1674">
+        <head>Satire og humor</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Satiren saarer kvæget og strør salt i vanden,</l>
+          <l n="v2">Men humoret gi'er salt til slikning det i munden;</l>
+          <l n="v3">Det sidste kanske er det peneste og bedste;</l>
+          <l n="v4">For kvæget er i grunden dog din næste.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1675">
+        <head>Stemmeret</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">lngen bør i vandet gaa,</l>
+          <l n="v2">Før han har lært at svømme;</l>
+          <l n="v3">Ingen bør i landet faa</l>
+          <l n="v4">Stemme, før han kan stemme.</l>
+          <l n="v5">Dog, hvis du skal vente paa</l>
+          <l n="v6">Man dig værdig vil dømme,</l>
+          <l n="v7">Vil i krog du stedse staa;</l>
+          <l n="v8">Derfor hold selv dig fremme!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1676">
+        <head>Ligbrænding og autodafé</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ligbrænding – fy! det er en hedensk lære!</l>
+          <l n="v2">Nei! skulde der blandt kristne brænding være,</l>
+          <l n="v3">Den kristne kirke ubønhørlig kræved,</l>
+          <l n="v4">At de, den brændte, ei var lig, men leved.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1677">
+        <head>Den kristelige humanitet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Tidens fremskridt kan man se bedst</l>
+          <l n="v2">Paa hvordan man nu blir afstraffet,</l>
+          <l n="v3">Ei man sidder mer paa træhest</l>
+          <l n="v4">Og torturen rent er afskaffet.</l>
+          <l n="v5">Heri de ultramontane</l>
+          <l n="v6">Ser en farlig hedensk slappelse;</l>
+          <l n="v7">Tiderne er for humane</l>
+          <l n="v8">Har for baal kun hoveds kappelse.</l>
+          <l n="v9">Og selv her er man for kneben,</l>
+          <l n="v10">Altfor milde er jo retterne,</l>
+          <l n="v11">Sjelden øksen nu blir sleben,</l>
+          <l n="v12">Aldrig ak! som før mod kjætterne, –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1678">
+        <head>Lavasmykker</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som en lavastrøm idéer</l>
+          <l n="v2">Vælter, revolutionære.</l>
+          <l n="v3">Nydelige smaa kaméer</l>
+          <l n="v4">Kan man siden deraf skjære.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Naar de hede lavastrømme</l>
+          <l n="v6">Paa de kolde stene størkner,</l>
+          <l n="v7">Naar de varme ungdomsdrømme</l>
+          <l n="v8">Tørres hen i embedsørkner,</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Nydelige, smaa kaméer</l>
+          <l n="v10">Man af storknet lava skjærer;</l>
+          <l n="v11">Ungdomsdrømme og idéer</l>
+          <l n="v12">Man som ordner siden bærer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1679">
+        <head>Gamle fugleskræmsler</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som de gamle fugleskræmsler,</l>
+          <l n="v2">Hvortil fuglene er vante,</l>
+          <l n="v3">Som de bruger kun som gjemsler</l>
+          <l n="v4">For at fjase og at gante,</l>
+          <l n="v5">Disse gamle embedsbukser</l>
+          <l n="v6">Paa en stang med svenskehatter</l>
+          <l n="v7">Ingen skræmmer, ingen jukser,</l>
+          <l n="v8">Men kun hænger der til latter.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1680">
+        <head>Bamsen kommer</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar bamsen kommer, okserne glemmer,</l>
+          <l n="v2">At de til kjøernes gunst er rivaler,</l>
+          <l n="v3">Venskabelig mod hinanden de stemmer</l>
+          <l n="v4">De før saa fiendtlig viftende haler</l>
+          <l n="v5">Og fælder horn mod den fælles fiende.</l>
+          <l n="v6">O theologer! lærer af oksen,</l>
+          <l n="v7">Glem Eders rivalskab om dogmer og tiende,</l>
+          <l n="v8">Hold op for en stund med Eders boksen,</l>
+          <l n="v9">Med bibelstedramsen og tiendegramsen,</l>
+          <l n="v10">Vend hornene ud ad! Der kommer jo bamsen!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1681">
+        <head>Lysræd</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I de lange, lyse nætter</l>
+          <l n="v2">Er det vanskeligt at sove,</l>
+          <l n="v3">Naar man ikke sengen sætter</l>
+          <l n="v4">I en stængt og mørk alkove.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">I et folkelivs skjærsommer</l>
+          <l n="v6">Man vil vælte sig og jamre,</l>
+          <l n="v7">At ei søvnen hurtig kommer</l>
+          <l n="v8">I de lyse sengekamre.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og sit sengested man flytter</l>
+          <l n="v10">Inderst til alkovekrogen;</l>
+          <l n="v11">Men det ofte lidet nytter,</l>
+          <l n="v12">Lysræd ligger man dog vaagen.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1682">
+        <head>Humbug</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En alen til sin vækst kan ingen føie,</l>
+          <l n="v2">Dog har koturner man og høie stylter,</l>
+          <l n="v3">Hvormed saamangen dværg sig snylter</l>
+          <l n="v4">Ind i et selskab af de store, høie.</l>
+          <l n="v5">Og naar en pusling paa katedret kommer,</l>
+          <l n="v6">Da ser man tidt, at han kan lumsk sig tøie,</l>
+          <l n="v7">Om ei en alen, saa dog nogle tommer.</l>
+          <l n="v8">Tag dig i vare dog for stylter og katedret,</l>
+          <l n="v9">Hvo sig ophøier selv, han blive skal fornedret.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1683">
+        <head>Det gamle kirkeur</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den gamle urfjær er ei spænstig længer,</l>
+          <l n="v2">Trægt uret gaar og følger ei med tiden;</l>
+          <l n="v3">Den nye tid til nye urverk trænger,</l>
+          <l n="v4">Som følge kan dens gliden, skriden, viden.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Engang det gamle ur med oplyst skive</l>
+          <l n="v6">Hang høit i taarnet som et afgudsbilled;</l>
+          <l n="v7">Den rette tid det skulde alle give,</l>
+          <l n="v8">Og efter det sit ur de alle stilled.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Den travle mængde nu forbi det iler,</l>
+          <l n="v10">Ser neppe op, naar kirkeklokken kimer;</l>
+          <l n="v11">Og ser de op, de spodsk af uret smiler,</l>
+          <l n="v12">Som altid gaar for sent en to-tre timer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1684">
+        <head>En bøffel</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Man siger, han er en bøffel,</l>
+          <l n="v2">Saa olm og klodset og raa;</l>
+          <l n="v3">Dog ved han en liden tøffel,</l>
+          <l n="v4">Hvorefter han danse maa.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Han kjender de fine fyre,</l>
+          <l n="v6">Som danser saa pent paa bal,</l>
+          <l n="v7">Men hjemme er olme tyre</l>
+          <l n="v8">Og kaster den fine skal.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Din bøffels hjerte du kjender,</l>
+          <l n="v10">Som slaar bag den tykke hud;</l>
+          <l n="v11">Sit hjerte indad han vender</l>
+          <l n="v12">Og vender hornene ud.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1685">
+        <head>Guldgraveren</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han stod der og plasked</l>
+          <l n="v2">I koldeste vand,</l>
+          <l n="v3">Og flittig han vasked</l>
+          <l n="v4">Det goldeste sand.</l>
+          <l n="v5">Med granskende blikke</l>
+          <l n="v6">I soldet han saa;</l>
+          <l n="v7">Men guldstøv kom ikke,</l>
+          <l n="v8">Kun sandet, det graa.</l>
+          <l n="v9">Og soldet han risted,</l>
+          <l n="v10">Saa sandet det randt,</l>
+          <l n="v11">Ei troen han misted,</l>
+          <l n="v12">Skjønt guld han ei vandt.</l>
+          <l n="v13">Og alt, hvad han leved,</l>
+          <l n="v14">Det blev kun til vand;</l>
+          <l n="v15">Han døde, og skrevet</l>
+          <l n="v16">Hans navn var i sand.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1686">
+        <head>Hvordan han blev digter</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Gaasen, som hver maatte følge med,</l>
+          <l n="v2">Hvordan han end sig vred og sled,</l>
+          <l n="v3">Har han ogsaa engang berørt;</l>
+          <l n="v4">I sit triumftog har den ham fort;</l>
+          <l n="v5">Men han tilslut dog rev sig løs,</l>
+          <l n="v6">Saa, hvad den var, – en simpel tøs.</l>
+          <l n="v7">Frugtesløs dog ei hans gaasemarsch blev,</l>
+          <l n="v8">Gaasefjæren vandt han, hvormed han skrev.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1687">
+        <head>Lig</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Lig bør ikke balsameres</l>
+          <l n="v2">Og som mumie-guder æres;</l>
+          <l n="v3">De bør heller obduceres,</l>
+          <l n="v4">Lidt der da af dem kan læres,</l>
+          <l n="v5">Læres, hvilken indre skade</l>
+          <l n="v6">Endelig dem tog af dage,</l>
+          <l n="v7">Saa at vi ei livet lade</l>
+          <l n="v8">Skal for samme sygdoms plage.</l>
+          <l n="v9">Gammel kultus fra Ægypten</l>
+          <l n="v10">Hersker endnu dog med styrke,</l>
+          <l n="v11">Vi gaar heller ned i krypten</l>
+          <l n="v12">For vor mumie at dyrke.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1688">
+        <head>Dameprædikanten</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Folk strømmer stimevis</l>
+          <l n="v2">Hen for at høre dig</l>
+          <l n="v3">Og sidder timevis</l>
+          <l n="v4">Uden at røre sig.</l>
+          <l n="v5">Hvad er magneten vel,</l>
+          <l n="v6">Som saa kan trække dem?</l>
+          <l n="v7">Er du profeten vel,</l>
+          <l n="v8">Sendt for at vække dem?</l>
+          <l n="v9">Hvordan du drage dem</l>
+          <l n="v10">Kan med dit foredrag,</l>
+          <l n="v11">Hvordan du smage dem</l>
+          <l n="v12">Kan med din faaresmag,</l>
+          <l n="v13">derom nok damerne</l>
+          <l n="v14">Ei er uvidende,</l>
+          <l n="v15">Som for reklamerne</l>
+          <l n="v16">Gratis var tidende.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1689">
+        <head>Hegel</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar man vil tage hvert fænomen</l>
+          <l n="v2">Og skjære tilrette det efter sin læst,</l>
+          <l n="v3">Gaar det saa glat med det værste ben,</l>
+          <l n="v4">Alt passer saa deilig foruden molest.</l>
+          <l n="v5">Bliv kun ved din læst min hr. filosof!</l>
+          <l n="v6">Især er den hegelske udmærket god.</l>
+          <l n="v7">Der er ei saa trodsigt et pundtlærstof,</l>
+          <l n="v8">Som den ei til dansesko gjør for din fod.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1690">
+        <head>Les extrèmes se touchent</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Smaapiger bruger fantasiens lindser,</l>
+          <l n="v2">Ser noget stort i alt, som kun er smaat,</l>
+          <l n="v3">De mindste løitnanter blir store prindser,</l>
+          <l n="v4">Og farverigt blir alt, som kun er graat.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Jo større farveprisme i en kikkert,</l>
+          <l n="v6">Des lettere et feilsyn blir jo gjort.</l>
+          <l n="v7">Og vender man den om, da er det sikkert,</l>
+          <l n="v8">At ganske smaat blir alt, som før var stort.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og blir man narret af sit farveprisme,</l>
+          <l n="v10">Man bagvendt ser og ikke længer tror</l>
+          <l n="v11">Paa, at der gives nogen heroisme,</l>
+          <l n="v12">Fordi man engang fandt sin løitnant stor.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Saa tumler man imellem to extremer,</l>
+          <l n="v14">Og snart man i sin kikkerts falske felt</l>
+          <l n="v15">Ser lutter glorier og diademer</l>
+          <l n="v16">Og snart en lilleput i hver en helt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1691">
+        <head>En halvsand halvmand</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">“Naar I ser den nøgne kunst,</l>
+          <l n="v2">Vækker den hos jer kun brunst!</l>
+          <l n="v3">Hvilken skam for vor nation!”</l>
+          <l n="v4">Raaber med indignation</l>
+          <l n="v5">En æsthetisk halvmand, som</l>
+          <l n="v6">Blev en kunstkjender i Rom.</l>
+          <l n="v7">Men den nøgne sandhed, ven!</l>
+          <l n="v8">Hvordan er det vel med den?</l>
+          <l n="v9">Den man ei bør nøgen male,</l>
+          <l n="v10">Ellers vækker den skandale.</l>
+          <l n="v11">Den du ei tør se i øinene,</l>
+          <l n="v12">Den du dækker til med løgnene.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1692">
+        <head>Melkesilen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der er mange mænd og kvinder,</l>
+          <l n="v2">Gjennem hvem det skjønne, store</l>
+          <l n="v3">Som i melkesilen rinder</l>
+          <l n="v4">Ud af hver en sjælens pore.</l>
+          <l n="v5">Men hvert haar, hver smudspartikel</l>
+          <l n="v6">Gjemmes med en stille glæde</l>
+          <l n="v7">Som en dyrebar artikel.</l>
+          <l n="v8">Melken selv, den søde, fede</l>
+          <l n="v9">Gjennem silens huller flyder;</l>
+          <l n="v10">Og naar andre melken priser</l>
+          <l n="v11">Og med tak og glæde nyder,</l>
+          <l n="v12">De med fryd paa smudset viser</l>
+          <l n="v13">Og paa dette maaltid byder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1693">
+        <head>Den gamle</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Nu er du bleven gammel</l>
+          <l n="v2">Og har en slet fordøielse,</l>
+          <l n="v3">Nu føler du dig vammel</l>
+          <l n="v4">Ved ungdommens fornøielse.</l>
+          <l n="v5">Men ungdommen, den bryder</l>
+          <l n="v6">Sig ikke om din væmmelse;</l>
+          <l n="v7">Den livets frugter nyder</l>
+          <l n="v8">I nuets selvforglemmelse.</l>
+          <l n="v9">Jo mindre man dig agter,</l>
+          <l n="v10">Des større blir din arrighed;</l>
+          <l n="v11">Mod ungdom intet magter</l>
+          <l n="v12">Din gammelmands halstarrighed. –</l>
+          <l n="v13">Om selv du ei kan nyde</l>
+          <l n="v14">Fryd dig i andres nydelse!</l>
+          <l n="v15">Om selv du ei kan yde</l>
+          <l n="v16">Fryd dig i andres ydelse!</l>
+          <l n="v17">Da sidde ved din skammel</l>
+          <l n="v18">En ung discipelskare vil.</l>
+          <l n="v19">Og om du bliver gammel</l>
+          <l n="v20">Din ungdom du bevare vil.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1694">
+        <head>Tvedelt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han hører til tvende tider;</l>
+          <l n="v2">Til ingen hører han hel,</l>
+          <l n="v3">Og tvivlen bider og slider</l>
+          <l n="v4">Med skarpe tænder hans sjæl.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Ved digt han smerten kan lindre;</l>
+          <l n="v6">Men saaret vil aldrig gro,</l>
+          <l n="v7">Der er et brud i hans indre,</l>
+          <l n="v8">Et brud med den gamle tro.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Han ved, det var illusioner,</l>
+          <l n="v10">En drømmende romantik;</l>
+          <l n="v11">For øret de gamle toner</l>
+          <l n="v12">Dog klinger som fjern musik.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Han ved, det er svagt at dromme</l>
+          <l n="v14">Og døve smerten ved digt;</l>
+          <l n="v15">Han ved, det er feigt at røomme</l>
+          <l n="v16">Fra livet og livets pligt.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Men ak! han kan ei kureres,</l>
+          <l n="v18">Han er som en morfinist.</l>
+          <l n="v19">Helt aldrig realiseres</l>
+          <l n="v20">En gammel idealist.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1695">
+        <head>Ensom</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ja, jeg vil gaa min egen gang,</l>
+          <l n="v2">Mig intet hensyn binder;</l>
+          <l n="v3">Er veien steil, er veien lang,</l>
+          <l n="v4">Den fører op paa tinder.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Jeg vil ei gaa i procession</l>
+          <l n="v6">Med mængden træg som sneglen,</l>
+          <l n="v7">Hvert snevert skridt med permission,</l>
+          <l n="v8">Med prutningsmon og mæglen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Med presten i samarie lang,</l>
+          <l n="v10">Med embedsbureaukraten</l>
+          <l n="v11">I uniformen, snøret, trang,</l>
+          <l n="v12">Med kirken og med staten.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Jeg ved, jeg vil bli lyst i ban,</l>
+          <l n="v14">I rigets akt erklæret,</l>
+          <l n="v15">Vil leve, dø som ensom mand,</l>
+          <l n="v16">Af ingen elsket, æret.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Men jeg vil leve livet sandt,</l>
+          <l n="v18">Mig ingen løgn skal binde;</l>
+          <l n="v19">Selv om ei nogen sjæl jeg vandt,</l>
+          <l n="v20">Min egen vil jeg vinde.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1696">
+        <head>Kritikeren</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det bedste, som han tænkte,</l>
+          <l n="v2">Det ind og ud man vrængte,</l>
+          <l n="v3">Da blev han selv lidt vrang;</l>
+          <l n="v4">Det laadne ud han vendte,</l>
+          <l n="v5">Og selv han indebrændte</l>
+          <l n="v6">I hjertet med sin sang.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Nu synger han ei længer;</l>
+          <l n="v8">Men andres sang han vrænger,</l>
+          <l n="v9">Som andre hans har vrængt;</l>
+          <l n="v10">Og man sit bifald skjænker,</l>
+          <l n="v11">Naar han det værste tænker</l>
+          <l n="v12">Om det, som bedst er tænkt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1697">
+        <head>Afgudsbilledet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hans fantasi skar et afgudsbillede</l>
+          <l n="v2">Og op i sit hjertes tempel det stillede;</l>
+          <l n="v3">Men da han fik se,</l>
+          <l n="v4">Han laa paa knæ</l>
+          <l n="v5">For en klods af træ,</l>
+          <l n="v6">Sin fantasi og dens verk han forbandede,</l>
+          <l n="v7">En karikatur han af træklodsen dannede.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Men karikaturen, hæslig grinende,</l>
+          <l n="v9">Forfalgte hans hjerte, skjærende, pinende:</l>
+          <l n="v10">“Du faar ingen ro,</l>
+          <l n="v11">For du har ingen tro!</l>
+          <l n="v12">Skjær atter dig afguder bare af klodserne,</l>
+          <l n="v13">Søg fred og lykke i samfund med tosserne!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1698">
+        <head>Den gamle fuglekonge</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvo engang med sit skud en præmie har vundet</l>
+          <l n="v2">Vil ikke skydes væk af friske, unge skud;</l>
+          <l n="v3">Med gamle muskedunder fast til armen bundet</l>
+          <l n="v4">Han halvblind skjælver løs sit løse krud.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Du unge skytter kjæk med ornefjær i hatten,</l>
+          <l n="v6">Som med din rifle rammer blinkens prik,</l>
+          <l n="v7">Haan ei den gamle mand, som skyder bort i natten,</l>
+          <l n="v8">Tag Hatten af for ham, skjønt du hver præmie fik!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1699">
+        <head>Profeten</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som et meteor</l>
+          <l n="v2">Kommer lys og stor</l>
+          <l n="v3">Over fjeld og dale</l>
+          <l n="v4">Revselsens profet,</l>
+          <l n="v5">Har som en komet</l>
+          <l n="v6">Flammeris til hale;</l>
+          <l n="v7">Men om kjernen, som</l>
+          <l n="v8">Ret gi'er ham til dom</l>
+          <l n="v9">Er ei værdt at tale.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1700">
+        <head>Parvenuen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som en sop</l>
+          <l n="v2">Skjød han op,</l>
+          <l n="v3">Trængte sig frem uafviselig,</l>
+          <l n="v4">Aad sig om,</l>
+          <l n="v5">hvor han kom;</l>
+          <l n="v6">Selv dog ei soppen var spiselig.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1701">
+        <head>Komitébehandling</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvad blir der igjen af de største idéer,</l>
+          <l n="v2">Naar vandret de har gjennem komitéer?</l>
+          <l n="v3">De stifter som vore første flammer</l>
+          <l n="v4">Partier og blir til simple madamer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1702">
+        <head>Smaat op og stort ned</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Kvindens lyst det er at sætte</l>
+          <l n="v2">Nipsfigurer smaa og nette</l>
+          <l n="v3">Paa piedestallen op.</l>
+          <l n="v4">Mandens lyst det er at trække</l>
+          <l n="v5">Alt det store, stærke, kjække</l>
+          <l n="v6">Fra piedestallens top.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1703">
+        <head>Metoden</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det er metoden:</l>
+          <l n="v2">Graven og roden,</l>
+          <l n="v3">Søgen og samlen,</l>
+          <l n="v4">Følen og famlen,</l>
+          <l n="v5">Snusen og smagen</l>
+          <l n="v6">Veien og vragen,</l>
+          <l n="v7">Indtil det hele</l>
+          <l n="v8">Smuldrer i dele,</l>
+          <l n="v9">Tørre og smaalige,</l>
+          <l n="v10">Farveløst graalige,</l>
+          <l n="v11">Goldt atomatiske,</l>
+          <l n="v12">Koldt systematiske,</l>
+          <l n="v13">Gjennem hvis aandsforladte næse</l>
+          <l n="v14">Selv Jehovah ei liv kunde blæse.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1704">
+        <head>Sahara</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar du liv vil blæse</l>
+          <l n="v2">I en ørken tør,</l>
+          <l n="v3">Øine, mund og næse</l>
+          <l n="v4">Stoppe til du bør.</l>
+          <l n="v5">Naar du aand vil bringe</l>
+          <l n="v6">I et dødt bureau,</l>
+          <l n="v7">Vil en sandstorm springe</l>
+          <l n="v8">Mod dig, kan du tro.</l>
+          <l n="v9">Strøsand, det servile</l>
+          <l n="v10">Pidsker i en storm</l>
+          <l n="v11">Hver, som det stabile</l>
+          <l n="v12">Truer med reform.</l>
+          <l n="v13">Mange sank saa trætte</l>
+          <l n="v14">Ned i dybe sand;</l>
+          <l n="v15">Døde ben er spredte;</l>
+          <l n="v16">Vogt dig, unge mand!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1705">
+        <head>Efterglemt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der er vaar i landet,</l>
+          <l n="v2">Der er aabent vand;</l>
+          <l n="v3">Dog endnu ved vandet</l>
+          <l n="v4">Man nok finde kan</l>
+          <l n="v5">Tavler, længst forglemte,</l>
+          <l n="v6">Som man mærker kun,</l>
+          <l n="v7">Naar man lidt vil skjemte</l>
+          <l n="v8">I en ledig stund, –</l>
+          <l n="v9">Tavler, som os byder</l>
+          <l n="v10">Her at fare varlig;</l>
+          <l n="v11">Deres indskrift lyder:</l>
+          <l n="v12">“Isen her er farlig!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1706">
+        <head>Et mesterstykke</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En dialektisk fegtemester,</l>
+          <l n="v2">I logiken en ægte mester,</l>
+          <l n="v3">Svinger sin kaarde saa behændig,</l>
+          <l n="v4">At, om det regner rent ubændig,</l>
+          <l n="v5">Ja, om det ned fra himmelen flommer,</l>
+          <l n="v6">Dog ei en eneste draabe kommer</l>
+          <l n="v7">Ned paa ham; men tørt han parerer</l>
+          <l n="v8">Alt, hvad de andre influerer.</l>
+          <l n="v9">Dog, om man sit har bragt paa det tørre,</l>
+          <l n="v10">Er man just ikke saa meget større.</l>
+          <l n="v11">Lidt modtagelig for det vaade</l>
+          <l n="v12">Bør man dog være, om end med maade.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1707">
+        <head>Den første og den siste kirke</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den første kirke var en kommune,</l>
+          <l n="v2">De første kristne var kommunister;</l>
+          <l n="v3">Men stammen har den tabt rent afsyne</l>
+          <l n="v4">Paa grund af det brogede slægtregister.</l>
+          <l n="v5">Og da den fra halmen kom i dynen,</l>
+          <l n="v6">Hvor sødt den hviler i statens arme,</l>
+          <l n="v7">Da slog den ganske vrag paa kommunen,</l>
+          <l n="v8">For kjærlighedsvarme kom sengevarme,</l>
+          <l n="v9">For kirkekommunen kom kirkestaten</l>
+          <l n="v10">Og siden statskirken og dens hyrder</l>
+          <l n="v11">Med rang og avancement i etaten;</l>
+          <l n="v12">Her fælleskassen blev fattigbyrder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1708">
+        <head>Familiehensyn</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Onkel og tante, kusine og fætter</l>
+          <l n="v2">Skraaler og skriger alle i kor:</l>
+          <l n="v3">“Kjære, du taler jo fælt som en kjætter,</l>
+          <l n="v4">Tag dog lidt hensyn til far og mor!”</l>
+          <l n="v5">Og der skjændes og smigres og kjæles,</l>
+          <l n="v6">Til han bliver saa tam som et lam,</l>
+          <l n="v7">Og han tier og lyver fremdeles;</l>
+          <l n="v8">Jo, familien har ære af ham!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1709">
+        <head>Askeladden</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Eventyr og folkeviser,</l>
+          <l n="v2">Folkets digtning, alle priser.</l>
+          <l n="v3">Men naar det vil gjøre mere,</l>
+          <l n="v4">Handle lidt, sig selv regjere,</l>
+          <l n="v5">Folket med man ei vil have;</l>
+          <l n="v6">Det kun duger til at grave</l>
+          <l n="v7">Som en askelad i gruen,</l>
+          <l n="v8">Taales ei i dagligstuen.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Dog trods alle Perer, Paaler,</l>
+          <l n="v10">Som, “Bliv du kun hjemme!” skraaler,</l>
+          <l n="v11">Lægger Askelad i veien</l>
+          <l n="v12">Med sin niste over heien;</l>
+          <l n="v13">Op til kongens gaard han styrer</l>
+          <l n="v14">Og i tjeneste sig hyrer,</l>
+          <l n="v15">Og trods alt, som er til hinder</l>
+          <l n="v16">Mindst det halve rige vinder.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Halvten mindst, om ei det hele,</l>
+          <l n="v18">Hvis man ei vil ærlig dele,</l>
+          <l n="v19">Hvis man prutningsmon vil prøve</l>
+          <l n="v20">Og om “magtfordeling” tøve;</l>
+          <l n="v21">Hvis hans bene vei vil spærre</l>
+          <l n="v22">Herrekammer, kammerherre,</l>
+          <l n="v23">Enden blir paa eventyret,</l>
+          <l n="v24">At han tager hele styret!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1710">
+        <head>Mene tekel upharsin!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvad bringer det næste sekel,</l>
+          <l n="v2">I glade gjæstebudsfolk!</l>
+          <l n="v3">Dets truende “Mene tekel”</l>
+          <l n="v4">Behøver I dertil tolk?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Den haand, som skriver paa muren,</l>
+          <l n="v6">Arbeidernæven det er;</l>
+          <l n="v7">Og naar der stødes i luren,</l>
+          <l n="v8">Ind bryder den hele hær.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">En skare ubudne gjæster</l>
+          <l n="v10">Vil være i gildet med</l>
+          <l n="v11">Trods politiet, trods prester,</l>
+          <l n="v12">Trods kælle, trods bibelsted.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Da væltes borde og stole,</l>
+          <l n="v14">Da brydes selskabets hegn,</l>
+          <l n="v15">Da mister presten sin kjole</l>
+          <l n="v16">Og politiet sit tegn.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Men kloge I var, om førend</l>
+          <l n="v18">De stormer eders kalas,</l>
+          <l n="v19">I selv for dem aabnede døren</l>
+          <l n="v20">Og bød dem tallerken og glas.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1711">
+        <head>Bremsen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">pa vi kjender den gamle remse:</l>
+          <l n="v2">“Kongemagten bør være stærk</l>
+          <l n="v3">Som en rigtig hemsko og bremse</l>
+          <l n="v4">Paa det farlige sporvognsverk.”</l>
+          <l n="v5">Folket skal bremses, folket skal hemmes,</l>
+          <l n="v6">Kongebremsen bør slippes løs,</l>
+          <l n="v7">Og der skal spilles: “Hun skal tæmmes!”</l>
+          <l n="v8">Som med en liden trodsig tøs.</l>
+          <l n="v9">“Folkets kjærlighed min belønning”,</l>
+          <l n="v10">Naar det er tæmmet af sin drot,</l>
+          <l n="v11">Og mod den store folkedønning</l>
+          <l n="v12">Tag i hvert øre en statsraadsdot!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1712">
+        <head>God og ond latter</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den gode latter ryster som et sold</l>
+          <l n="v2">Kun varsomt, ei med uforstandig vold;</l>
+          <l n="v3">Den stedse skiller skal fra kjerne kun;</l>
+          <l n="v4">Thi heder den med rette kjernesund.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Den onde latter ryster blindt kun som</l>
+          <l n="v6">Et jordskælv, der hver bygning styrter om;</l>
+          <l n="v7">Og naar tilslut den har lagt øde alt,</l>
+          <l n="v8">Paa tomten den som romeren strør salt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1713">
+        <head>Sikkerhedsventilen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I hastemte tider, naar dampen er oppe</l>
+          <l n="v2">Med stønnen og drønnen og løften og snøften,</l>
+          <l n="v3">Da gjælder det ikke ventilen at stoppe;</l>
+          <l n="v4">Thi ellers snart iltoget ligger i grøften.</l>
+          <l n="v5">Og mellemgulvet, det er nu ventilen,</l>
+          <l n="v6">Som op og ned maa klappe med lethed,</l>
+          <l n="v7">Snart stærkt med latter, snart svagt med smilen</l>
+          <l n="v8">Og slippe lidt ud af hadampens tæthed.</l>
+          <l n="v9">Ja, mangt ha – ha – ha fra ventilen maa klinge,</l>
+          <l n="v10">Hvis ikke den hafyldte kjedel skal springe.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1714">
+        <head>Det fjordgamle juleneg</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hænger du end paa det gamle sted?</l>
+          <l n="v2">Har man da glemt at tage dig ned,</l>
+          <l n="v3">Gamle neg fra julen?</l>
+          <l n="v4">Hvert et korn er plukket ud;</l>
+          <l n="v5">Ei du er mer det glade bud</l>
+          <l n="v6">Længer nu for fuglen.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Hænger du der fra forrige aar?</l>
+          <l n="v8">Ser du ei, det er langt paa vaar?</l>
+          <l n="v9">Grøn er eng og ager.</l>
+          <l n="v10">Fuglen er som tanken fri,</l>
+          <l n="v11">Flyver dig med sang forbi;</l>
+          <l n="v12">Plukket neg den vrager.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Hænger du der som den kristendom,</l>
+          <l n="v14">Der som det glade budskab kom</l>
+          <l n="v15">Engang for længe siden?</l>
+          <l n="v16">Plukket af teologer graa,</l>
+          <l n="v17">Har den igjen kun tørre straa;</l>
+          <l n="v18">Korn er ei der i den.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1715">
+        <head>Kristianiapotten</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som egekjærnens rødder trænger</l>
+          <l n="v2">Igjennem potten og den sprænger,</l>
+          <l n="v3">Saa ogsaa alle vore store</l>
+          <l n="v4">Med Kristianiapotten gjorde.</l>
+          <l n="v5">Og en borneret fanatisme</l>
+          <l n="v6">Fik potteskaar til ostracisme;</l>
+          <l n="v7">Smaa pottemænd har aldrig hvilet,</l>
+          <l n="v8">For store mænd kom i exilet.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1716">
+        <head>Blad og naal</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Et saftrigt blad kan ikke kulden taale;</l>
+          <l n="v2">Om høsten visner løvet, og det fældes;</l>
+          <l n="v3">Men eviggrønne furutrææets naale</l>
+          <l n="v4">Kan byde kulden trods og ei de ældes.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Et kjærligt hjerte følsomt er som bladet.</l>
+          <l n="v6">Og naar det kulde møder, let det brister;</l>
+          <l n="v7">Som naalene i kulden trives hadet</l>
+          <l n="v8">Og intet af sin galdegrønhed mister.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1717">
+        <head>Da byttet skulde deles</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De slutted en alliance</l>
+          <l n="v2">Og ud i krigen drog;</l>
+          <l n="v3">De havde saa god en chance,</l>
+          <l n="v4">Og fienden de slog.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Men da de saa skulde dele,</l>
+          <l n="v6">Blev uvenner de snart,</l>
+          <l n="v7">For de begyndte at skele</l>
+          <l n="v8">Hver til den andens part.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og alle de stolte planer</l>
+          <l n="v10">Og hver en mærkesag</l>
+          <l n="v11">Blev skidne filler for faner</l>
+          <l n="v12">Og vaskeklud for flag.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Og fienden hæit en latter</l>
+          <l n="v14">Op over dem nu slog</l>
+          <l n="v15">Og samlede hæren atter</l>
+          <l n="v16">Og ud i felten drog.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Af overløbere fik nu</l>
+          <l n="v18">Han mangen ussel pjalt:</l>
+          <l n="v19">Men hvordan det siden gik nu</l>
+          <l n="v20">Er endnu ei fortalt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1718">
+        <head>Borgruinen ved Rhinen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der staar en borg som en ensom ruin,</l>
+          <l n="v2">Hvor ugler og flaggermus huser;</l>
+          <l n="v3">Stolt skuer den ned paa den travle Rhin,</l>
+          <l n="v4">Som fremad ustanselig bruser.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">“Du dumme flod, hvorfor iler du saa?</l>
+          <l n="v6">Du kommer dog tidsnok til havet;</l>
+          <l n="v7">Der vil dn som draaber tilgrunde gaa;</l>
+          <l n="v8">det faar du igjen kun for kavet.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Jeg staaet har her i tusinde aar;</l>
+          <l n="v10">Et liv kun jeg lever i minder;</l>
+          <l n="v11">Og alt, hvad i nuet der foregaar,</l>
+          <l n="v12">Som du kaun forbi mig forsvinder.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Hidop trænger ingen dampskibsrog,</l>
+          <l n="v14">Saalidt som matrosernes eder;</l>
+          <l n="v15">Og sjauernes latter og plumpe spog</l>
+          <l n="v16">ei skjæmmer de viede steder.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Kun fine damer og herrer de gaar</l>
+          <l n="v18">Med andagt herop til ruinen:</l>
+          <l n="v19">Og med sin Bädeker stille de staar</l>
+          <l n="v20">Og læser med ryggen til Rhinen.”</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Og Rhinen den ler med et solskinssmil,</l>
+          <l n="v22">Den har det for travlt til at svare;</l>
+          <l n="v23">Den iler forbi som en udskudt pil;</l>
+          <l n="v24">Mod maalet den stunder jo bare.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Den lever saa stærkt, den kan, for sin tid;</l>
+          <l n="v26">For havet den er ikke bange;</l>
+          <l n="v27">Den bærer tømmer og skibe med flid</l>
+          <l n="v28">Og skvulper til sjømandens sange.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Den vil være med i livskampens leg</l>
+          <l n="v30">Blandt sjauere og blandt matroser,</l>
+          <l n="v31">Om end der kan klæbe en smule beg,</l>
+          <l n="v32">Og stenkaullet røger og oser.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Den misunder ei den gamle ruin</l>
+          <l n="v34">Med de fine damer og herrer,</l>
+          <l n="v35">Som sidder paa stas saa fornem og fin</l>
+          <l n="v36">Og ad tidens strømninger snerrer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1719">
+        <head>Verdens theater</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I hullet sidder suffløren,</l>
+          <l n="v2">Beskeden, stille og gjemt;</l>
+          <l n="v3">Og hvisker tro til aktøren</l>
+          <l n="v4">Repliken, som han har glemt.</l>
+          <l n="v5">Saamangen paa scenen sig brisker</l>
+          <l n="v6">Og spiller en rolle stor,</l>
+          <l n="v7">Der har en sufflør, som hvisker</l>
+          <l n="v8">Til ham hvert eneste ord.</l>
+          <l n="v9">Paa verdens theater i hullet</l>
+          <l n="v10">Geniet tidt sad som sufflør,</l>
+          <l n="v11">Mens oppe paa scenen kun nullet</l>
+          <l n="v12">Blev feiret som første aktør.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1720">
+        <head>Trætte mænd</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han var saa stolt af sin smule hjerne</l>
+          <l n="v2">Og af den praas, som var tændt derinde;</l>
+          <l n="v3">Op saa han til den som en lysende stjerne,</l>
+          <l n="v4">Hvorefter han nok skulde maalet finde.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Men praasen dansed som lygtemanden</l>
+          <l n="v6">Og førte ham ud paa bundløse myrer.</l>
+          <l n="v7">Saa gaar det hver, der efter forstanden</l>
+          <l n="v8">Som efter en stjerne paa himlen styrer!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Saa klang en røst som et orgels brusen;</l>
+          <l n="v10">Men da han vendte sig om mod ræsten,</l>
+          <l n="v11">Da hørte han bare vindens susen</l>
+          <l n="v12">Og lyd som af faldende løv om hæsten.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1721">
+        <head>Ribbet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Alle de dæmrende, uklare længsler</l>
+          <l n="v2">Staar der som børn ved dørene tittende,</l>
+          <l n="v3">Staar der paa taa bag de hemmende stængsler,</l>
+          <l n="v4">Anende, sukkende, lyttende, frittende.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Dørene aabnes og ind for at ribbe</l>
+          <l n="v6">Styrter som over et juletræ børnene;</l>
+          <l n="v7">Mængden sig nøier med affald som gribbe;</l>
+          <l n="v8">Faa kun mod tinderne stræber som ørnene.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">O! kunde atter vi staa der bag døren,</l>
+          <l n="v10">Længselsfuld, ren, uskyldig, uvidende,</l>
+          <l n="v11">Tittende øine og lyttende øren,</l>
+          <l n="v12">Og som et barn af nysgjerrighed lidende.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Hvor er nu længslerne, hvor er nu barnet?</l>
+          <l n="v14">Hvor er nu ungdommen, hvor er nu maalene?</l>
+          <l n="v15">Længst alt vort juletræ ligger i skarnet,</l>
+          <l n="v16">Plyndret og ribbet; igjen kun er naalene.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1722">
+        <head>Farvel, ungdom!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som gammel mand med stav og med krykke</l>
+          <l n="v2">Han vilde saa gjerne følge de unge;</l>
+          <l n="v3">Men naar han har løbet et lidet stykke,</l>
+          <l n="v4">Blir benene stive, trætte og tunge.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Saa kan han da bare hilse og nikke,</l>
+          <l n="v6">Og selv om ingen hans hilsen agter,</l>
+          <l n="v7">Han følger de unge med venlige blikke,</l>
+          <l n="v8">Om benene end ikke længer magter.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Han sidder ved milepælen og hviler.</l>
+          <l n="v10">Kanske det bliver hans allersidste;</l>
+          <l n="v11">Mens ungdommen stedse videre iler,</l>
+          <l n="v12">Alt tømres maaske for ham hans kiste.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Farvel da, ungdom! til lykke, til lykke!</l>
+          <l n="v14">De gamle bliver saa gjerne bitre;</l>
+          <l n="v15">Men jeg vil til hilsen svinge min krykke,</l>
+          <l n="v16">Mens vemodstaarer i øiet vil glitre.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1723">
+        <head>Mørkeloftet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Paa mørkeloftet iblinde</l>
+          <l n="v2">Han famled i ungdommens tid</l>
+          <l n="v3">For skjulte skatter at finde,</l>
+          <l n="v4">Men fandt ei et eneste hvid.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Og nu, da han er blit gammel,</l>
+          <l n="v6">Og solen op for ham randt,</l>
+          <l n="v7">Han saa, det var noget skrammel,</l>
+          <l n="v8">Alt, hvad han paa loftet fandt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Ei andet end kalverumper</l>
+          <l n="v10">I skrin med det rare han ser</l>
+          <l n="v11">Og udbrændte lysestumper,</l>
+          <l n="v12">Som ikke kan lyse mer.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Og alle rumperne stammed</l>
+          <l n="v14">Fra kalve med Apis til far,</l>
+          <l n="v15">Og lysestumperne flammet</l>
+          <l n="v16">I alterstagerne har.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Den hele skat den var læiet,</l>
+          <l n="v18">Af alt var intet der sandt;</l>
+          <l n="v19">Men solen gjør ondt i øiet</l>
+          <l n="v20">For den, som til mørket er vant.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1724">
+        <head>Man maa tude med de ulve, man er iblandt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvo samfundet forarger,</l>
+          <l n="v2">Han faar at føle nok,</l>
+          <l n="v3">At samfundet er varger</l>
+          <l n="v4">I følge og i flok.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Vil du blandt ulve leve,</l>
+          <l n="v6">Med dem du tude maa;</l>
+          <l n="v7">Du kan af dem ei kræve,</l>
+          <l n="v8">Dit sprog de skal forstaa.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og hvis du ei bekjender</l>
+          <l n="v10">Og tuder dogmet med,</l>
+          <l n="v11">Da faar du føle tænder</l>
+          <l n="v12">Af kristen kjærlighed.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Og ulvedogmet lyder:</l>
+          <l n="v14">Vi har en ulvegud,</l>
+          <l n="v15">Som steger hver i gryder,</l>
+          <l n="v16">Der ei har ulvetud.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1725">
+        <head>Den faste borg</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Mod borgens mure stiger</l>
+          <l n="v2">De vrede bølger op,</l>
+          <l n="v3">Og borgens herre viger</l>
+          <l n="v4">Høit op i taarnets top.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Der kan han kanske holde</l>
+          <l n="v6">Sig end en liden stund,</l>
+          <l n="v7">Skjønt borgens gamle volde</l>
+          <l n="v8">Alt skjælver i sin grund.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og taarnets ugler tuder</l>
+          <l n="v10">Til bølgens vrede brus;</l>
+          <l n="v11">Og dumpt mod borgens ruder</l>
+          <l n="v12">Slaar rædde flaggermus.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Og borgens herre raaber:</l>
+          <l n="v14">“Frygt ei, du lille hob!”</l>
+          <l n="v15">Men ingen længer haaber</l>
+          <l n="v16">Og hører herrens raab.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1726">
+        <head>Fremad!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han synes altid, man gaar for fort</l>
+          <l n="v2">Og standser for pusten at drage,</l>
+          <l n="v3">Og altid han klynker: “Vi gaar os bort!</l>
+          <l n="v4">Lad heller os dog gaa tilbage!”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Og dog han en fører være vil,</l>
+          <l n="v6">En høvding for hele nationen;</l>
+          <l n="v7">Men maalet, som han vil føre til,</l>
+          <l n="v8">Det er nok den gamle stationen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og hver som er grætten, saarbent og træt,</l>
+          <l n="v10">Til høvding ham ogsaa jo kaarer</l>
+          <l n="v11">Og brøler i kor, at han har ret,</l>
+          <l n="v12">Og at de, som vil frem, er daarer.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Men fremad gaar det mod maalet dog;</l>
+          <l n="v14">Det lader sig ikke stoppe,</l>
+          <l n="v15">det store jublende fremtidstog</l>
+          <l n="v16">Mod alpeglødende toppe.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1727">
+        <head>Et spildt liv</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Som en ørken, gold og sandig,</l>
+          <l n="v2">Laa hans liv foruden spor.</l>
+          <l n="v3">Ingen daad og stræben mandig,</l>
+          <l n="v4">Intet modigt sandhedsord</l>
+          <l n="v5">Havde med sit fodspor præget</l>
+          <l n="v6">Denne tomme glemsels vei;</l>
+          <l n="v7">Han kun havde søgt sit eget,</l>
+          <l n="v8">Derfor tabt han havde sig.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Og han var saa træt af reisen,</l>
+          <l n="v10">Af det hele led og kjed,</l>
+          <l n="v11">Han, som stolt med nakkekneisen</l>
+          <l n="v12">Engang havde sat afsted;</l>
+          <l n="v13">Han, som havde haanet, spottet</l>
+          <l n="v14">Alt, af andre sagt og gjort,</l>
+          <l n="v15">Og saa skadefro sig gottet,</l>
+          <l n="v16">Naar de ikke evned stort.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Han, som havde sig forhærdet</l>
+          <l n="v18">Mod hver mandig, ædel helt,</l>
+          <l n="v19">Der sig stilled uforfærdet</l>
+          <l n="v20">Frem til kamp paa sandheds felt;</l>
+          <l n="v21">Han, som havde stedse hadet</l>
+          <l n="v22">Mest enhver, som evned mest,</l>
+          <l n="v23">Som fra munden kjækt tog bladet,</l>
+          <l n="v24">Som blev elsket, hørt og læst.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Nu det lakkede mod enden;</l>
+          <l n="v26">Knap han slæbte sig afsted,</l>
+          <l n="v27">Og han følte sandets brænden,</l>
+          <l n="v28">Tungen var saa tør og hed.</l>
+          <l n="v29">Og han saa den golde strækning</l>
+          <l n="v30">Uden maal og uden vand,</l>
+          <l n="v31">Og han sank i dødens trækning,</l>
+          <l n="v32">Og hans grav var flyvesand.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1728">
+        <head>Naiv</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Tillidsfuld som barnet var han,</l>
+          <l n="v2">Paa sin læbe hjertet bar han;</l>
+          <l n="v3">Men da de det røde skued,</l>
+          <l n="v4">Som af livets varme lued,</l>
+          <l n="v5">Kanibalisk grumhed greb dem;</l>
+          <l n="v6">Knivene de trak og sleb dem.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Straks han ikke ret forstod det,</l>
+          <l n="v8">At de lysted hjerteblodet,</l>
+          <l n="v9">Og med undren dem betragted,</l>
+          <l n="v10">Som en leg det hele agted,</l>
+          <l n="v11">Og som barnet til dem smiled,</l>
+          <l n="v12">Der i moders arme hviled.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Men med knive skar og stak de,</l>
+          <l n="v14">Og hans varme blod, det drak de,</l>
+          <l n="v15">Og de hylede som vilde</l>
+          <l n="v16">Rundt om barnelivets kilde.</l>
+          <l n="v17">Ak! genier er naive,</l>
+          <l n="v18">Rækker hjertet frem mod knive.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1729">
+        <head>Feieren</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar den slemme, lille</l>
+          <l n="v2">Ei vil være stille,</l>
+          <l n="v3">Barnepiger pleier</l>
+          <l n="v4">Med den sorte feier</l>
+          <l n="v5">Gjerne stygt at skræmme</l>
+          <l n="v6">Denne lille slemme.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Saa, naar tanker frie</l>
+          <l n="v8">Ei vil ydmygt tie,</l>
+          <l n="v9">Man med sorte djævle</l>
+          <l n="v10">Tankerne vil knevle.</l>
+          <l n="v11">Frie tanker skriger</l>
+          <l n="v12">Dog trods barnepiger.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Naar ei trudslen nytter,</l>
+          <l n="v14">Ørene man dyttør.</l>
+          <l n="v15">Tanker vil dog vokse</l>
+          <l n="v16">Trods de ortodokse.</l>
+          <l n="v17">Kun i ammestuer</l>
+          <l n="v18">Man for feieren gruer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1730">
+        <head>Livsglæde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Glad jeg er, for jeg fik skue</l>
+          <l n="v2">Tidens store mænd,</l>
+          <l n="v3">Glad, fordi mit hjerte lue</l>
+          <l n="v4">Kunde for dem end.</l>
+          <l n="v5">Glad, skjønt selv jeg ei har faaet</l>
+          <l n="v6">Gjøre noget stort,</l>
+          <l n="v7">Glad, for, hvad jeg ei har naaet,</l>
+          <l n="v8">Har en anden gjort.</l>
+          <l n="v9">Glad, for, hvad jeg svagt kun aned,</l>
+          <l n="v10">Andre stærkt har tænkt,</l>
+          <l n="v11">Glad, for stærke hænder baned</l>
+          <l n="v12">Vei i bjerget stængt.</l>
+          <l n="v13">Glad, fordi jeg ei var tagen</l>
+          <l n="v14">Dybt i bjerget ind,</l>
+          <l n="v15">Glad, fordi jeg skued dagen</l>
+          <l n="v16">Over bjergets tind.</l>
+          <l n="v17">Glad, skjønt synet er lidt svækket,</l>
+          <l n="v18">For jeg ei er blind,</l>
+          <l n="v19">Glad, for øiet ei er dækket</l>
+          <l n="v20">Tæt med fordoms bind.</l>
+          <l n="v21">Glad, fordi jeg endnu lever</l>
+          <l n="v22">I en tid saa stærk;</l>
+          <l n="v23">Glad, fordi jeg tror, den kræver</l>
+          <l n="v24">Selv mit svage verk.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1731">
+        <head>Brudte løfter</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han lovede meget,</l>
+          <l n="v2">Og intet han holdt;</l>
+          <l n="v3">At løftet blev sveget</l>
+          <l n="v4">Har embedet voldt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Paa embedets stige</l>
+          <l n="v6">Han steg og han steg;</l>
+          <l n="v7">Saa maatte han svige,</l>
+          <l n="v8">Han sveg og han sveg.</l>
+          <l n="v9">Men løftet har minder,</l>
+          <l n="v10">Som kan gaa igjen,</l>
+          <l n="v11">Og farve hans kinder</l>
+          <l n="v12">Med skamrødme end.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1732">
+        <head>Kreaturvognene</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Lokomotivet alle vil drage,</l>
+          <l n="v2">Enten man sidder i første klasse,</l>
+          <l n="v3">Eller sin plads man har længst tilbage</l>
+          <l n="v4">I kreaturvognens aabne kasse.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Ei det nytter, at okserne bræler,</l>
+          <l n="v6">Eller at faarene bræger saa fromme;</l>
+          <l n="v7">Jernbanetoget derfor ei nøler.</l>
+          <l n="v8">Men iler frem for til maalet at komme.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hjælper end ikke bræging og brøling,</l>
+          <l n="v10">Tyngden af dyr kan dog farten forsinke;</l>
+          <l n="v11">Engang trods skraalet den hele bæøling</l>
+          <l n="v12">Lys ser i mørket fra maalet dog blinke.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1733">
+        <head>Kaldet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Fik paa et bedre kald han lyst,</l>
+          <l n="v2">Et kald fra herren fik han;</l>
+          <l n="v3">En stemme kaldte i hans bryst,</l>
+          <l n="v4">Og efter denne gik han.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Ansøgning underdanigst skrev</l>
+          <l n="v6">Til kongen han; – desværre</l>
+          <l n="v7">Der mange er, som kaldet blev,</l>
+          <l n="v8">Faa vælges af Vorherre.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Men hvis han naadigst udvalgt blir,</l>
+          <l n="v10">Med hjorden hyrden tager</l>
+          <l n="v11">Rært afsked og i talen si'r</l>
+          <l n="v12">At nødig bort han drager.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">“Gud ved, hvor gjerne her han blev!</l>
+          <l n="v14">Men Herren saa det vilde.”</l>
+          <l n="v15">At selv han sin ansøgning skrev,</l>
+          <l n="v16">Derom han tier stille.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1734">
+        <head>Keiseraske</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En romer fandt en keisers aske,</l>
+          <l n="v2">Der engang dyrkedes som gud;</l>
+          <l n="v3">Og da hans kone skulde vaske,</l>
+          <l n="v4">Af asken lavede hun lud.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Og hvad der hændte i Italien,</l>
+          <l n="v6">I andre lande hænde kan;</l>
+          <l n="v7">Hver keiser komme kan i baljen,</l>
+          <l n="v8">Naar folket faar lidt mer forstand.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1735">
+        <head>Orientalske lamper</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En skare jomfruer med sine lamper tændte,</l>
+          <l n="v2">Som intet andet gjør end paa sin brudgom vente:</l>
+          <l n="v3">Det kvindeidealet var i orienten,</l>
+          <l n="v4">Og klog man kaldte denne stille, dorske venten.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Og endnu er der dem, som sidder der og bier,</l>
+          <l n="v6">Om endelig engang der komme kan en frier;</l>
+          <l n="v7">Dog daarlige man heller kalder slige jenter,</l>
+          <l n="v8">Som sidder kun paa stas og giftesyge venter.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Nu har den kloge jomfru ogsaa tændt sin lampe,</l>
+          <l n="v10">Men for at være med i aandens store kampe.</l>
+          <l n="v11">Om aldrig end til hende nogen mand har beilet,</l>
+          <l n="v12">Er hendes liv dog ei som daarernes forfeilet.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1736">
+        <head>Dyb sæd</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Senest det spirer som dybest er saaet.</l>
+          <l n="v2">Videnskabssæden, som døgnet ei agter,</l>
+          <l n="v3">Spirer tidt først, naar et sekel er gaaet,</l>
+          <l n="v4">Kjæmper sig frem gjennem fordommens magter,</l>
+          <l n="v5">Bryder sig vei gjennem dogmernes tæle,</l>
+          <l n="v6">Sprænger selv klippen, hvor kirken er grundet</l>
+          <l n="v7">Kaster sit frø i de spærrede sjæle,</l>
+          <l n="v8">Spirer og vokser, til folket er vundet.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1737">
+        <head>De rette patroner</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det gjælder at vælge de rette patroner,</l>
+          <l n="v2">Hagl for harerne, kugle for bjørnene;</l>
+          <l n="v3">Paa spurvene skyder man ei med kanoner</l>
+          <l n="v4">Saalidt som med spurvehagl paa ørnene.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1738">
+        <head>Kjøteren</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han for omkring som lænkehund,</l>
+          <l n="v2">Og overalt han veired kun</l>
+          <l n="v3">En skiden egoisme.</l>
+          <l n="v4">Og haanlig han af andre lo,</l>
+          <l n="v5">Som kunde med begeistring tro</l>
+          <l n="v6">Paa ædel heroisme.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Men ak! et hundeliv det var,</l>
+          <l n="v8">Og lænken ham i kjødet skar,</l>
+          <l n="v9">Misundelsen og naget.</l>
+          <l n="v10">Den bandt ham til hans hundehul,</l>
+          <l n="v11">Hvor arrig han sprang rundt i tul</l>
+          <l n="v12">Om ben, forlængst alt gnaget.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Saalangt, som lænken rakte, for</l>
+          <l n="v14">Han løs paa hver en høvding stor,</l>
+          <l n="v15">Og glæfsed sint og hyled,</l>
+          <l n="v16">Og skjønt han ofte sparket blev,</l>
+          <l n="v17">Han stedse dog sit væsen drev,</l>
+          <l n="v18">Til han blev grundig pryglet.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Da mellem benene han stak</l>
+          <l n="v20">Sin hale og paa maven trak</l>
+          <l n="v21">Sig ind igjen med tuden.</l>
+          <l n="v22">Men naar paa stormænd han fik tæft,</l>
+          <l n="v23">Da brugte han igjen sin kjæft,</l>
+          <l n="v24">Han maatte frem med snuden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1739">
+        <head>Ørn og sangfugl</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det bruser i luften med vingeslag,</l>
+          <l n="v2">Smaafuglene skjælver og tier;</l>
+          <l n="v3">Fra tinden ørnen er dalet idag</l>
+          <l n="v4">Og speider i skovklædte lier.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Hver syngende smaafugl med glædeskvad</l>
+          <l n="v6">Om elskov og fryd i naturen</l>
+          <l n="v7">For ørnen er bare en lækker mad</l>
+          <l n="v8">Til ungerne oppe i uren.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hvad bryder vel ørnen sig om lyrik,</l>
+          <l n="v10">Om hjerternes smaa melodier;</l>
+          <l n="v11">Et høiere syn den fra tinden fik;</l>
+          <l n="v12">Den skriger og sangfuglen tier.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1740">
+        <head>Hereworship – Zeroworship</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvor ugudeligt at ære</l>
+          <l n="v2">Folkets store mænd som guder!</l>
+          <l n="v3">Fy, det er moderne lære,</l>
+          <l n="v4">Som en nedgangs tid bebuder.</l>
+          <l n="v5">Nei, da har vi andre guder,</l>
+          <l n="v6">Som vi dyrke vil og hædre,</l>
+          <l n="v7">slerne i løvehuder,</l>
+          <l n="v8">Samfundsstøtter, byens fædre.</l>
+          <l n="v9">Og vi afskyr “heroworship”</l>
+          <l n="v10">Af vor hele sjæl og styrke,</l>
+          <l n="v11">Og vi priser “Zeroworship”;</l>
+          <l n="v12">Vore nuller vil vi dyrke.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1741">
+        <head>Naturen forandres ikke</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Svinger du satirens svøbe</l>
+          <l n="v2">Mod din dumme, dorske næste,</l>
+          <l n="v3">Vent dog ei, at æsler løbe</l>
+          <l n="v4">Skal som ædle fuldblodsheste!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1742">
+        <head>Prokrustessengen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Et samfund er en Prokrustesseng,</l>
+          <l n="v2">Hvor dværge og kjæmper sammen puttes;</l>
+          <l n="v3">Og loven er ubøielig streng:</l>
+          <l n="v4">“Hver dværg skal strækkes, hver kjæmpe kuttes.”</l>
+          <l n="v5">Men hvis du som sengen er middelmaadig,</l>
+          <l n="v6">Du sover i fred, da loven er naadig.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1743">
+        <head>Tomme møllestene</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der gaar saa mange stene</l>
+          <l n="v2">I samme kreds omkring;</l>
+          <l n="v3">De gaar der ganske ene</l>
+          <l n="v4">Og maler ingenting.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Naar blot de dygtig knirker,</l>
+          <l n="v6">De finder mangen en,</l>
+          <l n="v7">Som tager, hvad de virker,</l>
+          <l n="v8">For brød, skjønt bare sten.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og folk staar der i rækker</l>
+          <l n="v10">Med hunger i sin sjæl,</l>
+          <l n="v11">Gaar hjem med tomme sækker</l>
+          <l n="v12">Og tror, de har faa't mel.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1744">
+        <head>Han kunde, hvis han bare vilde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De mænd, hvis gjerning blev spredt for vinde,</l>
+          <l n="v2">Hvis svage forsæt blev kvalt i fødslen,</l>
+          <l n="v3">Som famled om efter maal iblinde,</l>
+          <l n="v4">Hvis kræfter spildtes i planløs ødslen,</l>
+          <l n="v5">Har dog en trøst, naar det er for silde:</l>
+          <l n="v6">“Jeg kunde godt, hvis jeg bare vilde!”</l>
+          <l n="v7">Hver daad af andre med eftermæle</l>
+          <l n="v8">Er børneværk kun mod de aborter,</l>
+          <l n="v9">Som disse drømmere blot kan kjæle,</l>
+          <l n="v10">Hvem kun paa vilje og lyst det skorter,</l>
+          <l n="v11">Som fra den gravhaug ser ned paa livet,</l>
+          <l n="v12">Hvor pundet ligger, som blev dem givet.</l>
+          <l n="v13">Til denne gravhaug de valfart kræver;</l>
+          <l n="v14">Man knæle ned skal for de talenter,</l>
+          <l n="v15">Som, skjønt begravne, dog endnu lever,</l>
+          <l n="v16">Og som dernede kun endnu venter,</l>
+          <l n="v17">Fordi en værdig arena funden</l>
+          <l n="v18">Er endnu ei for den rige kunnen.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1745">
+        <head>Vulkansk aske funden paa norsk sne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Langt borte fra verdenslivets vulkaner</l>
+          <l n="v2">Vi bygger saa trygt under uskyldssneen;</l>
+          <l n="v3">Naar lavaens ild bryder nye baner,</l>
+          <l n="v4">Da merker vi vel lidt til verdensidéen,</l>
+          <l n="v5">Men kun som lidt aske paa høifjeldsvidden,</l>
+          <l n="v6">Der farver sneen en smule skidden,</l>
+          <l n="v7">Og som en professor pligtskyldig bestemmer</l>
+          <l n="v8">Som noget vulkansk og i samlingen gjemmer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1746">
+        <head>Et ophøiet historisk syn</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar det bølger paa verdens scene,</l>
+          <l n="v2">Sidder alle de fornemme, pene</l>
+          <l n="v3">Gamle, blaserede statskavallerer</l>
+          <l n="v4">I parket med lorgnet og raillerer,</l>
+          <l n="v5">Paastaar, at gadegutter sig dølger</l>
+          <l n="v6">Under det hele og gjør disse bølger</l>
+          <l n="v7">I den ædle hensigt alene</l>
+          <l n="v8">Sig nogle kroner derved at tjene.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1747">
+        <head>Narcis</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du taber dig selv jo i selvforgabelse</l>
+          <l n="v2">om en Narcis over vandspeilet ludende,</l>
+          <l n="v3">Og dog du drømmer om storverkers skabelse,</l>
+          <l n="v4">Dig selv og dit eget billed forgudende.</l>
+          <l n="v5">Nei, lær af aanden, den skabende, levende:</l>
+          <l n="v6">Uhildet den fløi over vandene svævende;</l>
+          <l n="v7">Hans eget billed kom først til anvendelse</l>
+          <l n="v8">Som en model til hans skabnings fuldendelse.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1748">
+        <head>Sandhedsforsker og sandhedsvidne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Skjønt en Galilæi maatte fornegte,</l>
+          <l n="v2">Hans sandhed forbliver dog sand og ægte;</l>
+          <l n="v3">Men vidned med blod end martyrers skarer,</l>
+          <l n="v4">Ei sandhed som sukker med blod man klarer.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1749">
+        <head>Vor næste</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vor næste er superlativ af “nær”;</l>
+          <l n="v2">Dog naar vor næste kompareres</l>
+          <l n="v3">Med eget positive “Jeg”, da er</l>
+          <l n="v4">Jeg bange for, han degraderes.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1750">
+        <head>Sin egen farmor</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar tiden er elektrisk svanger,</l>
+          <l n="v2">Den føder helt, profet og sanger;</l>
+          <l n="v3">Dog mener ofte disse tidens poder,</l>
+          <l n="v4">At de er fader til sin egen moder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1751">
+        <head>Skarn for sten</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">“Den, som vil kaste den første sten,</l>
+          <l n="v2">Selv han maa være rigtig ren!”</l>
+          <l n="v3">Engang blev sagt for længe siden;</l>
+          <l n="v4">Men det passer ei nu for tiden.</l>
+          <l n="v5">Nu for humane vi er til at stene,</l>
+          <l n="v6">Skarn vi kaster, men selv er vi rene.</l>
+          <l n="v7">Derfor er ordet længst antikveret;</l>
+          <l n="v8">Tidens krav har det akkomoderet.</l>
+          <l n="v9">Nu vor sjælesørger juristen</l>
+          <l n="v10">Strengt formaner hver skikkelig kristen:</l>
+          <l n="v11">“Naar du din næste ud vil skjælde,</l>
+          <l n="v12">Vogt dig, min ven, for det kriminelle!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1752">
+        <head>Troskyldig</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Se femaars gut jeg med en haandfuld salt</l>
+          <l n="v2">Stod trofast ventende den halve dag</l>
+          <l n="v3">For spurv at fange;  det var mig fortalt,</l>
+          <l n="v4">At salt jeg kunde strø paa spurvens bag</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Nu atter med en haandfuld salt jeg staar,</l>
+          <l n="v6">Som længe jeg i haanden har holdt gjemt.</l>
+          <l n="v7">Mon jeg de løse fugle nu vel naar?</l>
+          <l n="v8">Ak, saltet er lidt gammelt, det er slemt!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1753">
+        <head>Løven og skjødehunden</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">For at ærgre løven</l>
+          <l n="v2">Ta'r man paa fanget en skjødehund.</l>
+          <l n="v3">Be! den diller med røven</l>
+          <l n="v4">Kjælent den deilige, søde hund!</l>
+          <l n="v5">“Du skal faa dig et broget</l>
+          <l n="v6">Halsbaand, en orden saa nydelig;</l>
+          <l n="v7">Læven faar ikke noget:</l>
+          <l n="v8">Han er saa stor og modbydelig.</l>
+          <l n="v9">Han saa uhøvisk braler,</l>
+          <l n="v10">Gaar der saa hoven og brisker sig,</l>
+          <l n="v11">Som en konge sig føler,</l>
+          <l n="v12">Og med sin hale han pisker mig.”</l>
+          <l n="v13">Skade, at hele tableauet,</l>
+          <l n="v14">Som man har havt saadan møie med,</l>
+          <l n="v15">Udsigt ei har til at naa det</l>
+          <l n="v16">Ædle, ophøiede øiemed.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1754">
+        <head>Pointets naal</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Pointe ligger stedse bent for næsen;</l>
+          <l n="v2">Dog som den fine naal det lumsk sig skjauler;</l>
+          <l n="v3">Det nytter ei at gjøre larm og væsen</l>
+          <l n="v4">Og søge høit og lavt i bjerge og i huler</l>
+          <l n="v5">En naal, som af sig selv kun danser efter</l>
+          <l n="v6">Den skjulte sjælemagnetismes kræfter.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1755">
+        <head>Nødlove</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">“Nød bryder alle love” – det er sandt;</l>
+          <l n="v2">Det bittert følte mangen fattig fant.</l>
+          <l n="v3">Dog “alle love bryder ikke nød”;</l>
+          <l n="v4">Trods alle love mangler mange brød.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1756">
+        <head>Martyriet ingen spekulation</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">At sætte livet ind – ja, det er meget smukt,</l>
+          <l n="v2">Dog ikke som en indsats i hazardens spil</l>
+          <l n="v3">For af en ringe sæd at høste tifold frugt;</l>
+          <l n="v4">Thi da jeg frygter, du dig slemt forregne vil.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1757">
+        <head>Prøv!</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vil du noget naa,</l>
+          <l n="v2">Hæv dig op paa taa!</l>
+          <l n="v3">Stræk din hele krop!</l>
+          <l n="v4">Vov et dristigt hop!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Hvis for lavt du sprang,</l>
+          <l n="v6">Hvis for høit det hang,</l>
+          <l n="v7">Prøv til næste aar,</l>
+          <l n="v8">Om du det formaar!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Om du kom tilkort,</l>
+          <l n="v10">Sæt dig ikke bort</l>
+          <l n="v11">I en krog og stur</l>
+          <l n="v12">Vranten, tvær og sur!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Er du stiv og stør,</l>
+          <l n="v14">Ei saa spræk som før,</l>
+          <l n="v15">Glæd dig ved hvert hop,</l>
+          <l n="v16">Som kan naa derop!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Vandt du selv det ei,</l>
+          <l n="v18">Viste du dog vei</l>
+          <l n="v19">For den kjække gut,</l>
+          <l n="v20">Som kom op tilslut.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1758">
+        <head>Det fjerde bud</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du skal hædre</l>
+          <l n="v2">Dine fædre</l>
+          <l n="v3">Ved langt bedre</l>
+          <l n="v4">Alt at gjøre og langt mere.</l>
+          <l n="v5">Bedst du ærer</l>
+          <l n="v6">Og din lærer,</l>
+          <l n="v7">Som dig kjær er,</l>
+          <l n="v8">Ved ham rent at antikvere.</l>
+          <l n="v9">Hvis bevare</l>
+          <l n="v10">Du vil bare</l>
+          <l n="v11">Og “jurare”</l>
+          <l n="v12">Paa hvad fædre tog for givet</l>
+          <l n="v13">Og ei andet,</l>
+          <l n="v14">Da forbandet</l>
+          <l n="v15">Du i landet</l>
+          <l n="v16">Ei skal have del i livet;</l>
+          <l n="v17">Thi du synder mod det fjerde</l>
+          <l n="v18">Bud da i din børnelære.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1759">
+        <head>Skræddermaalet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Den, der alle med sin alen</l>
+          <l n="v2">Som en ægte skrædder maaler,</l>
+          <l n="v3">Overmaalsmænd aldrig taaler;</l>
+          <l n="v4">Da han bliver sint og galen;</l>
+          <l n="v5">Mod koturner, høie saaler</l>
+          <l n="v6">1 sin vrede høit han skraaler.</l>
+          <l n="v7">Helt forskjellig bliver talen,</l>
+          <l n="v8">Naar han undermaalsmænd maaler,</l>
+          <l n="v9">Sympatetisk da han straaler</l>
+          <l n="v10">Maaler alting, selv sandalen.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1760">
+        <head>Krebsen og den reaktionære</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Med krebsen lignes den reaktionære;</l>
+          <l n="v2">Men krebs er ei saa dum og kan ham læse teksten;</l>
+          <l n="v3">Af krebsen kunde han ialfald lære</l>
+          <l n="v4">At kaste skallerne, som hemmer ham i veksten.</l>
+          <l n="v5">Han siger altid, at det ikke haster,</l>
+          <l n="v6">Blufærdig er han som en liden, snerpet frøken,</l>
+          <l n="v7">Og ser han en, som skallet freidig kaster,</l>
+          <l n="v8">Han skriger: “Fy, den frække fyr, som gaar der nøgen!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1761">
+        <head>Kildegranskeren</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Mange for træerne ei kan se skoven,</l>
+          <l n="v2">Mange for akterne ei kan se loven;</l>
+          <l n="v3">Mange for kilderne under sin roden</l>
+          <l n="v4">Ser ei historiens strømning i floden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1762">
+        <head>Radikal</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det mosgro'de træ har nok af udviklingen,</l>
+          <l n="v2">Vil gjerne i væksten standset faa stiklingen,</l>
+          <l n="v3">Med langstrakte rødder det suge vil næringen</l>
+          <l n="v4">For ganske at standse hos stiklingen gjæringen.</l>
+          <l n="v5">Men dersom stiklingen rødderne breder,</l>
+          <l n="v6">Den er radikal, det fluksens da heder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1763">
+        <head>Hjemkomsthilsen til Bjørnstjerne Bjørnson</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ja, du ved det, ingen elske</l>
+          <l n="v2">Kan dig dog som vi!</l>
+          <l n="v3">Skjønt dernede blandt de vælske</l>
+          <l n="v4">Tankerne er fri,</l>
+          <l n="v5">Elske, elske kan de ikke,</l>
+          <l n="v6">Hvad de ei forstaar;</l>
+          <l n="v7">Elske kan kun vaade blikke,</l>
+          <l n="v8">Hvor et hjerte slaar.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Verdens hjerte, si'r man, banker</l>
+          <l n="v10">Hisset i Paris;</l>
+          <l n="v11">Her de snevre hjerters tanker</l>
+          <l n="v12">Stængtes tidt af is.</l>
+          <l n="v13">Men du var vor store vækker;</l>
+          <l n="v14">Isen stærkt du brød,</l>
+          <l n="v15">Saa de store verdenssnekker</l>
+          <l n="v16">Gjennem raaken flød.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Vaaren kom med bølgens brusen,</l>
+          <l n="v18">Isen seg og veg;</l>
+          <l n="v19">“Aabent vand” fra mange tusen</l>
+          <l n="v20">Jubelrøster steg.</l>
+          <l n="v21">Bjørnson, Bjørnson! du var vaaren!</l>
+          <l n="v22">Vinterlænken brast</l>
+          <l n="v23">Atter lagdes ud med aaren,</l>
+          <l n="v24">Atter reistes mast.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Ja, vi ved, hvad vi dig skylder</l>
+          <l n="v26">For det aabne vand;</l>
+          <l n="v27">Som vor høvding vi dig hylder,</l>
+          <l n="v28">Som vor første mand.</l>
+          <l n="v29">Elsket, elsket du som ingen</l>
+          <l n="v30">Er i dette land;</l>
+          <l n="v31">Thi du havde mod i bringen</l>
+          <l n="v32">Til at være sand.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Og vi følge vil dit mærke,</l>
+          <l n="v34">Sandheds rene flag;</l>
+          <l n="v35">Er vi sande, er vi sterke.</l>
+          <l n="v36">Løgnen kun er svag.</l>
+          <l n="v37">Og ved dette glade gjensyn</l>
+          <l n="v38">Af vor høvding kjær</l>
+          <l n="v39">Lover vi: de fejge hensyn</l>
+          <l n="v40">Fare lar enhver!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v41">Kjærlighedens varme, bunden,</l>
+          <l n="v42">Lue skal da frit;</l>
+          <l n="v43">Hjertet finder vei til munden,</l>
+          <l n="v44">Og det møder dit,</l>
+          <l n="v45">Det er møde, som har evne</l>
+          <l n="v46">Til at bryde vei;</l>
+          <l n="v47">Norske folkets hjertestevne</l>
+          <l n="v48">Stort og rigt med dig.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v49">Ja, du ved det, ingen elske</l>
+          <l n="v50">Kan dig dog som vi;</l>
+          <l n="v51">Skjønt dernede blandt de vælske</l>
+          <l n="v52">Tankerne er fri,</l>
+          <l n="v53">Elske, elske kan kun vi dig,</l>
+          <l n="v54">Vi dig fuldt forstaar,</l>
+          <l n="v55">Vi, kun vi kan høre i dig,</l>
+          <l n="v56">Hvor dit hjerte slaar.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1764">
+        <head>Ved festen for fru Edgren (Hertuginde di Cajanello)</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Før havde vi vore systemer,</l>
+          <l n="v2">Hvert dogme i særskilt rubrik;</l>
+          <l n="v3">Men saa kom de pokkers problemer</l>
+          <l n="v4">Med fri diskussion og kritik.</l>
+          <l n="v5">Og nu blev der ryddet og rodet,</l>
+          <l n="v6">Det var som en rengjøringsdag,</l>
+          <l n="v7">Systemet stod ganske paa ho'det;</l>
+          <l n="v8">Ak ja! “der stod kvinder vist bag”.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Da knurred de gamle pedanter,</l>
+          <l n="v10">De fik ikke sidde i fred,</l>
+          <l n="v11">De støvede, graa folianter,</l>
+          <l n="v12">De ramled fra hylderne ned.</l>
+          <l n="v13">Og der var et svare rabalder,</l>
+          <l n="v14">Man skured med sæbe og lud,</l>
+          <l n="v15">Og nipset fra piedestaller</l>
+          <l n="v16">Faldt ned som filistrenes gud.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Og kvinden med kvindeligheden,</l>
+          <l n="v18">Et nips af et skjørt porcelæn,</l>
+          <l n="v19">Hun faldt, og vort ribben fra Eden</l>
+          <l n="v20">Sprang frem paa selvstændige ben.</l>
+          <l n="v21">Det var nu han “Far sjøl i stua”,</l>
+          <l n="v22">For ham problematisk det blev,</l>
+          <l n="v23">Da sjølve smaafrøkna og frua</l>
+          <l n="v24">Om samfundsproblemerne skrev.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Vi har nu som gjæst her en frue,</l>
+          <l n="v26">Som skrevet har saa, at vi mænd</l>
+          <l n="v27">For slig konkurrence maa grue</l>
+          <l n="v28">Og sænke ærbødig vor pen.</l>
+          <l n="v29">Men skjønt vi jo føler os slagne,</l>
+          <l n="v30">Vi elsker dog den, som os slog,</l>
+          <l n="v31">Og naar vi til fange er tagne,</l>
+          <l n="v32">Det hjerterne var, som hun tog.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Gid længe hun leve og skrive!</l>
+          <l n="v34">Vi tømmer for hende et glas!</l>
+          <l n="v35">Fru Edgren vi gjerne vil give</l>
+          <l n="v36">I høisædet dronningens plas.</l>
+          <l n="v37">Hun skildret os mænd har og kvinder,</l>
+          <l n="v38">Saa vore skavanker vi ser;</l>
+          <l n="v39">Dog selv om vi trufne os finder</l>
+          <l n="v40">Vi stedse dog raaber paa “mer”.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1765">
+        <head>Superfint</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Dette kolde, dette sleipe,</l>
+          <l n="v2">Dette slimede og klamme,</l>
+          <l n="v3">Som kun hvæse kan og jeipe</l>
+          <l n="v4">Til enhver begeistrings flamme;</l>
+          <l n="v5">Men som frem i verden snor sig</l>
+          <l n="v6">Ved at krybe paa sin mave,</l>
+          <l n="v7">Og naar frem det kommer, kror sig</l>
+          <l n="v8">Som en liden vigtig pave, –</l>
+          <l n="v9">Dette ækle, smaa reptilie</l>
+          <l n="v10">Lægger æg i ørkensandet,</l>
+          <l n="v11">Og det har en stor familie,</l>
+          <l n="v12">Som vil herske her i landet;</l>
+          <l n="v13">Og det giver sig en mine,</l>
+          <l n="v14">Som om dette kolde, klamme</l>
+          <l n="v15">Var det ægte superfine</l>
+          <l n="v16">Gode selskabs ædle stamme.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1766">
+        <head>Farvel til Sophus Lie</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I videnskaben, som bekjendt,</l>
+          <l n="v2">Er indført republiken,</l>
+          <l n="v3">Og som livsvarig præsident</l>
+          <l n="v4">Er valgt mathematiken;</l>
+          <l n="v5">Thi ingen er som den saa ren,</l>
+          <l n="v6">Ufeilbår i sin slutning,</l>
+          <l n="v7">Den er jo lutter skind og ben</l>
+          <l n="v8">Og taaler ingen prutning.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Den tænker ei paa nytten, som</l>
+          <l n="v10">Dens theori leverer;</l>
+          <l n="v11">Som eremit i cellen from</l>
+          <l n="v12">Den ensom spekulerer.</l>
+          <l n="v13">Den drives kun af sandhedstørst,</l>
+          <l n="v14">Og den har skjulte kræfter,</l>
+          <l n="v15">Jaa ofte nytten sees først</l>
+          <l n="v16">Et tusind aar derefter.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Den taler i sit eget maal,</l>
+          <l n="v18">Som faa kun læser, skriver;</l>
+          <l n="v19">Et Volapyk for Per og Paal</l>
+          <l n="v20">Dens maal nok aldrig bliver.</l>
+          <l n="v21">Vor Sophus Lie en dialekt</l>
+          <l n="v22">Af dette maal studerer,</l>
+          <l n="v23">Som kun to, tre i denne slægt</l>
+          <l n="v24">Med møie dechiffrerer.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Men Sophus Lie, han taler og</l>
+          <l n="v26">Et maal, som alle kjender;</l>
+          <l n="v27">Det er det varme hjertes sprog,</l>
+          <l n="v28">Som vandt ham gode venner.</l>
+          <l n="v29">Det Völapyk nok skjønner man</l>
+          <l n="v30">I alle verdens byer,</l>
+          <l n="v31">Selv hver, som ei forstaar et gran</l>
+          <l n="v32">Af X'er og af Y'er.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Nu Sophus Lie til Leipzig drar</l>
+          <l n="v34">Og nye venner vinder;</l>
+          <l n="v35">Men gamle venner her han har,</l>
+          <l n="v36">Som der han aldrig finder.</l>
+          <l n="v37">Han kommer nok engang igjen,</l>
+          <l n="v38">Naar efter hjemmet veen</l>
+          <l n="v39">Stærkt vaagner hos vor gamle ven.</l>
+          <l n="v40">Leb' wohl, auf Wiedersehen!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1767">
+        <head>Til Frithjof Nansen efter fuldført Grønlandsfærd</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du lod dig ikke skræmme</l>
+          <l n="v2">Af uglers hæse skrig,</l>
+          <l n="v3">Som tuded: “Bliv her hjemme!</l>
+          <l n="v4">Derude lugter lig!”</l>
+          <l n="v5">Du trodsed frænders taarer</l>
+          <l n="v6">Og venners vise raad;</l>
+          <l n="v7">Kjækt greb du dine aarer</l>
+          <l n="v8">Og satte ud din baad.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Du kjæmpede med baaden</l>
+          <l n="v10">Mod isens stærke strøm;</l>
+          <l n="v11">Du vilde løse gaaden,</l>
+          <l n="v12">Det var din ungdoms drøm.</l>
+          <l n="v13">Ja ungdomsdrømmens længsel</l>
+          <l n="v14">Den maa mod strømmen gaa</l>
+          <l n="v15">Og gjennem isens stængsel</l>
+          <l n="v16">Sig ind til maalet slaa.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Du kjæmped og du seired</l>
+          <l n="v18">Paa ægte høvdingvis,</l>
+          <l n="v19">Og som erobrer leired</l>
+          <l n="v20">Du dig paa Gønlands is.</l>
+          <l n="v21">En Frithjofsagas runer</l>
+          <l n="v22">Du skrev i evig Bræ;</l>
+          <l n="v23">Det digt af tidens luner</l>
+          <l n="v24">Vil nok homerisk le.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Og vi, som ikke evned</l>
+          <l n="v26">At gjøre noget stort,</l>
+          <l n="v27">Os er beundring levnet</l>
+          <l n="v28">For det, som du har gjort.</l>
+          <l n="v29">Ja, Gudskelov, vi eier</l>
+          <l n="v30">Dog hjerter, som kan slaa</l>
+          <l n="v31">For heltes kamp og seier,</l>
+          <l n="v32">Selv om vi selv er smaa.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1768">
+        <head>Weisse's minde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">De sad ved dine fødder</l>
+          <l n="v2">Og lytted til din røst,</l>
+          <l n="v3">Og ordets sæd slog rødder</l>
+          <l n="v4">Og loved gylden høst.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Med dine hænder fulde</l>
+          <l n="v6">Af spiredygtig sæd,</l>
+          <l n="v7">Før høsten kom, du skulde</l>
+          <l n="v8">Paa agren segne ned.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Men alle disse sjæle,</l>
+          <l n="v10">Som du har saaet til,</l>
+          <l n="v11">De er dit eftermæle,</l>
+          <l n="v12">Som stedse vokse vil.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">I barnesjæle bløde</l>
+          <l n="v14">Du vaarsæd strøet har,</l>
+          <l n="v15">En kjærlighedens grøde</l>
+          <l n="v16">Sin sædemand den bar.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Af dine skolepoger</l>
+          <l n="v18">Blev mange flinke mænd</l>
+          <l n="v19">Og fandt som filologer</l>
+          <l n="v20">Med jubel dig igjen.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Din røst saa dyb og mægtig</l>
+          <l n="v22">I sjælen atter lød,</l>
+          <l n="v23">Og sæden fuld og vægtig</l>
+          <l n="v24">Faldt ned i furens skjød.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Forstummet nu er røsten,</l>
+          <l n="v26">Ei saaes mer din sæd;</l>
+          <l n="v27">Men du skal faa for høsten</l>
+          <l n="v28">Vor tak og kjærlighed.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1769">
+        <head>Olav Skavland</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hans arbeide var ikke spildt,</l>
+          <l n="v2">Om det ei færdigt blev;</l>
+          <l n="v3">Det spire vil og gro saa stilt,</l>
+          <l n="v4">Det ord, han talte, skrev.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Hvert ord af ham var sigtet frø,</l>
+          <l n="v6">Med sandhedsansvar saa'd;</l>
+          <l n="v7">Og saadan sæd kan ikke dø;</l>
+          <l n="v8">Thi den har hjerter naa'd.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Mangt ord er kun den tomme ham,</l>
+          <l n="v10">Den hule skal og lægn;</l>
+          <l n="v11">Det skyder frem med brask og bram</l>
+          <l n="v12">og lever kun et døgn.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Og mangen blev en gammel mand,</l>
+          <l n="v14">Som aldrig levet har,</l>
+          <l n="v15">Hvis gjerning skrevet blev i sand</l>
+          <l n="v16">Og straks udslettet var.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Sørg ei, fordi hans liv blev kort!</l>
+          <l n="v18">Det er ei uden spor;</l>
+          <l n="v19">Det arbeide, som han har gjort,</l>
+          <l n="v20">Er sæd i dybe jord.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Sin korte livstraad knytted han</l>
+          <l n="v22">Til Holbergs, lang og stærk;</l>
+          <l n="v23">Skjønt døde han som Wergeland,</l>
+          <l n="v24">Før færdigt var hans verk.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1770">
+        <head>Nils Hansen Steen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Saa mange hoder dukker op</l>
+          <l n="v2">Af mindets taagehav,</l>
+          <l n="v3">De løftes høit paa bølgens top</l>
+          <l n="v4">Og synker i dens grav.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Mest er det barnehoder smaa,</l>
+          <l n="v6">De hilser med et nik;</l>
+          <l n="v7">Som voksne jeg dem aldrig saa,</l>
+          <l n="v8">Vi skilte veie gik.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Nils Hansen Steen jeg mindes dig</l>
+          <l n="v10">Med bløde barnetræk,</l>
+          <l n="v11">For siden vi paa hver vor vei</l>
+          <l n="v12">Kom fra hinanden væk.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Du gik tilsjøs, jeg blev student,</l>
+          <l n="v14">Jeg følte mig som kar';</l>
+          <l n="v15">I aandens rige, som bekjendt,</l>
+          <l n="v16">Studenten herre var.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Mit Navn i tale og i skrift</l>
+          <l n="v18">Jeg drømte mig paa prent;</l>
+          <l n="v19">Det var den eneste bedrift,</l>
+          <l n="v20">Som høved en student.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Mit liv blev bare drøm om daad,</l>
+          <l n="v22">Dit liv blev daad, ei drøm;</l>
+          <l n="v23">Man drømmer ei i aaben baad</l>
+          <l n="v24">Mod storm og brændings strøm.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Paa skolebænken var du schak,</l>
+          <l n="v26">I livet nummer en.</l>
+          <l n="v27">Min barndomsven, farvel og tak,</l>
+          <l n="v28">Min helt, Nils Hansen Steen!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1771">
+        <head>Sløidvise til sløidkongen Salomon</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I gamle, gode dage</l>
+          <l n="v2">Man havde nærveret,</l>
+          <l n="v3">Ret til sig ret at tage</l>
+          <l n="v4">Med næven ret og slet.</l>
+          <l n="v5">Med øksen da i høiden</l>
+          <l n="v6">Man kløved næstens skolt;</l>
+          <l n="v7">Det var den enda sløiden,</l>
+          <l n="v8">Man da for nobel holdt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Før pleiede man haanden,</l>
+          <l n="v10">Saa den var blød og fin,</l>
+          <l n="v11">Og dyrkede kun aanden</l>
+          <l n="v12">Med græsk og med latin;</l>
+          <l n="v13">Paa skolen man i høiden</l>
+          <l n="v14">I pult og bænke skar:</l>
+          <l n="v15">Det var den enda sløiden,</l>
+          <l n="v16">Som skolemæssig var.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">De nye tider kræver</l>
+          <l n="v18">Et andet levesæt:</l>
+          <l n="v19">For næven, ei med næver</l>
+          <l n="v20">De kræver næveret.</l>
+          <l n="v21">Hvo være vil paa høiden</l>
+          <l n="v22">Med denne nye tid,</l>
+          <l n="v23">Han maa nok dyrke sløiden</l>
+          <l n="v24">Paa andet sæt med flid.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Og hver, som bane bryder</l>
+          <l n="v26">For nævens ret, for sløid,</l>
+          <l n="v27">vi trofast næven byder</l>
+          <l n="v28">Og hilser ham med frøid;</l>
+          <l n="v29">Og øverst op paa høiden</l>
+          <l n="v30">Brød bane Salomon</l>
+          <l n="v31">Som konge over sløiden</l>
+          <l n="v32">Med øksen i sin haand.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Og for at se hans skatte</l>
+          <l n="v34">Kom folk fra fjerne land,</l>
+          <l n="v35">Sig ved hans fødder satte</l>
+          <l n="v36">Som lærling, kvinde, mand.</l>
+          <l n="v37">Hans sesam, det er sløiden,</l>
+          <l n="v38">Som hjerter aabne kan;</l>
+          <l n="v39">Hæv glasset da i høiden</l>
+          <l n="v40">Med hurra! leve han!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1772">
+        <head>Til fru Sars</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Børnene spredes som blomsterstøvet</l>
+          <l n="v2">Viden i verden for vaarlige vinde,</l>
+          <l n="v3">Og de ensomme gamle som løvet</l>
+          <l n="v4">Sidder igjen med det høstlige minde.</l>
+          <l n="v5">Det er naturens hellige lov,</l>
+          <l n="v6">Blomster paa mark og træet i skov,</l>
+          <l n="v7">Store og smaa</l>
+          <l n="v8">Lyde den maa.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Lykkelig prise vi maa da den gamle,</l>
+          <l n="v10">Som i sin høst endnu vaarfrisk og grøn er,</l>
+          <l n="v11">Som under bugnende løvtag kan samle</l>
+          <l n="v12">Børnenes blomsterflok, døtre og sønner,</l>
+          <l n="v13">Der ikke spredes for veir og vind,</l>
+          <l n="v14">Sønner, som ridsed i stamtræet ind</l>
+          <l n="v15">Navntrækket Sars</l>
+          <l n="v16">Tæt ved sin fars.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Døtre, som synger i træets grene,</l>
+          <l n="v18">Flyver derhen fra den hjemlige rede,</l>
+          <l n="v19">Og hun, som aldrig mor la'r alene,</l>
+          <l n="v20">Hun, som er hjemmets hygge og glæde,</l>
+          <l n="v21">Alle idag de samles om mor,</l>
+          <l n="v22">Hilser og hylder alle i kor!</l>
+          <l n="v23">“Løvet er grønt,</l>
+          <l n="v24">Livet er skjønt!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1773">
+        <head>Til lærerinderne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vi ved jo, at i hver en sag</l>
+          <l n="v2">Man spør: Où est la femme?</l>
+          <l n="v3">Og ofte i vort lærerlag</l>
+          <l n="v4">Vi spurgt har om det samme.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Vi ved, at der staar kvinder bag</l>
+          <l n="v6">Forbrydere og helte,</l>
+          <l n="v7">Men kvinden, hun var fin og svag,</l>
+          <l n="v8">Og holdt sig helst i telte.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Og naar der gjordes noget stort,</l>
+          <l n="v10">Tog hele æren manden,</l>
+          <l n="v11">Og blev en kjæltringsstreg der gjort,</l>
+          <l n="v12">Fik kvinden skyld – og fanden.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Men kvinderne tilsidst blev kjed</l>
+          <l n="v14">Af sligt uærligt skifte;</l>
+          <l n="v15">De vilde ogsaa være med,</l>
+          <l n="v16">Selv om de ei var gifte.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">De løfted fligen paa sit telt</l>
+          <l n="v18">Og ud mod vidden længtes.</l>
+          <l n="v19">De saa et vidstrakt arbeidsfelt,</l>
+          <l n="v20">Hvor alle kræfter trængtes.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Og naar nu i hver ædel sag</l>
+          <l n="v22">Man spør: Où est la femme,</l>
+          <l n="v23">Da staar hun ikke længer bag,</l>
+          <l n="v24">Men holder kjækt sig framme.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Hun slaar et slag i livets kamp</l>
+          <l n="v26">Og møder alle farer</l>
+          <l n="v27">Og trodser endog røg og damp</l>
+          <l n="v28">Af herrernes cigarer.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Velkommen kvinder i vor kreds</l>
+          <l n="v30">Som gode kammerater,</l>
+          <l n="v31">Gid I maa finde jer tilfreds</l>
+          <l n="v32">Trods tobaksrøgens krater!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1774">
+        <head>Ved adskedsfesten for en ældre lærerinde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Mod høsten lider det, og dagen hælder,</l>
+          <l n="v2">Og blad for blad det trætte træ snart fælder,</l>
+          <l n="v3">Og vi, ak! vi og ældes,</l>
+          <l n="v4">Vor høst, den kommer snart,</l>
+          <l n="v5">Og blad for blad vi fældes,</l>
+          <l n="v6">Og træet staar der bart.</l>
+          <l n="v7">Havt vi har dog vor vaar og sommer,</l>
+          <l n="v8">Og hvert aar nye skud der kommer,</l>
+          <l n="v9">Nye skud!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v10">Hvert fældet blad, som maatte os forlade,</l>
+          <l n="v11">Skal feires her som vore mindeblade.</l>
+          <l n="v12">Om vinden end dem spreder,</l>
+          <l n="v13">Vort minde samler dem</l>
+          <l n="v14">Og kjærlig om dem freder,</l>
+          <l n="v15">Og tager tidt dem frem,</l>
+          <l n="v16">Løvfaldsblad fra de gamle gjemmer,</l>
+          <l n="v17">Minde om hende, man ei glemmer,</l>
+          <l n="v18">Løvfalds blad!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v19">En stille gjerning uden eftermæle,</l>
+          <l n="v20">Og dog med kjærligt spor i barnesjæle</l>
+          <l n="v21">Det var den ædle kvindes,</l>
+          <l n="v22">Som er vor hædersgjæst,</l>
+          <l n="v23">Og derfor skal hun mindes</l>
+          <l n="v24">Til hverdags og ved fest.</l>
+          <l n="v25">Hendes skaal, fred og aftenhvile!</l>
+          <l n="v26">Farverigt høstens solfald smile</l>
+          <l n="v27">Aftenfred!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1775">
+        <head>Ved festen for professor J. E. Sars</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vi feire vil et kranselag,</l>
+          <l n="v2">For bygningen er færdig;</l>
+          <l n="v3">Fra taget vaier høit vort flag;</l>
+          <l n="v4">Den er sin mester værdig.</l>
+          <l n="v5">Der baaret blev saa mangen bør</l>
+          <l n="v6">Af sten og kalk og mursand tør;</l>
+          <l n="v7">Vor mester gav sig dog ei, før</l>
+          <l n="v8">Det fuldbragt var ihærdig.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Nu kan vi se den hele plan</l>
+          <l n="v10">I denne store bygning;</l>
+          <l n="v11">Hver mindste del beundre kan</l>
+          <l n="v12">Vi i dens fine skygning.</l>
+          <l n="v13">Al sten, al kalk, alt sand, alt dødt</l>
+          <l n="v14">Ved mesterhaand til liv er født,</l>
+          <l n="v15">Og fulgt er planen staut og støt</l>
+          <l n="v16">Foruden baut og rygning.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Og huset skal de lade staa,</l>
+          <l n="v18">Det staar paa Norges klipper;</l>
+          <l n="v19">Om tidens bølger end vil slaa</l>
+          <l n="v20">Mod grunden, ei den glipper.</l>
+          <l n="v21">Det som et fyrtaarn rager op</l>
+          <l n="v22">Med varsel over bølgetop</l>
+          <l n="v23">Og vinker “frem”! og blinker “stop”!</l>
+          <l n="v24">Naar alle mærker slipper.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Jaa vil vi si's Ernst Sars vor tak</l>
+          <l n="v26">For alt, hvad vi ham skylder;</l>
+          <l n="v27">Men ei ved taler, sang og snak</l>
+          <l n="v28">Vi bedst vor mester hylder.</l>
+          <l n="v29">Paa Norges fjeld din “udsigt” skal</l>
+          <l n="v30">Høit kneise som en mindehal,</l>
+          <l n="v31">Der maner med et alvorskald</l>
+          <l n="v32">I nuets larm og mylder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1776">
+        <head>Et navnetræk som en guirlande til festen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Et navn, et navn, der som et løsen klinger</l>
+          <l n="v2">Og samler folket om den fælles sag,</l>
+          <l n="v3">Et navn, et navn, der er, som naar man svinger</l>
+          <l n="v4">Og vifter høit det rene, norske flag:</l>
+          <l n="v5">Et saadant navn af tvende her jo bæres,</l>
+          <l n="v6">Ernst Sars og Bjørnson, dette tvillingpar,</l>
+          <l n="v7">Og naar Ernst Sars i kvæld af os nu æres,</l>
+          <l n="v8">Det Bjønson er, som først ham feiret har.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det er saa skjønt at se, naar store navne</l>
+          <l n="v10">Kan smelte sammen i ét navnetræk</l>
+          <l n="v11">Som ædle hjerter, der sin bror kan favne</l>
+          <l n="v12">Og ikke avindssyg ham støder væk.</l>
+          <l n="v13">Et navn kan samle, og et navn kan skille,</l>
+          <l n="v14">De store navne burde samle blot,</l>
+          <l n="v15">For skille, det kan selv et bitte lille,</l>
+          <l n="v16">Men samlingsevnen høvdinger har faat.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Et navn, det bør som samlingsløsen klinge</l>
+          <l n="v18">Ej om et Jeg, men om en fælles sag,</l>
+          <l n="v19">Og værd faar navne, om end nok saa ringe,</l>
+          <l n="v20">Naar de kan samles under fælles flag.</l>
+          <l n="v21">Saa lad os alle, smaa og store navne</l>
+          <l n="v22">Da enes om et fælles navnetræk,</l>
+          <l n="v23">Der i guirlander fælles sag kan favne</l>
+          <l n="v24">Og værne den med hjerters rosenhæk.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Og fælles sag – vi ved jo, hvad det gjælder;</l>
+          <l n="v26">Vor fælles sag, det er vor fælles mor:</l>
+          <l n="v27">Sit eget hus selvstændig helst hun steller,</l>
+          <l n="v28">Og hun vil raade for sin egen jord.</l>
+          <l n="v29">Ernst Sars og Bjørnson, I var gjæve sønner,</l>
+          <l n="v30">I for jer mor har hævdet hendes ret;</l>
+          <l n="v31">De norske hjem skal ei bli husmandsrønner,</l>
+          <l n="v32">Der alle vore navne staar som ét.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1777">
+        <head>Til Fridthjof Nansen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hvor ingen før har gaaet,</l>
+          <l n="v2">Fram skal du freidig gaa,</l>
+          <l n="v3">Og maal, af ingen naaet,</l>
+          <l n="v4">Dn friste skal at naa.</l>
+          <l n="v5">En uløst gaades kammer,</l>
+          <l n="v6">Hvis port af is er stængt,</l>
+          <l n="v7">Din baug skal som en hammer</l>
+          <l n="v8">For første gang faa sprængt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Saamange kjække helte,</l>
+          <l n="v10">Som prøved dette værk,</l>
+          <l n="v11">De kom igjen og meldte,</l>
+          <l n="v12">At porten var for stærk.</l>
+          <l n="v13">Og der var dem, som vendte</l>
+          <l n="v14">Jo aldrig mer igjen;</l>
+          <l n="v15">Men skjønt sit liv de endte</l>
+          <l n="v16">Som sagas store mænd.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Forgjæves kjæmper guder</l>
+          <l n="v18">Mod tidens stærke strøm</l>
+          <l n="v19">Som skrøbelige skuder,</l>
+          <l n="v20">Hvis daad blir kun en drøm.</l>
+          <l n="v21">Men den, som strømmen bruger</l>
+          <l n="v22">Og som dens drift forstaar,</l>
+          <l n="v23">Ham strømmen ikke sluger,</l>
+          <l n="v24">Sit maal tilsidst han naar.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">“Fram”, seil da frisk med troen</l>
+          <l n="v26">Paa frie fremskridts sag,</l>
+          <l n="v27">Og kast kun freidig broen</l>
+          <l n="v28">Til alt, som ligger bag.</l>
+          <l n="v29">Bryd porten op til polen</l>
+          <l n="v30">Og hæv den skjulte skat,</l>
+          <l n="v31">Og kom igjen som solen</l>
+          <l n="v32">Fra havets mørke nat!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1778">
+        <head>Til festen for Eivind Astrup</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Vort land, vort land, vor kjære mor!</l>
+          <l n="v2">Dit gamle hjerte banker</l>
+          <l n="v3">Hvergang en søn i viking for</l>
+          <l n="v4">Med stærke stordaadstanker.</l>
+          <l n="v5">Da mindes du din ungdoms vaar,</l>
+          <l n="v6">Din Leif og Erik Røde,</l>
+          <l n="v7">Og op af haugen atter staar</l>
+          <l n="v8">Din sagatid, den døde.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Hil hver en søn, som stolt og glad</l>
+          <l n="v10">Sin gamle mor kan gjøre,</l>
+          <l n="v11">Som navnet til hver verdensstad</l>
+          <l n="v12">Vidtspurgt og stort kan fore,</l>
+          <l n="v13">Et drapa har han faa't til løn,</l>
+          <l n="v14">Det skjønneste blandt alle,</l>
+          <l n="v15">Af gamle mor: “min søn, min søn</l>
+          <l n="v16">Stolt kan jeg Eivind kalde!”</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Og hver en søster, hver en bror</l>
+          <l n="v18">Vil dette kvad istemme:</l>
+          <l n="v19">“Du stolt har gjort vor fælles mor.</l>
+          <l n="v20">Det skal vi aldrig glemme!”</l>
+          <l n="v21">Og alle vi, som aldrig gjort</l>
+          <l n="v22">En daad har, værdt at nævne,</l>
+          <l n="v23">Bæundre vil alt skjønt og stort,</l>
+          <l n="v24">Gjort af en større evne.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Hil Eivind Astrup! ja, du var</l>
+          <l n="v26">En ægte lykkens yndling;</l>
+          <l n="v27">Du reiste bort fra mor og far,</l>
+          <l n="v28">Da endnu du var myndling.</l>
+          <l n="v29">Og som en mand kom dau igjen,</l>
+          <l n="v30">Hvem mænd og kvinder priser,</l>
+          <l n="v31">Hvem som et mønster unge mænd</l>
+          <l n="v32">Hinanden stolte viser.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1779">
+        <head>Ved en fest for Bjørnstjerne Bjørnson</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">En plads staar tom ved festen,</l>
+          <l n="v2">Som ingen fylde kan;</l>
+          <l n="v3">Vi savner æresgjæsten,</l>
+          <l n="v4">Vor første, største mand.</l>
+          <l n="v5">Og det vi føler alle,</l>
+          <l n="v6">Hvor tomt det da maa bli;</l>
+          <l n="v7">Vi kan det gjerne kalde</l>
+          <l n="v8">En “horror vacui”.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Det høisæde, han fylder,</l>
+          <l n="v10">Vor høvding stor og bred,</l>
+          <l n="v11">Som hele hirden hylder</l>
+          <l n="v12">Med tak og kjærlighed, –</l>
+          <l n="v13">Hvem kan vel fylde dette,</l>
+          <l n="v14">Naar han det har forladt?</l>
+          <l n="v15">Hvem tor vel der sig sætte,</l>
+          <l n="v16">Hvor han sig før har sat?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Hvor tyst det blir i hallen</l>
+          <l n="v18">Ved hirdens lange bord,</l>
+          <l n="v19">Naar ikke høvdingskjalden</l>
+          <l n="v20">Den fylder med sit ord!</l>
+          <l n="v21">Og det skal alle sande,</l>
+          <l n="v22">Selv værste avindsmand,</l>
+          <l n="v23">Hvor tyst det blir i landet,</l>
+          <l n="v24">Naar vandret bort er han.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Men Gudskelov! end lyder</l>
+          <l n="v26">Hans stærke hævdingrost;</l>
+          <l n="v27">Som bjarkemaal den bryder</l>
+          <l n="v28">Med solen frem i ost.</l>
+          <l n="v29">Skjønt her staar tomt hans sæde,</l>
+          <l n="v30">Som høvding fylder han,</l>
+          <l n="v31">Den store, høie, brede,</l>
+          <l n="v32">Høisædet i vort land.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v33">Og end han trods de seksti</l>
+          <l n="v34">Er lutter fyr og krud,</l>
+          <l n="v35">Og der er marg og vækst i</l>
+          <l n="v36">Den stærke stammes skud.</l>
+          <l n="v37">En herlig eftersommer</l>
+          <l n="v38">Vi ønsker ham ikvæld</l>
+          <l n="v39">Med saft og kraft, som flommer</l>
+          <l n="v40">I sangens tonevæld.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1780">
+        <head>Hilsen til Nansens nyfødte liv</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">God morgen, lille væsen,</l>
+          <l n="v2">om nys har stukket næsen</l>
+          <l n="v3">I denne verden frem.</l>
+          <l n="v4">I verden hersker kulde,</l>
+          <l n="v5">Men varmt har lille tulle</l>
+          <l n="v6">Det i sit lune hjem.</l>
+          <l n="v7">Gid kjærlighedens arme</l>
+          <l n="v8">Dig stedse lunt maa varme</l>
+          <l n="v9">I verdens kulde slem!</l>
+          <l n="v10">Gid du paa mor maa slægte,</l>
+          <l n="v11">Gid du maa faa til ægte</l>
+          <l n="v12">En mand, som ligner “ham”!</l>
+          <l n="v13">Da angre skal du ikke,</l>
+          <l n="v14">At du fik næsen stikke</l>
+          <l n="v15">I denne verden “fram”.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1781">
+        <head>Farvel til nordpolsfarerne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du norske mand, farvel, farvel!</l>
+          <l n="v2">Mor Norge vil dig trykke</l>
+          <l n="v3">Ind til sit hjerte tæt ikvæld</l>
+          <l n="v4">Og ønske dig tillykke!</l>
+          <l n="v5">“Tillykke”! om end taarer vil</l>
+          <l n="v6">Sig frem i øiet trænge;</l>
+          <l n="v7">Sin egen gut saa gjæv og gild</l>
+          <l n="v8">Hun savne skal saa længe.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Græd ikke, mor! det er fra dig</l>
+          <l n="v10">Han fik den reiselysten,</l>
+          <l n="v11">Som drev ham ud fra alfarvei,</l>
+          <l n="v12">Fra seilads langs med kysten.</l>
+          <l n="v13">Du pegte mod det aabne hav</l>
+          <l n="v14">Med næset som din finger;</l>
+          <l n="v15">De stærke længsler du ham gav,</l>
+          <l n="v16">De hvide seil som vinger.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Ja, det er dig, du gamle mor,</l>
+          <l n="v18">Som fostred slige gutter,</l>
+          <l n="v19">Og du dig føler stolt og stor,</l>
+          <l n="v20">Naar du i favn dem slutter.</l>
+          <l n="v21">Og glædestaarer fælde vil</l>
+          <l n="v22">Den glade, gamle moren,</l>
+          <l n="v23">Naar atter under sang og spil</l>
+          <l n="v24">“Fram” stævner indad fjorden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1782">
+        <head>Ved et bryllup</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det tindrer og det glitrer nu af glæde;</l>
+          <l n="v2">To unge fugle bygget har sit rede;</l>
+          <l n="v3">De sine vinger strækker</l>
+          <l n="v4">Og søger eget hjem;</l>
+          <l n="v5">Det gamle rede rækker</l>
+          <l n="v6">Ei længer til for dem.</l>
+          <l n="v7">Savn der blir i de gamle reder,</l>
+          <l n="v8">O, hvor tomt blir der efter Eder,</l>
+          <l n="v9">O, hvor tomt!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v10">Dog redet, hvor som unger I har hvilet,</l>
+          <l n="v11">Hvor mor og far og sol omkaps har smilet</l>
+          <l n="v12">Til Eders første kvidder</l>
+          <l n="v13">Og første vingeslag,</l>
+          <l n="v14">Selv paa de største vidder</l>
+          <l n="v15">I glemmer ingen dag.</l>
+          <l n="v16">Mindet vil i det nye rede</l>
+          <l n="v17">Følge med, adle Eders glæde,</l>
+          <l n="v18">Adle den.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v19">Og om du flyver høit end over jorden</l>
+          <l n="v20">Til Himalayas toppe med kondoren,</l>
+          <l n="v21">Langt høiere sig svinger,</l>
+          <l n="v22">Ja selv end en kondor,</l>
+          <l n="v23">Paa sine gamle vinger</l>
+          <l n="v24">Dog mindet af din mor.</l>
+          <l n="v25">Det er med paa de store vidder,</l>
+          <l n="v26">I dit hjem det ved arnen sidder</l>
+          <l n="v27">I dit hjem.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v28">Og dette minde ei jer glæde tynger;</l>
+          <l n="v29">De gamle i de unge sig forynger:</l>
+          <l n="v30">De ser paa jer sig glade,</l>
+          <l n="v31">Og i jert solskin med</l>
+          <l n="v32">Det gamle hjerte bade</l>
+          <l n="v33">Vil al sin kjærlighed.</l>
+          <l n="v34">Far da vel, hvor I end vil fare,</l>
+          <l n="v35">Mindet vil I som børn bevare,</l>
+          <l n="v36">Far da vel! –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1783">
+        <head>Ved festen for Camilla Collett</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Da Norges frihed tog første skridt</l>
+          <l n="v2">Hin dag i Eidsvoldssalen,</l>
+          <l n="v3">Hun havde just lært at gaa saavidt,</l>
+          <l n="v4">Og smaat nok var det med talen.</l>
+          <l n="v5">Et “papa, mama” fik hun frem,</l>
+          <l n="v6">Skjønt “Henrik” end for svært var</l>
+          <l n="v7">Men hun var lydhør, lærenem,</l>
+          <l n="v8">Og sproget hurtig lært var.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">Som sandet rytmisk for buestrøg</l>
+          <l n="v10">Til klangfigurer sig ranker,</l>
+          <l n="v11">Saa sproget smidig i dans sig smøg</l>
+          <l n="v12">Om hendes tungeste tanker.</l>
+          <l n="v13">Ak! tanken den var ofte tung</l>
+          <l n="v14">I vaagne lange nætter;</l>
+          <l n="v15">For fremtidstanken, stærk og ung,</l>
+          <l n="v16">fik kamp med onde vætter.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Hun tog det tungeste, første tag</l>
+          <l n="v18">For kvindesagen heroppe,</l>
+          <l n="v19">Og slog den fast som en fremtidssag,</l>
+          <l n="v20">Som ingen fortid kan stoppe.</l>
+          <l n="v21">Mens Norges mænd gik skridt for skridt</l>
+          <l n="v22">Frem mod selvstændigheden,</l>
+          <l n="v23">Paa egne ben nu staa saavidt</l>
+          <l n="v24">Kan Adams ribben fra Eden.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Skjønt amtmandsdøtre der endnu er,</l>
+          <l n="v26">Og mødre som amtmandinden,</l>
+          <l n="v27">Frem solen bryder med morgenskjær</l>
+          <l n="v28">Hist paa den høieste tinden.</l>
+          <l n="v29">Prinsessen bjerget aaben fandt,</l>
+          <l n="v30">Og sprække snart vil troldet;</l>
+          <l n="v31">I første gry alt solen randt</l>
+          <l n="v32">Med vor Camilla Collett.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1784">
+        <head>Til overlærer K. Knudsen </head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det var i den gamle latinskolegaard,</l>
+          <l n="v2">Som nu er Britannia hotel;</l>
+          <l n="v3">Og siden er gaat snart halvhundre aar,.</l>
+          <l n="v4">Men mindet er friskt likevel.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Vi havde just faat os en lærer ny</l>
+          <l n="v6">I norsk, som faget blev kaldt,</l>
+          <l n="v7">skjønt norsk dengang i vor dannede by</l>
+          <l n="v8">For raat og for simpelt gjaldt.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Jeg husker det første indtryk jeg fik</l>
+          <l n="v10">Han minded mig om en bjørn,</l>
+          <l n="v11">Med lutende hode lidt tungt han gik</l>
+          <l n="v12">Og brummed godmodig til børn.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Men bjørnen, det var et fortryllet dyr;</l>
+          <l n="v14">Da hammen han kasted, jeg minds:</l>
+          <l n="v15">Det gik som i Asbjørnsens eventyr,</l>
+          <l n="v16">Vi fik et glimt af en prins.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">En prins, som var prins i sandhed og aand,</l>
+          <l n="v18">Som elsked sit folk og sit land,</l>
+          <l n="v19">Som vilde løse fra fremmede baand</l>
+          <l n="v20">Dets maal, som var lyst i ban.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Og skjønt jeg som gut fik bare et glimt.</l>
+          <l n="v22">Ei fatted og skatted ham hel,</l>
+          <l n="v23">Det var dog mit første, uklare skimt</l>
+          <l n="v24">Af en ædel, frisindet sjæl.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Og dette glimt som et solstreif kom</l>
+          <l n="v26">I den gamle latinskolegaard,</l>
+          <l n="v27">Hvor man glemte saa tidt for det gamle Rom</l>
+          <l n="v28">Vort eget folk og dets kaar.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Tak, gamle lærer, for hvad du var</l>
+          <l n="v30">For mig som gut og som mand!</l>
+          <l n="v31">Dau var den første, som lært mig har</l>
+          <l n="v32">At elske vort folk og vort land.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1785">
+        <head>Til hende</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Det stille dybe vand, som himlen speiler,</l>
+          <l n="v2">Hvor uden skjulte skjær saa trygt man seiler,</l>
+          <l n="v3">Hvor ingen havfru lokker</l>
+          <l n="v4">Med falske smil om mund,</l>
+          <l n="v5">Hvor løgnens dynd ei rokker</l>
+          <l n="v6">Den faste klippegrund,</l>
+          <l n="v7">Hvor man trygt kan sit anker sænke,</l>
+          <l n="v8">Som man fast kan sin tillid skjænke,</l>
+          <l n="v9">Det er dig.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v10">Paa denne sjø, den stille, dybe, klare,</l>
+          <l n="v11">Det herligt er det hele liv at fare.</l>
+          <l n="v12">Hver dag, som der man farer,</l>
+          <l n="v13">Ny skjønhed der man ser,</l>
+          <l n="v14">Og dybet aabenbarer</l>
+          <l n="v15">Sin rigdom mer og mer.</l>
+          <l n="v16">Perlers skat, ægte, sande, rene,</l>
+          <l n="v17">Fattet ind skjønt af ædle stene,</l>
+          <l n="v18">Det er dig.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v19">Det skjønnest er ved eftersommertider,</l>
+          <l n="v20">Naar solen daler og mod kvæld det lider,</l>
+          <l n="v21">Naar havnen venlig vinker:</l>
+          <l n="v22">“Velkommen til dit hjem!”</l>
+          <l n="v23">Naar løvet gyldent blinker</l>
+          <l n="v24">Med hæstens farvebræm.</l>
+          <l n="v25">Havn og hjem, tro og haab og freden,</l>
+          <l n="v26">Lys og liv, kjærlighed og glæden,</l>
+          <l n="v27">Det er dig.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

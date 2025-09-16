@@ -1,0 +1,1031 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sorg og Hjem: En Historie fortalt i femten Digte</title>
+        <author>Dahl, Niels A.</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">16</measure>
+        <measure unit="lines">899</measure>
+        <measure unit="tokens">4284</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2009021603028">
+          <author>Dahl, Niels A.</author>
+          <title>Sorg og Hjem: En Historie fortalt i femten Digte</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1894</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2009021603028"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p557">
+        <head>Innledningsdikt. Stambogvers til mine Døtre</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du gir mig et Billed tilbage</l>
+          <l n="v2">Af hende, hvis Navn jeg dig gav,</l>
+          <l n="v3">Det lyser i mørknende Dage,</l>
+          <l n="v4">Som leves i Ly af en Grav.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Et Gjenskin det Billed alt eier</l>
+          <l n="v6">Af hendes Forklarelses Glød</l>
+          <l n="v7">Med Løfte om lysende Seier,</l>
+          <l n="v8">Som Livet skal vinde af Død.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Den første Stund, du Lyset saa,</l>
+          <l n="v10">I mine Arme du laa ‒</l>
+          <l n="v11">Siden, da Mørket faldt paa,</l>
+          <l n="v12">I dit Øie jeg Lyset saa.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Det Lys var af din Moder tændt,</l>
+          <l n="v14">Hun bar dig mod Lyset vendt ‒</l>
+          <l n="v15">O vogt det tidlig og sent,</l>
+          <l n="v16">At altid det brænder rent!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">l Hjemmets Lys og Hjemmets Skygge</l>
+          <l n="v18">Du lærte Hjemmet selv at bygge ‒</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v19">Det Hjem, som midt i Verdens Vrimmel</l>
+          <l n="v20">Faar Lys og Skygge fra Guds Himmel</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p558">
+        <head>Lysblind</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Fjernt fra Hjemmet, syd i Solens Land,</l>
+          <l n="v2">Sidder bleg og mørk en blindet Mand,</l>
+          <l n="v3">Lyset skar ham koldt og hvast,</l>
+          <l n="v4">Dybt ‒ som Sjælens Øie brast.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Skjær af Dag, som skinner straalerig,</l>
+          <l n="v6">Blotted blegt og lyst en Kvindes Lig ‒</l>
+          <l n="v7">Vist ved Syn i sidste Bøn</l>
+          <l n="v8">Var hun ble't saa skjær og skjøn!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Vaagen har hun været sidste Stund ‒</l>
+          <l n="v10">Lukket selv sit Øie og sin Mund,</l>
+          <l n="v11">Foldet Hænder, før sin Aand</l>
+          <l n="v12">Fromt hun gav sin Gud i Haand.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Var han vaagen, mens en Haand han tog,</l>
+          <l n="v14">Følte sidste Aaande-Dræt, hun drog,</l>
+          <l n="v15">Saa som Lyn: Hun gaar til Gud,</l>
+          <l n="v16">Hørte haardt: Hun har stridt ud?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Blindet Syn paa sidste Billed holdt,</l>
+          <l n="v18">Døden kom saa mildt, kun Dagslys koldt, ‒</l>
+          <l n="v19">En Ting blot han endnu ser:</l>
+          <l n="v20">Aldrig skal hun lide mer!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Livet gav i Lykken nok af Nød,</l>
+          <l n="v22">Brude-Løftet blot det aldrig brød ‒</l>
+          <l n="v23">Nu blev en Ting alt hans Liv:</l>
+          <l n="v24">“Laa jeg og saa kold og stiv!”</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Mørket endte mildt al fordums Strid,</l>
+          <l n="v26">Helt forbi gik Haabets, Frygtens Tid ‒</l>
+          <l n="v27">Livets Tryk, som før slog ned,</l>
+          <l n="v28">Fik for Dødens Slag ei Sted.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Sløvet Sind var Bind om Saar fra Gud ‒</l>
+          <l n="v30">Aabent vilde Hjertet blødet ud,</l>
+          <l n="v31">Var ble't Sten, hvor Graaden ei</l>
+          <l n="v32">Kunde bryde nogen Vei.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Feber-Ild er dog i Dvalen tændt,</l>
+          <l n="v34">Slappet Nerve-Streng blir overspændt ‒</l>
+          <l n="v35">Noget fjernt og nyt han ser,</l>
+          <l n="v36">Ved blot ikke, hvad det er.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Time følger Time, Nat paa Dag,</l>
+          <l n="v38">Skjærpet Sans blir altid lige svag,</l>
+          <l n="v39">Syn for Lys dog vist ei svandt ‒</l>
+          <l n="v40">Brast der Baand, som Øiet bandt?</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p559">
+        <head>Løftets Guld</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Koldt er Liget lagt i Kiste,</l>
+          <l n="v2">Sidste Syn han nu maa miste,</l>
+          <l n="v3">Laag skal lukkes, men han ser</l>
+          <l n="v4">Glimt, som aldrig glemmes mer.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Ned paa Knæ ved lave Kiste</l>
+          <l n="v6">Blir han brudt; skal Hjertet briste,</l>
+          <l n="v7">Sker det denne Morgenstund ‒</l>
+          <l n="v8">Har den dette Guld i Mund?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Ei han ændser, hvad den volder ‒</l>
+          <l n="v10">Guld i Haanden gjemt han holder,</l>
+          <l n="v11">Løftets Ring med Navn og Tid,</l>
+          <l n="v12">Uden Rift trods tolv Aars Slid.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Fremmed Haand af Finger rykked</l>
+          <l n="v14">Ene Ting, som hende smykked,</l>
+          <l n="v15">Vilde redde Ring af Guld ‒</l>
+          <l n="v16">Hvorfor skulde den bli Muld?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Taus han tog den, alt nan vidste:</l>
+          <l n="v18">Kan paa Jord end al Ting briste -‒</l>
+          <l n="v19">Guld, han gav sin Ungdoms Brud,</l>
+          <l n="v20">Blir af Jorden ei slidt ud;</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Kun maa Ringen atter rækkes,</l>
+          <l n="v22">Haanden over Døds-Skjel strækkes ‒</l>
+          <l n="v23">Sidste Skille, Livet lod,</l>
+          <l n="v24">Ligger nedbrudt for hans Fod.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Villigt rundt om hvide Finger</l>
+          <l n="v26">Guldet rødt og glat sig ringer ‒</l>
+          <l n="v27">Men med Haand i hendes Haand</l>
+          <l n="v28">Blir han heftig rørt i Aand.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Bedste Bæn, han før har bedet,</l>
+          <l n="v30">Havde ham til hende ledet ‒</l>
+          <l n="v31">Nu skal vindes større Sag,</l>
+          <l n="v32">Vil saa Styrken bli som Dag?</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Uden Ord hans Røst sig rører,</l>
+          <l n="v34">Høilydt Himlen Raabet hører:</l>
+          <l n="v35">“Giv mig Gud i denne Nød</l>
+          <l n="v36">Troskabs Naade til min Død!”</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Laag blev lukket, men han vidste:</l>
+          <l n="v38">Hvad end ellers vilde briste,</l>
+          <l n="v39">Hjertet brast ei ‒ Morgenstund</l>
+          <l n="v40">Gjemte bedre Guld i Mund.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p560">
+        <head>Drømme-Svar</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sidste Seng skal vugges over Hav,</l>
+          <l n="v2">Hjemmets Jord maa give hende Grav,</l>
+          <l n="v3">Mindet verne Barnehjem,</l>
+          <l n="v4">Lyst og varmt hun bygged frem.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Hustru var hun helt af Hjertets Lyst,</l>
+          <l n="v6">Rigdoms-Kilden flød til Moderbryst ‒</l>
+          <l n="v7">Gav den ene Haand sit Guld,</l>
+          <l n="v8">Blev den anden mere fuld.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Flok af Smaa-Folk, ængstlig efterladt,</l>
+          <l n="v10">Havde mistet “Mamas mindste Skat” ‒</l>
+          <l n="v11">Varselsfuldt lød første Bud :</l>
+          <l n="v12">“Lille Søster” gik til Gud.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Vemods-Trøst af Sorgen selv blir øst:</l>
+          <l n="v14">Vugge-Barn ei græder moderløst ‒</l>
+          <l n="v15">Stakkels fem, hvis Vei blir vendt</l>
+          <l n="v16">Bort i Mørket, han har kjendt!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Skal han skygge koldt, skjønt Barnesind</l>
+          <l n="v18">Trænger Lys og Sol i Huset ind?</l>
+          <l n="v19">Før sin Vei han hjem faar vendt,</l>
+          <l n="v20">Drøm med Svar der blir ham sendt:</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Som paa Glatte hjem han glider let,</l>
+          <l n="v22">Lange Baner gjør ei Foden træt ‒</l>
+          <l n="v23">Ud for Kirken staar de fem,</l>
+          <l n="v24">Venter paa, han kommer hjem.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Far og Børn gaar ensomt gjennem lang,</l>
+          <l n="v26">Snæver, mørk, i Fjeldet huggen Gang ‒</l>
+          <l n="v27">Haand i Haand og tæt paa Rad</l>
+          <l n="v28">To og to de følges ad.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Bange blir de stakkels Smaa dog ei,</l>
+          <l n="v30">Glade, trygge gaar de trange Vei,</l>
+          <l n="v31">Helt til Rum der aabnes ‒ vidt,</l>
+          <l n="v32">Kirkehvælvet, lyst og frit.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Saa han noget Glimt? Hun er der ei,</l>
+          <l n="v34">Endnu faar han vist en snæver Vei ‒</l>
+          <l n="v35">Under aaben Himmel ud</l>
+          <l n="v36">Kom jo hun, som gik til Gud.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Lys der glimter dog i Mørket ind ‒</l>
+          <l n="v38">Frem mod Kirken først med freidigt Sind!</l>
+          <l n="v39">Veien vil bli vist af Gud,</l>
+          <l n="v40">Drømmen bar hans Varsels-Bud.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p561">
+        <head>Ørken-Mørket</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hjemme ‒ hvor der aldrig mer blir Hjem!</l>
+          <l n="v2">Fremmed Gjæst til eget Hus kom frem ‒</l>
+          <l n="v3">Uden Husret, uden Gjæsteret,</l>
+          <l n="v4">Uden Hvilested, hvor sjæletræt.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Her forstaar han først sin Ensomhed,</l>
+          <l n="v6">Hus og Have skriger ud hvert Sted:</l>
+          <l n="v7">Hvor er Øines Lys og Hjertes Lyst,</l>
+          <l n="v8">Kjender du, hvor tomt det blir i Bryst?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Bitre Drik, som ei af Drøm blev taalt,</l>
+          <l n="v10">Blir til Vaage-Nat i Draaber maalt ‒</l>
+          <l n="v11">Dræbes ondt og dø dog lidet er</l>
+          <l n="v12">Mod at miste Liv og leve mer!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Knuget under Vegt, han ei har vidst,</l>
+          <l n="v14">Kjender han, hvor alt hans Tryk tilsidst</l>
+          <l n="v15">Klemmer Brystet ondt og klippefast ‒</l>
+          <l n="v16">Slipper aldrig, selv om Sorgen brast.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Tryk skal taales! Men det bitre Mod,</l>
+          <l n="v18">Tomme Sjæl ta'r ind til Overflod,</l>
+          <l n="v19">Slaar den sidste Rest af Taalmod ned ‒</l>
+          <l n="v20">Alt blir bare knuget Bitterhed.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Hvor han vender sig  kun Stød og Saar!</l>
+          <l n="v22">Skyldløs Barnesjæl dog dybest slaar,</l>
+          <l n="v23">De, som tog sin Moders Liv og Blod,</l>
+          <l n="v24">Ei en Tæddel om sit Tab forstod!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Høitidsstilt de Største ser paa Far,</l>
+          <l n="v26">Undres ‒ hvor alvorlig han nu var;</l>
+          <l n="v27">Hjertesyg han ser de Mindste to ‒</l>
+          <l n="v28">Hvor de freidig legte, muntert lo!</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">De, han vil alene tale med,</l>
+          <l n="v30">Hører ei det eneste, han ved.</l>
+          <l n="v31">Tungt han tier  kanske første Ord</l>
+          <l n="v32">Kisten kan faa talt om glemte Mor.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Ud han gaar, men drages som med Magt</l>
+          <l n="v34">Uden Ro tilbage ‒ staar paa Vagt,</l>
+          <l n="v35">Naar de nogen anden kommer nær;</l>
+          <l n="v36">Brystet brænder: Ham skal de faa kjær!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Selvsyg Sorg og skinsyg Kjærlighed</l>
+          <l n="v38">Har for Offer-Ild sit Arnested ‒</l>
+          <l n="v39">Faar den gløde skjult i Sjæle-Strid,</l>
+          <l n="v40">Bryder Lys og Varme frem med Tid.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p562">
+        <head>Regn og Sol</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Firti Dage svandt, da svømmer frem</l>
+          <l n="v2">Kostbar Kiste for et fattigt Hjem ‒</l>
+          <l n="v3">Lyd af Vandes Skvulp og Vindes Sus</l>
+          <l n="v4">Sagte bryder sig mod Sorgens Brus.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Mindet aander gjennem lukket Bryst,</l>
+          <l n="v6">Bølger ind med al sin Vemods-Lyst,</l>
+          <l n="v7">Bærer varsomt Fredens Varsels-Bud,</l>
+          <l n="v8">Løser mildt omsider Graaden ud.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Taaren løser Tungen, enkelt Ord</l>
+          <l n="v10">Glider tungt igjennem Mund om Mor ‒</l>
+          <l n="v11">Kistens Gaade kan ei redes ud ‒</l>
+          <l n="v12">Høit i Himmelen hun er hos Gud.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Husets Venner bryder Ensomhed ‒</l>
+          <l n="v14">Glimt i Øiet af Medlidenhed,</l>
+          <l n="v15">Lukte Læbers Pust af Trøstens Aand</l>
+          <l n="v16">Følger Blomsterne, de har i Haand.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Fremmed bryder Fred i hellig Stund,</l>
+          <l n="v18">Aander Kulden ud af aaben Mund,</l>
+          <l n="v19">Presten gjør sin Pligt paa vante Vis ‒</l>
+          <l n="v20">Blomster bæres i Visiters Is.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Hjertet fryser, lukker Dør med Il,</l>
+          <l n="v22">Munden trækker op til bittert Smil,</l>
+          <l n="v23">Smerten skjærer, kan ei holdes ud,</l>
+          <l n="v24">Ene maa han bli med Sorg og Gud!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Kolde, store Stue, Kistens Sted,</l>
+          <l n="v26">Varmer frosne Sjæl og lyser Fred,</l>
+          <l n="v27">Bøier sagte ned paa Knæ til Bøn,</l>
+          <l n="v28">Siger, her er Gud, som ser i Løn.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Der blir Sol ‒ han kalder ind de Smaa,</l>
+          <l n="v30">Taler sagte ‒ som de kan forstaa:</l>
+          <l n="v31">“Mama ser og passer dem i Løn,</l>
+          <l n="v32">Hører, naar de siger Aften-Bøn ‒</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Be'r, de maa bli lydige mod Far,</l>
+          <l n="v34">Snilde med hverandre, som de var.”</l>
+          <l n="v35">Klare Barne-Øines Svar han faar:</l>
+          <l n="v36">Kjærligheden nok de Smaa forstaar.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Dybt i Svaret glimter Spørgsmaal frem:</l>
+          <l n="v38">Har han endog villet faa hos dem ‒</l>
+          <l n="v39">Har han levet for sit eget Liv ‒</l>
+          <l n="v40">Neppe kjendt det Ord: “Ei tag, men giv?”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p563">
+        <head>Blomster paa Blod</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Kisten skal i Jorden gjemmes ‒</l>
+          <l n="v2">Vil dens Vemod atter glemmes,</l>
+          <l n="v3">Vaarbrud bli til Vinter vendt,</l>
+          <l n="v4">Taarens Tid med Blomsters endt?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Sidste Høitids-Stund maa fredes,</l>
+          <l n="v6">Huset hjertevarmt beredes,</l>
+          <l n="v7">Selv han vælger Salmer ud,</l>
+          <l n="v8">Taler med de Smaa om Gud.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Stuens Kirke-Stemning brydes ‒</l>
+          <l n="v10">Travle Ligfærds-Skik maa lydes,</l>
+          <l n="v11">Kostbar Tid vil kastes bort,</l>
+          <l n="v12">Hvis ei Sangen klippes kort.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Tids-Spild faar ei Talen skjære,</l>
+          <l n="v14">Kostbart maa vel Ordet være ‒</l>
+          <l n="v15">Falder let og staar ei fast,</l>
+          <l n="v16">Skjærer koldt, men ikke hvast.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Tomme Ros, som intet vidste ‒</l>
+          <l n="v18">Ei, hvor Liv hun maatte miste,</l>
+          <l n="v19">Ei, hvor haardt hun stred i Løn,</l>
+          <l n="v20">Ei, hvor hun blev skjær og skjøn!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Harmfuld Haand vil ud sig strække,</l>
+          <l n="v22">Efter blege Roser række,</l>
+          <l n="v23">Fremmed Mand ved Kistens Fod</l>
+          <l n="v24">Strør paa hendes røde Blod.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Tungt han vrider sig af Vaanden,</l>
+          <l n="v26">Gaar med ældste Barn ved Haanden</l>
+          <l n="v27">Saar og sky for Følget frem ‒</l>
+          <l n="v28">Hvad vil Folk i Sorgens Hjem?</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Kan ei Huset Kisten bære ‒</l>
+          <l n="v30">Har den Brug for nogen Ære?</l>
+          <l n="v31">Hver, som uden Sorg her kom,</l>
+          <l n="v32">Krænker Sorgens Helligdom!</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Tungt der kastes Jord paa Kisten ‒</l>
+          <l n="v34">Da slaar Ordet Troes-Gnisten</l>
+          <l n="v35">Dybt af haarde Hjerte frem:</l>
+          <l n="v36">Høit i Himlen har han Hjem!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Mens han kaster dybt det sidste</l>
+          <l n="v38">Lange Blik paa kostbar Kiste,</l>
+          <l n="v39">Bryder tætte Taarer ud,</l>
+          <l n="v40">Skjuler alt undtagen Gud.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p564">
+        <head>Kirkegaards-Huset</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Graven er med Kors og Tavle sat,</l>
+          <l n="v2">Fortids-Mindet gjemt i Nutids-Nat ‒</l>
+          <l n="v3">Spændte Fremtids-Tankers Drømme-Spil</l>
+          <l n="v4">Fængsler tungt hver Gang, han vaagne vil.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Skumringsbilled af vemodigt Hjem,</l>
+          <l n="v6">Børn i Moders Aand faar bygget frem,</l>
+          <l n="v7">Sortner snart i Sky, hvis røde Lyn</l>
+          <l n="v8">Lyser Graven op for længre Syn.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hvide Marmors Guld i Lue staar:</l>
+          <l n="v10">“Vær til Døden tro, da Liv du faar” ‒</l>
+          <l n="v11">Løftets Ring, han dyrt den Døde gav,</l>
+          <l n="v12">Lover nyfødt Samliv bag om Grav!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Livet bryder Løfter, Døden ei,</l>
+          <l n="v14">Hver en Længsel ved nu Lykkens Vei ‒</l>
+          <l n="v15">Fyrig Drøm i febervildet Sprang</l>
+          <l n="v16">Sætter over Fjeldets hugne Gang.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Brat han vaagner, nye Lynglimt slog ‒</l>
+          <l n="v18">Drømmen dog et Bind af Øiet tog:</l>
+          <l n="v19">Nyfødt Liv han ser alt her paa Jord,</l>
+          <l n="v20">Læser ud et halvt forstaaet Ord.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">“Herren gav”, det har forlængst han lært,</l>
+          <l n="v22">Stammer nu paa det, som er saa svært.</l>
+          <l n="v23">“Herren tog”  da kom han Gud saa nær,</l>
+          <l n="v24">Underligt: Han faar og Gud saa kjær.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Morgenstund med Elskovs Guld i Favn</l>
+          <l n="v26">Nemmed let at “love Herrens Navn”,</l>
+          <l n="v27">Sorgens Nat har Himmel-Guld faat ned -</l>
+          <l n="v28">“Herrens” egen Ild af Kjærlighed.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Nyfødt Liv arbeider straks med Flid,</l>
+          <l n="v30">Bryder Døds-Skjel ned og jevner Splid ‒</l>
+          <l n="v31">Huset flyttes ind til Kirkegaard,</l>
+          <l n="v32">Nøgne Stue gravhøi-prydet staar.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Gud med Korset kom, hun Tavlen gav,</l>
+          <l n="v34">Dagslys falder ind paa Skriftens Krav:</l>
+          <l n="v35">Tro til Død i Arbeid skal han staa,</l>
+          <l n="v36">Bygge Hjem for Guds og hendes Smaa.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Mindets Solskin, sundt for Barnesind,</l>
+          <l n="v38">Kalder Tavlens klare Navn alt ind ‒</l>
+          <l n="v39">Ensomhed med Gud blir god og kjær,</l>
+          <l n="v40">Hendes Aand vil vist og være nær.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p565">
+        <head>De smaa Børns Hus</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Arbeidsmand for Hus, hvor Børn skal bo,</l>
+          <l n="v2">Sysler sent og tidlig uden Ro,</l>
+          <l n="v3">Passer smaalig, hvert et Gran</l>
+          <l n="v4">Holdes helt som før i Stand.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Arbeids-Byrden bringer Ansigts Sved,</l>
+          <l n="v6">Æder han sit Brød, er Kummer med,</l>
+          <l n="v7">Blir for munter Leg han Bud,</l>
+          <l n="v8">Gaar han skjult og græder ud.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hvile blir det, naar de travle Smaa</l>
+          <l n="v10">Kræver ivrig, Far fortælle maa ‒</l>
+          <l n="v11">Fredens bedste Time slaar,</l>
+          <l n="v12">Mens for dem han bede faar.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Stille Stund ei glemmes, da ved Navn</l>
+          <l n="v14">Hver og en han bar i Herrens Favn ‒</l>
+          <l n="v15">Kirkens Høitids-Stemnings Sus</l>
+          <l n="v16">Gik igjennem Sørge-Hus.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Nerver slappes efter spændte Dag,</l>
+          <l n="v18">Hjertets Slag blir mat og Armen svag ‒</l>
+          <l n="v19">Sorg gjør gammel fremfor Aar,</l>
+          <l n="v20">Sjælen kjendes syg og saar.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Bitre Tanker trænger ind om Kveld:</l>
+          <l n="v22">Smaabørn eier Hus, hvor han er Træl ‒</l>
+          <l n="v23">Aldrig blir en Far til Mor ‒</l>
+          <l n="v24">“Barnepigen” er for stor.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Nedslaat, men urolig op han ser,</l>
+          <l n="v26">Møder Billed, som ei taler mer ‒</l>
+          <l n="v27">Peger blot i Stuen ned:</l>
+          <l n="v28">Hjælp han faar paa rette Sted.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Trofast Hverdags-Hjælp i hendes Aand</l>
+          <l n="v30">Minder ham, hvor hun med Ord og Haand</l>
+          <l n="v31">Høit har bygget Barnehjem,</l>
+          <l n="v32">Ledet Barnesjæle frem.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Hun var Mor, men eied ikke Hus,</l>
+          <l n="v34">Blev blot alles Tjener, rev i Grus</l>
+          <l n="v35">Eget Liv for andre ned ‒</l>
+          <l n="v36">Mand og Børn fik hendes Sted.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Huset er ei Børns, ei herreløst,</l>
+          <l n="v38">“Herren” eier alt, har ud ham løst ‒</l>
+          <l n="v39">Høiest Ære, Gjerning størst,</l>
+          <l n="v40">Faar en Guds Husholder først.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p566">
+        <head>Kirke-Huset</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Endt er alt det andet Sorgens Aar,</l>
+          <l n="v2">Juletræet tændt i Stuen staar,</l>
+          <l n="v3">Barnerækkens Ring</l>
+          <l n="v4">Gaar med Sang omkring.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Uveir, ude raser, Ruden slaar,</l>
+          <l n="v6">Ind til Julestemning ei det naar,</l>
+          <l n="v7">Huset bygger Fred</l>
+          <l n="v8">Selv paa Stormens Sted.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Enkemand gaar ind i Sorgens Sky,</l>
+          <l n="v10">Mange Lys vil blænde ham paany,</l>
+          <l n="v11">Dybt i Sjælen ned</l>
+          <l n="v12">Brydes Storm og Fred.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Heftig rørt i Aand igjen han er;</l>
+          <l n="v14">Mens i Taarer Øiet opad ser,</l>
+          <l n="v15">Lynglimt Taget slaar ‒</l>
+          <l n="v16">Gjennem Sjæl det gaar:</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Nu gaar hendes Aand igjennem Hus</l>
+          <l n="v18">Sterk som Himlens lld i Stormveirs Sus</l>
+          <l n="v19">Bærer Freden ned</l>
+          <l n="v20">Høit fra Herlighed.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Sjælen raaber som af Lynet slaat:</l>
+          <l n="v22">Alle Børn er snilde, har det godt,</l>
+          <l n="v23">Hidtil stod vort Hus</l>
+          <l n="v24">Trygt mod Uveirs Sus!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Klart det svarer: Se, den mørke Gang</l>
+          <l n="v26">Er alt endt ‒ her aabnes under Sang</l>
+          <l n="v27">Kirkehvælvet Sted</l>
+          <l n="v28">Frit med Lys og Fred.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Under aaben Himmel ud hun gaar,</l>
+          <l n="v30">Fredet Hus nu kirke-viet staar ‒</l>
+          <l n="v31">Han gaar sjæleglad</l>
+          <l n="v32">Tæt til Barnerad.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Nu skal Lys og Sol for Barnesind</l>
+          <l n="v34">Strømme sterkt og mildt i Huset ind ‒</l>
+          <l n="v35">Far fik Ild og Fred</l>
+          <l n="v36">Høit fra Himlens Sted.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Hverdags-Arbeid under Strid og Bøn</l>
+          <l n="v38">Virked Søndags-Hvil som egen Løn ‒</l>
+          <l n="v39">Herren signer Hus</l>
+          <l n="v40">Under Uveirs Sus.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p567">
+        <head>Liv eller Død</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Hviletider hurtig glider,</l>
+          <l n="v2">Lette Stier rask han skrider,</l>
+          <l n="v3">Glatte Løb i Barneskare</l>
+          <l n="v4">Let for graanet Mand blir Fare.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Sorg vil svækkes, Grave dækkes,</l>
+          <l n="v6">Krav vil vækkes, Haanden rækkes</l>
+          <l n="v7">Ud mod Glæden ‒ som forynget</l>
+          <l n="v8">Ved han først, hvor Savn har tynget.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Livs-Lyst jager, Længsler klager,</l>
+          <l n="v10">Kvinden drager, Sødmen smager,</l>
+          <l n="v11">Blodet bruser, Hjernen brænder,</l>
+          <l n="v12">Vanvids-Nat om Sjæl sig spænder.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Dyre Drømme bort vil svømme,</l>
+          <l n="v14">Syge Strømme Kraften tømme ‒</l>
+          <l n="v15">Livets Hav den Døde kræver,</l>
+          <l n="v16">Han blir tro, blot Mindet lever.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Hun, som sover, Hjælp jo lover ‒</l>
+          <l n="v18">Hvis han vover Spranget over</l>
+          <l n="v19">Selvgjort Gjærde, Børn vil vinde,</l>
+          <l n="v20">Hjælp de trænger just af Kvinde.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Hjertet kjender, Drømmen brænder ‒</l>
+          <l n="v22">Brat den ender, haardt hans Hænder</l>
+          <l n="v23">Slider Garn, de selv har bundet,</l>
+          <l n="v24">Knuser Ten, som Traad har spundet.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Hjertets Kulde straks dog skulde</l>
+          <l n="v26">Sagt tilfulde: Dybt i Mulde</l>
+          <l n="v27">Ligger død hver Elskovs Evne,</l>
+          <l n="v28">Hustru-Navn han ei kan nævne.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Skam og Harme gav hans Arme</l>
+          <l n="v30">Kraft og Varme, nu forbarme</l>
+          <l n="v31">Gud sig over Sjælens Brøde ‒</l>
+          <l n="v32">Sveg han Løftet til den Døde?</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Tunge Tanker vildsomt vanker,</l>
+          <l n="v34">Saart de sanker Angst og Anker:</l>
+          <l n="v35">Hjertet har jo Synden øvet,</l>
+          <l n="v36">Drevet Hor og dræbt og røvet.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Hvilesteder, alle Glæder</l>
+          <l n="v38">Ned han træder, gaar og græder</l>
+          <l n="v39">Ud paa Graven ‒ Korset tyder</l>
+          <l n="v40">Gud ei givet Løfte bryder.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p568">
+        <head>Blod og Guld</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Slid og Angst vil bryde Kræfter ned,</l>
+          <l n="v2">Dobbelt Tryk har tømt Taalmodighed,</l>
+          <l n="v3">Sorgen tærer Sjælen ud,</l>
+          <l n="v4">Tungsind sender Bud paa Bud.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Byrde, tung for Time, Dagen lang,</l>
+          <l n="v6">Middagshede helt fra Solopgang,</l>
+          <l n="v7">Hver Dags Plage nok for ti ‒</l>
+          <l n="v8">Rad af Aar gik saa forbi.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hvordan skal han holde længer ud ‒</l>
+          <l n="v10">Kan ei Døden gjerne sende Bud?</l>
+          <l n="v11">Børn alt voksen Høide har,</l>
+          <l n="v12">Snart der er ei Brug for Far.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Snart, men endnu har hver Morgenstund</l>
+          <l n="v14">Kjære Krav og kostbar Tak i Mund ‒</l>
+          <l n="v15">Eneste, men gode Guld,</l>
+          <l n="v16">Hvoraf han faar Haanden fuld.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Kravet vækker ham hvert Morgengry,</l>
+          <l n="v18">Reiser op den trætte Sjæl paany,</l>
+          <l n="v19">Tvinger ud af Tungsinds Nat,</l>
+          <l n="v20">Løfter Mod, som synker mat.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Frem af Tak der springer Spørgsmaals-Væld:</l>
+          <l n="v22">Samler solhed Dag sit Guld for Kveld ‒</l>
+          <l n="v23">Kommer Glød i Sky snart frem ‒</l>
+          <l n="v24">Bygger Børn et Alders-Hjem?</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Jo, med dem han holder Livet ud,</l>
+          <l n="v26">Kan alt tale frit om Mor og Gud ‒</l>
+          <l n="v27">Faar af Øine Hjerte-Svar:</l>
+          <l n="v28">Tillid, Kjærlighed til Far.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Da gjør Sorg og Savn ham sjæleglad ‒</l>
+          <l n="v30">Stedmor skilte Far og Børn ei ad,</l>
+          <l n="v31">Ring, han dyrt den Døde gav,</l>
+          <l n="v32">Gir sit Guld igjen af Grav.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Blod har farvet begges Ringe rigt,</l>
+          <l n="v34">Uden Plet blev Guldet rødt og ligt ‒</l>
+          <l n="v35">Tung og rig, det tror han glad,</l>
+          <l n="v36">Var den Ting, hvorom han bad.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Troskabs-Strid har hærdet ham til Mand,</l>
+          <l n="v38">Farens Alvor skjærpet hans Forstand ‒</l>
+          <l n="v39">Eget Hus paa Klippegrund</l>
+          <l n="v40">Staar nu fast til sidste Stund.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p569">
+        <head>Gammel og ung Sorg</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Trygt vil trætte Sjæl nu hvile,</l>
+          <l n="v2">Storm kan true, Sol faar smile ‒</l>
+          <l n="v3">Over Klippe-Husets Ly</l>
+          <l n="v4">Skygger Sorgens faste Sky.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Nei, først nu skal Virket prøves,</l>
+          <l n="v6">Sorgens Kraft i Dybet øves ‒</l>
+          <l n="v7">Fiendsk Magt i farlig Tid</l>
+          <l n="v8">Byder strengt en blodig Strid.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Børn blir voksne ‒ ved ei længer,</l>
+          <l n="v10">Hvor til Far og Mor de trænger!</l>
+          <l n="v11">Staar ei Hjemmet da paa Vagt,</l>
+          <l n="v12">Liv blir lettest øde lagt.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Knoppen svulmer ‒ Sol og Vinde</l>
+          <l n="v14">Aabne vil, før Tid er inde,</l>
+          <l n="v15">Livs-Skin lokker Ungdoms-Sind,</l>
+          <l n="v16">Onde Aander stormer ind.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Har hans Hus vel Vern og Vaaben,</l>
+          <l n="v18">Lukket Dør, for Børn blot aaben,</l>
+          <l n="v19">Binder Hjertet fast til Hjem,</l>
+          <l n="v20">Vil end Fod i Verden frem?</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Krigen kommer streng og blodig,</l>
+          <l n="v22">Saar der slaaes  aldrig rolig,</l>
+          <l n="v23">Dag og Nat med Sværd i Haand</l>
+          <l n="v24">Staar han vendt mod fiendsk Aand.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Ondt i Arbeid ensom tjene ‒</l>
+          <l n="v26">Men i Krig paa Post alene!</l>
+          <l n="v27">Sorg, som tæller Rækker Aar,</l>
+          <l n="v28">Blir nok ung med nye Kaar.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Hustru-Hjælp, som Moder-Vinger</l>
+          <l n="v30">Breder ud og modig svinger,</l>
+          <l n="v31">Hvor der nu for den var Nød ‒</l>
+          <l n="v32">Hun maa vækkes op af Død!</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Er det hendes Aand han kjender?</l>
+          <l n="v34">Ild i Øinet! Hjertet brænder!</l>
+          <l n="v35">Barn ei fanges skal fra Hus,</l>
+          <l n="v36">Hjem ei brydes ned i Grus!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Ung og sterk han Sværdet svinger,</l>
+          <l n="v38">Bæres selv paa Ørne-Vinger,</l>
+          <l n="v39">Hjælpen kommer ‒ hun staar Vagt</l>
+          <l n="v40">Rette Sted mod onde Magt.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p570">
+        <head>Rødt og Grønt</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Krigens haarde Tid har Ende,</l>
+          <l n="v2">Sværd faar hvile, Festblus brænde ‒</l>
+          <l n="v3">Hærdet Krigsmand vil ei sløves,</l>
+          <l n="v4">Selv i Hvil skal Kraften øves.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Strid og Arbeid aldrig ender,</l>
+          <l n="v6">Sabbats-Hvil ei Jorden kjender ‒</l>
+          <l n="v7">Ingen Aar fra Vern-Pligt skiller</l>
+          <l n="v8">Udtjent Far, som frit sig stiller.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Kveldens Hvil dog liflig kvæger,</l>
+          <l n="v10">Naar den Slid og Skrammer læger ‒</l>
+          <l n="v11">Jorden kjender Hjemmets Hvile</l>
+          <l n="v12">Der, hvor Fredens Sol faar smile.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Aften-Røden gaar til Hjerte:</l>
+          <l n="v14">Sorgens Aand med Savn og Smerte</l>
+          <l n="v15">Gjennem Hjemmet sundt har suset,</l>
+          <l n="v16">Lyst en hellig Fred om Huset.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Hvor et sollyst Sørge-Minde</l>
+          <l n="v18">Dybt og klart som Bæk faar rinde</l>
+          <l n="v19">Gjennem Børnehavens Lukke,</l>
+          <l n="v20">Blir dens Blade gjerne smukke.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Her flød ogsaa Blod i Haven,</l>
+          <l n="v22">Unge Vekst fik Ly fra Graven ‒</l>
+          <l n="v23">Rødlig-grønne Trær alt bygger</l>
+          <l n="v24">Tæt med Kroner Telt, som skygger.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Færdig er ei Blod-Bøgs Hytte,</l>
+          <l n="v26">Før han alt derind vil flytte,</l>
+          <l n="v27">Ungdomsfriske Hus i Haven</l>
+          <l n="v28">Er saa kjært og nær ved Graven.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Alders-Hjem vil aabne Hjerte,</l>
+          <l n="v30">Blotte Saar og gammel Smerte,</l>
+          <l n="v31">Unge røde Blod kan røres ‒</l>
+          <l n="v32">Graad paa grønne Gravhøi høres.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Ene maa han mer ei græde,</l>
+          <l n="v34">Sky for Øiet svandt af Glæde ‒</l>
+          <l n="v35">Børn, som ser i Lys af Mindet,</l>
+          <l n="v36">Læger Far, hvem Sol har blindet.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Ser han nu med sunde Øine:</l>
+          <l n="v38">Herren vilde Veien høine,</l>
+          <l n="v39">Huset har i Livs-Tab vundet</l>
+          <l n="v40">Nyfødt Liv, hun havde fundet?</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p571">
+        <head>Far og Mor</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Sorg vil tjene tro til Død ‒</l>
+          <l n="v2">Blygraa Sky, som staar i Glød,</l>
+          <l n="v3">Skygger langt og dybt med Savn,</l>
+          <l n="v4">Bærer Ild og Vand i Favn.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Søn blir Mand, faar eget Bo,</l>
+          <l n="v6">Far blir gammel, faar ei Ro,</l>
+          <l n="v7">Døtres Vekst er rig og stor,</l>
+          <l n="v8">Naar dog aldrig op til Mor.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Sjælen sidder vemodstemt,</l>
+          <l n="v10">Bryst og Hus blir tomt og klemt,</l>
+          <l n="v11">Luften lummer, uromæt,</l>
+          <l n="v12">Skyen vokser sort og tæt.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Skræk i Hjem som Lyn slaar ned,</l>
+          <l n="v14">Sygdom traf  er Døden med?</l>
+          <l n="v15">Hvor er Hustrus Trøst og Raad,</l>
+          <l n="v16">Moders Taarer, Bøn og Daad?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Lamhed alle Lemmer slaar,</l>
+          <l n="v18">Sjælens Drivhjul stille staar ‒</l>
+          <l n="v19">Moderangsten er der dog,</l>
+          <l n="v20">Gir den Styrke, gjør den klog?</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Alt, han eier, tvinges frem ‒</l>
+          <l n="v22">Støtter, Reb for rystet Hjem,</l>
+          <l n="v23">Nødly blir der, hvor de bor,</l>
+          <l n="v24">Nøden gjør en Far til Mor.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Stormveirs-Sus, som Huset slog,</l>
+          <l n="v26">Tømred Væg, før bort det drog ‒</l>
+          <l n="v27">Høit og tæt, men regnvaadt Tag</l>
+          <l n="v28">Glitrer første Solskinsdag.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Ungdom har sin Alvors-Tid,</l>
+          <l n="v30">Hver og en faar egen Strid,</l>
+          <l n="v31">Ved, hvor Nød for Mor nu var ‒</l>
+          <l n="v32">Aabner Hjerte for sin Far.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">En for en i stille Stund</l>
+          <l n="v34">Faar han helt til Hjertebund ‒</l>
+          <l n="v35">Mindes, hver og en ved Navn</l>
+          <l n="v36">Bar han engang Gud i Favn.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">“Mor” blev født den Stund, han bad,</l>
+          <l n="v38">Vokste frem med Børne-Rad,</l>
+          <l n="v39">Blir hver Jul dog ganske stor,</l>
+          <l n="v40">Sterk og klog imod ifjor.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p572">
+        <head>Jul og Hjem</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Børn, som bygger Hjemmet, travelt har,</l>
+          <l n="v2">De skal tænde Jule-Træ for Far ‒</l>
+          <l n="v3">Mens til Kirke Huset vides ud,</l>
+          <l n="v4">Gaar han under Himmel-Hvælv med Gud.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Grantræ staar i Haven, skjært og skjønt,</l>
+          <l n="v6">Rimblink, Maaneglans mod mørkegrønt</l>
+          <l n="v7">Svarer blegt til Sorg med sølvhvidt Haar ‒</l>
+          <l n="v8">Røde Lys og Guld er Ungdoms-Kaar.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Atter blir han heftig rørt i Aand,</l>
+          <l n="v10">Blotter Hoved, folder Haand i Haand ‒</l>
+          <l n="v11">Hun staar høit i Stjerners Sølv og Guld,</l>
+          <l n="v12">Glimter ned til ham, som snart blir Muld.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Himmelklart han hører hendes Ord ‒</l>
+          <l n="v14">Hun var med i Børne-Jul paa Jord,</l>
+          <l n="v15">Under Uveirs-Sus og Himmel klar</l>
+          <l n="v16">Fred til Hjem og Hjerter ned hun bar.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Gjerne maa han græde  blot i Tro!</l>
+          <l n="v18">Skyld har skilt, men Julens Bud slaar Bro,</l>
+          <l n="v19">Begges Ring af Blod og Graad blev rig,</l>
+          <l n="v20">Snart de mødes ‒ hvor de blir saa lig.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Snart ‒ men endnu har en Aftenstund</l>
+          <l n="v22">Kjære Krav og kostbar Tak i Mund,</l>
+          <l n="v23">Alt, hvad han faar gjort for hendes Fem,</l>
+          <l n="v24">Bærer han til hende selv jo frem.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Glad maa Far gaa hjem til Jul blandt Børn,</l>
+          <l n="v26">Gud gjær gammel Kors-Mand ung som Ørn ‒</l>
+          <l n="v27">Nu blir Tid at gaa med alle fem</l>
+          <l n="v28">Ud i Arbeid, frem til Strid for Hjem.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Huset mures skal til gjæstfri Borg ‒</l>
+          <l n="v30">Byde ind hver Sjæl, som gaar i Sorg,</l>
+          <l n="v31">Verne for sin Ret, sit eget Krav,</l>
+          <l n="v32">Staa som Vagt for Kirkegaard og Grav.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Blir om Krig i aaben Mark sendt Bud,</l>
+          <l n="v34">Maa fra Borgen modig rykkes ud ‒</l>
+          <l n="v35">Slag skal staa mod fiendsk Aande-Hær,</l>
+          <l n="v36">Ondskabs Uveir samler fjernt og nær.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v37">Merket løftes høit fra Marken op ‒</l>
+          <l n="v38">Grønne Gran med Stjernens Guld i Top!</l>
+          <l n="v39">Julens Fred er Hjemmets Klippegrund ‒</l>
+          <l n="v40">Jul og Hjem skal staa til sidste Stund!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>
