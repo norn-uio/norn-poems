@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Juleaften: et Digt</title>
+        <author>Jensen, Gustav</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">1</measure>
+        <measure unit="lines">310</measure>
+        <measure unit="tokens">1811</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2010031912006">
+          <author>Jensen, Gustav</author>
+          <title>Juleaften: et Digt</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1890</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2010031912006"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p1107">
+        <head>Juleaften</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Atter er det Juleaften.</l>
+          <l n="v2">Alle Hjemmets Lys er tændte,</l>
+          <l n="v3">og de bedste Lys i Hjemmet,</l>
+          <l n="v4">klare Barneøine, straaler</l>
+          <l n="v5">frydefuldt i glad Forventning.</l>
+          <l n="v6">Og tilbage nu de kommer,</l>
+          <l n="v7">Fuglene, som fløi fra Redet</l>
+          <l n="v8">‒ hører du ei Vingeslaget? ‒</l>
+          <l n="v9">Juleaften vil de hjemad,</l>
+          <l n="v10">at ei noget Led skal mangle,</l>
+          <l n="v11">der hvor alle hører sammen,</l>
+          <l n="v12">smaa og store, unge, gamle,</l>
+          <l n="v13">fælles om det store Lys.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v14">Nogle kan dog ikke komme.</l>
+          <l n="v15">Under Sne paa Kirkegaarden</l>
+          <l n="v16">gamle Grave, friske Grave</l>
+          <l n="v17">gjemmer dem, hvis Smil var renest</l>
+          <l n="v18">og hvis Øine straaled klarest,</l>
+          <l n="v19">naar før Julelyset tændtes.</l>
+          <l n="v20">Det blev tomt, da de forlod os,</l>
+          <l n="v21">saart vi savner dem og længes.</l>
+          <l n="v22">Men det er ei Sjelesygdom,</l>
+          <l n="v23">ikke Sot og Sorg til Døden,</l>
+          <l n="v24">som fra deres tomme Sæder</l>
+          <l n="v25">stiger mod os Juleaften.</l>
+          <l n="v26">Nei, I Venner, som gik forud</l>
+          <l n="v27">til det Hjem, I eftertragted,</l>
+          <l n="v28">vist vi ved, at Himmellyset,</l>
+          <l n="v29">som har eder gjennemstraalet</l>
+          <l n="v30">og aftørret hver en Taare</l>
+          <l n="v31">til den sidste fra Dødsstriden</l>
+          <l n="v32">og gjort Glæden ren og salig</l>
+          <l n="v33">i Erindring og Beskuen</l>
+          <l n="v34">og fuldkommet hver en Længsel,</l>
+          <l n="v35">saa I naar, hvad her I vilde,</l>
+          <l n="v36">det er og det Lys, som skinner</l>
+          <l n="v37">ind til os igjennem Mørket</l>
+          <l n="v38">og gjør Klarhed her i Stuen,</l>
+          <l n="v39">det er og vor Trøst og Glæde,</l>
+          <l n="v40">medens vi med Mørket strider</l>
+          <l n="v41">i vort Hjertes dunkle Hytte,</l>
+          <l n="v42">ved det Lys og vi skal vinde,</l>
+          <l n="v43">hvad vi vil og eftertragter:</l>
+          <l n="v44">evigt Liv og evigt Samliv.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v45">Sammen er vi, altid sammen</l>
+          <l n="v46">‒ hører du ei Vingeslaget</l>
+          <l n="v47">af de rene, hvide Fugle? ‒</l>
+          <l n="v48">Kjeden er ei brudt, men sluttet,</l>
+          <l n="v49">intet af dens Led skal mangle,</l>
+          <l n="v50">der hvor alle hører sammen,</l>
+          <l n="v51">fælles om det store Lys.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v52">Derfor brænder kun, I glade</l>
+          <l n="v53">Julelys, og straaler hos os!</l>
+          <l n="v54">Lyser klart, hvor alle samles</l>
+          <l n="v55">tæt og trangt om eders Lue,</l>
+          <l n="v56">bedre der, hvor de er borte,</l>
+          <l n="v57">som var Hjertet saare kjære,</l>
+          <l n="v58">klarest dog. hvor en og to kun</l>
+          <l n="v59">sidder stille og alene,</l>
+          <l n="v60">medens deres Lys nedbrænder, ‒</l>
+          <l n="v61">lyser opad for dem, hjemad</l>
+          <l n="v62">til det store Helgensamfund!</l>
+          <l n="v63">Ja, I Lys fra Himmerige,</l>
+          <l n="v64">som til Bethlehem nedstraaled,</l>
+          <l n="v65">lyser for os, lyser for os!</l>
+          <l n="v66">“Thi alt mer vort Hjerte banker</l>
+          <l n="v67">i usigelige Tanter</l>
+          <l n="v68">ved den store Livets Gaade”,</l>
+          <l n="v69">og alt mer os lyster vandre</l>
+          <l n="v70">bort fra Verden med dens Grave</l>
+          <l n="v71">og dens Synder og dens Møie</l>
+          <l n="v72">hjem til Herren for at skue</l>
+          <l n="v73">fra Dørtærsklen af hans Tempel</l>
+          <l n="v74">dog hans Ansigts klare Lys.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v75">Tak, at I vil lyse for os,</l>
+          <l n="v76">Tak, at I vil lyse ved os!</l>
+          <l n="v77">Fra hvert Hjem, som Lyset rummer,</l>
+          <l n="v78">gaa der Straaler ud i Mørket!</l>
+          <l n="v79">Fra hvert kristent Hjem der tændes</l>
+          <l n="v80">Julelys i Armods Bolig</l>
+          <l n="v81">og i Sorgens dunkle Kammer</l>
+          <l n="v82">og paa Syndens mørke Steder!</l>
+          <l n="v83">For den Ven, som hjem er flyttet,</l>
+          <l n="v84">gjøre hver sig nye Venner,</l>
+          <l n="v85">som mod Lyset Øiet retter,</l>
+          <l n="v86">at det store Slægtskabs Kjede</l>
+          <l n="v87">vidt kan spændes over Jorden,</l>
+          <l n="v88">og at intet Led skal mangle,</l>
+          <l n="v89">der hvor alle hører sammen,</l>
+          <l n="v90">fælles om det store Lys!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v91">Venner, det er Juleaften,</l>
+          <l n="v92">os er født en Frelser, Jesus,</l>
+          <l n="v93">alle har vi nu en Frelser.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v94">Guds enbaarne Søn er blevet</l>
+          <l n="v95">som et Barn paa Moderskjødet,</l>
+          <l n="v96">for at vi Guds Børn skal blive</l>
+          <l n="v97">og fra vore Synder frelses</l>
+          <l n="v98">ind til evigt Lys og Glæde.</l>
+          <l n="v99">Dette Barn i Krybberummet</l>
+          <l n="v100">han er Verdens Lys og Glæde,</l>
+          <l n="v101">er vort Hjertes Lys og Glæde,</l>
+          <l n="v102">Amen, Halleluja, Amen!</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v103">Er din Glæde ret og lovlig,</l>
+          <l n="v104">er dit Lys af Himmelarten?</l>
+          <l n="v105">Finder du, hans Lys og Glæde</l>
+          <l n="v106">passer sig for Hjemmets Stue,</l>
+          <l n="v107">for dets Savn og for dets Lykke,</l>
+          <l n="v108">for en Kreds af Barneøine?</l>
+          <l n="v109">Han, som blev din Frelser, er ei</l>
+          <l n="v110">Barnet, fuldt af Smil og Ynde,</l>
+          <l n="v111">som af alle favnetages.</l>
+          <l n="v112">Nei, men Manden, bleg og blodig</l>
+          <l n="v113">af sin Kamp mod Lysets Fiender,</l>
+          <l n="v114">han som Persekarret traadte,</l>
+          <l n="v115">saa hans Klæder bleve røde,</l>
+          <l n="v116">han er den, som dig forløfte.</l>
+          <l n="v117">Ikke Barnet, som det leger</l>
+          <l n="v118">uskyldsrent paa Moderskjødet,</l>
+          <l n="v119">nei, men han, som ved Guds høire</l>
+          <l n="v120">sidder klædt i Lysets Vælde,</l>
+          <l n="v121">han, som læger Hjertesaaret,</l>
+          <l n="v122">reiser op de brudte Sjele</l>
+          <l n="v123">ømt, som ingen Moder kan det,</l>
+          <l n="v124">for at gjøre dem til Stridsmænd</l>
+          <l n="v125">for al Sandheds Sag paa Jorden,</l>
+          <l n="v126">for at skabe sig til Hærfærd</l>
+          <l n="v127">faste Hjerter, lægte Sjele,</l>
+          <l n="v128">rene Pander, som kan taale</l>
+          <l n="v129">Tornestikket uden Klage,</l>
+          <l n="v130">naar hans Banner gaar fremfor dem ‒</l>
+          <l n="v131">denne er din Frelser Jesus.</l>
+          <l n="v132">Eller har du glemt, at Striden</l>
+          <l n="v133">staar endnu paa alle Leder,</l>
+          <l n="v134">Dødsskrig lyder gjennem Mørket,</l>
+          <l n="v135">Ondskabs Magter frække kneiser,</l>
+          <l n="v136">Sjele lider og fortabes,</l>
+          <l n="v137">medens du og dine sidder</l>
+          <l n="v138">der i Lys om Jesusbarnet,</l>
+          <l n="v139">speiler eders Fryd og Smerte</l>
+          <l n="v140">i de Barneøine milde,</l>
+          <l n="v141">som med Smil til eder ser?</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v142">Venner, skal med sænket Øie</l>
+          <l n="v143">vore Julelys vi slukke?</l>
+          <l n="v144">Vilde af sig selv de slukne,</l>
+          <l n="v145">om han traadte ind i Kredsen,</l>
+          <l n="v146">Smertens Konge, tornekronet,</l>
+          <l n="v147">blodig af al Slægtens Jammer?</l>
+          <l n="v148">Vilde af sig selv de slukne</l>
+          <l n="v149">for en Straale af hans Øie,</l>
+          <l n="v150">som fra Himlens Kongetrone</l>
+          <l n="v151">fører Lysets Kamp hernede?</l>
+          <l n="v152">Lad dem da kun dø og blegne;</l>
+          <l n="v153">bedre det, end ufromt lege</l>
+          <l n="v154">med det høie Lys fra Himlen.</l>
+          <l n="v155">Men, vor Frelser, som bar Korset</l>
+          <l n="v156">for os lydig indtil Døden!</l>
+          <l n="v157">Vistnok har vi daarlig fattet</l>
+          <l n="v158">al din Ve og al din Naade,</l>
+          <l n="v159">Syndegjælden, Offeraltret,</l>
+          <l n="v160">Veien, hvorpaa du os møder;</l>
+          <l n="v161">men i Hjertets dybe Gjemme</l>
+          <l n="v162">har vi Korsets Gaade favnet,</l>
+          <l n="v163">og med villig Hu vi bærer</l>
+          <l n="v164">Korsets Tegn paa Bryst og Pande, ‒</l>
+          <l n="v165">skriv det i os, skriv det paa os,</l>
+          <l n="v166">meget bedre, meget bedre,</l>
+          <l n="v167">Herre Jesus, vor Forsoner!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v168">Og vel staar vi langt tilbage</l>
+          <l n="v169">i din Stridshærs stærke Rækker,</l>
+          <l n="v170">fører kun med svage Hænder</l>
+          <l n="v171">Sværd og Skjold i dine Kampe</l>
+          <l n="v172">for al Sandheds Sag paa Jorden;</l>
+          <l n="v173">dog, vor Konge ved Guds høire,</l>
+          <l n="v174">ei vi kan dit Banner svigte,</l>
+          <l n="v175">i din Stridshær maa vi være</l>
+          <l n="v176">mod de frække Ondskabs Magter,</l>
+          <l n="v177">som alt vildere frembryder, ‒</l>
+          <l n="v178">før os fremad med dig, giv os</l>
+          <l n="v179">faste Hjerter, lægte Sjele,</l>
+          <l n="v180">rene Pander, som kan taale</l>
+          <l n="v181">Tornestikket uden Klage,</l>
+          <l n="v182">naar dit Banner gaar fremfor os!</l>
+          <l n="v183">Og naar du i Stuen træder,</l>
+          <l n="v184">hvor vi sidder hver med vore</l>
+          <l n="v185">under Julens klare Stjerne,</l>
+          <l n="v186">ei du vore Lys vil slukke,</l>
+          <l n="v187">o, men du vil aande paa dem</l>
+          <l n="v188">fra dit Kors og fra din Trone,</l>
+          <l n="v189">at de ikke jordisk brænder,</l>
+          <l n="v190">men med ren og himmelsk Lue.</l>
+          <l n="v191">Thi dit Lys er dog det samme,</l>
+          <l n="v192">naar det fredfuldt skinner over</l>
+          <l n="v193">liden Kreds om Krybben samlet,</l>
+          <l n="v194">og naar dunkelrødt det bryder</l>
+          <l n="v195">frem af Korsets dybe Mørke,</l>
+          <l n="v196">og naar det fra Kongetronen</l>
+          <l n="v197">vinker Lysets Stridsmænd fremad,</l>
+          <l n="v198">et er alt dit Lys. o Herre</l>
+          <l n="v199">ingen Straale kan undværes</l>
+          <l n="v200">af dit Liv i Lys hernede,</l>
+          <l n="v201">om du skal vor Frelser være,</l>
+          <l n="v202">det er alt vort Lys, o Herre</l>
+          <l n="v203">Freden, Striden, Herligheden,</l>
+          <l n="v204">ingen Straale kan undværes,</l>
+          <l n="v205">skal dit Liv vi efterleve.</l>
+          <l n="v206">Derfor vil vi trøstig samle</l>
+          <l n="v207">Børnene om Barnets Krybbe,</l>
+          <l n="v208">tænde alle Lys, vi eier,</l>
+          <l n="v209">glæde dem, som bedst vi kan det,</l>
+          <l n="v210">præge dem saa dybt i Sinde:</l>
+          <l n="v211">Lys og Glæde er vor Frelser,</l>
+          <l n="v212">Jesus er kun Lys og Glæde, ‒</l>
+          <l n="v213">at de siden frem kan vokse</l>
+          <l n="v214">til at føre Lysets Vaaben,</l>
+          <l n="v215">til at gaa i Striden for ham,</l>
+          <l n="v216">som han selv til Strid fremvokste,</l>
+          <l n="v217">at de siden, om de vildes</l>
+          <l n="v218">hen i Verdens onde Mørke,</l>
+          <l n="v219">saares, lider og forbløder,</l>
+          <l n="v220">dog skal længte efter Lyset,</l>
+          <l n="v221">række sine Hænder mod det,</l>
+          <l n="v222">kjende det igjen, hvor Korsets</l>
+          <l n="v223">Høialtar i Morket skinner,</l>
+          <l n="v224">knælende didfrem sig famle</l>
+          <l n="v225">og mens Angerstaaren flyder,</l>
+          <l n="v226">tvættes der ved Soningsblodet,</l>
+          <l n="v227">læges der til Hjerteroden,</l>
+          <l n="v228">gribe atter brudte Vaaben</l>
+          <l n="v229">og i Lysets Hær sig stille.</l>
+          <l n="v230">Og med Børnene vi samles</l>
+          <l n="v231">alle, alle, som har fundet</l>
+          <l n="v232">Fred i Jesu dybe Vunder</l>
+          <l n="v233">for den Synd, som dybt os krænkte,</l>
+          <l n="v234">alle, alle, som har kjæmpet</l>
+          <l n="v235">med i Herrens Stridsmænds Skare,</l>
+          <l n="v236">snublet, faldet, reist sig atter,</l>
+          <l n="v237">thi hans Øines Lys dem reiste,</l>
+          <l n="v238">drog dem fremad, gav dem Seier,</l>
+          <l n="v239">alle, alle, som er trætte</l>
+          <l n="v240">af den Strid, som her ei ender,</l>
+          <l n="v241">trætte, saare, vaabenslidte,</l>
+          <l n="v242">saa dem lyster at henvandre</l>
+          <l n="v243">til den Hvile, de forventer,</l>
+          <l n="v244">og det Lys, som ei fordunkles</l>
+          <l n="v245">i det store Helgensamfund.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v246">Alle vil vi stille samles</l>
+          <l n="v247">tæt om Jesusbarnets Krybbe,</l>
+          <l n="v248">glæde og som Børn ved Lyset,</l>
+          <l n="v249">som saa rent og fredfuldt straaler,</l>
+          <l n="v250">se i det vort første Udspring,</l>
+          <l n="v251">som os lønlig altid følger,</l>
+          <l n="v252">og det Maal, som vi skal vinde,</l>
+          <l n="v253">naar vi snart har gjennemkjæmpet.</l>
+          <l n="v254">Stille samles vi om Lyset,</l>
+          <l n="v255">hver med vore, men dog sammen</l>
+          <l n="v256">med den store Kristenkjede,</l>
+          <l n="v257">som er spændt ud over Jorden,</l>
+          <l n="v258">og den store Helgenkjede,</l>
+          <l n="v259">som er slynget om Guds Trone;</l>
+          <l n="v260">veie vil vi i vort Hjerte,</l>
+          <l n="v261">hvad det Julelys har bragt os:</l>
+          <l n="v262">Korsets Ve igjennem Sjelen,</l>
+          <l n="v263">Korsets underfulde Naade,</l>
+          <l n="v264">Lysets Strid med Saar og Taarer</l>
+          <l n="v265">og med Haab og med Opreisning,</l>
+          <l n="v266">stille Lysglimt over Graven,</l>
+          <l n="v267">hvor det kjære Ansigt hviler,</l>
+          <l n="v268">evig Klarhed, naar vort eget</l>
+          <l n="v269">Øie briste skal i Døden, ‒</l>
+          <l n="v270">veie vil vi Tab og Vinding,</l>
+          <l n="v271">vide ud vor Sjel for Lyset,</l>
+          <l n="v272">som saa venlig til os strømmer</l>
+          <l n="v273">fra det Barn i Krybberummet,</l>
+          <l n="v274">sige: Mørket var vort eget,</l>
+          <l n="v275">Lys og Glæde er vor Frelser,</l>
+          <l n="v276">Jesus er kun Lys og Glæde.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v277">Venner, det er Juleaften,</l>
+          <l n="v278">os er født en Frelser, Jesus,</l>
+          <l n="v279">alle har vi nu en Frelser.</l>
+          <l n="v280">Guds enbaarne Søn er blevet</l>
+          <l n="v281">som et Barn paa Moderskjødet,</l>
+          <l n="v282">for at vi Guds Børn skal blive</l>
+          <l n="v283">og fra vore Synder frelses</l>
+          <l n="v284">ind til evigt Lys og Glæde.</l>
+          <l n="v285">Dette Barn i Krybberummet</l>
+          <l n="v286">han er Verdens Lys og Glæde,</l>
+          <l n="v287">er vort Hjertes Lys og Glæde,</l>
+          <l n="v288">Amen, Halleluja, Amen!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

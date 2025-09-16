@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI encoding customisation for NORN Poems</title>
+	<author>Ingerid Dale</author>
+	<author>Ranveig Kvinnsland</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>TEI Consortium</publisher>
+        <availability status="free">
+          <p>TEI material can be licensed differently depending on the
+          use you intend to make of it. Hence it is made available
+          under both the CC+BY and BSD-2 licences. The CC+BY licence
+          is generally appropriate for usages which treat TEI content
+          as data or documentation. The BSD-2 licence is generally
+          appropriate for usage of TEI content in a software
+          environment. For further information or clarification,
+          please contact the TEI Consortium (info@tei-c.org).</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Written from scratch.</p>
+      </sourceDesc>
+    </fileDesc><encodingDesc><appInfo><application ident="RomaJS" version="1.1.2" when="2024-11-22T09:53:39.977Z"><desc>File edited with <ref target="https://github.com/TEIC/romajs">RomaJS</ref></desc></application></appInfo></encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>TEI Complete</head>
+      <p>This TEI customization describes a schema that includes
+      <emph>all</emph> of the TEI P5 modules. This is a very useful
+      starting place for manually creating your own customizations —
+      it is much easier to delete the modules you do not want than to
+      add the modules you do. Furthermore this customization often
+      proves helpful for testing TEI software.</p>
+      <p>However, this particular TEI customization is <emph>not
+      recommended</emph> for actual use for encoding documents. It
+      produces schemas and reference documentation that will be much
+      larger and include many more elements than almost anyone could
+      conceivably ever need. Tempting though it may be simply to have
+      absolutely everything, and <q>just ignore</q> elements not
+      required, experience has shown that their presence makes the
+      documentation harder to read and use, and makes a schema that is
+      far more lax than desired.</p>
+      <p>The <att>n</att> attribute of each <gi>moduleRef</gi> below
+      reflects the chapter number of the TEI <title>Guidelines</title>
+      in which the module being referenced is defined. Note that the
+      modules are generally referred to in the order defined, with the
+      exception that the module for <title level="a">Simple Analytic
+      Mechanisms</title> is referred to before the module for <title level="a">Dictionaries</title>. This is because the class <name type="class">att.lexicographic.normalized</name> (which is
+      defined in <name type="module">analysis</name>) needs to be
+      specified before the class <name type="class">att.lexicographic</name> (which is defined in <name type="module">dictionaries</name>).</p>
+      <p>The first four modules are often
+      called the <soCalled>required</soCalled> modules. However, these
+      modules are not themselves technically required to create a TEI
+      conformant markup language (let alone a useful non-TEI
+      conformant markup language). Rather, they each contain one or
+      more <emph>elements</emph> which are required for TEI
+      conformance.</p>
+      <schemaSpec ident="tei_schema_NORN" start="TEI teiCorpus" prefix="tei_" targetLang="en" docLang="en">
+        <moduleRef n="01" key="tei"/>
+        <moduleRef n="02" key="header" except="abstract appInfo application authority biblFull cRefPattern calendar calendarDesc catDesc catRef category citeData citeStructure classCode classDecl conversion correspAction correspContext correspDesc creation distributor editorialDecl geoDecl handNote hyphenation interpretation keywords langUsage listChange listPrefixDef normalization quotation rendition samplingDecl scriptNote seriesStmt stdVals styleDefDecl tagUsage tagsDecl taxonomy unitDecl unitDef xenoData"/>
+        <moduleRef n="03" key="core" except="abbr add addrLine address analytic biblScope binaryObject cb choice cit citedRange corr del distinct email emph expan gap gb gloss graphic imprint  listBibl measureGrp media meeting mentioned milestone monogr pb postBox postCode ptr quote rb reg rs rt ruby said series sic soCalled sp stage street term time unclear"/>
+        <moduleRef n="04" key="textstructure" except="argument byline closer dateline docImprint floatingText imprimatur opener postscript salute signed trailer"/>
+        <moduleRef n="06" key="verse" except="metDecl metSym"/>
+        <moduleRef n="18" key="analysis" except="cl interp interpGrp m pc phr s span spanGrp"/>
+        <moduleRef n="10" key="dictionaries" except="case colloc def dictScrap entry entryFree etym form gen gram gramGrp hom hyph iType lang lbl mood number oRef orth pRef per re sense stress subc superEntry tns usg xr"/>
+        <moduleRef n="11" key="msdescription" except="accMat acquisition adminInfo altIdentifier binding bindingDesc catchwords collation collection colophon condition custEvent custodialHist decoDesc decoNote depth dim dimensions explicit filiation finalRubric foliation handDesc height heraldry history incipit layout layoutDesc locus locusGrp material msContents msDesc msFrag msIdentifier msItem msItemStruct msName msPart musicNotation objectDesc objectType origDate origPlace origin physDesc provenance recordHist rubric scriptDesc seal sealDesc secFol signatures stamp summary support supportDesc surrogates typeDesc typeNote watermark width"/>
+        <moduleRef n="13" key="textcrit" except="app lacunaEnd lacunaStart listApp listWit rdg rdgGrp variantEncoding wit witDetail witEnd witStart witness"/>
+        <moduleRef n="14" key="namesdates" except="addName affiliation age birth bloc climate country death district education event eventName faith floruit forename genName gender geo geogFeat geogName langKnowledge langKnown listEvent listNym listObject listOrg listPerson listPlace listRelation location nameLink object objectIdentifier objectName occupation offset persName persPronouns person personGrp persona place placeName population region relation residence roleName settlement sex socecStatus state surname terrain trait"/>
+        <moduleRef n="16" key="corpus" except="activity channel constitution derivation domain factuality interaction locale particDesc preparedness purpose setting settingDesc"/>
+        <moduleRef n="17" key="linking" except="ab alt altGrp annotation join joinGrp link linkGrp listAnnotation standOff timeline when"/>
+        <moduleRef n="19" key="iso-fs" except="bicond binary cond default fLib if iff numeric string symbol then vAlt vColl vDefault vLabel vMerge vNot vRange"/>
+        <moduleRef n="22" key="certainty" except="certainty precision"/>
+        <moduleRef n="23" key="tagdocs" except="altIdent alternate anyElement att attDef attList attRef classRef classSpec classes code constraint constraintSpec content dataFacet dataRef dataSpec datatype defaultVal eg egXML equiv exemplum gi ident listRef macroRef macroSpec memberOf model modelGrp modelSequence moduleRef moduleSpec outputRendition param paramList paramSpec remarks sequence specDesc specGrp specGrpRef specList tag textNode val valDesc valItem valList"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>

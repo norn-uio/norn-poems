@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rythmeskvulp</title>
+        <author>Olsen, Adolescentulus</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">15</measure>
+        <measure unit="lines">412</measure>
+        <measure unit="tokens">1783</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2016101848013">
+          <author>Olsen, Adolescentulus</author>
+          <title>Rythmeskvulp</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1895</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2016101848013"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p1952">
+        <head>Ouverture</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg er bleg og liden,</l>
+          <l n="v2">Bitte liden,</l>
+          <l n="v3">Jeg har sting</l>
+          <l n="v4">l siden.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Men der skvulper dugtunge rythmer i min barm,</l>
+          <l n="v6">Min evighedslængtende barm.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v7">Dig vil jeg prise, Zullimenta,</l>
+          <l n="v8">Min sølvhvide brud,</l>
+          <l n="v9">Min tankes blanke månedrøm.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v10">Dig vil jeg vie mine letrødmende sange.</l>
+          <l n="v11">Dig,</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v12">Og nattehimmelen,</l>
+          <l n="v13">Og stjernevrimmelen,</l>
+          <l n="v14">Og den blå skimmelen.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v15">Jeg er bleg og liden,</l>
+          <l n="v16">Bitte liden,</l>
+          <l n="v17">Jeg har sting</l>
+          <l n="v18">I siden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1953">
+        <head>Zullimenta</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Dit navn er som drømmende tusmørkesanges</l>
+          <l n="v2">dæmpede glød,</l>
+          <l n="v3">din sjæl er som lotusblomsten på Ganges'</l>
+          <l n="v4">hellige skjød.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Dit smil er som solguldslysende buer</l>
+          <l n="v6">over mit kind,</l>
+          <l n="v7">dit kys er som helvedes flammende luer</l>
+          <l n="v8">gjennem mit sind.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Din røst er som slangens, der skriger i skoven</l>
+          <l n="v10">ensom mod nat,</l>
+          <l n="v11">din gang er så lydløs, som når rundt på låven</l>
+          <l n="v12">lusker den ludede kat.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1954">
+        <head>Pigens vår</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Thi må jeg sidde ved en blyindfattet rude.</l>
+          <l n="v2">Thi må jeg sidde på en skjøntbroderet pude.</l>
+          <l n="v3">Thi må jeg trykke hånden mod min lille barm.</l>
+          <l n="v4">Men i mit lille hjerte må jeg være varm.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Skyerne svømme.</l>
+          <l n="v6">I røde drømme.</l>
+          <l n="v7">I søde drømme.</l>
+          <l n="v8">De bløde svømme.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Hvi er der bly om ruden?</l>
+          <l n="v10">Hvi broderi på puden?</l>
+          <l n="v11">Hvi mødte min fader</l>
+          <l n="v12">Min moder?</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Nei jeg vil danse,</l>
+          <l n="v14">Binde kranse,</l>
+          <l n="v15">Purpurblå, blodigrøde som skarlagen.</l>
+          <l n="v16">Skarlagen.</l>
+          <l n="v17">Lagen.</l>
+          <l n="v18">Hvorfor lagen?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v19">Vinden kysser mit hår.</l>
+          <l n="v20">Men det er jo vår!</l>
+          <l n="v21">Knust er ruden.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1955">
+        <head>Din dugfriske nellikekind –</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Din dugfriske nellikekind</l>
+          <l n="v2">rødmer under mit blik,</l>
+          <l n="v3">mit mandige, forskende blik,</l>
+          <l n="v4">rødmer som en rød valmue.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">For der gives også hvide valmuer.</l>
+          <l n="v6">den røde valmue</l>
+          <l n="v7">eier bedøvelsens lurende gift</l>
+          <l n="v8">i sit lumre skjød.</l>
+          <l n="v9">Hvordan det er med de hvide, ved jeg ikke.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v10">Men i den tause skov,</l>
+          <l n="v11">hvor min sjæl</l>
+          <l n="v12">høied sit strudsehoved under sin sortfjærede vinge,</l>
+          <l n="v13">der så jeg dig</l>
+          <l n="v14">i den gravsorte nat.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v15">Du var som den røde valmue,</l>
+          <l n="v16">der med skjælvende hænder</l>
+          <l n="v17">peger på sin rygrad,</l>
+          <l n="v18">medens du rødmede under mit blik.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v19">Er du hvid? Er du kysk?</l>
+          <l n="v20">Du var som den hvide valmue</l>
+          <l n="v21">i dugvåd glød,</l>
+          <l n="v22">hvori lidenskabens rovdyrtand</l>
+          <l n="v23">har slået sine leopardklør,</l>
+          <l n="v24">medens dens hale pisker jorden i vellyst . . .</l>
+          <l n="v25">Rødmer du nu</l>
+          <l n="v26">af skam?</l>
+          <l n="v27">Men din dugfriske nellikekind</l>
+          <l n="v28">kunde jeg ei se</l>
+          <l n="v29">i mørket.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v30">Den hvide blomst . . . . .</l>
+          <l n="v31">på den sorte jord . . . . .</l>
+          <l n="v32">i den store skøv . . . . .</l>
+          <l n="v33">i den mørke nat . . . . .</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v34">Kun månen</l>
+          <l n="v35">med sit spøgelseansigt</l>
+          <l n="v36">stirrede ned på den hvide blomst</l>
+          <l n="v37">på den sorte jord.</l>
+          <l n="v38">Ligegyldig.</l>
+          <l n="v39">Uden tårer.</l>
+          <l n="v40">– –. Ingen er kysk</l>
+          <l n="v41">uden månen. –</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1956">
+        <head>Ha, hvor jeg ler og spytter –</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Ha hvor jeg ler og spytter</l>
+          <l n="v2">Til eder alle,</l>
+          <l n="v3">I jordens krybende yngel.</l>
+          <l n="v4">Har I set en friskere slyngel.</l>
+          <l n="v5">Vel er jeg fattig,</l>
+          <l n="v6">Men min sang</l>
+          <l n="v7">Den gir klang</l>
+          <l n="v8">Mellem alle små fjelde.</l>
+          <l n="v9">Op mod de vildeste tinder,</l>
+          <l n="v10">Didop, hvor stjernerne skinner</l>
+          <l n="v11">Går min gang.</l>
+          <l n="v12">Der vil jeg tømme min flaske.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1957">
+        <head>Bryllup</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Nu sadler jeg op min prustende hest</l>
+          <l n="v2">og rider mig ud over enge.</l>
+          <l n="v3">Nu rider vi to til bryllupsfest,</l>
+          <l n="v4">mens sommeren sover i senge.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Jeg sporer min ganger og svinger min hat,</l>
+          <l n="v6">og jomfruen holder jeg favnet.</l>
+          <l n="v7">Forhaabentligvis er det jonsoknat,</l>
+          <l n="v8"> jeg kjender ei rigtig navnet.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Vi feirer vort bryllup foruden prest,</l>
+          <l n="v10">hvad skulde vi ham vel trænge?</l>
+          <l n="v11">Jeg trængte mer til en silkevest,</l>
+          <l n="v12">men havde nok ingen penge.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">En heirefjær har jeg dog i min hat</l>
+          <l n="v14">– dét skal være meget vigtigt. –</l>
+          <l n="v15">Se der er det duggede orekrat –</l>
+          <l n="v16">forsåvidt er alting rigtigt!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Vi rider afsted, til det lysner ad dag;</l>
+          <l n="v18">men dersom nogen vil vide,</l>
+          <l n="v19">hvad mere der sker, får han spærge Krag</l>
+          <l n="v20">det er ham, som har lært mig at ride.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1958">
+        <head>Var der noget hvidt –</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Var her noget hvidt</l>
+          <l n="v2">At hvile mit hoved mod,</l>
+          <l n="v3">Mit hoved,</l>
+          <l n="v4">Mit brændende hoved,</l>
+          <l n="v5">Mit af gnisten antændte hoved.</l>
+          <l n="v6">Noget skinnende hvidt,</l>
+          <l n="v7">Noget koldt, noget isnende koldt!</l>
+          <l n="v8">– Marmor.</l>
+          <l n="v9">En buste af din lille Halfdan, Zullimenta!</l>
+          <l n="v10">–  i marmor,</l>
+          <l n="v11">Hebræisk marmor.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1959">
+        <head>Vår</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg sidder og ser på min næse.</l>
+          <l n="v2">Gud, hvor her er underligt!</l>
+          <l n="v3">Gud, hvor min næse er underlig!</l>
+          <l n="v4">Den synes mig så fremmed –</l>
+          <l n="v5">mest lig en syrenbusk</l>
+          <l n="v6">med halvt udsprungne knopper.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Min?</l>
+          <l n="v8">Hvem siger, det er min?</l>
+          <l n="v9">Hvorfor ikke ligeså gjerne din eller Kathinkas</l>
+          <l n="v10">eller en hvemsomhelst andens?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v11">Sol i lust og sol om tind . . . . .</l>
+          <l n="v12">vug og vift, blomstervind,</l>
+          <l n="v13">en så dæmpet kuling</l>
+          <l n="v14">ind i næsens huling</l>
+          <l n="v15">ind i ørets musling –</l>
+          <l n="v16">på mig lille pusling –?</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1960">
+        <head>I Juda ørken</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I ørkensand,</l>
+          <l n="v2">I solens brand</l>
+          <l n="v3">Vandrer jeg ene.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v4">Der flyder blod</l>
+          <l n="v5">Af min fod.</l>
+          <l n="v6">Blåligt blod.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v7">Hvi er din vrede tændt, Jehovah?</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v8">Min pande brænder,</l>
+          <l n="v9">Min sjæl brænder,</l>
+          <l n="v10">Mine hvide bukser brænder.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v11">Jeg håner dig, gamle Jehovah.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v12">En sortladen vellyst var det mig</l>
+          <l n="v13">At blække dit ansigt.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v14">Dog forlad mine synder. –</l>
+          <l n="v15">Forladt af dig,</l>
+          <l n="v16">Forladt af forstanden,</l>
+          <l n="v17">Vandrer jeg ene.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v18">Jeg er som en syg kala,</l>
+          <l n="v19">En ung syg kala.</l>
+          <l n="v20">Jeg dør for tidlig. –</l>
+          <l n="v21">Byd mit skjæg at vokse, Jehovah,</l>
+          <l n="v22">Min lille knebelsbart.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1961">
+        <head>Nocturne</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg sidder i en syndesvanger café,</l>
+          <l n="v2">hvis plüsch er falmet og mølædt.</l>
+          <l n="v3">Klokken mangler et kvart i tre,</l>
+          <l n="v4">luften er giftig og øllet.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Jeg ser mig omkring i den summende larm</l>
+          <l n="v6">og gaber – – . Nei død og pine!</l>
+          <l n="v7">To brune øine! En bølgende barm! –</l>
+          <l n="v8">Min afklædte sjæl maa hvine!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Jeg stirrer taus på mit tomme glas,</l>
+          <l n="v10">mens tankerne langveis farter.</l>
+          <l n="v11">Snart slukkes den sidste brændende gas</l>
+          <l n="v12">af tiden, den blege opvarter.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1962">
+        <head>Stemning</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Der summer en flue i morgen –</l>
+          <l n="v2">rød.</l>
+          <l n="v3">Der hviler en padde på mosen –</l>
+          <l n="v4">blød.</l>
+          <l n="v5">Der vandrer en pige i skoven –</l>
+          <l n="v6">sød.</l>
+          <l n="v7">Ta – ra – ra – bom – diæh.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1963">
+        <head>I galskabens kongeslot jeg bor –</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">I galskabens kongeslot jeg bor.</l>
+          <l n="v2">Jeg?</l>
+          <l n="v3">Jeg kom forældreløs til verden</l>
+          <l n="v4">og er et ufødt enten – eller.</l>
+          <l n="v5">Er jeg kommen forsilde?</l>
+          <l n="v6">Nei!</l>
+          <l n="v7">Endnu er der ord at finde,</l>
+          <l n="v8">mit slot har plads til mange.</l>
+          <l n="v9">I min urtilværelses mørke nat,</l>
+          <l n="v10">da jeg var et protoplasma,</l>
+          <l n="v11">uden hoved og hale,</l>
+          <l n="v12">da fornam jeg dig, Zullimenta,</l>
+          <l n="v13">som en lysvirkning,</l>
+          <l n="v14">som når solen skinner paa den dybe dam,</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v15">hvori froskenes æg svømmer</l>
+          <l n="v16">som en geléagtig masse.</l>
+          <l n="v17">Nu ligner min skjæbne</l>
+          <l n="v18">en hyæne, der føder elleve levende unger</l>
+          <l n="v19">ved foden af en palme</l>
+          <l n="v20">i ørkenen. –</l>
+          <l n="v21">En ensomt viftende palme.</l>
+          <l n="v22">Elleve unger! Væk dem ikke! –</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v23">Det er min fødsels dag.</l>
+          <l n="v24">Jeg står foran livets port</l>
+          <l n="v25">som et spørgsmaalstegn –</l>
+          <l n="v26">Vidunderlige tanke!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v27">Flammer kanske ikke vinen i fyldte bægre,</l>
+          <l n="v28">og dufter ikke</l>
+          <l n="v29">alle små piger inat?</l>
+          <l n="v30">Jeg er villig til straks</l>
+          <l n="v31">at vandre til stranden,</l>
+          <l n="v32">havets store, bølgebesprøitede strand,</l>
+          <l n="v33">og se paa alle de lig,</l>
+          <l n="v34">der silkeklædte og guldbeslagne</l>
+          <l n="v35">driver mod land.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v36">Kvindelig,</l>
+          <l n="v37">som stranden er fuld af.</l>
+          <l n="v38">De kommer fra havets bølgeblå sal</l>
+          <l n="v39">fra havkongens slot af det røde koral.</l>
+          <l n="v40">Jeg er villig til</l>
+          <l n="v41">at høre paa ul af de rasende hunde,</l>
+          <l n="v42">der sniger sig blege ind over heiene</l>
+          <l n="v43">udover veiene, –</l>
+          <l n="v44">jeg vil danse en vals med en skygge,</l>
+          <l n="v45">jeg frygter ikke</l>
+          <l n="v46">mørkets hyæne –  eller er det slange? –</l>
+          <l n="v47">der sniger sig op af havens gange.</l>
+          <l n="v48">Jeg vil synge en salme</l>
+          <l n="v49">gjøre alt for at ligne en dødstræt palme,</l>
+          <l n="v50">jeg vil slynge Vorherre lige i hans syn</l>
+          <l n="v51">en forbandelse, der skal svide hans øienbryn,</l>
+          <l n="v52">kaste ham ud af himlen med alt hans skrammel</l>
+          <l n="v53">og håne ham, fordi han er aflægs og gammel,</l>
+          <l n="v54">jeg vil aflure Satan hans sidste list</l>
+          <l n="v55">og narre ham selv og hans engle tilsidst,</l>
+          <l n="v56">jeg vil sværge på,</l>
+          <l n="v57">at din næse og dine øine blå,</l>
+          <l n="v58">at den korte negl paa din tommelfinger,</l>
+          <l n="v59">at dine rødskjære næsevinger,</l>
+          <l n="v60">din fine, hvidligrødmende hud,</l>
+          <l n="v61">–  at det er Gud!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v62">Thi jeg er en af dem,</l>
+          <l n="v63">der kjender klangen,</l>
+          <l n="v64">den milde, sansebedøvende klang</l>
+          <l n="v65">af tidens grålighvide, slappe nerver.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1964">
+        <head>I en ensom stund</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg ligger i min grav.</l>
+          <l n="v2">Jeg ligger vist på mave.</l>
+          <l n="v3">Jeg hører skygger trave</l>
+          <l n="v4">Rundt om i dødens have.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1965">
+        <head>Jeg gik til Vorherres signede kirke</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg gik til Vorherres signede kirke.</l>
+          <l n="v2">og bankede på –</l>
+          <l n="v3">å hei, å hå,</l>
+          <l n="v4">men fik ikke slippe ind.</l>
+          <l n="v5">(Det samme har forresten hændt mig hos dig,</l>
+          <l n="v6">som var kjæresten min.)</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Da lød derinde</l>
+          <l n="v8">tunge slæbende skridt,</l>
+          <l n="v9">der kom et spøgelse</l>
+          <l n="v10">vandrende i nedtrådte tøfler.</l>
+          <l n="v11">Og det lød med en sær, uhyggelig røst</l>
+          <l n="v12">som frøs mit hjerte til en isklump:</l>
+          <l n="v13">«Hvi kommer du hid, du skidne ansigt?</l>
+          <l n="v14">Er dine hænder toet i rosenbladblod?»</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v15">Da følte jeg, at verden består at</l>
+          <l n="v16">lutter ligstene.</l>
+          <l n="v17">Og ind i mine næsebor</l>
+          <l n="v18">gled der en ram, syrlig em</l>
+          <l n="v19">af rådnede roser.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v20">Ud af mit bryst</l>
+          <l n="v21">rev jeg med tigerklør</l>
+          <l n="v22">min sjæls flammende, slangeblanke topas,</l>
+          <l n="v23">som en kat klatrede jeg</l>
+          <l n="v24">op over kirkevæggen,</l>
+          <l n="v25">tog min sjæl mellem to fingre</l>
+          <l n="v26">og ridsede med den et navn i ruden,</l>
+          <l n="v27">et navn,</l>
+          <l n="v28">der skal falde som piskeslag over de syngende</l>
+          <l n="v29">presters krumbøiede, letfedede rygge,</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v30">dit navn, Zullimenta!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">dit bløde, elskovhviskende navn.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v32">Derpå gik jeg hjem</l>
+          <l n="v33">i den sortbløde nat,</l>
+          <l n="v34">hvis mørke er sært og ængstende</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v35">som hofterunde kvinders tunge former,</l>
+          <l n="v36">et mørke, hvis syngende stilhed</l>
+          <l n="v37">kun brødes</l>
+          <l n="v38">af telefonstrængens sagte summen,</l>
+          <l n="v39">der lød som klemt af verdens store ligklokke.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v40">Jeg gik hjem</l>
+          <l n="v41">til mit tagkammer.</l>
+          <l n="v42">Tændte mit lys</l>
+          <l n="v43">og satte det under en skjæppe.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p1966">
+        <head>Jeg har plukket –</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg har plukket min sjæls sidste rose.</l>
+          <l n="v2">En dødbleg rose,</l>
+          <l n="v3">Af gullighvidt fløil.</l>
+          <l n="v4">Den ligger nu</l>
+          <l n="v5">Vissen,</l>
+          <l n="v6">Rimfrossen</l>
+          <l n="v7">På Zullimentas grav.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Min sjæls sidste rose har jeg plukket,</l>
+          <l n="v9">Og nu er det slukket,</l>
+          <l n="v10">Og lukket</l>
+          <l n="v11">I min sjæls have.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v12">Min sjæls lystindrende have</l>
+          <l n="v13">Ligger sort i mørke</l>
+          <l n="v14">Jeg hulker.</l>
+          <l n="v15">Og hulker</l>
+          <l n="v16">Og hulker.</l>
+          <l n="v17">Min sjæls sidste rose.</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>

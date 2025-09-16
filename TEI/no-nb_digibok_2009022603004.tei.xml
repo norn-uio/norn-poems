@@ -1,0 +1,2372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sjøluft : billeder i digt</title>
+        <author>Aagaard, Gustav</author>
+        <principal xml:id="RK">Ranveig Kvinnsland</principal>
+        <funder>European Research Council (ERC)</funder>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name xml:id="ILD">Ingerid Løyning Dale</name>
+          <name ref="#RK">Ranveig Kvinnsland</name>
+        </respStmt>
+        <respStmt>
+          <resp>Part of the project<ref target="https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/" xml:id="NORN">Norwegian Romantic Nationalisms (NORN)</ref></resp>
+          <name xml:id="ER">Ellen Rees</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="poems">19</measure>
+        <measure unit="lines">2189</measure>
+        <measure unit="tokens">12199</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="#NORN">NORN Poems</publisher>
+        <availability status="free">
+          <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
+        </availability>
+        <date when="2025">2025-09-16</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl xml:id="no-nb_digibok_2009022603004">
+          <author>Aagaard, Gustav</author>
+          <title>Sjøluft : billeder i digt</title>
+          <pubPlace>Kristiania</pubPlace>
+          <date>1893</date>
+          <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2009022603004"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2024-12-05" who="#ILD">Initial TEI version</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="poem" xml:id="p2671">
+        <head>Til min hustru</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naar Sorger og Glæder stemte</l>
+          <l n="v2">Min Harpe og gav den Klang,</l>
+          <l n="v3">Var det for dig, jeg digted</l>
+          <l n="v4">Og nynnede Sang efter Sang.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Du sagde, du var saa prosaisk ‒</l>
+          <l n="v6">Din Prosa er dog Poesi,</l>
+          <l n="v7">Meget, ja meget bedre</l>
+          <l n="v8">End alt mit Rimeri!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Thi deiligste Digt, der skrives,</l>
+          <l n="v10">Det er et Menneskeliv,</l>
+          <l n="v11">Levet til andres Nytte,</l>
+          <l n="v12">Fyldt af Guds stærke: Bliv!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Hav Tak for dit Livsdigt, Dodi,</l>
+          <l n="v14">Hav Tak for alt til idag!</l>
+          <l n="v15">Hvad mere du kommer at digte,</l>
+          <l n="v16">Se det er vor Herres Sag!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2672">
+        <head>Indledning</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Jeg gaar omkring og leder ‒</l>
+          <l n="v2">Jeg ved ikke selv efter hvad.</l>
+          <l n="v3">Maaske det rettest bør kaldes</l>
+          <l n="v4">Digtningens Firkløverblad.</l>
+          <l n="v5">Forstaar du? Det er ikke dette</l>
+          <l n="v6">At vinde Kritikens Gunst;</l>
+          <l n="v7">Det er ikke dette at hædres</l>
+          <l n="v8">Som Mester i Digtningens Runst.</l>
+          <l n="v9">Det er ikke Beundring, jeg ønsker ‒</l>
+          <l n="v10">Jeg vil i Hjerterne ind</l>
+          <l n="v11">Og sprede Solskin og Lykke</l>
+          <l n="v12">I graadtunge Menneskesind.</l>
+          <l n="v13">Bunde jeg bare synge</l>
+          <l n="v14">Et eneste Menneske glad,</l>
+          <l n="v15">Saa havde jeg fundet det søgte,</l>
+          <l n="v16">Fundet mit Firkløverblad.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2673">
+        <head>Faderglæde</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Solen straaler, og Havet ler,</l>
+          <l n="v2">Og Lodsen glad til dem begge ser.</l>
+          <l n="v3">Graad i Øiet, men Smil om Mund:</l>
+          <l n="v4">“Dig, Gud, være Tak denne Morgenstund!”</l>
+          <l n="v5">Saa heises i Top det norske Flag.</l>
+          <l n="v6">Vai lystigt paa denne velsignede Dag! ‒</l>
+          <l n="v7">Hvad er der skeet?</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Just nu inat</l>
+          <l n="v9">Han fik fra Vorherre den største Skat,</l>
+          <l n="v10">Han tyktes kunne paa Jorden faa:</l>
+          <l n="v11">Den førstefødte derinde laa,</l>
+          <l n="v12">Et Søndagsbarn ‒ og tilmed en Gut</l>
+          <l n="v13">Paa tyve Mærker. Hurra, min Glut!</l>
+          <l n="v14">Saa skulde Flaget da vel i Top,</l>
+          <l n="v15">Om nogensinde det heistes op!</l>
+          <l n="v16">Saa var det ikke at undres paa,</l>
+          <l n="v17">Om Solen skinned, og Havet laa</l>
+          <l n="v18">Glad, med Nyn paa en Vuggesang.</l>
+          <l n="v19">Ding, ding, dingdang ‒ hvilken Sølvklokkeklang!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v20">Ding ding, dingeling – “sov sødt, sov sødt,</l>
+          <l n="v21">Du Søndagsbarn, som inat er født!</l>
+          <l n="v22">Et Søndagsbarn og en Sjømands Barn ‒</l>
+          <l n="v23">Gud Fader dig vogte for Syndens Garn,</l>
+          <l n="v24">Vorherre dig signe fra Vugge til Grav,</l>
+          <l n="v25">Han styre Kursen paa Verdens Hav!</l>
+          <l n="v26">Han lyse for dig, ihvor du er,</l>
+          <l n="v27">Og lodse frem mellem blinde Skjær,</l>
+          <l n="v28">Til, Søndagsbarn, du er naaet frem,</l>
+          <l n="v29">Til, Sjømandsbarn, du er kommet hjem!</l>
+          <l n="v30">Ding, ding, dingeling – i Storm og Stille</l>
+          <l n="v31">Gud være med dig, du bittelille!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2674">
+        <head>Disput</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Han:</l>
+          <l n="v2">Hør nu, Mor, hvad skal Gutten være?</l>
+          <l n="v3">Ikke for det ‒ det haster jo ei,</l>
+          <l n="v4">Men, som du ved, en Levevei</l>
+          <l n="v5">Maa hver Mand have, sin Gud til Ære.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v6">Hun:</l>
+          <l n="v7">Levevei? – Sjømand naturligvis.</l>
+          <l n="v8">Men, som bemærket, det haster ikke,</l>
+          <l n="v9">Hans Levevei er for Tiden at drikke</l>
+          <l n="v10">Og skrige og skraale, den lille Gris.</l>
+          <l n="v11">Jeg synes, vi først faar gi' ham et Navn,</l>
+          <l n="v12">Og faa ham kristnet paa sømmelig Maade.</l>
+          <l n="v13">For Resten lar vi Vorherre raade,</l>
+          <l n="v14">Saa blir det nok Gutten og os til Gavn.</l>
+          <l n="v15">Hvad mener du saa, vi bør kalde ham?</l>
+          <l n="v16">Rasmus?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Han:</l>
+          <l n="v18">Rasmus? Aa nei da, Maren.</l>
+          <l n="v19">Det Navnet skjæmmer bort hele Karen.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v20">Hun: (fornærmet)</l>
+          <l n="v21">Jasaa. Det synes mig, Bedstefar hed</l>
+          <l n="v22">Slig og skjæmtes ikke derved.</l>
+          <l n="v23">End Jonas da? – eller Abraham?</l>
+          <l n="v24">Kanske de heller ikke er gode?</l>
+          <l n="v25">Kanske de bar deres Navne med Skam</l>
+          <l n="v26">Hvad?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v27">Han:</l>
+          <l n="v28">Hør Maren, lidt kort for Ho'de</l>
+          <l n="v29">Var du sikkert, fra du blev født.</l>
+          <l n="v30">At sukke for mig jeg orker snøt,</l>
+          <l n="v31">For du har ‒ ‒ ‒ men kjære, gulle, vene,</l>
+          <l n="v32">Graat nu da ikke, saa er du snil!</l>
+          <l n="v33">Kald Gutten akkurat, som du vil.</l>
+          <l n="v34">Jeg er lige glad. Alle Navne er pene.</l>
+          <l n="v35">Rasmus og Jonas og Josef og Peder,</l>
+          <l n="v36">Hvad det saa blir, vil det bæres med Hæder ‒</l>
+          <l n="v37">Bare tag det med Ro ‒</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v38">Hun: (grædende)</l>
+          <l n="v39">‒ ja, rigtig ja ‒</l>
+          <l n="v40">Jeg gad vide, hvad det er, du er vigtig a'!</l>
+          <l n="v41">Tag det med Ro ‒ naar du sværter mig ‒</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v42">Han:</l>
+          <l n="v43">Sværter dig?</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v44">Hun:</l>
+          <l n="v45">Ja, ja, du erter mig;</l>
+          <l n="v46">Det kan vel være omtrent det samme.</l>
+          <l n="v47">Jeg synes, du skulde dig dygtigt skamme.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v48">Han:</l>
+          <l n="v49">Godt Ord igjen. ‒ Hvad vil du saa? ‒</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v50">Hun:</l>
+          <l n="v51">Jeg vil, at du selv skal finde paa</l>
+          <l n="v52">Et Navn til Barnet.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v53">Han: (forsigtig)</l>
+          <l n="v54">End Marius?</l>
+          <l n="v55">Efter dig?</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v56">Hun:</l>
+          <l n="v57">Efter Dromedarius,</l>
+          <l n="v58">Efter Per, efter Paal, det er lige godt.</l>
+          <l n="v59">Jeg er nøid, om jeg slipper at kjævles blot.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v60">Han:</l>
+          <l n="v61">Marius! ‒ Der er Klang i det Navn</l>
+          <l n="v62">Marius Jakobsen Randenæshavn.</l>
+          <l n="v63">En Søn af den gjildeste Kone paa Jord,</l>
+          <l n="v64">En Søn ‒ kortsagt ‒ af sin egen Mor ‒</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v65">Hun:</l>
+          <l n="v66">Ja nu er du blid, nu ‒</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v67">Han:</l>
+          <l n="v68">‒ javist er jeg blid,</l>
+          <l n="v69">Det har jeg været den hele Tid: ‒</l>
+          <l n="v70">Hør ‒ skal vi døbe ham Søndag, som kommer,</l>
+          <l n="v71">Eller vente til længere frem paa Sommer?</l>
+          <l n="v72">Veien til Kirken er jo lang.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v73">Hun:</l>
+          <l n="v74">Aa ‒ Gutten faar vænnes til Sjøen engang.</l>
+          <l n="v75">Veiret er varmt nok, og Baaden er tæt,</l>
+          <l n="v76">Og skulde det blæse; vi taaler en Skvæt.</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v77">Han:</l>
+          <l n="v78">All right! Saa lager du færdig til Festen,</l>
+          <l n="v79">Og jeg ‒ ja, jeg reiser imorgen til Præsten.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2675">
+        <head>Daabsdagen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">"Enhver, som tror og bliver døbt,</l>
+          <l n="v2">Han skal vist salig blive,</l>
+          <l n="v3">Thi han ved Jesu Blod er kjøbt,</l>
+          <l n="v4">Som vil sig ham indlive,</l>
+          <l n="v5">Og blandt Guds Børns det hellig Tal</l>
+          <l n="v6">Til Himmeriges Æres Val</l>
+          <l n="v7">Med Korsets Blod indskrive.”</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Klokken kalder.</l>
+          <l n="v9">I Morgenluftningen</l>
+          <l n="v10">Klangen føres</l>
+          <l n="v11">Vidt over Vande</l>
+          <l n="v12">Til Kirkefolket.</l>
+          <l n="v13">Solen straaler,</l>
+          <l n="v14">Bølgerne glitrer;</l>
+          <l n="v15">Freidigt, mit Hjerte,</l>
+          <l n="v16">Syng Sorgerne ud!</l>
+          <l n="v17">Dette er Dagen,</l>
+          <l n="v18">Som Herren gjorde,</l>
+          <l n="v19">Fyrsten blandt Dagene</l>
+          <l n="v20">Straaleklædt,</l>
+          <l n="v21">Hædret af Gud. ‒ ‒</l>
+          <l n="v22">En Søndagsmorgen,</l>
+          <l n="v23">Skabningens Morgen,</l>
+          <l n="v24">Lød Almagtens: “Bliv!”</l>
+          <l n="v25">“Der blive Lys!”</l>
+          <l n="v26">Og paa hans Bud</l>
+          <l n="v27">Vældede Lyset ud</l>
+          <l n="v28">Som en Flom over Jorden.</l>
+          <l n="v29">Og med Lyset er Livet</l>
+          <l n="v30">Til Jorderig givet. ‒</l>
+          <l n="v31">Verdenslyset,</l>
+          <l n="v32">Solen med Lægedom</l>
+          <l n="v33">Under sin Vinge,</l>
+          <l n="v34">En Søndagsmorgen</l>
+          <l n="v35">Af Nat brød frem.</l>
+          <l n="v36">Paa Herrens Bud</l>
+          <l n="v37">Vælder fra Graven ud</l>
+          <l n="v38">Lys som en Flom over Jorden.</l>
+          <l n="v39">Lyset og Livet</l>
+          <l n="v40">Hin Paaskemorgen</l>
+          <l n="v41">Blev Jorderig givet. ‒</l>
+          <l n="v42">Atter en Søndag,</l>
+          <l n="v43">Pintsedag,</l>
+          <l n="v44">Med Lyd som af Storm</l>
+          <l n="v45">Og dog Luftning mild,</l>
+          <l n="v46">Se ‒ Tunger af Ild</l>
+          <l n="v47">Sætter sig paa</l>
+          <l n="v48">Vorherres fattige Smaa.</l>
+          <l n="v49">Ud skal de gaa,</l>
+          <l n="v50">Med Bud skal de gaa</l>
+          <l n="v51">Om Lyset og Livet,</l>
+          <l n="v52">Som Verden i Kristus er givet. ‒</l>
+          <l n="v53">Atter kom Dagen,</l>
+          <l n="v54">Og Himlen aabnes</l>
+          <l n="v55">Hist over Patmos</l>
+          <l n="v56">Til storslagne Syner.</l>
+          <l n="v57">Johannes saa dem,</l>
+          <l n="v58">Saa, hvad der skulde hænde</l>
+          <l n="v59">Guds Folk til Dagenes Ende!</l>
+          <l n="v60">Søndag paa Søndag</l>
+          <l n="v61">Med Gaver fra Gud,</l>
+          <l n="v62">Med lutrende Bad,</l>
+          <l n="v63">Med styrkende Mad</l>
+          <l n="v64">Ved Vorherres Bord,</l>
+          <l n="v65">Med Naadesbud</l>
+          <l n="v66">For en syndig Jord. ‒ ‒</l>
+          <l n="v67">Solen straaler,</l>
+          <l n="v68">Bølgerne glitrer.</l>
+          <l n="v69">Løft dig, mit Hjerte,</l>
+          <l n="v70">Syng Sorgerne ud!</l>
+          <l n="v71">Klokken kalder.</l>
+          <l n="v72">I Morgenluftningen</l>
+          <l n="v73">Klangen føres</l>
+          <l n="v74">Vidt over Vande</l>
+          <l n="v75">Til Kirkefolket.</l>
+          <l n="v76">Baad efter Baad</l>
+          <l n="v77">For spændte Seil</l>
+          <l n="v78">Stryger som Maager</l>
+          <l n="v79">Mod Kirken derinde.</l>
+          <l n="v80">Fra Øst og fra Vest</l>
+          <l n="v81">Kommer til Fest,</l>
+          <l n="v82">Som Herrens Gjæst,</l>
+          <l n="v83">Baade Mand og Kvinde.</l>
+          <l n="v84">Klokkeklangen</l>
+          <l n="v85">Derindefra Land,</l>
+          <l n="v86">Salmesangen</l>
+          <l n="v87">Over skvulpende Vand,</l>
+          <l n="v88">Blander sig sammen,</l>
+          <l n="v89">Smelter til ét,</l>
+          <l n="v90">Et jublende let:</l>
+          <l n="v91">Halleluja, Amen!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v92">“Vi sukke alle hjertelig</l>
+          <l n="v93">Og udi Troen sige</l>
+          <l n="v94">Med Hjertens Bøn enhver for sig:</l>
+          <l n="v95">O Jesus, lad os stige</l>
+          <l n="v96">Ved Daabens Kraft i Dyder frem,</l>
+          <l n="v97">Og før os saa ved Troen hjem</l>
+          <l n="v98">Til Ærens evige Rige!”</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2676">
+        <head>Barnlige Drømme</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Barnet ligger ved Stranden og sover.</l>
+          <l n="v2">Stille! ‒ Ja nyn kun, men stille.</l>
+          <l n="v3">Hvad du saa gjør, væk ikke den Lille</l>
+          <l n="v4">Med dine urolige Vover!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Gutten ligger ved Stranden og drømmer.</l>
+          <l n="v6">Væk ham ikke! Ingen aner,</l>
+          <l n="v7">Hvor lyst det er. Ser du ‒ hvide Svaner</l>
+          <l n="v8">Let henover Skyerne svømmer!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Ei da ‒ hei da ‒ paa Svaneryg ride!</l>
+          <l n="v10">Hvor langt? ‒ O, langt over Lande</l>
+          <l n="v11">Til de fjerneste, sollyste Strande,</l>
+          <l n="v12">Helt ind i Himlen, maa du vide.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Armen om Svanehalsen jeg slynger,</l>
+          <l n="v14">Gjemmer i Dunene Kinden,</l>
+          <l n="v15">Klynger mig fast og seiler med Vinden.</l>
+          <l n="v16">Tys ‒ stille! Hør ‒ Svanerne synger!</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Synger om Himlen. Var vi dog fremme!</l>
+          <l n="v18">Et Eventyrland er Jorden.</l>
+          <l n="v19">Deiligt i Syden, deiligt i Norden ‒</l>
+          <l n="v20">Men ‒ det er ikke som derhjemme!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Mor har talt om en Stad i Eden;</l>
+          <l n="v22">Som skinnende Guld den straaler.</l>
+          <l n="v23">Det er vel knapt, at mit Øie taaler,</l>
+          <l n="v24">Tænker jeg, rigtigt at se den.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Mor har fortalt, at høiest oppe ‒</l>
+          <l n="v26">Af Evighedsluft omsuset ‒</l>
+          <l n="v27">Ligger et Kongeslot, Faderhuset,</l>
+          <l n="v28">Paa snehvide Bjergetoppe.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v29">Der ‒ siger hun ‒ der skal vi glemme</l>
+          <l n="v30">Alt, som var saart, og møde</l>
+          <l n="v31">Skal vi de Frelste, de salige Døde</l>
+          <l n="v32">Med Jubel og Sang derhjemme. ‒</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v33">Vingen mattes, men ‒ se ‒ nu dukker</l>
+          <l n="v34">Kysten frem i Aftenrøden! ‒</l>
+          <l n="v35">Svanen synger saa smukt mod Døden,</l>
+          <l n="v36">Allersmukkest, naar Øiet den lukker!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2677">
+        <head>Det bedste i Verden</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Naturigvis ‒ uden at klandre</l>
+          <l n="v2">Vor Marius ‒ er han som andre,</l>
+          <l n="v3">Kan bære sig ilde,</l>
+          <l n="v4">Og hyle som de Vilde</l>
+          <l n="v5">Men ‒ sørger Gutten, saa tørres hans Graad,</l>
+          <l n="v6">Bare han hører om Papas Baad!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Atter igjen ‒ uden at klandre</l>
+          <l n="v8">Vor Marius ‒ er han som andre</l>
+          <l n="v9">Smaagutter lidt kjed af,</l>
+          <l n="v10">Ja, ret hjertelig led af</l>
+          <l n="v11">Sin Katekismus og Tavle ‒ den røde Traad</l>
+          <l n="v12">I alle hans Tanker er: Papas Baad!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Jo mere det svartner og fuler,</l>
+          <l n="v14">Jo værre hun hyler og uler,</l>
+          <l n="v15">Des gladere bare!</l>
+          <l n="v16">Der tænkes ei paa Fare.</l>
+          <l n="v17">Og pyt ‒ om hele Gutten blir vaad,</l>
+          <l n="v18">Det spørges ikke efter i Papas Baad!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Han elsker sin Far og flere,</l>
+          <l n="v20">Elsker sin Mor endnu mere,</l>
+          <l n="v21">Men bedst ‒ ja, hør nu,</l>
+          <l n="v22">Og tro mig, det bør du,</l>
+          <l n="v23">For ‒ hvad du saa siger, det er ikke Raad:</l>
+          <l n="v24">Det bedste i Verden er Papas Baad!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2678">
+        <head>Storm</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Himlen er klar og skyfri, men som glødende Ild</l>
+          <l n="v2">Solstraalerne brænder.</l>
+          <l n="v3">“Et Sted, hvor jeg kan aande, jeg neppe finde vil,</l>
+          <l n="v4">Hvorhelst jeg mig vender.”</l>
+          <l n="v5">Saa sukker de alle, ogsaa Skipperen derude</l>
+          <l n="v6">Paa den duvende Skude.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v7">Den ligger der og dupper med daskende Seil,</l>
+          <l n="v8">Og Barometret synker.</l>
+          <l n="v9">“En Storm er i Anmarsch, hvis ikke jeg tar feil.”</l>
+          <l n="v10">Slig Stuerten klynker.</l>
+          <l n="v11">Han er ei just en Hare, men ‒ han kan ikke glemme,</l>
+          <l n="v12">Han har mange derhjemme.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v13">Den, der vel var inde i nærmeste Havn</l>
+          <l n="v14">Og sikkert fortøiet.</l>
+          <l n="v15">Inat vil det blæse lidt mere end til Gavn.</l>
+          <l n="v16">Hei hop ‒ fornøiet!</l>
+          <l n="v17">Det nytter ei at daane som en Dame af Fiffen.</l>
+          <l n="v18" indentLevel="1">	Vil Gud, vi klarer Biffen. ‒</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v19">Timerne glider; det lakker alt mod Kvæld.</l>
+          <l n="v20">Stødvis kommer Blæsten.</l>
+          <l n="v21">Og mer og mer den øges, alt som Solen er i Hæld</l>
+          <l n="v22">Blandt Gløder i Vesten.</l>
+          <l n="v23">Det skummer over Havet, det tuder i Masten,</l>
+          <l n="v24">Og det knager i Lasten.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v25">Dagen er gaaet. Det er mørkt som i en Sæk.</l>
+          <l n="v26">Et jaget Vildt er Briggen.</l>
+          <l n="v27">Den flyver for Stumperne, og nu ‒ nu er den læk!</l>
+          <l n="v28">Hvor det stønner i Riggen!</l>
+          <l n="v29">O ve ‒ hvad var det? Hør dog ‒ som ved Ligfærd det klinger!</l>
+          <l n="v30">Hør – Stkibsklokken ringer!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">Det er, som onde Aander holder Møde inat.</l>
+          <l n="v32">Se saa ‒ en Mast er brækket!</l>
+          <l n="v33">Der svæver hvide Skygger for Boug og ved Rat.</l>
+          <l n="v34">Det spøger under Dækket.</l>
+          <l n="v35">Ak Herre, Herre, hjælp dog ‒ som Frelser blev du givet ‒</l>
+          <l n="v36">Ak Herre Gud, spar Livet!</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v37">Da dukker frem en Lodsbaad. Nu Gud være Tak</l>
+          <l n="v38">For sin Bistand i Nøden!</l>
+          <l n="v39">En Trosse kastet ‒ grebet ‒ og Lodsen uden Snak</l>
+          <l n="v40">Tar Kampen op mod Døden.</l>
+          <l n="v41">Der staar han alt ved Ratten, hel rolig og frimodig,</l>
+          <l n="v42">Frimodig ja ‒ men blodig!</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v43">Hans Haand er knust. Mod Skansen fik han et dygtigt Slag.</l>
+          <l n="v44">En Smule bleg er Kinden.</l>
+          <l n="v45">Dog blaas med slige Smaating. Snart lysner det til Dag,</l>
+          <l n="v46">Saa stilner nok Vinden.</l>
+          <l n="v47">Er Skuden først bjerget og Liv og andet mere,</l>
+          <l n="v48">Kan Haanden han kurere.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v49">Men Stormen stilner ikke, og Skuden tager Vand</l>
+          <l n="v50">“Det ser mest ud, den synker,</l>
+          <l n="v51">Og det saa nær ved Hjemmet, saa klods under Land,”</l>
+          <l n="v52">Slig Stuerten klynger.</l>
+          <l n="v53">Men Lodsen klynker ikke, skjønt ‒ han har og derhjemme</l>
+          <l n="v54">Et Par, han ei kan glemme!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v55">Han staar saa kjæk og rolig. Han har i Herren Fred.</l>
+          <l n="v56">“Jeg lever ‒ I skal leve!”</l>
+          <l n="v57">Det, mindes han, staar skrevet i Bibelen et Sted.</l>
+          <l n="v58">Min Aand skal ei bæve</l>
+          <l n="v59">For Stormveir eller Hav, ja ei engang for Døden. ‒</l>
+          <l n="v60">Nu lysner Morgenrøden!</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v61">Det dages langt i Øster, mens det rasende Hav</l>
+          <l n="v62">Skriver sin nye Gaade.</l>
+          <l n="v63">Der er kun En, som kjender de Bortkomnes Grav.</l>
+          <l n="v64">Han dømme dem i Naade!</l>
+          <l n="v65">Men ingen græde skal for dem, som er i Kristus fundne,</l>
+          <l n="v66">Omend sporløst forsvundne!</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v67">Det dages langt i Øster ‒ over Randenæshavn ‒</l>
+          <l n="v68">Gud hjælpe hver, som strider!</l>
+          <l n="v69">Gud give Haab om Hvile i Abrahams Favn</l>
+          <l n="v70">For Sjæle, der lider!</l>
+          <l n="v71">Saa gaar det nok. Saa faar de nok tilslut fornemme:</l>
+          <l n="v72">De har det godt derhjemme.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2679">
+        <head>Dønninger</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Stormen har lagt sig, men Havet gaar</l>
+          <l n="v2">Med lange, sugende Bølger. ‒</l>
+          <l n="v3">Bruste det i dig, saavist du forstaar,</l>
+          <l n="v4">At Dønninger Stormen følger.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Det blev ei stille derinde med ét,</l>
+          <l n="v6">Var end det sværeste over.</l>
+          <l n="v7">Dit Hjerte blev sygt. og Sjælen træt</l>
+          <l n="v8">Af Tankernes vuggende Vover</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">Kunde jeg gjøre det gjorte om ‒!</l>
+          <l n="v10">Tilgiv mig ‒ tilgiv mig ‒ tilgiv mig!</l>
+          <l n="v11">Der er ingen Trøst i Angerens Flom.</l>
+          <l n="v12">Gud ‒ og du Døde! ‒ tilgiv mig!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v13">Minderne kommer i Flok og Rad.</l>
+          <l n="v14">Dem er der intet, som trætter.</l>
+          <l n="v15">De smilte og trued ‒ du græd og bad</l>
+          <l n="v16">I hundrede vaagne Nætter.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v17">Og viger og glider de undaf en Stund,</l>
+          <l n="v18">De viger for nye Tanker:</l>
+          <l n="v19">Skaf Brød mig, Herre, til Barnemund.</l>
+          <l n="v20">Nøden staar ude og banker! ‒</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v21">Nuvel, mit Hjerte, den længste Dag</l>
+          <l n="v22">Saa visselig engang ender.</l>
+          <l n="v23">At stille Havet er Herrens Sag,</l>
+          <l n="v24">Og Timen ‒ den rette ‒ han kjender.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v25">Saa bi paa Herren, min Sjæl fat Mod!</l>
+          <l n="v26">Dønningens sugende Bølger</l>
+          <l n="v27">Skal maatte lægge sig for din Fod,</l>
+          <l n="v28">Og Hvile paa Stormen følger.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2680">
+        <head>Aftenen før Reisen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Maren (ligger paa Knæ foran en Skibskiste og pakker ind. Taler ved sig selv).</l>
+          <l n="v2">To deilige Votter, et Skjærf og andet,</l>
+          <l n="v3">Der nok kan komme til Nytte paa Vandet. ‒</l>
+          <l n="v4">Og saa er det Støvlerne. ‒ Du store Verden,</l>
+          <l n="v5">Hvor det koster at rigge en ud til Færden!</l>
+          <l n="v6">Tyve Kroner for det ene Par!</l>
+          <l n="v7">Tyve Kroner! ‒ Og ikke en Øre</l>
+          <l n="v8">Vilde han slaa af. Han var døv paa det Øre.</l>
+          <l n="v9">Han blev vond tilslut. “Tror du, jeg er en Nar ‒</l>
+          <l n="v10">Sælger slige Støvler med Tab og Forlis?”</l>
+          <l n="v11">Naa ‒ ja ja ‒ til Høsten jeg slagter min Gris,</l>
+          <l n="v12">Saa faar jeg nok altid de Udgifter dækket. ‒</l>
+          <l n="v13">Sex Par Strømper. ‒ Aa stakkars min Gut,</l>
+          <l n="v14">Med Fødderne er det desværre snart slut.</l>
+          <l n="v15">Strikke nye? Ja havde bare jeg rækket ‒</l>
+          <l n="v16">Men vent du til Jul ‒ naar du da kommer hjem,</l>
+          <l n="v17">Skal jeg skaffe dig nye, flunkende nye</l>
+          <l n="v18">Hoser af Garn fra Jensen og Rye.</l>
+          <l n="v19">Og saa er det Uldtrøierne ‒ ikke et Hul paa dem! ‒</l>
+          <l n="v20">Og Tollekniven ‒ efter Far ‒ aa, Herre min Gud,</l>
+          <l n="v21">Snart har jeg vel grædt mine Øine ud.</l>
+          <l n="v22">Husker du, Maren, til Sommer er det fem</l>
+          <l n="v23">Kvalfulde Aar, siden Gud tog ham hjem?</l>
+          <l n="v24">Jeg tro'de, jeg aldrig skulde holdt ud at leve ‒</l>
+          <l n="v25">Men jamen er det godt, En er nødt til at stræve</l>
+          <l n="v26">Og slide og kare for sig og sine,</l>
+          <l n="v27">Det døver og dulmer dog Hjertets Pine,</l>
+          <l n="v28">Og saa gaar Tiden, Dag efter Dag,</l>
+          <l n="v29">Mens Herren os føder ‒ se det er hans Sag!</l>
+          <l n="v30">I Bibelen staar der, han kjærligt tænker</l>
+          <l n="v31">Paa alle de Faderløse og Enker.</l>
+          <l n="v32">Gud hjælpe mig Stymper, om ikke saa det var.</l>
+          <l n="v33">Men Bibelen har Ret, som den altid har.</l>
+          <l n="v34">Bibelen ja ‒ det er sandt ‒ hvor er Bogen henne? ‒</l>
+          <l n="v35">Fars Bog ‒ den skal Marius have ‒</l>
+          <l n="v36">Den skal med i Kisten ‒ min Afskedsgave ‒</l>
+          <l n="v37">Skal følge Gutten til Livets Eude.</l>
+          <l n="v38">Øverst skal den lægges, paa hans fineste Trøie,</l>
+          <l n="v39">Saa ved jeg, han har den stadig for Die ‒</l>
+          <l n="v40">Men hvor er den ‒</l>
+          <l n="v41">(raaber) Marius ‒ Marius ‒ Kom herind!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v42">Marius: (hæsblæsende)</l>
+          <l n="v43">Nu kommer jeg, Mor, saa fort som en Vind.</l>
+          <l n="v44">Hvad er det, du vil?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v45">Maren:</l>
+          <l n="v46">Ja, hvad var det nu?</l>
+          <l n="v47">Har du set Mage, nu glemte jeg det, du,</l>
+          <l n="v48">Jeg sidder og pakker din Kiste, som du ser</l>
+          <l n="v49">Aa, fy skamme dig, staar ikke Gutten der og ler,</l>
+          <l n="v50">Ler af sin Mor! ‒</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v51">Marius:</l>
+          <l n="v52">Nei jeg ler af noget andet.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v53">Maren:</l>
+          <l n="v54">Af hvad da?</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v55">Marius:</l>
+          <l n="v56">Af Rasmus. Han plumped i Vandet.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v57">Maren:</l>
+          <l n="v58">I Vandet?</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v59">Marius:</l>
+          <l n="v60">Ja netop nu ‒ dernede ved Bryggen ‒</l>
+          <l n="v61">Saa fik han et Bad, den skidne Styggen.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v62">Maren:</l>
+          <l n="v63">Aa pas du dig selv, at ikke overbord</l>
+          <l n="v64">Du plumper til Sorg for din gamle Mor.</l>
+          <l n="v65">Jeg kjender dig nok, din Abekat ‒</l>
+          <l n="v66">Du ligner din Far ‒ en Uveirsnat</l>
+          <l n="v67">Gaar du tilveirs, skjønt ingen gi'r Ordre.</l>
+          <l n="v68">Fræk og dumdristig skal du Lykken udfordre.</l>
+          <l n="v69">Ikke sandt ‒ slig gjør du? ‒ og saa bums i Dæktet</l>
+          <l n="v70">Og slaar dig ihjel. Dit Halsben er knækket.</l>
+          <l n="v71">Saa kan du ha' det saa godt.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v72">Marius:</l>
+          <l n="v73">Men Mor ‒</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v74">Maren:</l>
+          <l n="v75">Er det kanske ikke sandt hvert eneste Ord?</l>
+          <l n="v76">Vær sikker, det ender paa denne Maade,</l>
+          <l n="v77">Hvis ikke Vorherre af bare Naade</l>
+          <l n="v78">Tager sig af dig og styrer dit Mod.</l>
+          <l n="v79">Men det gjør han nok. ‒ Han er mild og god ‒</l>
+          <l n="v80">Han befaler sin Engel at være til Tjeneste,</l>
+          <l n="v81">For han ved saa godt, at du er min eneste.</l>
+          <l n="v82">Vær ikke ræd du, Marius ‒ du skal se, det gaar ‒</l>
+          <l n="v83">Og saa er du Skipper om en halv Snes Aar,</l>
+          <l n="v84">Hvis du skikker dig pent</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v85">Marius:</l>
+          <l n="v86">Det var længe at vente.</l>
+          <l n="v87">For Skipperværdigheden at hente!</l>
+          <l n="v88">Men Mor, det er sandt, jeg talte med Kokken,</l>
+          <l n="v89">Han bad mig tage med “Kirkeklokken”</l>
+          <l n="v90">Foruden Bibelen naturligvis ‒</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v91">Maren:</l>
+          <l n="v92">‒ Bibelen, ja,</l>
+          <l n="v93">Det var den, jeg spurgte efter ista'</l>
+          <l n="v94">Hvor har du den?</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v95">Marius:</l>
+          <l n="v96">Her, Mor, lige foran din Næse.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v97">Maren:</l>
+          <l n="v98">Har du hørt sligt! ‒ vil du love mig at læse</l>
+          <l n="v99">Lidt hver eneste Fristund i den?</l>
+          <l n="v100">Bedre nytter du ikke Tiden.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v101">Marius:</l>
+          <l n="v102">Men Skrivningen da? Et lidet Brev</l>
+          <l n="v103">Ska'r det vel ikke, om hjem jeg skrev</l>
+          <l n="v104">Fra Sunderland til min egen Mutter.</l>
+          <l n="v105">Det er bedst, jeg faar med Papir og Konvolutter,</l>
+          <l n="v106">Ellers glemmer jeg dig, og det vil du dog ei.</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v107">Maren:</l>
+          <l n="v108">Glemmer. Er du galen? Glemmer han mig!</l>
+          <l n="v109">Jeg tror min sandten, at Gutten primer.</l>
+          <l n="v110">Var du lidt mindre, jeg gav dig en Vask</l>
+          <l n="v111">Midt paa din Bagfjerding, Dask i Dask,</l>
+          <l n="v112">Saa hele Stasen blev bare Strimer. ‒</l>
+          <l n="v113">Glemmer! Han taler om at glemme sin Mor!</l>
+          <l n="v114">Gud naade dig, Barn, hvilke syndige Ord!</l>
+          <l n="v115">Men kjære, du mente det neppe saa slemt.</l>
+          <l n="v116">Ens Mor er da ikke saa hurtigt glemt.</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v117">Marius:</l>
+          <l n="v118">Nei, søde min Gamle, det var Moro bare.</l>
+          <l n="v119">(Kysser hende)</l>
+          <l n="v120">Take it coolly ‒ det har slet ingen Fare.</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v121">Maren:</l>
+          <l n="v122">Idag for Moro ‒ for Alvor imorgen.</l>
+          <l n="v123">Men aldrig jeg stod i at bære den Sorgen.</l>
+          <l n="v124">(Kommer med et Par Billeder)</l>
+          <l n="v125">Se her ‒ dem skal du faa ‒ du ser, det er Far,</l>
+          <l n="v126">Det er det eneste Fotografi, jeg har</l>
+          <l n="v127">Af ham v og dette er mig fra gamle Dage.</l>
+          <l n="v128">Der er ikke stort af min Skjønhed tilbage.</l>
+          <l n="v129">Skjønheden kommer og gaar, som du ved,</l>
+          <l n="v130">Og alt paa Jord er Forfængelighed.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v131">Marius:</l>
+          <l n="v132">Vel ikke alt?</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v133">Maren:</l>
+          <l n="v134">Nei ikke min Kjærlighed,</l>
+          <l n="v135">Det er sandt ‒ den varer, min egen Gut,</l>
+          <l n="v136">Varer, til selve mit Liv er slut,</l>
+          <l n="v137">Ja længere endda. Den følger nok med,</l>
+          <l n="v138">Følger mig ind i Guds Evighed.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v139">Marius: (paa Graaden)</l>
+          <l n="v140">Imorgen, Mor ‒ ‒ ‒ ‒ velsign mig ‒</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v141">Maren:</l>
+          <l n="v142">Ja Gud signe dig, Søn.</l>
+          <l n="v143">Han følge dig paa Veien, han høre min Bøn,</l>
+          <l n="v144">Hvert Suk, som i Længsel jeg aander ud ‒</l>
+          <l n="v145">Imorgen reiser du ‒ ‒ reis med Gud!</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v146">Marius: (efter en Pause)</l>
+          <l n="v147">Du sang altid saa vakkert ‒ syng nu min Barnesang,</l>
+          <l n="v148">Saa lægger jeg mig her med mit Hoved paa dit Fang.</l>
+          <l n="v149">Syng Aftenbønnen for mig ‒ maaske for sidste Gang!</l>
+          <l n="v150">(sætter sig paa Gulvet foran hende)</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v151">Maren: (synger)</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v152">Jeg elsker dig, Gud Fader,</l>
+          <l n="v153">For du har elsket mig.</l>
+          <l n="v154">Min Brøde du forlader;</l>
+          <l n="v155">Min Tak jeg bringer dig.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v156">Jeg lægger mig til Hvile,</l>
+          <l n="v157">Mit Hoved ved dit Bryst,</l>
+          <l n="v158">Og Engle til mig smile,</l>
+          <l n="v159">Saa Morket selv blir lyst.</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v160">Her er saa lunt og stille,</l>
+          <l n="v161">Velsignet godt og trygt.</l>
+          <l n="v162">Du siger: sov, min Lille,</l>
+          <l n="v163">Sov uden Gran af Frygt!</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v164">Og Barnet lukker Øiet,</l>
+          <l n="v165">Mens Engelen igjen</l>
+          <l n="v166">Saa straalende fornøiet</l>
+          <l n="v167">Ser paa sin lille Ven.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v168">Hav Tak, du kjære Fader,</l>
+          <l n="v169">Som passer slig din Skat,</l>
+          <l n="v170">At ingen Ting mig skader</l>
+          <l n="v171">Selv i den mørfe Nat.</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v172">En Morgen jeg dig bringer</l>
+          <l n="v173">Min Tak i Paradis.</l>
+          <l n="v174">Da tænker jeg, den klinger</l>
+          <l n="v175">Paa meget bedre Vis!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2681">
+        <head>Brev hjem</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Kjære Mor!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v2">Igaar kom vi ind</l>
+          <l n="v3">For akkurat passelig laber Vind.</l>
+          <l n="v4">Men  én Ting er der at mærke:</l>
+          <l n="v5">Rasmus og jeg har slaa’s lite Gran!</l>
+          <l n="v6">Bare for Moro Skyld ‒ sagde han ‒</l>
+          <l n="v7">Skulde min Hals han kværke.</l>
+          <l n="v8">Jamen sagde jeg Smør, jeg, Mor.</l>
+          <l n="v9">Rasmus han tabte iaar som ifjor</l>
+          <l n="v10">Og fik sin fortjente Juling</l>
+          <l n="v11">Tilslut jeg tog med Sjøvand en Pøs</l>
+          <l n="v12">Og kyled over ham, stakkars Tøs.</l>
+          <l n="v13">Du ved, han trænger til Spuling.</l>
+          <l n="v14">Han banded og skreg og lovede paa,</l>
+          <l n="v15">Det Sjøvand jeg skulde betale faa,</l>
+          <l n="v16">Men pyt sa’n ‒ ønsker han mere,</l>
+          <l n="v17">Skal han nok faa, og med Renter til.</l>
+          <l n="v18">Sjøen har Sjøvand, saamegen En vil.</l>
+          <l n="v19">Lad ham saa kun lamentere! ‒</l>
+          <l n="v20">Og nu faar jeg skrive lidt om mig selv.</l>
+          <l n="v21">Jeg er saa frisk og stærk som et Fjeld</l>
+          <l n="v22">Og haver til Dato god Helse.</l>
+          <l n="v23">Kokken siger, jeg er labelensk,</l>
+          <l n="v24">Og muldrer imellem saa smaat paa Svensk:</l>
+          <l n="v25">“Marius ‒ far nu ej vilse!”</l>
+          <l n="v26">Men, kjære min Mor, jeg læser Bog,</l>
+          <l n="v27">Og mere kan ingen forlange,</l>
+          <l n="v28">Især da Rasmus gjøner og ler,</l>
+          <l n="v29">Hvergang han bare en Bibel ser.</l>
+          <l n="v30">Ja nei, om jeg kjender ret mange,</l>
+          <l n="v31">Der er saa ugudelig fræk et Spark</l>
+          <l n="v32">Og loved, han skulde den brænde.</l>
+          <l n="v33">Men Kokken tog den og laased den ned:</l>
+          <l n="v34">“Låt nu min bibel vara i fred,</l>
+          <l n="v35">Och tänk på din egen ende!” ‒</l>
+          <l n="v36">Naar vi er klar skal til Nieuwdiep</l>
+          <l n="v37">Tversover Nordsjø’n vi gaa en Trip</l>
+          <l n="v38">Hvilket du jo bør vide.</l>
+          <l n="v39">Herved af Hilsener faar du et læs.</l>
+          <l n="v40">Hils ogsaa Ellen paa Aandebonæs</l>
+          <l n="v41">Og bed hende skrive itide!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2682">
+        <head>Til Marius Jacobsen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Din Mor var her imorges og skulde hilse fra dig,</l>
+          <l n="v2">At du vilde glædes, hvis et lidet Brev jeg gav dig.</l>
+          <l n="v3">Men er der ellers noget aparte, som du vil mig,</l>
+          <l n="v4">Saa ved du, hvor jeg bor, og kan selv jo skrive til mig.</l>
+          <l n="v5">Du meget dig bedrager, hvis du tror, at jeg begynder.</l>
+          <l n="v6">De skrivelystne Piger er der ingen, som ynder.</l>
+          <l n="v7">Og hermed Gud befalet.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v8">Din hengivne Ellen.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v9">P. S!</l>
+          <l n="v10">Jeg tænker ofte paa dig, især ud paa Kvælden.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v11">D. S</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2683">
+        <head>I Fristelse</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Tømmermanden:</l>
+          <l n="v2">Ja det sagde jeg ogsaa, da jeg var ung.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v3">Marius:</l>
+          <l n="v4">Hvor gammel er du?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v5">Tømmermanden:</l>
+          <l n="v6">Jeg er ni og tyve.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v7">Marius:</l>
+          <l n="v8">Det er Magten, hvor flink du er til at lyve.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v9">Tømmermanden:</l>
+          <l n="v10">Lyver jeg? Jasaa naa. Se her er min Pung.</l>
+          <l n="v11">Den er slunken og mager som bare Tæringen.</l>
+          <l n="v12">Slig er det altid paa de norske Skuder,</l>
+          <l n="v13">Snavs med Hyren og Snavs med Ernæringen!</l>
+          <l n="v14">Og ikke nytter det et Gran, at du tuder,</l>
+          <l n="v15">Det blir ikke bedre. Prøv bare paa det.</l>
+          <l n="v16">Jeg tænker, du lærer nok snart at forstaa det.</l>
+          <l n="v17">Nei, i Amerika, Gut ‒ ‒</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v18">Rasmus:</l>
+          <l n="v19">– ja “der er de flinke,</l>
+          <l n="v20">De forespør sig høfligt, om nogen vil ha' Skinke”,</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v21">Marius: (leende)</l>
+          <l n="v22">Det var herlige Greier.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v23">(pludselig alvorlig)</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v24">Men nei, om jeg rømmer.</l>
+          <l n="v25">Saa ung som jeg er, saa kjender jeg til det.</l>
+          <l n="v26">Bare Drik og Kommers. Før en ved eller vil det,</l>
+          <l n="v27">Ender det med, at de Lommerne tømmer.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v28">Tømmermanden:</l>
+          <l n="v29">Hvor har du den Visdommen fra?</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v30">Marius:</l>
+          <l n="v31">Jeg har den fra Mor.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v32">Tømmermanden:</l>
+          <l n="v33">Ja det kan jeg tænke.</l>
+          <l n="v34">Og fra “Bud og Hilsen” formodentlig?</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v35">Marius:</l>
+          <l n="v36">Ja.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v37">Tømmermanden:</l>
+          <l n="v38">En Mamadilt. Kneblet og bundet med Lænke!</l>
+          <l n="v39">Aa fy! ‒ Nei fri, Gut ‒ fri skal du være,</l>
+          <l n="v40">Saa først er du Sjømand, saa'n rigtig med Ære.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v41">Rasmus:</l>
+          <l n="v42">Hør, ved I hvad ‒ skal vi gaa iland</l>
+          <l n="v43">Og faa os lidt ‒</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v44">Tømmermanden:(spottende)</l>
+          <l n="v45">– Melk og Kildevand?</l>
+          <l n="v46">Var det det?</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v47">Rasmus:</l>
+          <l n="v48">Aa, der findes vel bedre Sager.</l>
+          <l n="v49">Vandet er skiddent, og Melken er vammel.</l>
+          <l n="v50">Den passer for Smaabørn, men ei for en gammel.</l>
+          <l n="v51">Desuden ‒ Melk her i Udlandet! Det er Søl.</l>
+          <l n="v52">Nei takke mig til for et godt Glas Øl.</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v53">Tømmermanden:</l>
+          <l n="v54">Au Gut ‒ pas dig! ‒ Marius klager ‒</l>
+          <l n="v55">Fortæller til Mor ‒ ‒</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v56">Rasmus:</l>
+          <l n="v57">Lad ham bare fortælle.</l>
+          <l n="v58">Jeg har ingen Mor, der kan præke og skjælde.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v59">Marius:</l>
+          <l n="v60">Min Mor pleier sandelig heller ikke</l>
+          <l n="v61">At skjælde Folk ud, om lidt Øl de vil drikke.</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v62">Tømmermanden:</l>
+          <l n="v63">All right! Kom saa frem med Mynten. At spleise</l>
+          <l n="v64">Er Sjømands Vis baade hjemme og paa Reise.</l>
+          <l n="v65">Men stop lidt ‒– saasandt som mit Navn er Jens,</l>
+          <l n="v66">Har Pungen min Svindsot, og jeg er læns.</l>
+          <l n="v67">I faar lægge ud saalænge ‒ jeg betaler siden ‒</l>
+          <l n="v68">Det er jo ikke saa nøie med Tiden.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v69">Styrmanden: (med en Haandfuld Breve)</l>
+          <l n="v70">Her er Posten ‒ og jeg tør vædde, Gutter,</l>
+          <l n="v71">At der er Brev ifra selveste Mutter.</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v72">(Gaar. Tommerm. og Marius læser)</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v73">Rasmus: (sidder og dingler med Benene)</l>
+          <l n="v74">Til mig er der intet. Ikke et eneste et.</l>
+          <l n="v75">Nu vel, saa læser jeg mig da ikke træt.</l>
+          <l n="v76">Derfor altid noget. ‒ Nei ingen anden</l>
+          <l n="v77">I hele Verden end ‒ noksagt ‒ Manden,</l>
+          <l n="v78">Han med Hovene husker paa mig.</l>
+          <l n="v79">Med Legem og Sjæl, med Hud og med Haar.</l>
+          <l n="v80">Der kunde vel times mig værre Kaar.</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v81">(Kokken kommer)</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v82">Hei du, Kok. Vil du med paa Rangel?</l>
+          <l n="v83">Marius følger. Nu kan han være Angel,</l>
+          <l n="v84">Som kastes ud for at fange dig.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v85">Kokken:</l>
+          <l n="v86">Jag går icke på ogudaktighets väg.</l>
+          <l n="v87">Når syndare locka, jag samtycker ej.</l>
+          <l n="v88">(gaar)</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v89">Rasmus.</l>
+          <l n="v90">Æsch! Slig Hellighed ‒ det er rent</l>
+          <l n="v91">Ækelt at høre paa ‒ det er gement.</l>
+          <l n="v92">Gaar han ikke der og vri'r sig og kror sig,</l>
+          <l n="v93">Og bedre end hele Verden han tror sig.</l>
+          <l n="v94">Han er saa forsigtig ‒ gaar aldrig i Sølen.</l>
+          <l n="v95">Naar alle vi andre er havnet i Pølen ‒</l>
+          <l n="v96">Naturligvis ‒ ja da ‒ saa synger han Salmer</l>
+          <l n="v97">Og svanser i Himlen med Kroner og Palmer. ‒</l>
+          <l n="v98">Æsch! Sligt Pak, sligt Hængehodevæsen,</l>
+          <l n="v99">Slig Syngen og Beden og Sukken og Læsen</l>
+          <l n="v100">Skulde for Alvor ved Lov forbydes,</l>
+          <l n="v101">Og alle Hykleres Gods forbrydes</l>
+          <l n="v102">Til Bedste for ‒ naa ja, til det almene Bedste,</l>
+          <l n="v103">Saa gjorde “de faa” dog Nytte for de fleste.</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v104">(ser paa Tommerm. og ler)</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v105">Pst! Tømmermand ‒ fik du Budskab om Død?</l>
+          <l n="v106">Dit Ansigt ser ud som Surmelksgrød.</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v107">Tømmermanden:</l>
+          <l n="v108">Nei hun skriver</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v109">Rasmus:</l>
+          <l n="v110">Hvem hun?</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v111">Tømmermanden:</l>
+          <l n="v112">Aa en gammel Flamme.</l>
+          <l n="v113">Hun skriver ‒ men skidt, det kan være det samme.</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v114">Rasmus:</l>
+          <l n="v115">Slaar hun op? Ak det deilige Rosenblad!</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v116">Tømmermanden:</l>
+          <l n="v117">Hun kan gjøre, hvad hun vil. Jeg er lige glad.</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v118">Rasmus:</l>
+          <l n="v119">Det er ret. Der er ikke Mangel paa Jenter.</l>
+          <l n="v120">De sidder heroppe i Byen og venter.</l>
+          <l n="v121">Kom nu, saa gaar vi. Lad græde hvo, som vil.</l>
+          <l n="v122">Den Lystige hører hele Verden til.</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v123">Tommermanden:</l>
+          <l n="v124">Men Marius maa med. Vi faar vente paa ham.</l>
+          <l n="v125">Jenterne vilde sørge, naar ikke de saa ham,</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v126">Marius:</l>
+          <l n="v127">Nei ‒ jeg kan ikke ‒ jeg har lovet ‒ jeg skal skrive et Brev.</l>
+          <l n="v128">Gik jeg nu, er jeg ræd, at jeg aldrig mere skrev.</l>
+        </lg>
+        <lg n="s39" type="stanza">
+          <l n="v129">Tømmermanden:</l>
+          <l n="v130">Det tænkte jeg. Nu er Mama igjen paafærde,</l>
+          <l n="v131">Har sat omkring Lammet sit baade Hegn og Gjærde.</l>
+          <l n="v132">De Kvindfolk! Gud slaa dem sønder og sammen!</l>
+        </lg>
+        <lg n="s40" type="stanza">
+          <l n="v133">Rasmus:</l>
+          <l n="v134">Til slige Bønner jeg lægger mit Amen.</l>
+          <l n="v135">(de gaar)</l>
+        </lg>
+        <lg n="s41" type="stanza">
+          <l n="v136">Marius: (for sig selv)</l>
+          <l n="v137">Uf, det var godt, at de gik.</l>
+          <l n="v138">Hvert Ord, som hun skriver, gav i Hjertet et Stik.</l>
+          <l n="v139">Ikke for det ‒ hun siger ikke noget.</l>
+          <l n="v140">Det er bare det samme, som hun altid har sagt,</l>
+          <l n="v141">At den, som vil bevares, maa være paa Vagt.</l>
+          <l n="v142">Men alligevel ‒ dette her var nær bli't mig for broget. ‒</l>
+          <l n="v143">Og saa Ellen ‒ “er der noget aparte, som du vil mig,</l>
+          <l n="v144">Saa ved du, hvor jeg bor og kan selv jo skrive til mig!”</l>
+          <l n="v145">“Jeg tænker ofte paa dig.” ‒ Ja tænk du, min Pige.</l>
+          <l n="v146">Jeg tænker som du. Det er alt, hvad jeg vil sige.</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2684">
+        <head>I det fremmede land</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Et Par Aar senere. Aften. Gade i Newyork. Marius og</l>
+          <l n="v2">Rasmus Arm i Arm.</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v3">Marius:</l>
+          <l n="v4">Er du sikker paa, han er død? Tor du bande paa det?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v5">Rasmus:</l>
+          <l n="v6">Din Tosk! Stod jeg ikke selv og saa det!</l>
+          <l n="v7">Han dat som en Sten lige klods i Dækket,</l>
+          <l n="v8">Snip ‒ snap ‒ snude ‒ Halsen var knækket.</l>
+          <l n="v9">Og saa var han død da vel?</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v10">Marius:</l>
+          <l n="v11">Jeg saa ham inat.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v12">Rasmns:</l>
+          <l n="v13">Saa ham inat? Aa for noget Erkesludder!</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v14">Marius:</l>
+          <l n="v15">Drivende vaad og fuld af Mudder</l>
+          <l n="v16">Han stod ved Sengen ‒ uf nei, lad os gaa.</l>
+          <l n="v17">Jeg liker ikke at tænke derpaa.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v18">Rasmus:</l>
+          <l n="v19">Hør nu, min Gut, han er død som en Sild.</l>
+          <l n="v20">Det skal jeg bevise, om ellers du vil.</l>
+          <l n="v21">Ifjor fra Fokkeraaen han falder</l>
+          <l n="v22">Kladas i Dækket med Styr og Rabalder</l>
+          <l n="v23">Og slaar sig ihjel. Skjønner du, Far,</l>
+          <l n="v24">At leved han da, saa er han mere til Kar</l>
+          <l n="v25">End nogen paa denne vor syndige Jord.</l>
+          <l n="v26">Vi brølte omkap, og vi brølte i Kor,</l>
+          <l n="v27">Da vi saa ham ligge saa hvid som et Lagen;</l>
+          <l n="v28">Og da det nu led ud paa næste Dagen,</l>
+          <l n="v29">Putted vi Tømmermanden i Kiste</l>
+          <l n="v30">Og spigred den til. Saa kommer det sidste,</l>
+          <l n="v31">Begravelsen, skjønner du. Selv var jeg med</l>
+          <l n="v32">Og overgav ham til evig Fred.</l>
+          <l n="v33">Heisan ‒ plask! Ned til Havets Bund!</l>
+          <l n="v34">Der ligger han fortøiet i denne Stund.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v35">Marius:</l>
+          <l n="v36">Naa ‒ jaa snakker vi ikke mere om det.</l>
+          <l n="v37">Men det skal du vide, at ‒ saa du det ‒ kom det ‒</l>
+          <l n="v38">Det drivvaade Lig, som inat mig besøgte,</l>
+          <l n="v39">Saa ‒ ‒</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v40">Rasmus:</l>
+          <l n="v41">Aa pyt, jeg var aldrig ræd, om det spøgte.</l>
+          <l n="v42">Men du er daarlig, ser du, og hele Maskinen</l>
+          <l n="v43">Trænger til Smøring. Den skarve Vinen,</l>
+          <l n="v44">Vi drak, var sikkert det pure Ruskeri,</l>
+          <l n="v45">For alting i Verden er nutildags Fuskeri.</l>
+          <l n="v46">Men ser du, min Bror, ‒ vi forsøger paany</l>
+          <l n="v47">En Flaske eller to, saa vil Spøgelset fly.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v48">Marius:</l>
+          <l n="v49">Nei ikke mere. Jeg var drukken nok</l>
+          <l n="v50">Igaar og inat – aa den forbistrede Rommen!</l>
+          <l n="v51">Jeg var en Stakkar, at jeg fulgte med Strømmen</l>
+          <l n="v52">Og ikke ‒ ‒</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v53">Rasmus:</l>
+          <l n="v54">‒ blev stille ombord hos din Kok?</l>
+          <l n="v55">Nei, ved du hvad, nu maa jeg rigtignok le.</l>
+          <l n="v56">Først sytrer du lidt, for et Syn du fik se,</l>
+          <l n="v57">Og saa ‒ ja saa gnaver det lidt herinde. ‒</l>
+          <l n="v58">Samvittighed? ‒ Snak. Lad det gnave og værke.</l>
+          <l n="v59">Sligt Tøieri passer kun for en Kvinde.</l>
+          <l n="v60">Jeg skal gi' dig et Raad. Den er let at kværke.</l>
+          <l n="v61">Bare sig til dig selv: det er Sygdom, min Gut,</l>
+          <l n="v62">Intet andet. Se saa er Sygdommen slut.</l>
+          <l n="v63">Og gi'r det sig ikke, saa synd dygtigt, synd for to,</l>
+          <l n="v64">Om igjen og om igjen ‒ saa faar du nok Ro.</l>
+          <l n="v65">Ja ‒ for det er sikkert ‒ det er saa sandt, som sagt,</l>
+          <l n="v66">At saare stor er Gjentagelsens Magt.</l>
+          <l n="v67">Jeg har prøvet Kuren. Den er udmærket probat.</l>
+          <l n="v68">Og vil du se ‒ se her er Medicinen parat!</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v69">(En Kneipe. Sang og Latter indefra. En Pige staar i Døren</l>
+          <l n="v70">og vinker til dem).</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v71">Pigen:</l>
+          <l n="v72">Kom, Kom!</l>
+          <l n="v73">Drukne dig i Livsglædens brusende Flom!</l>
+          <l n="v74">Skynd dig ‒ il!</l>
+          <l n="v75">Dødes skal Sorgen ved mine Smil.</l>
+          <l n="v76">Vinen perler, Øinene funkler.</l>
+          <l n="v77">Stjernernes Glans de fordunkler!</l>
+          <l n="v78">Kom du Trætte og hvil!</l>
+          <l n="v79">Kom til min Barm!</l>
+          <l n="v80">Fryser du, her blir du varm.</l>
+          <l n="v81">Kom, kom!</l>
+          <l n="v82">Drukne dig i Livsglædens brusende Flom!</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v83">Rasmus:</l>
+          <l n="v84">Det er ret, min Tøs. Du Visdom forkynder.</l>
+          <l n="v85">Hos dig er der Raad imod Sorger og Synder.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v86">Pigen:</l>
+          <l n="v87">Kom, Kom!</l>
+          <l n="v88">Se ei tilbage, og tænk dig ei om!</l>
+          <l n="v89">Hvert et Saar</l>
+          <l n="v90">Forbindes med mine gyldne Haar.</l>
+          <l n="v91">Traurige Tanker, Barndomsminder,</l>
+          <l n="v92">Alt som Duggen for Solen forsvinder.</l>
+          <l n="v93">Her er Sang. Her er Vaar!</l>
+          <l n="v94">Kom i min Arm.</l>
+          <l n="v95">Jeg skal gjøre dig glødende varm.</l>
+          <l n="v96">Kom, kom!</l>
+          <l n="v97">Se ei tilbage, og tænk dig ei om!</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v98">Rasmus:</l>
+          <l n="v99">Ja, vi kommer jo, Jente. Hver Tvivl er forvundet.</l>
+          <l n="v100">Ved dig er the lost paradise gjenfundet! ‒</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v101">(de gaar ind med hende)</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v102">(Udenfor Stuedøren i Randenæs. Maren staar med Haanden for</l>
+          <l n="v103">Øiet og ser udover Havet.)</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v104">Maren:</l>
+          <l n="v105">Stakkars min Gut!</l>
+          <l n="v106">Jeg har ventet dig længe, men du kommer vel tilslut.</l>
+          <l n="v107">Min Taaresøn</l>
+          <l n="v108">Kan ikke fortabes! Gud hører nok min Bøn.</l>
+          <l n="v109">Du kommer nok engang!</l>
+          <l n="v110">Saa hviler du dit Hoved igjen paa mit Fang,</l>
+          <l n="v111">Og saa synger jeg for dig din gamle Aftensang! ‒</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v112">(Paa Gaden i Newyork. Tidlig Morgen. Drukne Matroser og</l>
+          <l n="v113">Kvinder slaar Kreds om Marius og Rasmus.)</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v114">Matroserne:</l>
+          <l n="v115">Paa ham igjen! Han har skjældt dig ud.</l>
+          <l n="v116">Han sagde, du var en fordrukken Stud.</l>
+          <l n="v117">Paa ham. Pst! Tag ham! ‒ Han fortjener ikke bedre.</l>
+          <l n="v118">Giv ham et Risp, og lad ham gaa til sine Fædre.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v119">Rasmus:</l>
+          <l n="v120">Det Hængehode. Altid saa klynkende snøvl,</l>
+          <l n="v121">Altid og altid fuld af gudeligt Vrøvl.</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v122">Kvinderne:</l>
+          <l n="v123">Klor ham! Dæng ham! Bid Næsen af ham!</l>
+          <l n="v124">En Skaal for den, som sligt Mærke gav ham!</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v125">Rasmus:</l>
+          <l n="v126">(stikker Kniven i Marius's Bryst.)</l>
+          <l n="v127">Se saa ‒ her er Betaling ‒ jeg var længe i din Gjæld.</l>
+          <l n="v128">Jeg ønsker dig til Himmelfarten Lykke og Held!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2685">
+        <head>Ellen</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Nei, jeg vil ikke længer stirre mig blind</l>
+          <l n="v2">Mod det taagede, ukjendte Fjerne.</l>
+          <l n="v3">Kommer han engang ‒ o gjerne, o saa gjerne</l>
+          <l n="v4">Aabner jeg Favnen og lukker ham ind.</l>
+          <l n="v5">Han eier jo alligevel hele mit Sind.</l>
+          <l n="v6">Hver en Tanke var hans, endog før den blev min,</l>
+          <l n="v7">Og saa længe jeg kan huske, var han mig en</l>
+          <l n="v8">straalende Stjerne!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v9">O hjælpe mig Gud at arbeide med Flid!</l>
+          <l n="v10">Jeg kan saa alligevel ikke raade</l>
+          <l n="v11">Livsførelsernes taagede, knudrede Gaade.</l>
+          <l n="v12">O hjælpe mig Gud, at al min Id</l>
+          <l n="v13">I den flygtige, drømfyldte Naadetid</l>
+          <l n="v14">Kan tækkes dig! Til dig staar jo min Lid.</l>
+          <l n="v15">Over os ‒ over den kjæreste Vennen min være</l>
+          <l n="v16">din skjærmende Naade!</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v17">Saa vil jeg ikke længer stirre mig blind</l>
+          <l n="v18">Paa Savnets knugende Stængsel.</l>
+          <l n="v19">Kommer han engang ‒ ja da aabnes mit Fængsel,</l>
+          <l n="v20">Da svales Luften som af Foraarsvind.</l>
+          <l n="v21">Saa stryger jeg mildt hans blege Kind:</l>
+          <l n="v22">Gud lønne dig, dyreste Vennen min,</l>
+          <l n="v23">At du kom og gjorde en Ende paa</l>
+          <l n="v24">den fortærende Længsel!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2686">
+        <head>Paa Hospitalet</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">(Sygeværelse paa et Hospital i Newyork. Søndag Aften. Marius</l>
+          <l n="v2">og flere andre Syge. Den norske Sømandspræst og en Læge staar</l>
+          <l n="v3">i et Hjørne og taler med hinanden.)</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v4">Præsten:</l>
+          <l n="v5">Kan han slet ikke reddes?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v6">Lægen:</l>
+          <l n="v7">Gud ved. Maaske.</l>
+          <l n="v8">Men der er større Skade, end vi først kunde se.</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v9">Præsten:</l>
+          <l n="v10">Og saa vakker en Gut! ‒ Gud trøste hans Mor,</l>
+          <l n="v11">Hvis hun endnu færdes paa denne Jord! ‒</l>
+          <l n="v12">Kjender han ingen? Og ingen ham eller hans?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v13">Lægen:</l>
+          <l n="v14">Siden han kom, har han været uden Sans.</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v15">Præsten:</l>
+          <l n="v16">Hvad skal jeg dog gjøre?</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v17">Lægen:</l>
+          <l n="v18">Her er intet andet at gjøre,</l>
+          <l n="v19">Hr. Pastor, end êt: med Taalmod sig smøre.</l>
+          <l n="v20">(gaar.)</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v21">Præsten: (Sætter sig ved Marius's Seng og holder hans Haand..</l>
+          <l n="v22">Hvor længe endnu skal de Rønnere ha' Lov</l>
+          <l n="v23">Til at øve deres gudløse Gjerning!</l>
+          <l n="v24">Tusinde Sjømænd blev deres Rov,</l>
+          <l n="v25">Og de spiller om Sjelene Terning. ‒</l>
+          <l n="v26">En Rønner ‒ en Edderkop ‒ et Djævelens Barn,</l>
+          <l n="v27">Lært af sin Far til at sætte Garn</l>
+          <l n="v28">Og fange de unge, de bedste.</l>
+          <l n="v29">Vi fisker enkelte ‒ han de fleste ‒!</l>
+          <l n="v30">Slig ser det iallefald for mine Øine ud,</l>
+          <l n="v31">At de korteste Straa trækker Gud.</l>
+          <l n="v32">Aa jeg kan gaa her saa jammerlig træt.</l>
+          <l n="v33">Jeg er syg paa min Sjæl, og din Aand mig tugter,</l>
+          <l n="v34">Kalder mig gavnløst Træ, uden Frugter.</l>
+          <l n="v35">Forgjæves jeg kasted dit Garn til en Dræt.</l>
+          <l n="v36">Herre, dit Aag er gavnligt og let,</l>
+          <l n="v37">Siger du selv – men paa mig det tynger,</l>
+          <l n="v38">Og stundom tykkes mig, Grunden gynger</l>
+          <l n="v39">Under din fattige Tjeners Fod.</l>
+          <l n="v40">Herre, min Frelser, du godt forstod</l>
+          <l n="v41">Dine Sendebuds Trang i gamle Dage,</l>
+          <l n="v42">Havde Øre og Hjerte for deres Klage ‒</l>
+          <l n="v43">Saa hjælp ogsaa nu! O styr mine Tanker ‒</l>
+          <l n="v44">Du er jo mit eneste Haab og mit Anker ‒</l>
+          <l n="v45">Styr mig, styr baade Tanke og Mund,</l>
+          <l n="v46">At ikke jeg sætter min Skude paa Grund.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v47">Marius: (farer op med et Skrig)</l>
+          <l n="v48">Hjælp ‒ hjælp ‒ jeg dør! Han dræber mig.</l>
+          <l n="v49">Hjælp mig! ‒ Det brænder. Til Helvede de slæber mig!</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v50">Præsten:</l>
+          <l n="v51">Aa stakkars Barnet! ‒ Nei dø skal han ikke.</l>
+          <l n="v52">Jeg vil bede og tigge Livet i ham.</l>
+          <l n="v53">Om det kniber, mit eget Liv vil jeg gi' ham.</l>
+          <l n="v54">Han skal leve, og Frelsens Kalk skal han drikke. ‒</l>
+          <l n="v55">Hører du, Gud! Jeg er syndig og svag,</l>
+          <l n="v56">Har svigtet i Kampen saa mangen en Dag,</l>
+          <l n="v57">Men dennegang skal der ei gives efter.</l>
+          <l n="v58">Du husker Natten ved Jabboks Flod,</l>
+          <l n="v59">Hvor ogsaa om selve Livet det stod,</l>
+          <l n="v60">Hvor du med et Menneske prøvede Kræfter.</l>
+          <l n="v61">Og Mennesket vandt. Jeg vil ogsaa vinde.</l>
+          <l n="v62">Frels denne Gut! Lad ham Naade finde ‒</l>
+          <l n="v63">Øjør ham frisk igjen ‒ lad ham komme ud ‒</l>
+          <l n="v64">Ikke til Verden, men til dig, min Gud!</l>
+          <l n="v65">Han maa ikke dø. Som et Tegn jeg det kræver,</l>
+          <l n="v66">At ikke forgjæves jeg virker og lever.</l>
+          <l n="v67">Amen! ‒</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v68">(med fastere Stemme.)</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v69">Amen!</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v70">Marius:</l>
+          <l n="v71">Hvem var det, som talte?</l>
+          <l n="v72">Mor, var det dig? Jeg synes, jeg hørte, du kaldte.</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v73">Præsten:</l>
+          <l n="v74">Nei, Gutten min, ikke Mor, men en Mand,</l>
+          <l n="v75">Der bringer dig Hilsen fra Gud, at du kan</l>
+          <l n="v76">Og at du skal frelses baade fra Synden og Døden.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v77">Marius: (lyttende)</l>
+          <l n="v78">Jeg ser dig ikke, Mor. Og jeg har saa ondt for at høre.</l>
+          <l n="v79">Det gnistrer for Øinene, og det ringer for mit Øre.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v80">Præsten: (Knæler hastigt ved Sengen.)</l>
+          <l n="v81">Hær mig ‒ bønhør mig ‒ min Frelser i Nøden,</l>
+          <l n="v82">Jeg slipper dig ikke. ‒ Det er to, det gjælder.</l>
+          <l n="v83">Hvis du løfter Øxen og Træet fælder,</l>
+          <l n="v84">Fælder du to ‒ baade mig og ham.</l>
+          <l n="v85">Men du gjør det ikke, du Guds Sonofferlam,</l>
+          <l n="v86">Du gjør det ikke ‒ du maa ikke gjøre det.</l>
+          <l n="v87">Du er bundet ved dit Løfte: bed, og jeg skal høre det!</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v88">Marius:</l>
+          <l n="v89">Har jeg glemt dig, siger du? Aa kjæreste Ellen,</l>
+          <l n="v90">Jeg tænker ofte paa dig, især udpaa Kvælden,</l>
+          <l n="v91">Og snart kommer jeg ‒ kommer jeg ‒</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v92">(hurtigt afbrydende)</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v93">aa fy,</l>
+          <l n="v94">Det er da en inmari skrækkelig Sky</l>
+          <l n="v95">Den der! ‒ ser du den ikke ‒ paa Styrbords Boug!</l>
+          <l n="v96">Den ser ud, som var den en eneste Houg</l>
+          <l n="v97">Af Døde, der tumler og seiler hverandre overende.</l>
+          <l n="v98">En af dem er jeg sikker paa, jeg skulde kjende ‒</l>
+          <l n="v99">Ja rigtig ja ‒ ham der ‒ han med det vaade Haar,</l>
+          <l n="v100">Som stod ved min Seng ‒ usch da! ‒ et gabende Saar</l>
+          <l n="v101">Midt i Panden! ‒ og saa alt det ftinfende Mudder ‒</l>
+          <l n="v102">Nei, nei ‒ nei ‒ nei ‒ det er bare Sludder,</l>
+          <l n="v103">Det sagde jo Rasmus ogsaa. ‒ Aa gjem mig, Mor!</l>
+          <l n="v104">Aa gjem mig, og læs for mig lidt af Vorherres Ord,</l>
+          <l n="v105">Saa gaar det sin Vei.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v106">(truende)</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v107">Vil du gaa, du! Pak dig afsted.</l>
+          <l n="v108">Det er dog forbistret, at en aldrig kan faa Fred.</l>
+          <l n="v109">Hvor jeg saa gaar, saa følger de mig i Hælene. –</l>
+          <l n="v110">Mor, nu kommer de! – Med Ligkistefjælene</l>
+          <l n="v111">Slaar de mig! – Og se nu, aa fy for et Grin!</l>
+          <l n="v112">Bagbord med Roret, hart bagbord, dit Svin!</l>
+          <l n="v113">Vi lændser undaf, vi, – lad os bare komme bort.</l>
+          <l n="v114">Havet er vidtstrakt, og Natten er sort.</l>
+          <l n="v115">De finder os ikke. Har vi Vinden i Ryggen,</l>
+          <l n="v116">Saa slipper han ta' os, den vaade Styggen!</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v117">Præsten:</l>
+          <l n="v118">Dit Skin</l>
+          <l n="v119">Hvert Trin</l>
+          <l n="v120">Os ledsage</l>
+          <l n="v121">Og forjage</l>
+          <l n="v122">Morkheds Tanker,</l>
+          <l n="v123">Som i vore Hjerter vanker!</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v124">Marius:</l>
+          <l n="v125">Hvad var det for noget? Det klang som en Salme.</l>
+          <l n="v126">Aa ja, syng for mig, baade du, Ellen, og Mor ‒</l>
+          <l n="v127">Syng nu da ‒ saa skal jeg være Kor ‒</l>
+          <l n="v128">Bare syng kvikt, for ellers faar jeg Kvalme.</l>
+          <l n="v129">Aa du Verden, hvor hun sang, hun ‒ den sminkede ‒</l>
+          <l n="v130">Hun ‒ ja du husker hende vel? ‒ hun, som stod og vinkede.</l>
+          <l n="v131">Stemme havde hun, og det en, som var sød,</l>
+          <l n="v132">Ikke skingrende som de andres, nei saa mild og blød,</l>
+          <l n="v133">Saa en skulde mest troet, hun var en Engel.</l>
+          <l n="v134">Det var hun nu da ikke, for hun var en Bengel.</l>
+          <l n="v135">Førft drak hun mig fuld, og saa sparked hun mig bort,</l>
+          <l n="v136">Det vilde en Engel vist aldrig ha' gjort. ‒</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v137">(En Sygepleierske kommer ind.)</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v138">Præsten:</l>
+          <l n="v139">Skal der lukkes for Natten?</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v140">Sygepleiersken:</l>
+          <l n="v141">Om et Øieblik ja.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v142">Præsten:</l>
+          <l n="v143">Før der sker en Forandring, jeg gaar ei herfra.</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v144">Sygepleiersken:</l>
+          <l n="v145">Dør han saa snart?</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v146">Præsten:</l>
+          <l n="v147">Nei denne Gang</l>
+          <l n="v148">Vil jeg seire, om Kampen blir aldrig saa lang.</l>
+          <l n="v149">Han skal leve.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v150">Sygepleiersken:</l>
+          <l n="v151">Er Præsten saa vis i sin Sag?</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v152">Præsten:</l>
+          <l n="v153">Uryggelig vis. Naar det lysner til Dag,</l>
+          <l n="v154">Vil det lysne for ham. Med Morgenrøden</l>
+          <l n="v155">Jages paa Flugt baade Natten og Døden.</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v156">Sygepleiersken: (ser forundret paa ham, nikker og smiler)</l>
+          <l n="v157">Nu vel ‒ er Præsten saa fast i sin Tro,</l>
+          <l n="v158">Har han nok til flere ‒ han kan dele til to.</l>
+          <l n="v159">Jeg trænger til meget.</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v160">(gaar videre)</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v161">Præsten:</l>
+          <l n="v162">Fast? Nei, jeg er ikke fast,</l>
+          <l n="v163">Men brister det nu ‒ ja, da alting brast.</l>
+          <l n="v164">Han skal leve. Ak, Herre, min Gud,</l>
+          <l n="v165">Der staar, at du ingen vil støde ud.</l>
+          <l n="v166">Jeg tar dig paa Ordet. Ogsaa os har du skabt,</l>
+          <l n="v167">Og vil sletikke, vi skal gaa fortabt.</l>
+          <l n="v168">Paa det er jeg sikker, men ikke paa min Tro.</l>
+          <l n="v169">Aa jeg fattige Stymper! ‒ jeg skulde dele til to! ‒ ‒</l>
+          <l n="v170">Men ingen forstaar mig. Der er ingen, som ved,</l>
+          <l n="v171">At jeg kjæmper for egen Frelje og Fred,</l>
+          <l n="v172">Saavist som for hans og alle de andres.</l>
+          <l n="v173">(grublende)</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v174">Stundom hører jeg min Vantro klandres.</l>
+          <l n="v175">Jeg er en verdslig ugudelig Mand,</l>
+          <l n="v176">En Leiesvend og en Helvedes Brand.</l>
+          <l n="v177">Man beder til Gud, jeg maa ryddes tilside,</l>
+          <l n="v178">Ifald jeg ikke omvendes itide.</l>
+          <l n="v179">Og saa ‒ ja saa er jeg igjen en Helgen.</l>
+          <l n="v180">Forsvundet er Kloen og Ulvebælgen,</l>
+          <l n="v181">Og selve Vorherre er neppe saa god</l>
+          <l n="v182">Som den stakkels Tjener, der ligger ved hans Fod.</l>
+          <l n="v183">Saa meget er Menneskers Dom at agte,</l>
+          <l n="v184">Deres Ros og Ære at eftertragte.</l>
+          <l n="v185">Nei, Herre, nei ‒ for dit Aasyn jeg staar.</l>
+          <l n="v186">O frels os ‒ frels os, for vi forgaar. ‒</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v187">(Tidligt paa Morgenen. Marius vaagner af en lang Søvn.)</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v188">Marius:</l>
+          <l n="v189">Hvor er jeg? Er jeg syg? ‒ aa ja, det er sandt,</l>
+          <l n="v190">Nu husker jeg det.</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v191">Præsten:</l>
+          <l n="v192">Paa Gaden de fandt</l>
+          <l n="v193">Dig liggende blodig, plyndret og saaret,</l>
+          <l n="v194">Og saa blev du hid paa Hospitalet baaret.</l>
+        </lg>
+        <lg n="s39" type="stanza">
+          <l n="v195">Marius:</l>
+          <l n="v196">Hvem er De? Er De Doktor? ‒ aa snille Mand,</l>
+          <l n="v197">Lad mig faa om saa bare en Draabe Vand.</l>
+          <l n="v198">Det brænder herinde</l>
+        </lg>
+        <lg n="s40" type="stanza">
+          <l n="v199">Præsten:</l>
+          <l n="v200">‒ ja lig stille blot.</l>
+          <l n="v201">(giver ham at drikke.)</l>
+        </lg>
+        <lg n="s41" type="stanza">
+          <l n="v202">Marius:</l>
+          <l n="v203">Aa Tak ‒ aa Tak ‒ det var rigtig godt.</l>
+          <l n="v204">Er De Doktoren, De?</l>
+        </lg>
+        <lg n="s42" type="stanza">
+          <l n="v205">Præsten:</l>
+          <l n="v206">Jeg er Sjømandspræst.</l>
+          <l n="v207">Men sov nu lidt mere, det bekommer dig bedst.</l>
+        </lg>
+        <lg n="s43" type="stanza">
+          <l n="v208">Marius:</l>
+          <l n="v209">Tak, ikke nu ‒ jeg vil ‒ sig mig, er der Fare?</l>
+          <l n="v210">Skal jeg dø?</l>
+        </lg>
+        <lg n="s44" type="stanza">
+          <l n="v211">Præsten:</l>
+          <l n="v212">Nei, Vorherre vil dig spare.</l>
+          <l n="v213">Jeg har bedt ham derom.</l>
+        </lg>
+        <lg n="s45" type="stanza">
+          <l n="v214">Marius:</l>
+          <l n="v215">O tusinde Tak!</l>
+        </lg>
+        <lg n="s46" type="stanza">
+          <l n="v216">Præsten:</l>
+          <l n="v217">Men vær nu stille. Ikke mere Snak,</l>
+          <l n="v218">Ellers bryder det op.</l>
+        </lg>
+        <lg n="s47" type="stanza">
+          <l n="v219">Marius:</l>
+          <l n="v220">Bare et eneste Ord,</l>
+          <l n="v221">Kan De ikke skrive for mig til Mor?</l>
+        </lg>
+        <lg n="s48" type="stanza">
+          <l n="v222">Præsten:</l>
+          <l n="v223">Den gamle Erfaring. Mor er den første,</l>
+          <l n="v224">Mor er den bedste, og Mor den største! ‒</l>
+          <l n="v225">Jo, Gutten min, jeg skal skrive</l>
+          <l n="v226">Og melde hende, du er ilive.</l>
+          <l n="v227">Er det mere, du vil?</l>
+        </lg>
+        <lg n="s49" type="stanza">
+          <l n="v228">Marius:</l>
+          <l n="v229">Tak, bare et ‒</l>
+          <l n="v230">Men ‒ aa vent lidt ‒ jeg er saa underlig træt ‒</l>
+          <l n="v231">Jeg kan ikke begribe, hvad det er, jeg feiler.</l>
+          <l n="v232">Sengen og Stuen og alting seiler ‒</l>
+          <l n="v233">Jo, nu har jeg det: bed dem glemme,</l>
+          <l n="v234">Hvor styg jeg har været mod dem begge derhjemme!</l>
+        </lg>
+        <lg n="s50" type="stanza">
+          <l n="v235">Præsten:</l>
+          <l n="v236">Hvad heder din Far?</l>
+        </lg>
+        <lg n="s51" type="stanza">
+          <l n="v237">Marius:</l>
+          <l n="v238">Aa for længe siden</l>
+          <l n="v239">Han døde. Han drukned, da jeg var liden.</l>
+          <l n="v240">Nei, det er Mor og ‒ saa er der endnu en til,</l>
+          <l n="v241">Som jeg kjender og som ‒ ja som glædes vil,</l>
+          <l n="v242">Naar hun hører om mig. Aa vær saa snil</l>
+          <l n="v243">Og sig, at jeg angrer</l>
+        </lg>
+        <lg n="s52" type="stanza">
+          <l n="v244">Præsten:</l>
+          <l n="v245">Lad os sige det til Gud.</l>
+          <l n="v246">Han, sømmer det sig, faar det første Bud.</l>
+          <l n="v247">Fold dine Hænder, saa gi'r vi ham Besked.</l>
+          <l n="v248">Jeg beder foran. Du følger stille med.</l>
+          <l n="v249">Fader, jeg har syndet ‒ ‒</l>
+        </lg>
+        <lg n="s53" type="stanza">
+          <l n="v250">Marius:</l>
+          <l n="v251">Fader ‒ ‒ Fader vor,</l>
+          <l n="v252">Du, som er i ‒ aa du Verden, hvor det gaar</l>
+          <l n="v253">Med Skumsprøit paa Havet derude!</l>
+          <l n="v254">De seiler for Stumperne ‒ heisan op og ned!</l>
+          <l n="v255">Ja Sjøen, kan du tro, er et uroligt Sted.</l>
+          <l n="v256">Aldrig har en Sjømand hverken Ro eller Fred</l>
+          <l n="v257">Kanske mindst, naar han er ‒ borte fra sin Skude.</l>
+          <l n="v258">For saa er de efter ham saa tæt som Myg.</l>
+          <l n="v259">Gaar han iland, er han aldrig tryg ‒</l>
+          <l n="v260">Aa langtfra da ‒ nei, saa kommer de linkende,</l>
+          <l n="v261">Mandfolk med Trudsler, og Kvindfolk vinkende.</l>
+          <l n="v262">Ja slig gaar det til ‒ se, der staar hun igjen ‒</l>
+          <l n="v263">Hun vil tage mig om Halsen og hun kalder mig sin Ven.</l>
+          <l n="v264">Nei, jeg vil ikke ‒ nei, jeg vil ikke – frels mig dog fra hende!</l>
+          <l n="v265">Er der ingen, som vil hjælpe mig? Ingen, som kan ta' hende?</l>
+          <l n="v266">Luk hende ud. Luk hende ud paa Gaden.</l>
+          <l n="v267">Fy, hvor hun er styg! Hun forpester hele Staden.</l>
+          <l n="v268">Jeg vil bort ‒ jeg vil ud igjen ‒ langt ud paa Havet.</l>
+          <l n="v269">Jeg vil dø ‒ lad mig gjemmes bort, blive begravet,</l>
+          <l n="v270">Saa finder hun mig ikke, og ingen faar vide,</l>
+          <l n="v271">Hvor meget hun har voldt mig af Sjæleangst og Kvide.</l>
+        </lg>
+        <lg n="s54" type="stanza">
+          <l n="v272">Præsten: (tørrer Sveden af hans Pande)</l>
+          <l n="v273">Aa stakkars' mit Barn,</l>
+          <l n="v274">Plaget af Satan, snøret i hans Garn ‒</l>
+          <l n="v275">Vent bare! Snart skal du se, at det dages.</l>
+          <l n="v276">Lænkerne brifter, og Byrden borttages.</l>
+        </lg>
+        <lg n="s55" type="stanza">
+          <l n="v277">(sagte og bedrovet)</l>
+        </lg>
+        <lg n="s56" type="stanza">
+          <l n="v278">Hans Vei  min Vei! O min Gud, hvor han ligner mig!</l>
+        </lg>
+        <lg n="s57" type="stanza">
+          <l n="v279">(i Angest)</l>
+        </lg>
+        <lg n="s58" type="stanza">
+          <l n="v280">Jeg slipper dig ikke, Herre, før du velsigner mig!</l>
+        </lg>
+        <lg n="s59" type="stanza">
+          <l n="v281">Marius:</l>
+          <l n="v282">Ja nu blir det godt. De er borte allesammen.</l>
+        </lg>
+        <lg n="s60" type="stanza">
+          <l n="v283">Præsten:</l>
+          <l n="v284">Jeg vidste det nok. Gud velsigne dig!</l>
+        </lg>
+        <lg n="s61" type="stanza">
+          <l n="v285">Marius:</l>
+          <l n="v286">Amen!</l>
+        </lg>
+        <lg n="s62" type="stanza">
+          <l n="v287">(folder Hænderne som til Bøn. Sovner.)</l>
+          <l n="v288">(Præsten trykker paa Knappen i Ringeapparatet. Sygepleiersken</l>
+          <l n="v289">kommer sagte ind.)</l>
+        </lg>
+        <lg n="s63" type="stanza">
+          <l n="v290">Sygepleiersken:</l>
+          <l n="v291">Hvad er det, De vil?</l>
+        </lg>
+        <lg n="s64" type="stanza">
+          <l n="v292">Præsten: (peger ud af Vinduet)</l>
+          <l n="v293">Ser De Morgenrøden? ‒</l>
+          <l n="v294">Paa Flugt er jaget baade Natten og Døden.</l>
+          <l n="v295">Nu sover han til Livet. ‒ Jeg er træt. Jeg gaar hjem.</l>
+          <l n="v296">Gud være evig priset. Nu bryder Dagen frem!</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2687">
+        <head>Juleaften</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Juleaften.</l>
+          <l n="v2">(Juleaftens Eftermiddag. Lei lset ved Sjømandskirken i New</l>
+          <l n="v3">york. Assistenten og flere Kapteiner ud og ind, beskjæftigede med</l>
+          <l n="v4">at pynte Kirken og ordne til Fest).</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v5">Assistenten: (til en Kaptein, som netop træder ind)</l>
+          <l n="v6">Nei goddag, goddag Kaptein.</l>
+          <l n="v7">De kom just, som var De kaldet.</l>
+          <l n="v8">Er De boms ifra Skyerne faldet</l>
+          <l n="v9">Ned med vort øsende Juleregn?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v10">Kapteinen:</l>
+          <l n="v11">Ja minsandt ‒ De kan nok spørge.</l>
+          <l n="v12">De har Deres paa det tørre,</l>
+          <l n="v13">Sidder her saa lunt og godt.</l>
+          <l n="v14">Vi har ‒ tro mig ‒ havt det vaadt</l>
+          <l n="v15">Paa Atlanteren det sidste.</l>
+          <l n="v16">Oprørt Hav og Blæst og Regn,</l>
+          <l n="v17">Byger fra hver Himmelegn,</l>
+          <l n="v18">Saa vi sidstpaa neppe vidste,</l>
+          <l n="v19">Hvad vi skulde tro om Tingen.</l>
+          <l n="v20">Men ‒ se derpaa tænker ingen,</l>
+          <l n="v21">Naar man førft er vel iland,</l>
+          <l n="v22">Og den Regn, som nu os væder,</l>
+          <l n="v23">Er for mange idel Glæder.</l>
+          <l n="v24">Tænk Jer: Byen er i Brand!</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v25">Alle:</l>
+          <l n="v26">Byen?</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v27">Kapteinen:</l>
+          <l n="v28">Nu, det var vel meget sagt,</l>
+          <l n="v29">Men et helt Kvartal er lagt</l>
+          <l n="v30">I Ruiner ned til Grunden,</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v31">Assistenten:</l>
+          <l n="v32">Hvor og naar brød Ilden ud?</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v33">Kapteinen:</l>
+          <l n="v34">Det var her i Middagsstunden,</l>
+          <l n="v35">Men hvordan ‒ ja det ved Gud.</l>
+          <l n="v36">I et stort Petroleumslager</l>
+          <l n="v37">Fik den strax sin flotte Næring,</l>
+          <l n="v38">Sprang saa uden stor Besværing</l>
+          <l n="v39">Hen til andre lækkre Sager,</l>
+          <l n="v40">Aad dem i en Haandevending.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v41">En anden Kaptein:</l>
+          <l n="v42">Da er Regnet Himlens Sending,</l>
+          <l n="v43">Og vi knurred netop af det.</l>
+          <l n="v44">En tredie Kaptein:</l>
+          <l n="v45">Tænkte ei paa ham, som gav det.</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v46">Assistenten:</l>
+          <l n="v47">Vi har dygtigt Brandbefal</l>
+          <l n="v48">Og en Hær af kjække Karer.</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v49">Kapteinen:</l>
+          <l n="v50">Very well. Men tænk, hvad Farer</l>
+          <l n="v51">Truer just vort Hospital.</l>
+          <l n="v52">Præsten jeg paa Gaden mødte,</l>
+          <l n="v53">Men han puffed, og han stødte,</l>
+          <l n="v54">Baned gjennem Hoben Vei,</l>
+          <l n="v55">Knapt nok nikked han til mig,</l>
+          <l n="v56">Fik kun raabt slig en passant:</l>
+          <l n="v57">Bedre Tid en anden Gang.</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v58">Assistenten:</l>
+          <l n="v59">Vilde han til Hospitalet?</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v60">Kapteinen:</l>
+          <l n="v61">Ja han styred lige paa det.</l>
+          <l n="v62">Gjennem Røgen godt jeg saa det,</l>
+          <l n="v63">Thi, som sagt, til Brandkvartalet</l>
+          <l n="v64">Er det Gjenbo.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v65">Assistenten:</l>
+          <l n="v66">Patienter</l>
+          <l n="v67">Stadig der i Vinter venter</l>
+          <l n="v68">Paa sin kjære Præsts Besøg.</l>
+          <l n="v69">Og han er der Dag for Dag,</l>
+          <l n="v70">Sparer aldrig paa Umag.</l>
+          <l n="v71">Engang tog han Natten med ‒ ‒</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v72">Kapteinen:</l>
+          <l n="v73">Sligt er ei paa rette Sted.</l>
+          <l n="v74">Han har ikke Lov at slide</l>
+          <l n="v75">Hilsen af sig i Utide.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v76">Assistenten</l>
+          <l n="v77">Her i Høst der kom en Gut</l>
+          <l n="v78">Paa vor lange Sygeliste;</l>
+          <l n="v79">Det var ham, som ‒</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v80">Kapteinen:</l>
+          <l n="v81">‒ ei vi miste</l>
+          <l n="v82">Vil vor Præst. Og dermed Slut</l>
+          <l n="v83">Paa det Prat. ‒ Hør, sig mig, Ven,</l>
+          <l n="v84">Kommer snart han hid igjen?</l>
+          <l n="v85">Naar skal Festen her begynde?</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v86">Assistenten:</l>
+          <l n="v87">Festen? ‒ Jo, saa Klokken fem.</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v88">Kapteinen:</l>
+          <l n="v89">Skal til den Tid han naa hjem,</l>
+          <l n="v90">Faar han sig minsandten skynde.</l>
+          <l n="v91">Har I Juletræet færdigt?</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v92">Assistenten:</l>
+          <l n="v93">Fruen sørger nok for det.</l>
+          <l n="v94">Tro mig, det blir hende værdigt,</l>
+          <l n="v95">Høit og smukt og hvidt af Sne ‒</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v96">Kapteinen:</l>
+          <l n="v97">Sne?</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v98">Assistenten:</l>
+          <l n="v99">‒ af Vat naturligvis,</l>
+          <l n="v100">Og med Lys i hundredvis,</l>
+          <l n="v101">Mellem Sneen alslags Glitter,</l>
+          <l n="v102">Guld og Sølv og andet Flitter,</l>
+          <l n="v103">Der gjør glimrende Effect.</l>
+          <l n="v104">Fruen gaar nok ei reject</l>
+          <l n="v105">Her ved denne Juleprøve.</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v106">(Præstekonen kommer ind fra Kirken, hilser paa den sidstankomne</l>
+          <l n="v107">Kaptein.)</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v108">Præstekonen: (til Assistenten)</l>
+          <l n="v109">Kom nu ‒ lad os end engang</l>
+          <l n="v110">Julenummeret indøve.</l>
+          <l n="v111">Det er dog en deilig Sang.</l>
+          <l n="v112">Baade Text og Melodi</l>
+          <l n="v113">Bær paa Vinger, løfter Hjertet.</l>
+          <l n="v114">Alt, hvad os har bittert smertet,</l>
+          <l n="v115">Drukner i en Harmoni!</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v116">(Hun gaar ind i Kirken igjen. De andre følger hende. En Stund</l>
+          <l n="v117">efter kommer Præsten og Marius. Orgelmusik og Sang lyder under</l>
+          <l n="v118">det følgende inde sra Kirken, snart dæmpet, saa Ordene neppe kan</l>
+          <l n="v119">høres, snart stærkt og brusende.)</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v120">Præsten:</l>
+          <l n="v121">Atter reddet som af Ilden en Brand ‒</l>
+          <l n="v122">Atter Bevis paa Guds Kjærlighed til dig.</l>
+          <l n="v123">Tro ham dog engang. Tro, at han vil dig</l>
+          <l n="v124">Føre med Fred til det lovede Land.</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v125">Marius:</l>
+          <l n="v126">Ja, jeg kan tro til Nød, at han vil,</l>
+          <l n="v127">At han elsker mig endnu, ‒ men kjære,</l>
+          <l n="v128">Kan han? Kan han faa gjort mig snil?</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v129">Præsten:</l>
+          <l n="v130">Hellig skal du i Kristus være.</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v131">Marius:</l>
+          <l n="v132">Skal? Ja men kan jeg? ‒ De skjønner vist ikke</l>
+          <l n="v133">Ret, hvad jeg mener. Der er i mit Kjød</l>
+          <l n="v134">Slig usigelig Trang til at æde og drikke</l>
+          <l n="v135">Og sluge i mig ved Djævelens Bord,</l>
+          <l n="v136">Og det er at æde og drikke til Død,</l>
+          <l n="v137">Det ved jeg. Det staar jo i Herrens Ord.</l>
+          <l n="v138">Jeg ved det. Men naar saa i Fristelsens Stund</l>
+          <l n="v139">Satan sætter sin Kalk for min Mund</l>
+          <l n="v140">Og siger: drik ‒ det skader dig ikke!</l>
+          <l n="v141">O kjære, hvor kan jeg lade være at drikke! ‒</l>
+          <l n="v142">Jeg er saa svag ‒ jeg har slet ingen Magt.</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v143">Præsten:</l>
+          <l n="v144">Jeg er din Styrke, har Herren sagt.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v145">Marius:</l>
+          <l n="v146">Jeg skjønner det ikke ‒ ak kjære, min Gud,</l>
+          <l n="v147">Gid du vilde hjælpe mig at holde dit Bud!</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v148">Præsten:</l>
+          <l n="v149">Hør, sig mig ‒ er din Synd dig forladt?</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v150">Marius: (nølende)</l>
+          <l n="v151">Ja, jeg tror ‒ jeg haaber ‒</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v152">Præsten:</l>
+          <l n="v153">Nei ikke saa,</l>
+          <l n="v154">Ikke noget famlende: jeg haaber paa,</l>
+          <l n="v155">At Gud skal være mig naadig. At haabe</l>
+          <l n="v156">Paa denne Vis, det er bare at maabe</l>
+          <l n="v157">Og gabe i Veiret ‒ det er ei at tro.</l>
+          <l n="v158">At tro, det er fast paa Guds Ord bero. ‒</l>
+          <l n="v159">At være, det heder, eller ikke at være.</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v160">Marius:</l>
+          <l n="v161">O lær mig – jeg trænger saa saart til at lære!</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v162">Koret inde i Kirken:</l>
+          <l n="v163">Halleluja, Halleluja,</l>
+          <l n="v164">En Frelser er os født.</l>
+          <l n="v165">O skynd dig fort,</l>
+          <l n="v166">Kast Sorgen bort.</l>
+          <l n="v167">Han har for Verden blødt!</l>
+          <l n="v168">Pris Gud! Det større er end stort:</l>
+          <l n="v169">Han har for alle blødt.</l>
+          <l n="v170">Fra Bethlehem til Golgatha</l>
+          <l n="v171">Er Jesu Fodspor rødt.</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v172">Præsten:</l>
+          <l n="v173">Ja det og det alene er Troens stærke Grund.</l>
+          <l n="v174">Ikke vore Følelser. Ikke vore Tanker.</l>
+          <l n="v175">Synden er forladt i den selvsamme Stund,</l>
+          <l n="v176">Du kaster ved Golgatha Anker.</l>
+          <l n="v177">Koret inde i Kirken:</l>
+          <l n="v178">Kom ‒ du, som er bange.</l>
+          <l n="v179">Kom og lyt til Englenes Sange:</l>
+          <l n="v180">Dig ‒ dig er idag en Frelser født!</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v181">Præsten:</l>
+          <l n="v182">Hører du, Ven ‒ dig, dig og atter dig.</l>
+          <l n="v183">Dig hele Englesangen gjælder.</l>
+          <l n="v184">Er Troen end svag, som en Væg, der hælder,</l>
+          <l n="v185">Den svarer dog altid: for mig ‒ for mig!</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v186">Marius:</l>
+          <l n="v187">Herre, hjælp min Vantro! Herre, hjælp mig, jeg tror.</l>
+          <l n="v188">Jeg kommer, milde Frelser, paa dit eget gode Ord.</l>
+        </lg>
+        <lg n="s39" type="stanza">
+          <l n="v189">Koret inde i Kirken:</l>
+          <l n="v190">Evangelium,</l>
+          <l n="v191">Glædens Bud,</l>
+          <l n="v192">Kommet til Jorden fra Himmelen, fra Gud,</l>
+          <l n="v193">Løfter op fra Jorden, bærer til Himmelen,</l>
+          <l n="v194">Stiller dig midt ind i Englevrimmelen!</l>
+          <l n="v195">Store Gudfrygtigheds Gaade:</l>
+          <l n="v196">Af Guds frie Naade</l>
+          <l n="v197">Er en Synder ren,</l>
+          <l n="v198">Blir den Svage stærk;</l>
+          <l n="v199">Borttaget er Forargelsens Sten!</l>
+          <l n="v200">Store Gudfrygtigheds Gaade:</l>
+          <l n="v201">Det er Vorherres Værk!</l>
+        </lg>
+        <lg n="s40" type="stanza">
+          <l n="v202">Marius:</l>
+          <l n="v203">O nu gaar det op for Sjælen,</l>
+          <l n="v204">Hvad jeg ikke skjønte før ‒</l>
+          <l n="v205">Gud tilgive mig min Dvælen ‒</l>
+          <l n="v206">Jesus er min aabne Dør,</l>
+          <l n="v207">Jesus er min Svagheds Styrke,</l>
+          <l n="v208">Og hans Pris er nu mit Yrke.</l>
+        </lg>
+        <lg n="s41" type="stanza">
+          <l n="v209">Koret inde i Kirken:</l>
+          <l n="v210">Pris ske Gud, Halleluja</l>
+          <l n="v211">For Bethlehem og Golgatha!</l>
+          <l n="v212">Ære være Gud i det Høie!</l>
+        </lg>
+        <lg n="s42" type="stanza">
+          <l n="v213">Marius: (braadt vendende sig til Præsten)</l>
+          <l n="v214">Nei, nu maa jeg hjem.</l>
+          <l n="v215">Kjære Pastor, kan ikke De hjælpe mig frem?</l>
+          <l n="v216">Jeg længter saa efter at se dem allesammen!</l>
+        </lg>
+        <lg n="s43" type="stanza">
+          <l n="v217">Præsten:</l>
+          <l n="v218">Jo, men først ind i Kirken til Takkefest for Gud.</l>
+        </lg>
+        <lg n="s44" type="stanza">
+          <l n="v219">Koret i Kirken:</l>
+          <l n="v220">Han være lovet for sit Glædes Bud!</l>
+          <l n="v221">Amen  ja Amen! ‒</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2688">
+        <head>Brev</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">Du kjære gamle Mor!</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v2">Iovermorgen</l>
+          <l n="v3">Jeg reiser herfra med en Vestlandsskude</l>
+          <l n="v4">Og kommer hjem. Saa slukner Sorgen,</l>
+          <l n="v5">Som du har havt for din forlorne Søn,</l>
+          <l n="v6">Der nu i Aar og Dag har tumlet ude.</l>
+          <l n="v7">Saa faar du Svar paa al din stille Bøn.</l>
+          <l n="v8">Hvor jeg har været, og hvad jeg bedrev,</l>
+          <l n="v9">Skal ikke staa i dette Julebrev.</l>
+          <l n="v10">Men naar en Kvæld vi sidder ene sammen,</l>
+          <l n="v11">Skal jeg fortælle dig fra førft til sidst,</l>
+          <l n="v12">Hvad jeg har gjort og lidt, om Synden, Skammen,</l>
+          <l n="v13">Og alt, hvad du forlænge siden burde vidst.</l>
+          <l n="v14">Men dette skal du nu paa Forhaand vide,</l>
+          <l n="v15">At om jeg end har ingen Penge med,</l>
+          <l n="v16">Naar hjem jeg kommer over Nytaarstide,</l>
+          <l n="v17">Saa har jeg det, som bedre er: Guds Fred!</l>
+          <l n="v18">Ja, kjære Mor, mit Hjerte færdigt er</l>
+          <l n="v19">At springe helt i Knas af bare Glæde,</l>
+          <l n="v20">Og ved du hvad? ‒ jeg kunde næsten græde,</l>
+          <l n="v21">Af Fryd ved Tanken om, han har mig kjær,</l>
+          <l n="v22">Han, som jeg rent i disse Aar forglemte,</l>
+          <l n="v23">Mens jeg paa Svinestien bort mig gjemte.</l>
+          <l n="v24">Jeg var et Asen, helt og holdent Skarn ‒</l>
+          <l n="v25">Og nu er jeg et glad, fornøiet Barn.</l>
+          <l n="v26">Han er min Far, og aldrig mere gaar jeg</l>
+          <l n="v27">Fra Faderhuset bort. O Mor, du nok forstaar mig.</l>
+          <l n="v28">Jeg vil med Herrens Hjælp et Liv i Lyset leve,</l>
+          <l n="v29">Og for min Krone flittigt bede, stræve.</l>
+          <l n="v30">Dertil skal du mig hjælpe, kjære Gamle,</l>
+          <l n="v31">For staar jeg rent alene, vil jeg atter ramle! ‒</l>
+          <l n="v32">Igaar var her i Sjømandskirken Fest.</l>
+          <l n="v33">Du skulde se't det Juletræ, vi tændte ‒</l>
+          <l n="v34">Der var vel sikkert hundred Lys, som brændte,</l>
+          <l n="v35">Og Gaver fik vi ‒ ja ‒ men allerbedst</l>
+          <l n="v36">Var Talen, som vor kjære Sjømandspræst</l>
+          <l n="v37">For Juletræet og for Hjemmet holdt.</l>
+          <l n="v38">Nei ‒ det, som endda mere Glæde har mig voldt,</l>
+          <l n="v39">Var dog en Sang, som blev i Kirken sunget.</l>
+          <l n="v40">Det var, som kunde jeg mig ind i Himlen svunget.</l>
+          <l n="v41">Men atter ‒ allerbedst var dog dit Brev.</l>
+          <l n="v42">Aa tusind, tusind Tak, at slig du skrev.</l>
+          <l n="v43">Det ligned dig saa ganske paa en Prik,</l>
+          <l n="v44">At jeg ved Læsningen fik Svamp i Halsen,</l>
+          <l n="v45">Og maatte skynde mig at gaa af Valsen.</l>
+          <l n="v46">Ja hvad der staar etsteds, det holder Stik:</l>
+          <l n="v47">En Mor er Mor og finder ei sin lige</l>
+          <l n="v48">Langs Land og Strand i hele Jorderige.</l>
+          <l n="v49">Men hør nu, Gamle, hvad jeg dig betror ‒</l>
+          <l n="v50">Og jeg fortæller det, fordi du er min Mor ‒</l>
+          <l n="v51">Jeg ‒ ja ‒ ja, nu maa du ikke le:</l>
+          <l n="v52">Jeg elsker Ellen! Saa ‒ nu ved du det!</l>
+          <l n="v53">Du kan ei tro, hvor høit jeg elsker hende.</l>
+          <l n="v54">Det har jeg gjort, fra vi var ganske smaa,</l>
+          <l n="v55">Og det jeg gjør, til Verden skal forgaa.</l>
+          <l n="v56">Men denne Hem'lighed maa ingen kjende.</l>
+          <l n="v57">Se derfor maa du tie som en Mus,</l>
+          <l n="v58">For ellers render jeg igjen fra Hus.</l>
+          <l n="v59">Men hvis du tror, at hun har samme Sind,</l>
+          <l n="v60">Saa jeg kan have Haab om gunstig Vind,</l>
+          <l n="v61">Saa sig ‒ aa nei, sig ingenting, du Mutter,</l>
+          <l n="v62">Det kunde komme for de andre Gutter!</l>
+          <l n="v63">Men hilse hende fra mig kan du dog,</l>
+          <l n="v64">At hun for mig er som en deilig Bog</l>
+          <l n="v65">Med Sang og Digt, med Lys og Liv og Tone ‒</l>
+          <l n="v66">Aa kjære dig, du‒– hun maa bli' min Kone!</l>
+          <l n="v67">Men nu farvel. Mit Brev faar jo ha' Slut.Guds Fred med dig.</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v68">Din egen kjære Gut:</l>
+        </lg>
+      </lg>
+      <lg type="poem" xml:id="p2689">
+        <head>Aa du verden</head>
+        <lg n="s1" type="stanza">
+          <l n="v1">(I Randenæshavn. Maren er beskjæftiget ved Skorstenen. Marius</l>
+          <l n="v2">i Skjorteærmene, med Stastrøien hængende mellem Hænderne).</l>
+        </lg>
+        <lg n="s2" type="stanza">
+          <l n="v3">Maren:</l>
+          <l n="v4">Hvad blir det saa med dig? Gaar du eller ei?</l>
+          <l n="v5">Jeg ved, hun venter dig nede ved Stranden.</l>
+          <l n="v6">Jeg saa hende selv. Hun gik akkurat den Vei ‒</l>
+          <l n="v7">Og det er længe siden, en Time eller halvanden.</l>
+          <l n="v8">Tror du kanske, hun er skabt som en Sæl,</l>
+          <l n="v9">Eller vil vente dernede, til hun fryser ihjæl?</l>
+        </lg>
+        <lg n="s3" type="stanza">
+          <l n="v10">Marius:</l>
+          <l n="v11">Nei men ‒</l>
+        </lg>
+        <lg n="s4" type="stanza">
+          <l n="v12">Maren:</l>
+          <l n="v13">Du er da et Udyr af en Frosk.</l>
+          <l n="v14">Lige for Næsen din hænger en Pære,</l>
+          <l n="v15">Som gjerne vil spises, men du lader den være.</l>
+        </lg>
+        <lg n="s5" type="stanza">
+          <l n="v16">Marius:</l>
+          <l n="v17">Ja men ‒</l>
+        </lg>
+        <lg n="s6" type="stanza">
+          <l n="v18">Maren:</l>
+          <l n="v19">Nei men og ja men ‒ det vil sige paa Norsk:</l>
+          <l n="v20">Gutten min er en ubodelig Torsk. ‒</l>
+          <l n="v21">Her har jeg sat paa Gryden til Kvælden.</l>
+          <l n="v22">Førend den koger, maa du ha' snakket med Ellen.</l>
+        </lg>
+        <lg n="s7" type="stanza">
+          <l n="v23">Marius:</l>
+          <l n="v24">Hør Mor, jeg venter heller til imorgen.</l>
+        </lg>
+        <lg n="s8" type="stanza">
+          <l n="v25">Maren: (ser paa ham)</l>
+          <l n="v26">Gjør du? ‒ ja ja ‒ saa gaar jeg ned til Stranden</l>
+          <l n="v27">Og siger til Ellen, du er gaaet fra Forstanden,</l>
+          <l n="v28">At hun maa ta' det med Ro ‒ der er altid en anden,</l>
+          <l n="v29">Som vil trøste Barnet i denne Sorgen.</l>
+          <l n="v30">Abraham Fidjene, siger de, har</l>
+          <l n="v31">Længe gaaet og ventet paa Svar.</l>
+          <l n="v32">Han har Skibspart og Gaard og er snil tillige.</l>
+          <l n="v33">Jeg skal tale med hende, stakkars Pige ‒</l>
+          <l n="v34">(tager paa sig et Torklæde)</l>
+          <l n="v35">Pas du saa Gryden saalænge ‒</l>
+        </lg>
+        <lg n="s9" type="stanza">
+          <l n="v36">Marius:</l>
+          <l n="v37">Nei Mor,</l>
+          <l n="v38">Haan ikke den, som er uden Ror.</l>
+          <l n="v39">Du maa ikke snakke saa skrækkelig stygt.</l>
+          <l n="v40">Jeg skal sige dig noget, jeg er ikke bange,</l>
+          <l n="v41">Om Stormen synger sine vildeste Sange,</l>
+          <l n="v42">Ja, om Havet staar i Kog, jeg kjender ikke Frygt.</l>
+          <l n="v43">Men dette her ‒ det, at skulle gaa og si' ‒</l>
+          <l n="v44">Ja ‒ kortsagt ‒ det, at skulle gaa og fri,</l>
+          <l n="v45">Det er værre end værst, ‒ det er</l>
+        </lg>
+        <lg n="s10" type="stanza">
+          <l n="v46">Maren:</l>
+          <l n="v47">Gaar du saa?</l>
+        </lg>
+        <lg n="s11" type="stanza">
+          <l n="v48">Marius:</l>
+          <l n="v49">Du gi'r mig nu vel Tid, saa jeg kan samle mig paa,</l>
+          <l n="v50">Hvad jeg heder, hvad jeg mener, hvad det er, jeg vil.</l>
+        </lg>
+        <lg n="s12" type="stanza">
+          <l n="v51">Maren:</l>
+          <l n="v52">Jeg tror skinbarligen, Gutten er tullet.</l>
+        </lg>
+        <lg n="s13" type="stanza">
+          <l n="v53">Marius:</l>
+          <l n="v54">Ja nei om det er langt fra, du gjør mig skrullet.</l>
+          <l n="v55">Kjære min Mor, vær nu rimelig og snil.</l>
+          <l n="v56">Du har ikke Vet paa dette du, ser du.</l>
+          <l n="v57">Det var Far, som fri'de til dig ‒ ja du ler, du.</l>
+          <l n="v58">Er det ikke sandt kanske?</l>
+        </lg>
+        <lg n="s14" type="stanza">
+          <l n="v59">Maren:</l>
+          <l n="v60">Nei om det var.</l>
+          <l n="v61">Det var jeg, som talte først til din Far.</l>
+          <l n="v62">Nu ved du det. Og jeg sagde lige ud:</l>
+          <l n="v63">Vil du være Brudgom, skal jeg være Brud?</l>
+          <l n="v64">For nei, om vi ellers var kommet sammen</l>
+          <l n="v65">Og havde Hørt nogen Klokkers Amen.</l>
+          <l n="v66">Men Ellen stakkar, hun er nu en Jente ‒</l>
+          <l n="v67">Du kan ikke Mandsmod hos hende vente.</l>
+          <l n="v68">Mandsmod! Aa Snak. Det er gamle Skrøner.</l>
+          <l n="v69">Nu faar Hønen være Hane, for Hanerne er Høner.</l>
+        </lg>
+        <lg n="s15" type="stanza">
+          <l n="v70">Marius: (trækker paa sig Trøien)</l>
+          <l n="v71">Farvel da.</l>
+        </lg>
+        <lg n="s16" type="stanza">
+          <l n="v72">Maren:</l>
+          <l n="v73">Gaar du?</l>
+        </lg>
+        <lg n="s17" type="stanza">
+          <l n="v74">Marius:</l>
+          <l n="v75">Javist gaar jeg, ja.</l>
+        </lg>
+        <lg n="s18" type="stanza">
+          <l n="v76">Maren:</l>
+          <l n="v77">Lykke paa Reisen.</l>
+        </lg>
+        <lg n="s19" type="stanza">
+          <l n="v78">Marius.</l>
+          <l n="v79">Mange Tak skal du ha'.</l>
+        </lg>
+        <lg n="s20" type="stanza">
+          <l n="v80">(Nede ved Stranden. Ellen og Marius Haand i Haand).</l>
+        </lg>
+        <lg n="s21" type="stanza">
+          <l n="v81">Ellen:</l>
+          <l n="v82">Aa du Verden!</l>
+        </lg>
+        <lg n="s22" type="stanza">
+          <l n="v83">Marius;</l>
+          <l n="v84">Hvad er du, du mener?</l>
+        </lg>
+        <lg n="s23" type="stanza">
+          <l n="v85">Ellen:</l>
+          <l n="v86">Aa du Verden, hvor jeg elsker dig.</l>
+        </lg>
+        <lg n="s24" type="stanza">
+          <l n="v87">Marius:</l>
+          <l n="v88">Det er mer end jeg fortjener.</l>
+        </lg>
+        <lg n="s25" type="stanza">
+          <l n="v89">Ellen: (leende)</l>
+          <l n="v90">Ja Kjærligheden, ved du, er rent uden Villie.</l>
+        </lg>
+        <lg n="s26" type="stanza">
+          <l n="v91">Marius:</l>
+          <l n="v92">Tak for Komplimenten, men ‒ du er da en Lilje.</l>
+        </lg>
+        <lg n="s27" type="stanza">
+          <l n="v93">Ellen:</l>
+          <l n="v94">Tænk, at du kom nu!</l>
+        </lg>
+        <lg n="s28" type="stanza">
+          <l n="v95">Marius:</l>
+          <l n="v96">Vented du paa mig?</l>
+        </lg>
+        <lg n="s29" type="stanza">
+          <l n="v97">Ellen:</l>
+          <l n="v98">Jeg kiged og kiged, om ikke jeg saa dig,</l>
+          <l n="v99">Og da du saa kom, saa vilde jeg gjemt mig.</l>
+        </lg>
+        <lg n="s30" type="stanza">
+          <l n="v100">Marius:</l>
+          <l n="v101">Jeg var ogsaa ræd.</l>
+        </lg>
+        <lg n="s31" type="stanza">
+          <l n="v102">Ellen:</l>
+          <l n="v103">Men kjære vakre vene!</l>
+        </lg>
+        <lg n="s32" type="stanza">
+          <l n="v104">Marius:</l>
+          <l n="v105">Jeg var ræd for at tale ‒ ræd, du havde glemt mig.</l>
+        </lg>
+        <lg n="s33" type="stanza">
+          <l n="v106">Ellen:</l>
+          <l n="v107">Glemt dig! ‒ tænk, glemt dig! Du, den eneste ene!</l>
+          <l n="v108">Glemt dig! Der gik aldrig, nei aldrig en Dag,</l>
+          <l n="v109">Uden at du var med i mine Tanker,</l>
+          <l n="v110">I mine Bønner, i mit Hjertes urolige Slag,</l>
+          <l n="v111">Og om Natten i mine Drømmes forviklede Ranker.</l>
+          <l n="v112">Glemt dig! Aa du Verden ‒ aa du store, store Verden!</l>
+          <l n="v113">Jeg fulgte dig jo, Vennen min, overalt paa din Færden,</l>
+          <l n="v114">Var hos dig bestandig ‒ baade aarle og silde ‒</l>
+        </lg>
+        <lg n="s34" type="stanza">
+          <l n="v115">Marius:</l>
+          <l n="v116">Ja saa skjønner jeg nok, at du vidste, hvad jeg vilde,</l>
+          <l n="v117">Da jeg gik saa forsagt herned for at møde dig.</l>
+        </lg>
+        <lg n="s35" type="stanza">
+          <l n="v118">Ellen:</l>
+          <l n="v119">Og du tænkte i dit Hjerte, at jeg vilde forstøde dig?</l>
+        </lg>
+        <lg n="s36" type="stanza">
+          <l n="v120">Marius:</l>
+          <l n="v121">Men saa hjalp du mig i Kniben, for du græd og du lo –</l>
+        </lg>
+        <lg n="s37" type="stanza">
+          <l n="v122">Ellen:</l>
+          <l n="v123">Akkurat det samme gjør nu vi begge to! ‒</l>
+          <l n="v124">Hvor Verden dog er rar du  ja minsandten det er den ‒</l>
+        </lg>
+        <lg n="s38" type="stanza">
+          <l n="v125">Marius:</l>
+          <l n="v126">Aa du Verden, du Verden ‒ aa du store, store Verden!</l>
+        </lg>
+      </lg>
+    </body>
+  </text>
+</TEI>
