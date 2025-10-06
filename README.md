@@ -1,6 +1,6 @@
 # NORN Poems
 
-The NORN Poems corpus consists of 3163 Norwegian poems from 75 books published in the 1890s, and can be found here as plain txt-files, TEI XML-files as well as with phonemic transcriptions for East and West Norwegian dialectal pronunciations.
+The NORN Poems corpus consists of 3117 Norwegian poems from 74 books published in the 1890s, and can be found here as plain txt-files, TEI XML-files as well as with phonemic transcriptions for East and West Norwegian dialectal pronunciations.
 
 ## Citation
 
@@ -28,6 +28,6 @@ pages = {1259--1271},
 }
 ```
 
-## Note 2025-09-30
+## Note 2025-10-06
 
-The paper states that the corpus consists of 3440 poems from 81 books, but these numbers have been reduced due to stricter licences on the original source publications and stricter filtering criteria on the source of publication. The publications which are no longer in the public domain have been taken out, as well as publications that are purely Danish rather than Norwegian (with a Danish author, published in a Danish city).
+The paper states that the corpus consists of 3440 poems from 81 books, but these numbers have been reduced due to stricter licences on the original source publications and stricter filtering criteria on the place of publication. The publications which are no longer in the public domain have been taken out, as well as publications that are Danish rather than Norwegian (with a Danish author or published in a Danish city).
