@@ -162,3 +162,8 @@ cython_debug/
 #.idea/
 
 transcriptions/*norsk/
+
+# Book under embargo until it falls into the public domain (2027)
+txt/2009040303003
+transcriptions/**/*_2009040303003.json
+TEI/2009040303003.xml
