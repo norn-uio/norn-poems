@@ -18,16 +18,16 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="poems">51</measure>
-        <measure unit="lines">1071</measure>
-        <measure unit="tokens">5406</measure>
+        <measure unit="poems">50</measure>
+        <measure unit="lines">1050</measure>
+        <measure unit="tokens">5341</measure>
       </extent>
       <publicationStmt>
         <publisher ref="#NORN">NORN Poems</publisher>
         <availability status="free">
           <p>The text is in the public domain, and freely available to copy, modify and distribute.</p>
         </availability>
-        <date when="2025">2025-09-16</date>
+        <date when="2025">2025-10-06</date>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="no-nb_digibok_2013070308031">
@@ -40,7 +40,7 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-      <change when="2025-09-16" who="#ILD">Official TEI version</change>
+      <change when="2025-10-06" who="#ILD">Official TEI version</change>
       <change when="2024-12-05" who="#ILD">Initial TEI version</change>
     </revisionDesc>
   </teiHeader>
@@ -75,37 +75,6 @@
           <l n="v18">i strid og tidt under uveir og slud,</l>
           <l n="v19">hvor trangt der var og lavt under taget.</l>
           <l n="v20">Husk det, naar du ser et forkrøblet skud!</l>
-        </lg>
-      </lg>
-      <lg type="poem" xml:id="p574">
-        <head>Fremskrift – frihed</head>
-        <lg n="s1" type="stanza">
-          <l n="v1">Tremskridt  frihed.</l>
-          <l n="v2">i v7</l>
-          <l n="v3">aa fremskridtets vei,</l>
-          <l n="v4">den jevneste vei, –</l>
-          <l n="v5">den ligeste, nogen kan træde;</l>
-          <l n="v6">den retteste vei</l>
-          <l n="v7">for dig og for mig –</l>
-          <l n="v8">veien til lys og til glæde;</l>
-        </lg>
-        <lg n="s2" type="stanza">
-          <l n="v9">I fremtidens tog</l>
-        </lg>
-        <lg n="s3" type="stanza">
-          <l n="v10">til frined og fred,</l>
-        </lg>
-        <lg n="s4" type="stanza">
-          <l n="v11">til livslykkens fælles rige,</l>
-        </lg>
-        <lg n="s5" type="stanza">
-          <l n="v12">der maa vi med</l>
-        </lg>
-        <lg n="s6" type="stanza">
-          <l n="v13">i sluttede led,</l>
-        </lg>
-        <lg n="s7" type="stanza">
-          <l n="v14">og ingen maa trætnes og svige!</l>
         </lg>
       </lg>
       <lg type="poem" xml:id="p574">
