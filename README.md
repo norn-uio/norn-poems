@@ -35,6 +35,6 @@ pages = {1259--1271},
 
 ## License 
 
-<a href="https://github.com/norn-uio/norn-poems">NORN Poems</a> © 2025 by Ranveig Kvinnsland and Ingerid Løyning Dale is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
+<a href="https://github.com/norn-uio/norn-poems">NORN Poems</a> © 2025 by Ranveig Kvinnsland and Ingerid Løyning Dale is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. 
 
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: .3em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: .3em;max-height:.5em;margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
