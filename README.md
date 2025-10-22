@@ -2,9 +2,14 @@
 
 The NORN Poems corpus consists of 3117 Norwegian poems from 74 books published in the 1890s, and can be found here as plain txt-files, TEI XML-files as well as with phonemic transcriptions for East and West Norwegian dialectal pronunciations.
 
+>### Note (2025-10-06)
+>
+>Our paper states that the corpus consists of 3440 poems from 81 books, but these numbers have been reduced due to stricter licences on the original source publications and stricter filtering criteria on the place of publication.
+>The publications which are no longer in the public domain have been taken out, as well as publications that are Danish rather than Norwegian (with a Danish author or published in a Danish city).
+
 ## Citation
 
-The corpus was developed for a literary studies project [Norwegian romantic nationalisms (NORN)](https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/index.html) and was presented at the computational humanities research (CHR) conference in Aarhus in 2024.
+The corpus was developed for a literary studies project [Norwegian romantic nationalisms (NORN)](https://www.hf.uio.no/iln/english/research/projects/norn-norwegian-romantic-nationalisms/index.html) and was presented at the computational humanities research (CHR) conference in Aarhus in 2024. The project is funded by the ERC.
 
 If you want to use the corpus, or read more about it, please refer to our paper:
 
@@ -28,6 +33,8 @@ pages = {1259--1271},
 }
 ```
 
-## Note 2025-10-06
+## License 
 
-The paper states that the corpus consists of 3440 poems from 81 books, but these numbers have been reduced due to stricter licences on the original source publications and stricter filtering criteria on the place of publication. The publications which are no longer in the public domain have been taken out, as well as publications that are Danish rather than Norwegian (with a Danish author or published in a Danish city).
+<a href="https://github.com/norn-uio/norn-poems">NORN Poems</a> © 2025 by Ranveig Kvinnsland and Ingerid Løyning Dale is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
+
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: .3em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: .3em;max-height:.5em;margin-left: .2em;">
